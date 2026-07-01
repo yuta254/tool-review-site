@@ -1,0 +1,15 @@
+---
+const nav = [
+  { href: '/', label: 'ホーム' },
+  { href: '/about/', label: 'サイトについて' },
+  { href: '/contact/', label: 'お問い合わせ' },
+];
+---
+<header class="site-header">
+  <div class="container">
+    <a class="brand" href="/">AI Tool Lab</a>
+    <nav class="site-nav">
+      {nav.map((item) => <a href={item.href}>{item.label}</a>)}
+    </nav>
+  </div>
+</header>

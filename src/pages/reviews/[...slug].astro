@@ -1,0 +1,34 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import AffiliateDisclosure from '../../components/AffiliateDisclosure.astro';
+import AdSlot from '../../components/AdSlot.astro';
+
+export async function getStaticPaths() {
+  const reviews = await getCollection('reviews');
+  return reviews.map((review) => ({
+    params: { slug: review.id },
+    props: { review },
+  }));
+}
+
+const { review } = Astro.props;
+const { Content } = await render(review);
+---
+<BaseLayout title={review.data.title} description={review.data.description}>
+  <p class="meta">
+    <span class="tag">{review.data.category}</span>
+    {review.data.pubDate.toLocaleDateString('ja-JP')}
+  </p>
+  <h1>{review.data.title}</h1>
+
+  {review.data.affiliateDisclosure && <AffiliateDisclosure />}
+
+  <article>
+    <Content />
+  </article>
+
+  <AdSlot label="記事下広告" />
+
+  <p><a href="/">&larr; 一覧に戻る</a></p>
+</BaseLayout>

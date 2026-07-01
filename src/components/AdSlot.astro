@@ -1,0 +1,9 @@
+---
+// AdSenseの審査通過後、ここに実際の広告タグ(<ins class="adsbygoogle">...)を差し込む。
+// 現時点ではプレースホルダーのみ表示。
+interface Props {
+  label?: string;
+}
+const { label = '広告' } = Astro.props;
+---
+<div class="ad-slot" data-ad-placeholder="true">{label}枠(AdSense審査通過後に設置)</div>

@@ -1,0 +1,28 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import AdSlot from '../components/AdSlot.astro';
+
+const reviews = (await getCollection('reviews')).sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+---
+<BaseLayout title="AI Tool Lab" description="AIツール・ソフトウェアの実践レビューと比較サイト">
+  <h1>AI Tool Lab</h1>
+  <p>実際に使ってみた視点で、AIツール・ソフトウェアを比較レビューしています。</p>
+
+  <AdSlot label="トップページ広告" />
+
+  <div class="card-list">
+    {reviews.map((review) => (
+      <article class="card">
+        <p class="meta">
+          <span class="tag">{review.data.category}</span>
+          {review.data.pubDate.toLocaleDateString('ja-JP')}
+        </p>
+        <h2><a href={`/reviews/${review.id}/`}>{review.data.title}</a></h2>
+        <p>{review.data.description}</p>
+      </article>
+    ))}
+  </div>
+</BaseLayout>

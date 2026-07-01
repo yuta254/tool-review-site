@@ -1,0 +1,127 @@
+:root {
+  --color-bg: #ffffff;
+  --color-text: #1a1a1a;
+  --color-muted: #666666;
+  --color-accent: #2563eb;
+  --color-border: #e5e7eb;
+  --max-width: 760px;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: -apple-system, "Segoe UI", "Hiragino Kaku Gothic ProN", "Yu Gothic", sans-serif;
+  color: var(--color-text);
+  background: var(--color-bg);
+  line-height: 1.75;
+}
+
+a { color: var(--color-accent); }
+
+.container {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 1.25rem;
+}
+
+header.site-header {
+  border-bottom: 1px solid var(--color-border);
+  padding: 1.25rem 0;
+}
+
+header.site-header .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header.site-header a.brand {
+  font-weight: 700;
+  font-size: 1.15rem;
+  text-decoration: none;
+  color: var(--color-text);
+}
+
+nav.site-nav a {
+  margin-left: 1rem;
+  text-decoration: none;
+  color: var(--color-text);
+  font-size: 0.95rem;
+}
+
+main { padding: 2rem 0 3rem; }
+
+footer.site-footer {
+  border-top: 1px solid var(--color-border);
+  padding: 2rem 0;
+  color: var(--color-muted);
+  font-size: 0.85rem;
+}
+
+.card-list { display: grid; gap: 1.25rem; }
+
+.card {
+  border: 1px solid var(--color-border);
+  border-radius: 10px;
+  padding: 1.25rem 1.5rem;
+}
+
+.card h2 { margin-top: 0; }
+
+.card .meta { color: var(--color-muted); font-size: 0.85rem; }
+
+.tag {
+  display: inline-block;
+  background: #f1f5f9;
+  color: #334155;
+  border-radius: 999px;
+  padding: 0.15rem 0.6rem;
+  font-size: 0.75rem;
+  margin-right: 0.4rem;
+}
+
+.disclosure {
+  background: #fffbeb;
+  border: 1px solid #fde68a;
+  border-radius: 8px;
+  padding: 0.75rem 1rem;
+  font-size: 0.85rem;
+  color: #92400e;
+  margin: 1.5rem 0;
+}
+
+.affiliate-box {
+  border: 1px solid var(--color-border);
+  border-radius: 10px;
+  padding: 1.25rem;
+  margin: 1.5rem 0;
+  background: #f8fafc;
+}
+
+.affiliate-box a.cta {
+  display: inline-block;
+  margin-top: 0.5rem;
+  background: var(--color-accent);
+  color: #fff;
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.ad-slot {
+  border: 1px dashed var(--color-border);
+  border-radius: 8px;
+  padding: 1rem;
+  text-align: center;
+  color: var(--color-muted);
+  font-size: 0.8rem;
+  margin: 1.5rem 0;
+}
+
+article img { max-width: 100%; }
+
+table { width: 100%; border-collapse: collapse; margin: 1.5rem 0; }
+th, td { border: 1px solid var(--color-border); padding: 0.5rem 0.75rem; text-align: left; }
+th { background: #f8fafc; }
