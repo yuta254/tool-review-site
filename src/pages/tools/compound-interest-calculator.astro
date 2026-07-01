@@ -1,0 +1,65 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import AdSlot from '../../components/AdSlot.astro';
+---
+<BaseLayout title="積立・複利計算ツール" description="毎月の積立額・利回り・期間から将来の資産額を試算する無料ツール">
+  <h1>積立・複利計算ツール</h1>
+  <p>毎月の積立額・想定利回り・積立期間から、将来の資産額を試算します。</p>
+
+  <p class="disclosure">
+    ※この計算はあくまで概算のシミュレーションであり、将来の運用成果を保証するものではありません。投資判断は自己責任で行い、必要に応じて専門家にご相談ください。
+  </p>
+
+  <AdSlot label="ツール上部広告" />
+
+  <div class="card">
+    <label>毎月の積立額(円): <input type="number" id="monthly" value="30000" style="padding:0.4rem; width:150px;" /></label><br /><br />
+    <label>想定年利回り(%): <input type="number" id="rate" value="5" step="0.1" style="padding:0.4rem; width:100px;" /></label><br /><br />
+    <label>積立期間(年): <input type="number" id="years" value="20" style="padding:0.4rem; width:100px;" /></label>
+  </div>
+
+  <div class="card" style="margin-top:1rem;">
+    <p>元本合計: <strong id="principal">-</strong> 円</p>
+    <p>将来の資産額(概算): <strong id="total">-</strong> 円</p>
+    <p>運用による増加分: <strong id="gain">-</strong> 円</p>
+  </div>
+
+  <AdSlot label="ツール下部広告" />
+
+  <script>
+    const monthlyInput = document.getElementById('monthly') as HTMLInputElement;
+    const rateInput = document.getElementById('rate') as HTMLInputElement;
+    const yearsInput = document.getElementById('years') as HTMLInputElement;
+    const principalEl = document.getElementById('principal')!;
+    const totalEl = document.getElementById('total')!;
+    const gainEl = document.getElementById('gain')!;
+
+    function calc() {
+      const monthly = parseFloat(monthlyInput.value);
+      const annualRate = parseFloat(rateInput.value) / 100;
+      const years = parseFloat(yearsInput.value);
+      if (isNaN(monthly) || isNaN(annualRate) || isNaN(years) || monthly < 0 || years <= 0) {
+        principalEl.textContent = '-';
+        totalEl.textContent = '-';
+        gainEl.textContent = '-';
+        return;
+      }
+      const months = years * 12;
+      const monthlyRate = annualRate / 12;
+      let total = 0;
+      if (monthlyRate === 0) {
+        total = monthly * months;
+      } else {
+        total = monthly * ((Math.pow(1 + monthlyRate, months) - 1) / monthlyRate);
+      }
+      const principal = monthly * months;
+      const gain = total - principal;
+
+      principalEl.textContent = Math.round(principal).toLocaleString();
+      totalEl.textContent = Math.round(total).toLocaleString();
+      gainEl.textContent = Math.round(gain).toLocaleString();
+    }
+    [monthlyInput, rateInput, yearsInput].forEach((el) => el.addEventListener('input', calc));
+    calc();
+  </script>
+</BaseLayout>
