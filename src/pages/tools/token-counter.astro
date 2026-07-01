@@ -1,0 +1,58 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import AdSlot from '../../components/AdSlot.astro';
+---
+<BaseLayout title="AIトークン数カウンター(概算)" description="ChatGPT・Claude等のAIモデルに入力するテキストのトークン数を概算する無料ツール">
+  <h1>AIトークン数カウンター(概算)</h1>
+  <p>
+    ChatGPTやClaudeなどのAIモデルは、文字数ではなく「トークン数」で処理量や料金を計算します。
+    このツールは文字の種類から<strong>おおよそのトークン数を概算</strong>します。
+  </p>
+
+  <p class="disclosure">
+    ※このツールはあくまで概算です。正確なトークン数はモデルやAPI提供元の公式トークナイザーで確認してください。
+    日本語は英語よりも1文字あたりのトークン消費が多い傾向があります。
+  </p>
+
+  <AdSlot label="ツール上部広告" />
+
+  <textarea id="input" rows="10" style="width:100%; padding:0.75rem; font-size:1rem; border:1px solid #e5e7eb; border-radius:8px;" placeholder="ここにテキストを貼り付けてください"></textarea>
+
+  <div class="card" style="margin-top:1rem; display:flex; gap:2rem; flex-wrap:wrap;">
+    <div><strong id="charCount">0</strong><div class="meta">文字数</div></div>
+    <div><strong id="tokenEstimate">0</strong><div class="meta">概算トークン数</div></div>
+    <div><strong id="jaRatio">0%</strong><div class="meta">日本語文字の割合</div></div>
+  </div>
+
+  <AdSlot label="ツール下部広告" />
+
+  <p class="meta">
+    概算ロジック: 日本語(ひらがな・カタカナ・漢字)は1文字あたり約0.75トークン、それ以外の文字は4文字あたり約1トークンとして計算しています。
+  </p>
+
+  <script>
+    const input = document.getElementById('input') as HTMLTextAreaElement;
+    const charCount = document.getElementById('charCount')!;
+    const tokenEstimate = document.getElementById('tokenEstimate')!;
+    const jaRatio = document.getElementById('jaRatio')!;
+
+    const JA_PATTERN = /[぀-ヿ一-龯々〆〤]/;
+
+    function update() {
+      const text = input.value;
+      const total = text.length;
+      let jaChars = 0;
+      for (const ch of text) {
+        if (JA_PATTERN.test(ch)) jaChars++;
+      }
+      const otherChars = total - jaChars;
+      const estimate = Math.ceil(jaChars * 0.75 + otherChars / 4);
+
+      charCount.textContent = String(total);
+      tokenEstimate.textContent = String(estimate);
+      jaRatio.textContent = total === 0 ? '0%' : Math.round((jaChars / total) * 100) + '%';
+    }
+    input.addEventListener('input', update);
+    update();
+  </script>
+</BaseLayout>
