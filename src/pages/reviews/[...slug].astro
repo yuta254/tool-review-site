@@ -8,12 +8,18 @@ export async function getStaticPaths() {
   const reviews = await getCollection('reviews');
   return reviews.map((review) => ({
     params: { slug: review.id },
-    props: { review },
+    props: { review, allReviews: reviews },
   }));
 }
 
-const { review } = Astro.props;
+const { review, allReviews } = Astro.props;
 const { Content } = await render(review);
+
+const others = allReviews.filter((r) => r.id !== review.id);
+const sameCategory = others.filter((r) => r.data.category === review.data.category);
+const rest = others.filter((r) => r.data.category !== review.data.category)
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+const related = [...sameCategory, ...rest].slice(0, 3);
 ---
 <BaseLayout title={review.data.title} description={review.data.description}>
   <p class="meta">
@@ -29,6 +35,21 @@ const { Content } = await render(review);
   </article>
 
   <AdSlot label="記事下広告" />
+
+  {related.length > 0 && (
+    <section>
+      <h2>関連記事</h2>
+      <div class="card-list">
+        {related.map((r) => (
+          <article class="card">
+            <p class="meta"><span class="tag">{r.data.category}</span></p>
+            <h3><a href={`/reviews/${r.id}/`}>{r.data.title}</a></h3>
+            <p>{r.data.description}</p>
+          </article>
+        ))}
+      </div>
+    </section>
+  )}
 
   <p><a href="/">&larr; 一覧に戻る</a></p>
 </BaseLayout>
