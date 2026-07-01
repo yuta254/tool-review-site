@@ -1,0 +1,55 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import AdSlot from '../../components/AdSlot.astro';
+---
+<BaseLayout title="BMI計算機" description="身長と体重からBMIと標準体重の目安を計算する無料ツール">
+  <h1>BMI計算機</h1>
+  <p>身長と体重を入力すると、BMIと標準体重の目安をすぐに計算します。</p>
+
+  <AdSlot label="ツール上部広告" />
+
+  <div class="card">
+    <label>身長 (cm): <input type="number" id="height" value="170" style="padding:0.4rem;" /></label><br /><br />
+    <label>体重 (kg): <input type="number" id="weight" value="60" style="padding:0.4rem;" /></label>
+  </div>
+
+  <div class="card" style="margin-top:1rem;">
+    <p>BMI: <strong id="bmi">-</strong></p>
+    <p>判定: <strong id="judge">-</strong></p>
+    <p>標準体重の目安(BMI22): <strong id="standard">-</strong> kg</p>
+  </div>
+
+  <AdSlot label="ツール下部広告" />
+
+  <p class="meta">※この計算結果は目安であり、医学的な診断ではありません。健康上の判断は医師にご相談ください。</p>
+
+  <script>
+    const heightInput = document.getElementById('height') as HTMLInputElement;
+    const weightInput = document.getElementById('weight') as HTMLInputElement;
+    const bmiEl = document.getElementById('bmi')!;
+    const judgeEl = document.getElementById('judge')!;
+    const standardEl = document.getElementById('standard')!;
+
+    function calc() {
+      const h = parseFloat(heightInput.value) / 100;
+      const w = parseFloat(weightInput.value);
+      if (!h || !w || h <= 0 || w <= 0) {
+        bmiEl.textContent = '-';
+        judgeEl.textContent = '-';
+        standardEl.textContent = '-';
+        return;
+      }
+      const bmi = w / (h * h);
+      bmiEl.textContent = bmi.toFixed(1);
+      let judge = '普通体重';
+      if (bmi < 18.5) judge = '低体重(やせ型)';
+      else if (bmi >= 25 && bmi < 30) judge = '肥満(1度)';
+      else if (bmi >= 30) judge = '肥満(2度以上)';
+      judgeEl.textContent = judge;
+      standardEl.textContent = (22 * h * h).toFixed(1);
+    }
+    heightInput.addEventListener('input', calc);
+    weightInput.addEventListener('input', calc);
+    calc();
+  </script>
+</BaseLayout>

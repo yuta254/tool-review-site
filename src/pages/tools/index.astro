@@ -1,0 +1,27 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import AdSlot from '../../components/AdSlot.astro';
+
+const tools = [
+  { href: '/tools/character-counter/', title: '文字数カウンター', desc: 'ブログ・SNS投稿の文字数、単語数を即座にカウントします。' },
+  { href: '/tools/password-generator/', title: 'パスワード生成ツール', desc: '安全でランダムなパスワードをその場で生成します。' },
+  { href: '/tools/bmi-calculator/', title: 'BMI計算機', desc: '身長・体重からBMIと標準体重の目安を計算します。' },
+  { href: '/tools/unit-converter/', title: '単位変換ツール', desc: '長さ・重さ・温度の単位をかんたん変換します。' },
+  { href: '/tools/prompt-builder/', title: 'AIプロンプト作成ツール', desc: '目的・トーン・形式を選ぶだけで、ChatGPT等に使えるプロンプトを組み立てます。' },
+];
+---
+<BaseLayout title="無料ツール一覧" description="ブラウザだけで使える無料の実用ツール集">
+  <h1>無料ツール</h1>
+  <p>登録不要・インストール不要、ブラウザだけで使える実用ツールです。</p>
+
+  <AdSlot label="ツール一覧ページ広告" />
+
+  <div class="card-list">
+    {tools.map((tool) => (
+      <article class="card">
+        <h2><a href={tool.href}>{tool.title}</a></h2>
+        <p>{tool.desc}</p>
+      </article>
+    ))}
+  </div>
+</BaseLayout>

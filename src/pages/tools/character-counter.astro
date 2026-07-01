@@ -1,0 +1,39 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import AdSlot from '../../components/AdSlot.astro';
+---
+<BaseLayout title="文字数カウンター" description="ブログ・SNS投稿の文字数、単語数を即座にカウントする無料ツール">
+  <h1>文字数カウンター</h1>
+  <p>入力した文章の文字数・単語数・行数をリアルタイムで表示します。</p>
+
+  <AdSlot label="ツール上部広告" />
+
+  <textarea id="input" rows="10" style="width:100%; padding:0.75rem; font-size:1rem; border:1px solid #e5e7eb; border-radius:8px;" placeholder="ここに文章を入力してください"></textarea>
+
+  <div class="card" style="margin-top:1rem; display:flex; gap:2rem; flex-wrap:wrap;">
+    <div><strong id="charCount">0</strong><div class="meta">文字数(スペース含む)</div></div>
+    <div><strong id="charCountNoSpace">0</strong><div class="meta">文字数(スペース除く)</div></div>
+    <div><strong id="lineCount">0</strong><div class="meta">行数</div></div>
+    <div><strong id="wordCount">0</strong><div class="meta">単語数(半角スペース区切り)</div></div>
+  </div>
+
+  <AdSlot label="ツール下部広告" />
+
+  <script>
+    const input = document.getElementById('input') as HTMLTextAreaElement;
+    const charCount = document.getElementById('charCount')!;
+    const charCountNoSpace = document.getElementById('charCountNoSpace')!;
+    const lineCount = document.getElementById('lineCount')!;
+    const wordCount = document.getElementById('wordCount')!;
+
+    function update() {
+      const text = input.value;
+      charCount.textContent = String(text.length);
+      charCountNoSpace.textContent = String(text.replace(/\s/g, '').length);
+      lineCount.textContent = String(text === '' ? 0 : text.split('\n').length);
+      wordCount.textContent = String(text.trim() === '' ? 0 : text.trim().split(/\s+/).length);
+    }
+    input.addEventListener('input', update);
+    update();
+  </script>
+</BaseLayout>

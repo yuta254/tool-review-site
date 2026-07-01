@@ -1,0 +1,75 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import AdSlot from '../../components/AdSlot.astro';
+---
+<BaseLayout title="AIプロンプト作成ツール" description="目的・トーン・形式を選ぶだけでChatGPT等に使えるプロンプトを組み立てる無料ツール">
+  <h1>AIプロンプト作成ツール</h1>
+  <p>やりたいこと・トーン・出力形式を選ぶだけで、そのままコピーして使えるプロンプトを組み立てます。</p>
+
+  <AdSlot label="ツール上部広告" />
+
+  <div class="card">
+    <label>やりたいこと:
+      <select id="task" style="padding:0.4rem; width:100%;">
+        <option value="以下の文章を要約してください">文章を要約する</option>
+        <option value="以下の文章を分かりやすく書き直してください">文章を分かりやすくする</option>
+        <option value="以下のテーマについてアイデアを出してください">アイデアを出す</option>
+        <option value="以下のメール文面を整えてください">メールを整える</option>
+        <option value="以下のコードをレビューしてください">コードをレビューする</option>
+      </select>
+    </label>
+    <br /><br />
+    <label>トーン:
+      <select id="tone" style="padding:0.4rem; width:100%;">
+        <option value="丁寧でフォーマルな">丁寧・フォーマル</option>
+        <option value="親しみやすくカジュアルな">カジュアル</option>
+        <option value="簡潔で要点を絞った">簡潔</option>
+      </select>
+    </label>
+    <br /><br />
+    <label>出力形式:
+      <select id="format" style="padding:0.4rem; width:100%;">
+        <option value="箇条書き形式で">箇条書き</option>
+        <option value="段落形式の文章で">文章形式</option>
+        <option value="表形式で">表形式</option>
+      </select>
+    </label>
+    <br /><br />
+    <label>対象テキスト:<br />
+      <textarea id="content" rows="5" style="width:100%; padding:0.5rem;" placeholder="ここに元の文章を貼り付け"></textarea>
+    </label>
+  </div>
+
+  <div class="card" style="margin-top:1rem;">
+    <p><strong>生成されたプロンプト:</strong></p>
+    <textarea id="output" rows="6" readonly style="width:100%; padding:0.5rem; font-family:monospace;"></textarea>
+    <button id="copy" style="margin-top:0.5rem; padding:0.5rem 1rem;">コピー</button>
+  </div>
+
+  <div class="affiliate-box">
+    <p>もっと多くのプロンプトパターンが欲しい方へ</p>
+    <p>ライティング・リサーチ・マーケティングなど7ジャンル100個のプロンプトをまとめた「生成AI活用プロンプト集」を販売しています。</p>
+  </div>
+
+  <AdSlot label="ツール下部広告" />
+
+  <script>
+    const task = document.getElementById('task') as HTMLSelectElement;
+    const tone = document.getElementById('tone') as HTMLSelectElement;
+    const format = document.getElementById('format') as HTMLSelectElement;
+    const content = document.getElementById('content') as HTMLTextAreaElement;
+    const output = document.getElementById('output') as HTMLTextAreaElement;
+    const copyBtn = document.getElementById('copy')!;
+
+    function build() {
+      const text = content.value.trim() || '[ここに文章を貼り付けてください]';
+      output.value = `${task.value}。${tone.value}トーンで、${format.value}出力してください。\n\n${text}`;
+    }
+    [task, tone, format, content].forEach((el) => el.addEventListener('input', build));
+    copyBtn.addEventListener('click', () => {
+      output.select();
+      navigator.clipboard.writeText(output.value);
+    });
+    build();
+  </script>
+</BaseLayout>

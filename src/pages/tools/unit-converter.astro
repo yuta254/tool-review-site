@@ -1,0 +1,100 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import AdSlot from '../../components/AdSlot.astro';
+---
+<BaseLayout title="単位変換ツール" description="長さ・重さ・温度の単位をかんたん変換する無料ツール">
+  <h1>単位変換ツール</h1>
+  <p>長さ・重さ・温度の単位をその場で変換します。</p>
+
+  <AdSlot label="ツール上部広告" />
+
+  <div class="card">
+    <label>種類:
+      <select id="category" style="padding:0.4rem;">
+        <option value="length">長さ</option>
+        <option value="weight">重さ</option>
+        <option value="temperature">温度</option>
+      </select>
+    </label>
+    <br /><br />
+    <input type="number" id="value" value="1" style="padding:0.4rem; width:120px;" />
+    <select id="from" style="padding:0.4rem;"></select>
+    →
+    <select id="to" style="padding:0.4rem;"></select>
+  </div>
+
+  <div class="card" style="margin-top:1rem;">
+    <p>結果: <strong id="result">-</strong></p>
+  </div>
+
+  <AdSlot label="ツール下部広告" />
+
+  <script>
+    const UNITS = {
+      length: {
+        m: 1, km: 1000, cm: 0.01, mm: 0.001,
+        mile: 1609.34, yard: 0.9144, feet: 0.3048, inch: 0.0254,
+      },
+      weight: {
+        kg: 1, g: 0.001, t: 1000, lb: 0.453592, oz: 0.0283495,
+      },
+    };
+
+    const category = document.getElementById('category') as HTMLSelectElement;
+    const fromSel = document.getElementById('from') as HTMLSelectElement;
+    const toSel = document.getElementById('to') as HTMLSelectElement;
+    const valueInput = document.getElementById('value') as HTMLInputElement;
+    const resultEl = document.getElementById('result')!;
+
+    function populateUnits() {
+      const cat = category.value;
+      fromSel.innerHTML = '';
+      toSel.innerHTML = '';
+      if (cat === 'temperature') {
+        ['celsius', 'fahrenheit', 'kelvin'].forEach((u) => {
+          fromSel.innerHTML += `<option value="${u}">${u}</option>`;
+          toSel.innerHTML += `<option value="${u}">${u}</option>`;
+        });
+        toSel.selectedIndex = 1;
+      } else {
+        const units = Object.keys(UNITS[cat as 'length' | 'weight']);
+        units.forEach((u) => {
+          fromSel.innerHTML += `<option value="${u}">${u}</option>`;
+          toSel.innerHTML += `<option value="${u}">${u}</option>`;
+        });
+        toSel.selectedIndex = 1;
+      }
+      convert();
+    }
+
+    function toCelsius(v: number, unit: string) {
+      if (unit === 'celsius') return v;
+      if (unit === 'fahrenheit') return (v - 32) * 5 / 9;
+      return v - 273.15;
+    }
+    function fromCelsius(v: number, unit: string) {
+      if (unit === 'celsius') return v;
+      if (unit === 'fahrenheit') return v * 9 / 5 + 32;
+      return v + 273.15;
+    }
+
+    function convert() {
+      const cat = category.value;
+      const v = parseFloat(valueInput.value);
+      if (isNaN(v)) { resultEl.textContent = '-'; return; }
+
+      if (cat === 'temperature') {
+        const c = toCelsius(v, fromSel.value);
+        resultEl.textContent = fromCelsius(c, toSel.value).toFixed(2);
+      } else {
+        const units = UNITS[cat as 'length' | 'weight'];
+        const base = v * units[fromSel.value as keyof typeof units];
+        resultEl.textContent = (base / units[toSel.value as keyof typeof units]).toFixed(6).replace(/\.?0+$/, '');
+      }
+    }
+
+    category.addEventListener('change', populateUnits);
+    [fromSel, toSel, valueInput].forEach((el) => el.addEventListener('input', convert));
+    populateUnits();
+  </script>
+</BaseLayout>
