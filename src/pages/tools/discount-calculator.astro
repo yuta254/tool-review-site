@@ -1,0 +1,47 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import AdSlot from '../../components/AdSlot.astro';
+---
+<BaseLayout title="割引・消費税計算ツール" description="割引後の価格や税込価格をその場で計算する無料ツール">
+  <h1>割引・消費税計算ツール</h1>
+  <p>元の価格・割引率・消費税率を入力すると、割引後価格と税込価格を計算します。</p>
+
+  <AdSlot label="ツール上部広告" />
+
+  <div class="card">
+    <label>元の価格(円): <input type="number" id="price" value="1000" style="padding:0.4rem;" /></label><br /><br />
+    <label>割引率(%): <input type="number" id="discount" value="20" style="padding:0.4rem;" /></label><br /><br />
+    <label>消費税率(%): <input type="number" id="tax" value="10" style="padding:0.4rem;" /></label>
+  </div>
+
+  <div class="card" style="margin-top:1rem;">
+    <p>割引後価格(税抜): <strong id="afterDiscount">-</strong> 円</p>
+    <p>割引後価格(税込): <strong id="afterTax">-</strong> 円</p>
+    <p>割引額: <strong id="discountAmount">-</strong> 円</p>
+  </div>
+
+  <AdSlot label="ツール下部広告" />
+
+  <script>
+    const price = document.getElementById('price') as HTMLInputElement;
+    const discount = document.getElementById('discount') as HTMLInputElement;
+    const tax = document.getElementById('tax') as HTMLInputElement;
+    const afterDiscount = document.getElementById('afterDiscount')!;
+    const afterTax = document.getElementById('afterTax')!;
+    const discountAmount = document.getElementById('discountAmount')!;
+
+    function calc() {
+      const p = parseFloat(price.value);
+      const d = parseFloat(discount.value);
+      const t = parseFloat(tax.value);
+      if (isNaN(p) || isNaN(d) || isNaN(t)) return;
+      const discounted = p * (1 - d / 100);
+      const withTax = discounted * (1 + t / 100);
+      afterDiscount.textContent = Math.round(discounted).toLocaleString();
+      afterTax.textContent = Math.round(withTax).toLocaleString();
+      discountAmount.textContent = Math.round(p - discounted).toLocaleString();
+    }
+    [price, discount, tax].forEach((el) => el.addEventListener('input', calc));
+    calc();
+  </script>
+</BaseLayout>

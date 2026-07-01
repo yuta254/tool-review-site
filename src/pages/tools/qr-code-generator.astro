@@ -1,0 +1,47 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import AdSlot from '../../components/AdSlot.astro';
+---
+<BaseLayout title="QRコード生成ツール" description="URLやテキストからQRコードをその場で生成する無料ツール">
+  <h1>QRコード生成ツール</h1>
+  <p>URLやテキストを入力するだけで、その場でQRコードを生成・ダウンロードできます。</p>
+
+  <AdSlot label="ツール上部広告" />
+
+  <div class="card">
+    <input type="text" id="text" placeholder="https://example.com" style="width:100%; padding:0.5rem; font-size:1rem;" value="https://tool-review-site.vercel.app" />
+  </div>
+
+  <div class="card" style="margin-top:1rem; text-align:center;">
+    <div id="qrcode" style="display:inline-block;"></div>
+    <br />
+    <button id="download" style="margin-top:0.75rem; padding:0.5rem 1rem;">PNGでダウンロード</button>
+  </div>
+
+  <AdSlot label="ツール下部広告" />
+
+  <script is:inline src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+  <script is:inline>
+    var textInput = document.getElementById('text');
+    var container = document.getElementById('qrcode');
+    var downloadBtn = document.getElementById('download');
+    var qr = new QRCode(container, { text: textInput.value, width: 240, height: 240 });
+
+    function render() {
+      var value = textInput.value.trim() || ' ';
+      container.innerHTML = '';
+      qr = new QRCode(container, { text: value, width: 240, height: 240 });
+    }
+    textInput.addEventListener('input', render);
+    downloadBtn.addEventListener('click', () => {
+      var img = container.querySelector('img');
+      var canvas = container.querySelector('canvas');
+      var dataUrl = canvas ? canvas.toDataURL('image/png') : (img ? img.src : null);
+      if (!dataUrl) return;
+      var link = document.createElement('a');
+      link.download = 'qrcode.png';
+      link.href = dataUrl;
+      link.click();
+    });
+  </script>
+</BaseLayout>
