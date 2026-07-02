@@ -1,6 +1,6 @@
 ---
 title: "Bolt.newレビュー：ブラウザだけでフルスタックアプリを一気に形にするAIビルダー"
-description: "StackBlitzのBolt.newを、バックエンドまで含むフルスタックアプリをブラウザ完結で素早く作れるかという観点でレビューします。"
+description: "StackBlitzのBolt.newで、フルスタックアプリをブラウザ完結で素早く作れるかを検証します。"
 pubDate: 2026-07-06
 category: "UI生成AI"
 tags: ["Bolt.new", "StackBlitz", "AIアプリ開発", "ノーコード", "Web開発"]

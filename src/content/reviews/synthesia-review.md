@@ -1,6 +1,6 @@
 ---
 title: "Synthesiaレビュー：法人研修・社内教育に強いAIアバター動画ツール"
-description: "SynthesiaはAIアバターが読み上げる研修動画・多言語ナレーション動画を作れるツール。法人利用の強みと注意点を整理。"
+description: "Synthesiaは研修動画・多言語ナレーションを作れるAIアバター動画ツール。法人利用の強みと注意点を整理。"
 pubDate: 2026-07-06
 category: "AIアバター動画"
 tags: ["Synthesia", "AIアバター", "動画生成AI", "研修動画", "多言語対応"]

@@ -1,6 +1,6 @@
 ---
 title: "Napkin AI レビュー：文章を一瞬で図解に変えるAIツールの実力"
-description: "Napkin AIは文章から図解・インフォグラフィックを自動生成するAIツール。得意分野と限界を実際の使用感からレビュー。"
+description: "Napkin AIは文章から図解・インフォグラフィックを自動生成するAIツール。得意分野と限界をレビュー。"
 pubDate: 2026-07-05
 category: "資料作成AI"
 tags: ["Napkin AI", "図解生成", "インフォグラフィック", "資料作成", "AIツール"]

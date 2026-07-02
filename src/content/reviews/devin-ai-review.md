@@ -1,6 +1,6 @@
 ---
 title: "Devin AIレビュー：自律型AIソフトウェアエンジニアは実務で使えるか"
-description: "要件を渡すだけで計画・実装・デバッグまで自律的に行うDevin AIの実力と、任せきりにできない理由を実践的に解説します。"
+description: "要件を渡すだけで実装・デバッグまで自律的に行うDevin AIの実力と、任せきりにできない理由を解説します。"
 pubDate: 2026-07-06
 category: "AIエージェント"
 tags: ["Devin", "Cognition", "AIエンジニア", "自律型AI", "開発ツール"]

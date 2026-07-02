@@ -1,6 +1,6 @@
 ---
 title: "Reclaim.aiレビュー：既存のGoogleカレンダーに後付けする自動スケジューリングAI"
-description: "GoogleカレンダーにAIで自動スケジューリングを追加するReclaim.aiを、空き時間分析と習慣化機能を軸にレビュー。"
+description: "Googleカレンダーに後付けできるAI自動スケジューリングツール、Reclaim.aiの強みと注意点をレビュー。"
 pubDate: 2026-07-06
 category: "タスク管理AI"
 tags: ["Reclaim.ai", "AIカレンダー", "スケジュール自動化", "タスク管理AI"]
