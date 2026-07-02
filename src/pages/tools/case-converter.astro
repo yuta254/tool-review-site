@@ -1,0 +1,138 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import AdSlot from '../../components/AdSlot.astro';
+
+const formats = [
+  { id: 'upper', label: 'UPPERCASE' },
+  { id: 'lower', label: 'lowercase' },
+  { id: 'title', label: 'Title Case' },
+  { id: 'camel', label: 'camelCase' },
+  { id: 'snake', label: 'snake_case' },
+  { id: 'kebab', label: 'kebab-case' },
+  { id: 'pascal', label: 'PascalCase' },
+];
+---
+<BaseLayout title="文字ケース変換ツール" description="入力したテキストを大文字・小文字・キャメルケース・スネークケースなど様々な文字ケースに一括変換する無料ツール">
+  <h1>文字ケース変換ツール</h1>
+  <p>入力したテキストを、用途に応じた様々な形式(大文字・小文字・キャメルケース・スネークケースなど)に一括変換します。</p>
+
+  <AdSlot label="ツール上部広告" />
+
+  <textarea id="input" rows="6" style="width:100%; padding:0.75rem; font-size:1rem; border:1px solid #e5e7eb; border-radius:8px;" placeholder="Hello World Sample Text"></textarea>
+
+  <div class="card" style="margin-top:1rem; display:flex; flex-direction:column; gap:0.75rem;">
+    {formats.map((f) => (
+      <div style="display:flex; align-items:center; gap:1rem; flex-wrap:wrap;">
+        <span style="min-width:110px; font-weight:bold;">{f.label}</span>
+        <span id={`out-${f.id}`} style="flex:1; min-width:200px; word-break:break-all; background:#f9fafb; border:1px solid #e5e7eb; border-radius:8px; padding:0.5rem 0.75rem;"></span>
+        <button id={`copy-${f.id}`} type="button" data-target={`out-${f.id}`} style="padding:0.5rem 1rem; border:1px solid #e5e7eb; border-radius:8px; background:#fff; cursor:pointer;">コピー</button>
+      </div>
+    ))}
+  </div>
+
+  <AdSlot label="ツール下部広告" />
+
+  <script>
+    const input = document.getElementById('input') as HTMLTextAreaElement;
+
+    const outUpper = document.getElementById('out-upper')!;
+    const outLower = document.getElementById('out-lower')!;
+    const outTitle = document.getElementById('out-title')!;
+    const outCamel = document.getElementById('out-camel')!;
+    const outSnake = document.getElementById('out-snake')!;
+    const outKebab = document.getElementById('out-kebab')!;
+    const outPascal = document.getElementById('out-pascal')!;
+
+    function splitWords(text: string): string[] {
+      return text
+        .trim()
+        // キャメルケース/パスカルケースの境界(小文字→大文字、連続大文字→大文字+小文字)にスペースを挿入
+        .replace(/([a-z0-9])([A-Z])/g, '$1 $2')
+        .replace(/([A-Z]+)([A-Z][a-z])/g, '$1 $2')
+        // スペース・ハイフン・アンダースコアを区切りとして統一
+        .split(/[\s\-_]+/)
+        .filter((w) => w.length > 0);
+    }
+
+    function toUpper(words: string[]): string {
+      return words.join(' ').toUpperCase();
+    }
+    function toLower(words: string[]): string {
+      return words.join(' ').toLowerCase();
+    }
+    function toTitle(words: string[]): string {
+      return words
+        .map((w) => w.charAt(0).toUpperCase() + w.slice(1).toLowerCase())
+        .join(' ');
+    }
+    function toCamel(words: string[]): string {
+      return words
+        .map((w, i) =>
+          i === 0
+            ? w.toLowerCase()
+            : w.charAt(0).toUpperCase() + w.slice(1).toLowerCase()
+        )
+        .join('');
+    }
+    function toSnake(words: string[]): string {
+      return words.map((w) => w.toLowerCase()).join('_');
+    }
+    function toKebab(words: string[]): string {
+      return words.map((w) => w.toLowerCase()).join('-');
+    }
+    function toPascal(words: string[]): string {
+      return words
+        .map((w) => w.charAt(0).toUpperCase() + w.slice(1).toLowerCase())
+        .join('');
+    }
+
+    function update() {
+      const text = input.value;
+      if (text.trim() === '') {
+        outUpper.textContent = '';
+        outLower.textContent = '';
+        outTitle.textContent = '';
+        outCamel.textContent = '';
+        outSnake.textContent = '';
+        outKebab.textContent = '';
+        outPascal.textContent = '';
+        return;
+      }
+      const words = splitWords(text);
+      outUpper.textContent = toUpper(words);
+      outLower.textContent = toLower(words);
+      outTitle.textContent = toTitle(words);
+      outCamel.textContent = toCamel(words);
+      outSnake.textContent = toSnake(words);
+      outKebab.textContent = toKebab(words);
+      outPascal.textContent = toPascal(words);
+    }
+
+    input.addEventListener('input', update);
+    update();
+
+    const copyButtons = document.querySelectorAll<HTMLButtonElement>('button[data-target]');
+    copyButtons.forEach((btn) => {
+      btn.addEventListener('click', async () => {
+        const targetId = btn.dataset.target;
+        if (!targetId) return;
+        const target = document.getElementById(targetId);
+        const text = target?.textContent ?? '';
+        if (!text) return;
+        try {
+          await navigator.clipboard.writeText(text);
+          const original = btn.textContent;
+          btn.textContent = 'コピーしました';
+          setTimeout(() => {
+            btn.textContent = original;
+          }, 1500);
+        } catch (e) {
+          btn.textContent = 'コピーに失敗しました';
+          setTimeout(() => {
+            btn.textContent = 'コピー';
+          }, 1500);
+        }
+      });
+    });
+  </script>
+</BaseLayout>
