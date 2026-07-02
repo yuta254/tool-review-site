@@ -1,0 +1,78 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import AdSlot from '../../components/AdSlot.astro';
+---
+<BaseLayout title="JSON整形・検証ツール" description="崩れたJSONやミニファイされたJSONを見やすく整形し、構文エラーがあれば分かりやすく表示する無料ツール">
+  <h1>JSON整形・検証ツール</h1>
+  <p>入力したJSONテキストをインデント付きで見やすく整形します。崩れたJSONやミニファイされたJSONも、構文エラーがあればその内容を分かりやすく表示します。</p>
+
+  <AdSlot label="ツール上部広告" />
+
+  <textarea id="input" rows="12" style="width:100%; padding:0.75rem; font-size:1rem; border:1px solid #e5e7eb; border-radius:8px; font-family:monospace;" placeholder='{"name":"AI Tool Lab","tags":["ai","tools"]}'></textarea>
+
+  <div class="card" style="margin-top:1rem; display:flex; align-items:center; gap:1.5rem; flex-wrap:wrap;">
+    <label for="indent">インデント幅</label>
+    <select id="indent" style="padding:0.5rem; border:1px solid #e5e7eb; border-radius:8px;">
+      <option value="2" selected>2スペース</option>
+      <option value="4">4スペース</option>
+    </select>
+    <button id="copyBtn" type="button" style="padding:0.5rem 1rem; border:1px solid #e5e7eb; border-radius:8px; background:#fff; cursor:pointer;">コピー</button>
+  </div>
+
+  <p id="error" style="display:none; color:#dc2626; font-weight:bold; margin-top:1rem; white-space:pre-wrap;"></p>
+
+  <pre style="margin-top:1rem; min-height:200px; background:#f9fafb; border:1px solid #e5e7eb; border-radius:8px; padding:0.75rem; width:100%; box-sizing:border-box; overflow:auto;"><code id="output"></code></pre>
+
+  <AdSlot label="ツール下部広告" />
+
+  <script>
+    const input = document.getElementById('input') as HTMLTextAreaElement;
+    const indent = document.getElementById('indent') as HTMLSelectElement;
+    const output = document.getElementById('output')!;
+    const error = document.getElementById('error')!;
+    const copyBtn = document.getElementById('copyBtn') as HTMLButtonElement;
+
+    function update() {
+      const text = input.value;
+      if (text.trim() === '') {
+        output.textContent = '';
+        error.style.display = 'none';
+        error.textContent = '';
+        return;
+      }
+      try {
+        const parsed = JSON.parse(text);
+        const indentWidth = Number(indent.value);
+        output.textContent = JSON.stringify(parsed, null, indentWidth);
+        error.style.display = 'none';
+        error.textContent = '';
+      } catch (e) {
+        output.textContent = '';
+        error.textContent = e instanceof Error ? e.message : String(e);
+        error.style.display = 'block';
+      }
+    }
+
+    input.addEventListener('input', update);
+    indent.addEventListener('change', update);
+
+    copyBtn.addEventListener('click', async () => {
+      if (!output.textContent) return;
+      try {
+        await navigator.clipboard.writeText(output.textContent);
+        const original = copyBtn.textContent;
+        copyBtn.textContent = 'コピーしました';
+        setTimeout(() => {
+          copyBtn.textContent = original;
+        }, 1500);
+      } catch (e) {
+        copyBtn.textContent = 'コピーに失敗しました';
+        setTimeout(() => {
+          copyBtn.textContent = 'コピー';
+        }, 1500);
+      }
+    });
+
+    update();
+  </script>
+</BaseLayout>

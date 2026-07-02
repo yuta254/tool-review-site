@@ -1,0 +1,90 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import AdSlot from '../../components/AdSlot.astro';
+---
+<BaseLayout title="AI API料金計算ツール(概算)" description="ChatGPT・Claude・Gemini等の生成AI APIの利用料金を、入力トークン数・出力トークン数・呼び出し回数から概算する無料ツール">
+  <h1>AI API料金計算ツール(概算)</h1>
+  <p>
+    ChatGPT・Claude・Gemini等の生成AI APIを開発で利用する際、入力トークン数・出力トークン数・呼び出し回数から
+    <strong>想定される利用料金を概算</strong>します。
+  </p>
+
+  <p class="disclosure">
+    ※表示される料金は目安であり、各サービスの公式最新料金とは異なる場合があります。実際の料金は必ず各社の公式サイトでご確認ください。
+  </p>
+
+  <AdSlot label="ツール上部広告" />
+
+  <div class="card">
+    <label>
+      モデル選択:
+      <select id="model" style="padding:0.4rem; width:260px;">
+        <option value="2.50,10.00">GPT-4o相当(入力$2.50 / 出力$10.00 目安)</option>
+        <option value="0.15,0.60">GPT-4o mini相当(入力$0.15 / 出力$0.60 目安)</option>
+        <option value="3.00,15.00">Claude Sonnet相当(入力$3.00 / 出力$15.00 目安)</option>
+        <option value="0.80,4.00">Claude Haiku相当(入力$0.80 / 出力$4.00 目安)</option>
+        <option value="1.25,5.00">Gemini 1.5 Pro相当(入力$1.25 / 出力$5.00 目安)</option>
+        <option value="0.075,0.30">Gemini 1.5 Flash相当(入力$0.075 / 出力$0.30 目安)</option>
+      </select>
+    </label><br /><br />
+    <label>1回あたりの入力トークン数: <input type="number" id="inputTokens" value="1000" style="padding:0.4rem; width:150px;" /></label><br /><br />
+    <label>1回あたりの出力トークン数: <input type="number" id="outputTokens" value="500" style="padding:0.4rem; width:150px;" /></label><br /><br />
+    <label>呼び出し回数/月: <input type="number" id="calls" value="1000" style="padding:0.4rem; width:150px;" /></label><br /><br />
+    <label>為替レート(円/USD): <input type="number" id="fxRate" value="155" style="padding:0.4rem; width:120px;" /></label>
+  </div>
+
+  <div class="card" style="margin-top:1rem;">
+    <p>1回あたりのコスト: <strong id="perCallUsd">-</strong> USD(<strong id="perCallJpy">-</strong> 円)</p>
+    <p>月間の合計コスト: <strong id="monthlyUsd">-</strong> USD(<strong id="monthlyJpy">-</strong> 円)</p>
+  </div>
+
+  <AdSlot label="ツール下部広告" />
+
+  <script>
+    const modelSelect = document.getElementById('model') as HTMLSelectElement;
+    const inputTokensInput = document.getElementById('inputTokens') as HTMLInputElement;
+    const outputTokensInput = document.getElementById('outputTokens') as HTMLInputElement;
+    const callsInput = document.getElementById('calls') as HTMLInputElement;
+    const fxRateInput = document.getElementById('fxRate') as HTMLInputElement;
+
+    const perCallUsdEl = document.getElementById('perCallUsd')!;
+    const perCallJpyEl = document.getElementById('perCallJpy')!;
+    const monthlyUsdEl = document.getElementById('monthlyUsd')!;
+    const monthlyJpyEl = document.getElementById('monthlyJpy')!;
+
+    function calc() {
+      const [inputPricePerM, outputPricePerM] = modelSelect.value.split(',').map(Number);
+      const inputTokens = parseFloat(inputTokensInput.value);
+      const outputTokens = parseFloat(outputTokensInput.value);
+      const calls = parseFloat(callsInput.value);
+      const fxRate = parseFloat(fxRateInput.value);
+
+      if (
+        isNaN(inputTokens) || isNaN(outputTokens) || isNaN(calls) || isNaN(fxRate) ||
+        inputTokens < 0 || outputTokens < 0 || calls < 0 || fxRate < 0
+      ) {
+        perCallUsdEl.textContent = '-';
+        perCallJpyEl.textContent = '-';
+        monthlyUsdEl.textContent = '-';
+        monthlyJpyEl.textContent = '-';
+        return;
+      }
+
+      const perCallUsd = (inputTokens / 1_000_000) * inputPricePerM + (outputTokens / 1_000_000) * outputPricePerM;
+      const monthlyUsd = perCallUsd * calls;
+      const perCallJpy = perCallUsd * fxRate;
+      const monthlyJpy = monthlyUsd * fxRate;
+
+      perCallUsdEl.textContent = perCallUsd.toLocaleString(undefined, { minimumFractionDigits: 4, maximumFractionDigits: 4 });
+      perCallJpyEl.textContent = Math.round(perCallJpy).toLocaleString();
+      monthlyUsdEl.textContent = monthlyUsd.toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+      monthlyJpyEl.textContent = Math.round(monthlyJpy).toLocaleString();
+    }
+
+    [modelSelect, inputTokensInput, outputTokensInput, callsInput, fxRateInput].forEach((el) => {
+      el.addEventListener('input', calc);
+      el.addEventListener('change', calc);
+    });
+    calc();
+  </script>
+</BaseLayout>

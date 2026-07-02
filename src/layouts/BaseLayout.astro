@@ -6,9 +6,10 @@ import '../styles/global.css';
 interface Props {
   title: string;
   description?: string;
+  jsonLd?: Record<string, unknown>;
 }
 
-const { title, description = 'AIツール・ソフトウェアの実践レビューと比較サイト' } = Astro.props;
+const { title, description = 'AIツール・ソフトウェアの実践レビューと比較サイト', jsonLd } = Astro.props;
 const pageTitle = title === 'AI Tool Lab' ? title : `${title} | AI Tool Lab`;
 ---
 <!doctype html>
@@ -24,6 +25,12 @@ const pageTitle = title === 'AI Tool Lab' ? title : `${title} | AI Tool Lab`;
     <meta property="og:title" content={pageTitle} />
     <meta property="og:description" content={description} />
     <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="AI Tool Lab" />
+    <meta property="og:locale" content="ja_JP" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content={pageTitle} />
+    <meta name="twitter:description" content={description} />
+    {jsonLd && <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />}
     <script is:inline async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5840604825459691" crossorigin="anonymous"></script>
   </head>
   <body>

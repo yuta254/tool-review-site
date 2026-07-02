@@ -20,8 +20,21 @@ const sameCategory = others.filter((r) => r.data.category === review.data.catego
 const rest = others.filter((r) => r.data.category !== review.data.category)
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 const related = [...sameCategory, ...rest].slice(0, 3);
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: review.data.title,
+  description: review.data.description,
+  datePublished: review.data.pubDate.toISOString(),
+  ...(review.data.updatedDate && { dateModified: review.data.updatedDate.toISOString() }),
+  articleSection: review.data.category,
+  keywords: review.data.tags.join(', '),
+  author: { '@type': 'Organization', name: 'AI Tool Lab' },
+  publisher: { '@type': 'Organization', name: 'AI Tool Lab' },
+};
 ---
-<BaseLayout title={review.data.title} description={review.data.description}>
+<BaseLayout title={review.data.title} description={review.data.description} jsonLd={jsonLd}>
   <p class="meta">
     <span class="tag">{review.data.category}</span>
     {review.data.pubDate.toLocaleDateString('ja-JP')}
