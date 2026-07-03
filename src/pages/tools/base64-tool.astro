@@ -1,0 +1,84 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import AdSlot from '../../components/AdSlot.astro';
+---
+<BaseLayout title="Base64エンコード・デコードツール" description="日本語を含むテキストをBase64形式に変換・復元できる無料ツール">
+  <h1>Base64エンコード・デコードツール</h1>
+  <p>テキストをBase64形式にエンコード、またはBase64文字列を元のテキストにデコードします。日本語などのマルチバイト文字にも対応しています。</p>
+  <p class="meta">※変換処理はすべてブラウザ内で完結します。入力したテキストが外部サーバーに送信されることはありません。</p>
+
+  <AdSlot label="ツール上部広告" />
+
+  <textarea id="input" rows="8" style="width:100%; padding:0.75rem; font-size:1rem; border:1px solid #e5e7eb; border-radius:8px;" placeholder="ここにテキストまたはBase64文字列を入力してください"></textarea>
+
+  <div class="card" style="margin-top:1rem; display:flex; gap:0.75rem; flex-wrap:wrap;">
+    <button id="encodeBtn">エンコード</button>
+    <button id="decodeBtn">デコード</button>
+  </div>
+
+  <div class="card" style="margin-top:1rem;">
+    <p style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:0.5rem;">
+      <strong>結果</strong>
+      <button id="copyBtn">コピー</button>
+    </p>
+    <textarea id="output" rows="8" readonly style="width:100%; padding:0.75rem; font-size:1rem; border:1px solid #e5e7eb; border-radius:8px;" placeholder="ここに結果が表示されます"></textarea>
+    <p class="meta" id="copyStatus"></p>
+  </div>
+
+  <AdSlot label="ツール下部広告" />
+
+  <p class="meta">※デコード時に入力がBase64として正しくない場合は、エラーメッセージが結果欄に表示されます。</p>
+  <p class="meta">※改行や空白を含むBase64文字列を貼り付けても、自動的に取り除いてからデコードを試みます。</p>
+
+  <script>
+    const input = document.getElementById('input') as HTMLTextAreaElement;
+    const output = document.getElementById('output') as HTMLTextAreaElement;
+    const encodeBtn = document.getElementById('encodeBtn')!;
+    const decodeBtn = document.getElementById('decodeBtn')!;
+    const copyBtn = document.getElementById('copyBtn')!;
+    const copyStatus = document.getElementById('copyStatus')!;
+
+    function utf8ToBase64(str: string): string {
+      // UTF-8バイト列に変換してからBase64エンコードする(日本語など多バイト文字対応)
+      return btoa(unescape(encodeURIComponent(str)));
+    }
+
+    function base64ToUtf8(str: string): string {
+      // Base64をデコードしてから、UTF-8バイト列として文字列に復元する
+      return decodeURIComponent(escape(atob(str)));
+    }
+
+    function encode() {
+      try {
+        output.value = utf8ToBase64(input.value);
+        copyStatus.textContent = '';
+      } catch (e) {
+        output.value = 'エンコードに失敗しました。入力内容をご確認ください。';
+      }
+    }
+
+    function decode() {
+      const cleaned = input.value.replace(/\s/g, '');
+      try {
+        output.value = base64ToUtf8(cleaned);
+        copyStatus.textContent = '';
+      } catch (e) {
+        output.value = '有効なBase64文字列ではありません。入力内容をご確認ください。';
+      }
+    }
+
+    async function copy() {
+      if (!output.value) return;
+      try {
+        await navigator.clipboard.writeText(output.value);
+        copyStatus.textContent = 'コピーしました。';
+      } catch (e) {
+        copyStatus.textContent = 'コピーに失敗しました。手動で選択してコピーしてください。';
+      }
+    }
+
+    encodeBtn.addEventListener('click', encode);
+    decodeBtn.addEventListener('click', decode);
+    copyBtn.addEventListener('click', copy);
+  </script>
+</BaseLayout>

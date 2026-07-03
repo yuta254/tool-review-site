@@ -41,3 +41,5 @@ Googleが提供するサービス。Gmail・ドキュメント・スプレッド
 | はじめてAIチャットを使う | ChatGPT Plus |
 | コード・長文資料を扱う仕事 | Claude Pro |
 | Google Workspaceをフル活用中 | Gemini Advanced |
+
+比較検討の際は、無料の[AIトークン数カウンター](/tools/token-counter/)で各モデルに渡す文章のトークン数を確認しつつ、[AI API料金計算ツール](/tools/ai-api-cost-calculator/)でAPI利用時のコストを試算しておくと、実際の使用感だけでなく費用面からも選びやすくなります。
