@@ -1,0 +1,30 @@
+---
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  current: CollectionEntry<'reviews'>;
+  allReviews: CollectionEntry<'reviews'>[];
+}
+
+const { current, allReviews } = Astro.props;
+
+const related = allReviews
+  .filter((r) => r.id !== current.id && r.data.category === current.data.category)
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+  .slice(0, 4);
+---
+
+{related.length > 0 && (
+  <section class="related-reviews">
+    <h2>関連記事</h2>
+    <div class="card-list">
+      {related.map((r) => (
+        <article class="card">
+          <p class="meta"><span class="tag">{r.data.category}</span></p>
+          <h3><a href={`/reviews/${r.id}/`}>{r.data.title}</a></h3>
+          <p>{r.data.description}</p>
+        </article>
+      ))}
+    </div>
+  </section>
+)}

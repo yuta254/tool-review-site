@@ -61,6 +61,14 @@ footer.site-footer {
 
 .card-list { display: grid; gap: 1.25rem; }
 
+.related-reviews {
+  margin-top: 2.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--color-border);
+}
+
+.related-reviews h2 { margin-top: 0; }
+
 .card {
   border: 1px solid var(--color-border);
   border-radius: 10px;

@@ -3,6 +3,7 @@ import { getCollection, render } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import AffiliateDisclosure from '../../components/AffiliateDisclosure.astro';
 import AdSlot from '../../components/AdSlot.astro';
+import RelatedReviews from '../../components/RelatedReviews.astro';
 
 export async function getStaticPaths() {
   const reviews = await getCollection('reviews');
@@ -14,12 +15,6 @@ export async function getStaticPaths() {
 
 const { review, allReviews } = Astro.props;
 const { Content } = await render(review);
-
-const others = allReviews.filter((r) => r.id !== review.id);
-const sameCategory = others.filter((r) => r.data.category === review.data.category);
-const rest = others.filter((r) => r.data.category !== review.data.category)
-  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
-const related = [...sameCategory, ...rest].slice(0, 3);
 
 const jsonLd = {
   '@context': 'https://schema.org',
@@ -49,20 +44,7 @@ const jsonLd = {
 
   <AdSlot label="記事下広告" />
 
-  {related.length > 0 && (
-    <section>
-      <h2>関連記事</h2>
-      <div class="card-list">
-        {related.map((r) => (
-          <article class="card">
-            <p class="meta"><span class="tag">{r.data.category}</span></p>
-            <h3><a href={`/reviews/${r.id}/`}>{r.data.title}</a></h3>
-            <p>{r.data.description}</p>
-          </article>
-        ))}
-      </div>
-    </section>
-  )}
+  <RelatedReviews current={review} allReviews={allReviews} />
 
   <p><a href="/">&larr; 一覧に戻る</a></p>
 </BaseLayout>
