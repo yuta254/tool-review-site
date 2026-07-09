@@ -1,0 +1,204 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import AdSlot from '../../components/AdSlot.astro';
+---
+<BaseLayout title="AI APIコスト管理・予算アラートツール" description="ChatGPT・Claude・Gemini等の生成AI API利用料金を記録し、月間予算に対する使用状況をひと目で確認できる無料ツール">
+  <h1>AI APIコスト管理・予算アラートツール</h1>
+  <p>
+    複数のAI API(ChatGPT・Claude・Gemini等)を使っていると、気づかないうちに月間の利用料金が積み上がりがちです。
+    このツールは、利用のたびに金額を記録し、<strong>設定した月間予算に対する消費状況をひと目で確認</strong>できるようにします。
+    データはお使いのブラウザ内(localStorage)にのみ保存され、外部には送信されません。
+  </p>
+
+  <AdSlot label="ツール上部広告" />
+
+  <div class="card">
+    <label>月間予算(円): <input type="number" id="budget" value="10000" style="padding:0.4rem; width:150px;" /></label>
+  </div>
+
+  <div class="card" style="margin-top:1rem;">
+    <h2 style="margin-top:0;">今月の利用状況</h2>
+    <div style="background:#eee; border-radius:6px; overflow:hidden; height:24px; width:100%;">
+      <div id="budgetBar" style="height:100%; width:0%; background:#3a7bd5; transition:width 0.2s;"></div>
+    </div>
+    <p style="margin-top:0.5rem;">
+      <strong id="monthlyTotal">0</strong>円 / <span id="budgetDisplay">10,000</span>円(<strong id="budgetPercent">0</strong>%)
+    </p>
+    <p id="budgetWarning" style="display:none; color:#c0392b; font-weight:bold;">⚠ 予算に近づいています。利用ペースをご確認ください。</p>
+  </div>
+
+  <div class="card" style="margin-top:1rem;">
+    <h2 style="margin-top:0;">利用記録を追加</h2>
+    <label>日付: <input type="date" id="entryDate" style="padding:0.4rem;" /></label><br /><br />
+    <label>
+      モデル:
+      <select id="entryModel" style="padding:0.4rem; width:260px;">
+        <option value="GPT-4o">GPT-4o相当</option>
+        <option value="GPT-4o mini">GPT-4o mini相当</option>
+        <option value="Claude Sonnet">Claude Sonnet相当</option>
+        <option value="Claude Haiku">Claude Haiku相当</option>
+        <option value="Gemini 1.5 Pro">Gemini 1.5 Pro相当</option>
+        <option value="Gemini 1.5 Flash">Gemini 1.5 Flash相当</option>
+        <option value="その他">その他</option>
+      </select>
+    </label><br /><br />
+    <label>金額(円): <input type="number" id="entryCost" value="0" style="padding:0.4rem; width:150px;" /></label><br /><br />
+    <label>メモ: <input type="text" id="entryNote" style="padding:0.4rem; width:260px;" placeholder="例: 記事生成バッチ処理" /></label><br /><br />
+    <button id="addEntry" class="btn">記録を追加</button>
+  </div>
+
+  <div class="card" style="margin-top:1rem;">
+    <h2 style="margin-top:0;">今月の利用履歴</h2>
+    <table id="entryTable" style="width:100%; border-collapse:collapse;">
+      <thead>
+        <tr>
+          <th style="text-align:left; border-bottom:1px solid #ccc; padding:0.4rem;">日付</th>
+          <th style="text-align:left; border-bottom:1px solid #ccc; padding:0.4rem;">モデル</th>
+          <th style="text-align:right; border-bottom:1px solid #ccc; padding:0.4rem;">金額(円)</th>
+          <th style="text-align:left; border-bottom:1px solid #ccc; padding:0.4rem;">メモ</th>
+          <th style="border-bottom:1px solid #ccc; padding:0.4rem;"></th>
+        </tr>
+      </thead>
+      <tbody id="entryBody"></tbody>
+    </table>
+    <p id="emptyMessage" style="color:#888;">まだ記録がありません。上のフォームから追加してください。</p>
+  </div>
+
+  <AdSlot label="ツール下部広告" />
+
+  <div class="card" style="margin-top:1rem; background:#f5f8ff;">
+    <h2 style="margin-top:0;">プレミアム版のご案内(準備中)</h2>
+    <p>
+      現在無料で使えるのは「ブラウザ内保存・手動記録」までの機能です。今後、以下の機能を有料版(月額980円〜)として提供予定です。
+    </p>
+    <ul>
+      <li>予算の一定割合を超えたら自動でメール/Slack通知</li>
+      <li>複数プロジェクト・複数モデルをまたいだ横断ダッシュボード</li>
+      <li>チームメンバーとの利用状況共有</li>
+      <li>デバイスをまたいだデータの自動同期(現在はブラウザ内保存のみ)</li>
+    </ul>
+    <p>
+      ご興味があれば <a href="mailto:aitoollab367@gmail.com?subject=AI APIコスト管理ツール プレミアム版に興味あり">aitoollab367@gmail.com</a> までご連絡ください。優先的にご案内します。
+    </p>
+  </div>
+
+  <script>
+    interface Entry {
+      id: string;
+      date: string;
+      model: string;
+      cost: number;
+      note: string;
+    }
+
+    const STORAGE_KEY = 'ai-api-cost-tracker-entries';
+    const BUDGET_KEY = 'ai-api-cost-tracker-budget';
+
+    const budgetInput = document.getElementById('budget') as HTMLInputElement;
+    const budgetBar = document.getElementById('budgetBar')!;
+    const monthlyTotalEl = document.getElementById('monthlyTotal')!;
+    const budgetDisplayEl = document.getElementById('budgetDisplay')!;
+    const budgetPercentEl = document.getElementById('budgetPercent')!;
+    const budgetWarningEl = document.getElementById('budgetWarning')!;
+    const entryDateInput = document.getElementById('entryDate') as HTMLInputElement;
+    const entryModelInput = document.getElementById('entryModel') as HTMLSelectElement;
+    const entryCostInput = document.getElementById('entryCost') as HTMLInputElement;
+    const entryNoteInput = document.getElementById('entryNote') as HTMLInputElement;
+    const addEntryBtn = document.getElementById('addEntry')!;
+    const entryBody = document.getElementById('entryBody')!;
+    const emptyMessage = document.getElementById('emptyMessage')!;
+
+    function loadEntries(): Entry[] {
+      try {
+        const raw = localStorage.getItem(STORAGE_KEY);
+        return raw ? JSON.parse(raw) : [];
+      } catch {
+        return [];
+      }
+    }
+
+    function saveEntries(entries: Entry[]) {
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(entries));
+    }
+
+    function currentMonthKey(dateStr: string) {
+      return dateStr.slice(0, 7); // YYYY-MM
+    }
+
+    function render() {
+      const entries = loadEntries();
+      const thisMonth = new Date().toISOString().slice(0, 7);
+      const monthEntries = entries.filter((e) => currentMonthKey(e.date) === thisMonth);
+
+      entryBody.innerHTML = '';
+      if (monthEntries.length === 0) {
+        emptyMessage.style.display = 'block';
+      } else {
+        emptyMessage.style.display = 'none';
+        monthEntries
+          .slice()
+          .sort((a, b) => (a.date < b.date ? 1 : -1))
+          .forEach((e) => {
+            const tr = document.createElement('tr');
+            tr.innerHTML = `
+              <td style="padding:0.4rem; border-bottom:1px solid #eee;">${e.date}</td>
+              <td style="padding:0.4rem; border-bottom:1px solid #eee;">${e.model}</td>
+              <td style="padding:0.4rem; border-bottom:1px solid #eee; text-align:right;">${e.cost.toLocaleString()}</td>
+              <td style="padding:0.4rem; border-bottom:1px solid #eee;">${e.note}</td>
+              <td style="padding:0.4rem; border-bottom:1px solid #eee;"><button data-id="${e.id}" class="deleteBtn" style="color:#c0392b; background:none; border:none; cursor:pointer;">削除</button></td>
+            `;
+            entryBody.appendChild(tr);
+          });
+      }
+
+      const total = monthEntries.reduce((sum, e) => sum + e.cost, 0);
+      const budget = parseFloat(budgetInput.value) || 0;
+      const percent = budget > 0 ? Math.min(100, Math.round((total / budget) * 100)) : 0;
+
+      monthlyTotalEl.textContent = total.toLocaleString();
+      budgetDisplayEl.textContent = budget.toLocaleString();
+      budgetPercentEl.textContent = String(percent);
+      budgetBar.style.width = `${percent}%`;
+      budgetBar.style.background = percent >= 100 ? '#c0392b' : percent >= 80 ? '#e67e22' : '#3a7bd5';
+      budgetWarningEl.style.display = percent >= 80 ? 'block' : 'none';
+
+      entryBody.querySelectorAll('.deleteBtn').forEach((btn) => {
+        btn.addEventListener('click', () => {
+          const id = (btn as HTMLElement).dataset.id;
+          const remaining = loadEntries().filter((e) => e.id !== id);
+          saveEntries(remaining);
+          render();
+        });
+      });
+    }
+
+    budgetInput.addEventListener('input', () => {
+      localStorage.setItem(BUDGET_KEY, budgetInput.value);
+      render();
+    });
+
+    addEntryBtn.addEventListener('click', () => {
+      const date = entryDateInput.value || new Date().toISOString().slice(0, 10);
+      const cost = parseFloat(entryCostInput.value);
+      if (isNaN(cost) || cost < 0) return;
+      const entries = loadEntries();
+      entries.push({
+        id: `${Date.now()}-${Math.random().toString(36).slice(2, 8)}`,
+        date,
+        model: entryModelInput.value,
+        cost,
+        note: entryNoteInput.value,
+      });
+      saveEntries(entries);
+      entryCostInput.value = '0';
+      entryNoteInput.value = '';
+      render();
+    });
+
+    const savedBudget = localStorage.getItem(BUDGET_KEY);
+    if (savedBudget) budgetInput.value = savedBudget;
+    entryDateInput.value = new Date().toISOString().slice(0, 10);
+
+    render();
+  </script>
+</BaseLayout>
