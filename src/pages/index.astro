@@ -4,26 +4,66 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import AdSlot from '../components/AdSlot.astro';
 import { categoryPath } from '../lib/categories';
 
-const reviews = (await getCollection('reviews')).sort(
+const all = (await getCollection('reviews')).sort(
   (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
 );
+
+// 「ガイド」はツール単体のレビューではないので、入口として先に見せる
+const guides = all.filter((r) => r.data.category === 'ガイド');
+const reviews = all.filter((r) => r.data.category !== 'ガイド');
+
+const counts = new Map<string, number>();
+for (const r of reviews) {
+  counts.set(r.data.category, (counts.get(r.data.category) ?? 0) + 1);
+}
+const categories = [...counts.entries()].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0], 'ja'));
 ---
 <BaseLayout title="AI Tool Lab" description="AIツール・ソフトウェアの実践レビューと比較サイト">
   <h1>AI Tool Lab</h1>
-  <p>実際に使ってみた視点で、AIツール・ソフトウェアを比較レビューしています。</p>
+  <p>AIツール・ソフトウェアを、実際の業務フローの中でどう役立つかという視点で比較・レビューしています。現在{all.length}本。</p>
 
   <AdSlot label="トップページ広告" />
 
-  <div class="card-list">
-    {reviews.map((review) => (
-      <article class="card">
-        <p class="meta">
-          <a class="tag" href={categoryPath(review.data.category)}>{review.data.category}</a>
-          {review.data.pubDate.toLocaleDateString('ja-JP')}
-        </p>
-        <h2><a href={`/reviews/${review.id}/`}>{review.data.title}</a></h2>
-        <p>{review.data.description}</p>
-      </article>
-    ))}
-  </div>
+  <section>
+    <h2>カテゴリから探す</h2>
+    <ul class="chip-list">
+      {categories.map(([name, count]) => (
+        <li><a href={categoryPath(name)}>{name}<span class="count">{count}</span></a></li>
+      ))}
+    </ul>
+    <p><a href="/categories/">カテゴリ一覧を見る &rarr;</a></p>
+  </section>
+
+  {guides.length > 0 && (
+    <section>
+      <h2>選ぶ前に読むガイド</h2>
+      <div class="card-list">
+        {guides.map((r) => (
+          <article class="card">
+            <p class="meta">
+              <a class="tag" href={categoryPath(r.data.category)}>{r.data.category}</a>
+            </p>
+            <h3><a href={`/reviews/${r.id}/`}>{r.data.title}</a></h3>
+            <p>{r.data.description}</p>
+          </article>
+        ))}
+      </div>
+    </section>
+  )}
+
+  <section>
+    <h2>レビュー・比較記事</h2>
+    <div class="card-list">
+      {reviews.map((review) => (
+        <article class="card">
+          <p class="meta">
+            <a class="tag" href={categoryPath(review.data.category)}>{review.data.category}</a>
+            {review.data.pubDate.toLocaleDateString('ja-JP')}
+          </p>
+          <h3><a href={`/reviews/${review.id}/`}>{review.data.title}</a></h3>
+          <p>{review.data.description}</p>
+        </article>
+      ))}
+    </div>
+  </section>
 </BaseLayout>
