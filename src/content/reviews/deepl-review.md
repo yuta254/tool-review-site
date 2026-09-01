@@ -37,3 +37,11 @@ DeepLはニューラル機械翻訳を用いた翻訳ツールで、他の翻訳
 3. 訳文が不自然に感じたら、元の日本語を短く区切って入力し直すと精度が上がりやすい
 
 料金プランや対応言語、機能は変更されることがあるため、最新の情報は必ずDeepLの公式サイトで確認してください。
+
+<div class="affiliate-box">
+  <p><strong>PR</strong>｜訳文をそのまま出す前に</p>
+  <p>DeepLの訳文は自然ですが、契約書や対外的な提案書など「間違えられない英文」では、人の目による最終確認が要ります。ネイティブチェックを外注できるサービスとして <a href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+61WO6Q+2KSK+C0QPE" rel="nofollow">363円からのネイティブチェックならアイディービジネス</a> があります。</p>
+  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
+  <a class="cta" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+61WO6Q+2KSK+C0QPE" rel="nofollow">アイディービジネス 公式サイト</a>
+  <img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4BC0UI+61WO6Q+2KSK+C0QPE" alt="">
+</div>

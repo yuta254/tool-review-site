@@ -41,3 +41,11 @@ CapCutは、TikTokを運営するByteDance系列が提供する動画編集ア�
 3. 有料プラン限定のAI機能があるため、必要な機能が無料枠に含まれているか事前に確認してから制作フローを組み立てる
 
 最新の料金プランや対応機能は変更される可能性があるため、利用前に必ず公式サイトで最新情報を確認してください。
+
+<div class="affiliate-box">
+  <p><strong>PR</strong>｜書き出し形式や画面収録で詰まったとき</p>
+  <p>CapCutは編集そのものは軽快ですが、納品先が指定するコーデックへの変換や、素材用の画面録画までは手が届かない場面があります。変換・編集・画面録画をまとめて扱うソフトとして <a href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="nofollow">【VideoProc】</a> があります。</p>
+  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
+  <a class="cta" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="nofollow">VideoProc 公式サイト</a>
+  <img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BC0UI+5I9D82+428G+C0YF6" alt="">
+</div>

@@ -38,3 +38,11 @@ Ideogramは、画像生成AIが長らく苦手としてきた「画像内に読�
 3. ロゴ案として気に入った生成結果が出ても、そのまま商用利用せず商標調査や権利確認を挟む
 
 最新の料金プランや対応機能は変更される可能性があるため、利用前に必ず公式サイトで最新情報を確認してください。
+
+<div class="affiliate-box">
+  <p><strong>PR</strong>｜文字入りロゴを大きく使いたいとき</p>
+  <p>Ideogramで作ったロゴ風デザインを看板やグッズなど大きな面で使う場合、生成時の解像度のままでは輪郭が甘くなることがあります。拡大とノイズ除去に特化した <a href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="nofollow">【Aiarty Image Enhancer】</a> のようなツールを後段に挟む選択肢があります。</p>
+  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
+  <a class="cta" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="nofollow">Aiarty Image Enhancer 公式サイト</a>
+  <img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+EVUWI+428G+HVFKY" alt="">
+</div>

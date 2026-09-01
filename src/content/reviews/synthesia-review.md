@@ -39,3 +39,11 @@ Synthesiaは、テキスト台本からAIアバターが話す動画を生成す
 3. まずは小規模な社内研修動画から試し、更新頻度や視聴者の反応を見ながら多言語展開に広げる
 
 最新の料金プランや対応機能は変更される可能性があるため、利用前に必ず公式サイトで最新情報を確認してください。
+
+<div class="affiliate-box">
+  <p><strong>PR</strong>｜研修動画を配信環境に合わせるとき</p>
+  <p>Synthesiaで作った研修動画をLMSや社内ポータルに載せる際、指定のコーデック・ビットレートへの変換が必要になることがあります。変換・圧縮を扱えるソフトとして <a href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="nofollow">【VideoProc】</a> があります。</p>
+  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
+  <a class="cta" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="nofollow">VideoProc 公式サイト</a>
+  <img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BC0UI+5I9D82+428G+C0YF6" alt="">
+</div>

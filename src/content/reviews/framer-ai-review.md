@@ -37,3 +37,11 @@ Framer AIは、テキストプロンプトからデザイン性の高いWebサ�
 3. 生成後はエディタでフォントサイズやレスポンシブ表示を必ず確認し、モバイル表示の崩れがないかチェックする
 
 最新の料金プランや機能範囲は変更されることがあるため、利用前に必ずFramer公式サイトで最新情報を確認してください。
+
+<div class="affiliate-box">
+  <p><strong>PR</strong>｜独自ドメインと自前サーバーで運用したい場合</p>
+  <p>Framerはホスティングまで含めて完結しますが、独自ドメインで運用したい、将来的に自前のサーバーへ移したい、という要件が出てくることがあります。国内のレンタルサーバーの選択肢として <a href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5Q0036+50+35CAFM" rel="nofollow">お名前.com レンタルサーバー</a> があります。</p>
+  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
+  <a class="cta" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5Q0036+50+35CAFM" rel="nofollow">お名前.com レンタルサーバー</a>
+  <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BC0UI+5Q0036+50+35CAFM" alt="">
+</div>

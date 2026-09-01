@@ -37,3 +37,11 @@ Fireflies.aiは、会議の文字起こしと要約を行うAIノートテイカ
 3. 精度が気になる場合は、要約や文字起こし結果を鵜呑みにせず、重要な決定事項は自分でも確認する習慣をつける
 
 最新の料金プランや対応ツール、機能の詳細は変更される可能性があるため、必ず公式サイトで最新情報を確認してください。
+
+<div class="affiliate-box">
+  <p><strong>PR</strong>｜オンライン会議以外も記録したいとき</p>
+  <p>Firefliesはオンライン会議には強い一方、対面の打ち合わせや外出先での会話は守備範囲外です。録音と文字起こしを端末側で完結させる選択肢として <a href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="nofollow">PLAUD NOTE</a> のようなAIボイスレコーダーがあります。</p>
+  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
+  <a class="cta" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="nofollow">PLAUD NOTE 公式サイト</a>
+  <img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="">
+</div>

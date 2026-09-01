@@ -41,3 +41,11 @@ Leonardo AIは、キャラクターコンセプトやアイテムアイコン、
 3. 商用利用を検討する場合は、生成前にプランごとの利用権利の範囲を確認しておく
 
 最新の料金プランや対応機能は変更される可能性があるため、利用前に必ず公式サイトで最新情報を確認してください。
+
+<div class="affiliate-box">
+  <p><strong>PR</strong>｜アセットを高解像度で書き出したいとき</p>
+  <p>ゲームアセットやコンセプトアートは、後から拡大して使う場面が出てきます。生成後の拡大・ピンボケ補正に特化したツールとして <a href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="nofollow">【Aiarty Image Enhancer】</a> があり、最大32倍のロスレス拡大に対応しています。</p>
+  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
+  <a class="cta" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="nofollow">Aiarty Image Enhancer 公式サイト</a>
+  <img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+EVUWI+428G+HVFKY" alt="">
+</div>

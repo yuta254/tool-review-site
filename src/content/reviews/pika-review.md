@@ -42,3 +42,11 @@ Pikaは、テキストプロンプトや一枚の画像、あるいはその組�
 3. キャラクターの一貫性が重要なカットでは、同じ元画像を使い回すなど工夫して差異を抑える
 
 最新の料金プランや対応機能は変更される可能性があるため、利用前に必ず公式サイトで最新情報を確認してください。
+
+<div class="affiliate-box">
+  <p><strong>PR</strong>｜生成した短尺クリップをつなぐ前工程</p>
+  <p>Pikaの出力は数秒単位のクリップになるため、実際の納品物にするには結合・形式変換・圧縮といった後工程が必要です。この工程をまとめて扱えるソフトとして <a href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="nofollow">【VideoProc】</a> があります。</p>
+  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
+  <a class="cta" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="nofollow">VideoProc 公式サイト</a>
+  <img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BC0UI+5I9D82+428G+C0YF6" alt="">
+</div>

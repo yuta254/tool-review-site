@@ -37,3 +37,11 @@ HeyGenは、テキスト台本を入力するだけでAIアバターが読み上
 3. まずは短尺の社内向けコンテンツから試し、用途に合うか見極めてから展開範囲を広げる
 
 最新の料金プランや対応機能は変更される可能性があるため、利用前に必ず公式サイト（heygen.com）で確認してください。
+
+<div class="affiliate-box">
+  <p><strong>PR</strong>｜納品形式に合わせて変換したいとき</p>
+  <p>HeyGenで生成したアバター動画を、社内システムやSNSが要求する形式・容量に合わせる工程は別途必要になります。変換・圧縮をまとめて扱えるソフトとして <a href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="nofollow">【VideoProc】</a> があります。</p>
+  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
+  <a class="cta" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="nofollow">VideoProc 公式サイト</a>
+  <img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BC0UI+5I9D82+428G+C0YF6" alt="">
+</div>

@@ -37,3 +37,11 @@ Runwayは、テキストや一枚の画像から数秒〜数十秒の動画を�
 3. 生成した動画は必ず自分の目でコマごとに確認し、不自然な破綻がないかチェックする
 
 料金プランや生成できる長さ・機能は変更されることが多いため、利用前に必ず公式サイトで最新情報をご確認ください。
+
+<div class="affiliate-box">
+  <p><strong>PR</strong>｜書き出し後の変換・圧縮を軽くしたいとき</p>
+  <p>Runwayの出力は高品質な分ファイルサイズが大きくなりがちで、そのままでは共有や入稿に不向きなことがあります。変換・圧縮・画面録画を1本で扱えるソフトとして <a href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="nofollow">【VideoProc】</a> があります。</p>
+  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
+  <a class="cta" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="nofollow">VideoProc 公式サイト</a>
+  <img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BC0UI+5I9D82+428G+C0YF6" alt="">
+</div>

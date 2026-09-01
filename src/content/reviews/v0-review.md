@@ -37,3 +37,11 @@ v0はVercelが提供するAIツールで、テキストプロンプトや画像�
 3. UI確認用のモックとして使う場合と、実装にそのまま組み込む場合で、レビューの厳しさを使い分ける
 
 料金プランや機能の詳細は変更される可能性があるため、公式サイト(v0.dev)で最新情報を確認してください。
+
+<div class="affiliate-box">
+  <p><strong>PR</strong>｜生成したUIを実サイトに載せるとき</p>
+  <p>v0が出すのはコンポーネント単位のコードで、そこから先は自分のプロジェクトに組み込んで公開する工程になります。公開先として、国内のレンタルサーバー・VPSの選択肢に <a href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5Q0036+50+35CAFM" rel="nofollow">お名前.com レンタルサーバー</a> があります。</p>
+  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
+  <a class="cta" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5Q0036+50+35CAFM" rel="nofollow">お名前.com レンタルサーバー</a>
+  <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BC0UI+5Q0036+50+35CAFM" alt="">
+</div>

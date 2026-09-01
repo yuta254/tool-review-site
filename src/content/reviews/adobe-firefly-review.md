@@ -37,3 +37,11 @@ Adobe FireflyはAdobe Stockやライセンス許諾済みコンテンツを中�
 3. 狙った画風が出ない場合は、参照画像機能やスタイル指定オプションを併用して調整する
 
 最新の料金プランや生成クレジットの仕様、対応機能は変更されることがあるため、利用前に必ず[Adobe Firefly公式サイト](https://firefly.adobe.com)で最新情報を確認してください。
+
+<div class="affiliate-box">
+  <p><strong>PR</strong>｜生成物を印刷用の解像度まで引き上げたい</p>
+  <p>Fireflyの出力はWeb用途では十分でも、チラシやポスターなど印刷物に回すと画素数が足りないことがあります。生成後の拡大・ノイズ除去に特化したツールとして <a href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="nofollow">【Aiarty Image Enhancer】</a> があります。最大32倍のロスレス拡大とぼかし除去に対応しています。</p>
+  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
+  <a class="cta" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="nofollow">Aiarty Image Enhancer 公式サイト</a>
+  <img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+EVUWI+428G+HVFKY" alt="">
+</div>
