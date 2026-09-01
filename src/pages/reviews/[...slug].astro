@@ -4,6 +4,8 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import AffiliateDisclosure from '../../components/AffiliateDisclosure.astro';
 import AdSlot from '../../components/AdSlot.astro';
 import RelatedReviews from '../../components/RelatedReviews.astro';
+import { categoryPath } from '../../lib/categories';
+import { extractFaq } from '../../lib/faq';
 
 export async function getStaticPaths() {
   const reviews = await getCollection('reviews');
@@ -16,8 +18,7 @@ export async function getStaticPaths() {
 const { review, allReviews } = Astro.props;
 const { Content } = await render(review);
 
-const jsonLd = {
-  '@context': 'https://schema.org',
+const articleLd = {
   '@type': 'Article',
   headline: review.data.title,
   description: review.data.description,
@@ -28,10 +29,28 @@ const jsonLd = {
   author: { '@type': 'Organization', name: 'AI Tool Lab' },
   publisher: { '@type': 'Organization', name: 'AI Tool Lab' },
 };
+
+// 本文に「よくある質問」があればFAQPageも出す(検索結果でQ&Aとして扱われる可能性がある)
+const faq = extractFaq(review.body ?? '');
+const faqLd = faq.length > 0
+  ? {
+      '@type': 'FAQPage',
+      mainEntity: faq.map((f) => ({
+        '@type': 'Question',
+        name: f.question,
+        acceptedAnswer: { '@type': 'Answer', text: f.answer },
+      })),
+    }
+  : null;
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@graph': faqLd ? [articleLd, faqLd] : [articleLd],
+};
 ---
 <BaseLayout title={review.data.title} description={review.data.description} jsonLd={jsonLd}>
   <p class="meta">
-    <span class="tag">{review.data.category}</span>
+    <a class="tag" href={categoryPath(review.data.category)}>{review.data.category}</a>
     {review.data.pubDate.toLocaleDateString('ja-JP')}
   </p>
   <h1>{review.data.title}</h1>

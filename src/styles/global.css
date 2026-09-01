@@ -133,3 +133,29 @@ article img { max-width: 100%; }
 table { width: 100%; border-collapse: collapse; margin: 1.5rem 0; }
 th, td { border: 1px solid var(--color-border); padding: 0.5rem 0.75rem; text-align: left; }
 th { background: #f8fafc; }
+
+/* カテゴリ一覧ページ */
+.category-list {
+  list-style: none;
+  padding: 0;
+  margin: 1.5rem 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 0.5rem;
+}
+.category-list li {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.5rem;
+  border: 1px solid var(--color-border);
+  border-radius: 8px;
+  padding: 0.6rem 0.85rem;
+}
+.category-list a { text-decoration: none; font-weight: 600; }
+.category-list a:hover { text-decoration: underline; }
+.category-list .count { color: var(--color-muted); font-size: 0.8rem; white-space: nowrap; }
+
+/* 記事・カード内のカテゴリタグをリンクとして使えるように */
+a.tag { text-decoration: none; }
+a.tag:hover { text-decoration: underline; }

@@ -1,0 +1,59 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { categorySlug, CATEGORY_INTROS } from '../../lib/categories';
+
+export async function getStaticPaths() {
+  const reviews = await getCollection('reviews');
+  const byCategory = new Map<string, typeof reviews>();
+  for (const r of reviews) {
+    const list = byCategory.get(r.data.category) ?? [];
+    list.push(r);
+    byCategory.set(r.data.category, list);
+  }
+  return [...byCategory.entries()].map(([name, list]) => ({
+    params: { category: categorySlug(name) },
+    props: {
+      name,
+      list: list.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()),
+    },
+  }));
+}
+
+const { name, list } = Astro.props;
+const intro = CATEGORY_INTROS[name] ?? `${name}に分類しているAIツールのレビュー一覧です。`;
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: `${name}のAIツールレビュー`,
+  description: intro,
+  mainEntity: {
+    '@type': 'ItemList',
+    numberOfItems: list.length,
+    itemListElement: list.map((r, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      name: r.data.title,
+      url: new URL(`/reviews/${r.id}/`, Astro.site).toString(),
+    })),
+  },
+};
+---
+<BaseLayout title={`${name}のAIツールレビュー(${list.length}件)`} description={intro} jsonLd={jsonLd}>
+  <p class="meta"><a href="/categories/">カテゴリ一覧</a></p>
+  <h1>{name}</h1>
+  <p>{intro}</p>
+
+  <div class="card-list">
+    {list.map((r) => (
+      <article class="card">
+        <p class="meta">{r.data.pubDate.toLocaleDateString('ja-JP')}</p>
+        <h2><a href={`/reviews/${r.id}/`}>{r.data.title}</a></h2>
+        <p>{r.data.description}</p>
+      </article>
+    ))}
+  </div>
+
+  <p><a href="/">&larr; すべての記事を見る</a></p>
+</BaseLayout>

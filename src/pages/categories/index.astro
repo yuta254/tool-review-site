@@ -1,0 +1,37 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { categoryPath } from '../../lib/categories';
+
+const reviews = await getCollection('reviews');
+
+const counts = new Map<string, number>();
+for (const r of reviews) {
+  counts.set(r.data.category, (counts.get(r.data.category) ?? 0) + 1);
+}
+const categories = [...counts.entries()].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0], 'ja'));
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: 'カテゴリ一覧',
+  description: `AI Tool Labで扱っている${categories.length}カテゴリ・${reviews.length}本のレビュー記事の一覧です。`,
+};
+---
+<BaseLayout
+  title="カテゴリ一覧"
+  description={`AIツールのレビューを${categories.length}カテゴリに分けて整理しています。用途から探せます。`}
+  jsonLd={jsonLd}
+>
+  <h1>カテゴリ一覧</h1>
+  <p>{reviews.length}本のレビューを{categories.length}カテゴリに分けています。用途から探してください。</p>
+
+  <ul class="category-list">
+    {categories.map(([name, count]) => (
+      <li>
+        <a href={categoryPath(name)}>{name}</a>
+        <span class="count">{count}件</span>
+      </li>
+    ))}
+  </ul>
+</BaseLayout>
