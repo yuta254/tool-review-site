@@ -50,6 +50,10 @@ Ideogramは、画像生成AIが長らく苦手としてきた「画像内に読�
 **Q. 他の画像生成AIとどう使い分けますか。**
 文字を入れたいならIdeogram、商用利用の説明のしやすさならAdobe Firefly、雰囲気重視ならMidjourneyです。詳しくは[画像生成AI4種の比較](/reviews/ai-image-generation-comparison/)を参照してください。
 
+## 関連する無料ツール
+
+[画像サイズ・印刷解像度チェッカー](/tools/image-size-checker/) — 手元の画像が何cmまで印刷に耐えるか、足りない場合は何倍の拡大が必要かをその場で確認できます。ファイルはアップロードされず、ブラウザ内だけで処理されます。
+
 <div class="affiliate-box">
   <p><strong>PR</strong>｜文字入りロゴを大きく使いたいとき</p>
   <p>Ideogramで作ったロゴ風デザインを看板やグッズなど大きな面で使う場合、生成時の解像度のままでは輪郭が甘くなることがあります。拡大とノイズ除去に特化した <a href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="nofollow">【Aiarty Image Enhancer】</a> のようなツールを後段に挟む選択肢があります。</p>

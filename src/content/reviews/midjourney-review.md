@@ -46,6 +46,10 @@ Midjourneyは、テキストの指示(プロンプト)から高品質なイメ�
 **Q. 他の画像生成AIとどう使い分けますか。**
 文字を正確に入れたいならIdeogram、商用利用の説明のしやすさならAdobe Firefly、ゲーム素材ならLeonardo AIが向きます。詳しくは[画像生成AI4種の比較](/reviews/ai-image-generation-comparison/)を参照してください。
 
+## 関連する無料ツール
+
+[画像サイズ・印刷解像度チェッカー](/tools/image-size-checker/) — 手元の画像が何cmまで印刷に耐えるか、足りない場合は何倍の拡大が必要かをその場で確認できます。ファイルはアップロードされず、ブラウザ内だけで処理されます。
+
 <div class="affiliate-box">
   <p><strong>PR</strong>｜生成後に解像度を上げたい場合</p>
   <p>Midjourneyの出力は雰囲気づくりに強い一方、印刷用途など高解像度が求められる場面では画素数が足りないことがあります。生成後の拡大・ノイズ除去に特化したツールとして <a href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="nofollow">【Aiarty Image Enhancer】</a> があります。最大32倍のロスレス拡大とぼかし除去に対応しています。</p>

@@ -49,6 +49,10 @@ HeyGenは、テキスト台本を入力するだけでAIアバターが読み上
 **Q. Synthesiaとどう使い分けますか。**
 多言語展開や外向けの発信ならHeyGen、社内研修やコンプライアンス教育などの法人運用ならSynthesiaが向きます。詳しくは[HeyGen・Synthesia比較](/reviews/ai-avatar-video-comparison/)を参照してください。
 
+## 関連する無料ツール
+
+[動画ファイルサイズ計算ツール](/tools/video-size-calculator/) — 再生時間とビットレートから書き出しサイズを概算し、容量上限に収めるための必要ビットレートを逆算できます。
+
 <div class="affiliate-box">
   <p><strong>PR</strong>｜納品形式に合わせて変換したいとき</p>
   <p>HeyGenで生成したアバター動画を、社内システムやSNSが要求する形式・容量に合わせる工程は別途必要になります。変換・圧縮をまとめて扱えるソフトとして <a href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="nofollow">【VideoProc】</a> があります。</p>

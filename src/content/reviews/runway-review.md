@@ -49,6 +49,10 @@ Runwayは、テキストや一枚の画像から数秒〜数十秒の動画を�
 **Q. Pikaとどちらを選ぶべきですか。**
 映像として作り込みたいならRunway、短い動きを手軽に足したいならPikaです。詳しくは[AI動画ツールの比較](/reviews/ai-video-tools-comparison/)を参照してください。
 
+## 関連する無料ツール
+
+[動画ファイルサイズ計算ツール](/tools/video-size-calculator/) — 再生時間とビットレートから書き出しサイズを概算し、容量上限に収めるための必要ビットレートを逆算できます。
+
 <div class="affiliate-box">
   <p><strong>PR</strong>｜書き出し後の変換・圧縮を軽くしたいとき</p>
   <p>Runwayの出力は高品質な分ファイルサイズが大きくなりがちで、そのままでは共有や入稿に不向きなことがあります。変換・圧縮・画面録画を1本で扱えるソフトとして <a href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="nofollow">【VideoProc】</a> があります。</p>

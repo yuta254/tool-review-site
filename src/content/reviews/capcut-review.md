@@ -53,6 +53,10 @@ SNS向けの編集なら無料版で実用範囲です。有料が効いてく�
 **Q. Descriptとどう使い分けますか。**
 テンポよくカットしてテロップを載せるならCapCut、話している内容が主役でテキストベースに編集したいならDescriptです。詳しくは[AI動画ツールの比較](/reviews/ai-video-tools-comparison/)を参照してください。
 
+## 関連する無料ツール
+
+[動画ファイルサイズ計算ツール](/tools/video-size-calculator/) — 再生時間とビットレートから書き出しサイズを概算し、容量上限に収めるための必要ビットレートを逆算できます。
+
 <div class="affiliate-box">
   <p><strong>PR</strong>｜書き出し形式や画面収録で詰まったとき</p>
   <p>CapCutは編集そのものは軽快ですが、納品先が指定するコーデックへの変換や、素材用の画面録画までは手が届かない場面があります。変換・編集・画面録画をまとめて扱うソフトとして <a href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="nofollow">【VideoProc】</a> があります。</p>

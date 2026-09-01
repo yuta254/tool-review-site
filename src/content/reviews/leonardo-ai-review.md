@@ -53,6 +53,10 @@ Leonardo AIは、キャラクターコンセプトやアイテムアイコン、
 **Q. Midjourneyとどう使い分けますか。**
 雰囲気やコンセプトを伝えるビジュアルならMidjourney、特定スタイルのアセットを量産するならLeonardo AIです。詳しくは[画像生成AI4種の比較](/reviews/ai-image-generation-comparison/)を参照してください。
 
+## 関連する無料ツール
+
+[画像サイズ・印刷解像度チェッカー](/tools/image-size-checker/) — 手元の画像が何cmまで印刷に耐えるか、足りない場合は何倍の拡大が必要かをその場で確認できます。ファイルはアップロードされず、ブラウザ内だけで処理されます。
+
 <div class="affiliate-box">
   <p><strong>PR</strong>｜アセットを高解像度で書き出したいとき</p>
   <p>ゲームアセットやコンセプトアートは、後から拡大して使う場面が出てきます。生成後の拡大・ピンボケ補正に特化したツールとして <a href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="nofollow">【Aiarty Image Enhancer】</a> があり、最大32倍のロスレス拡大に対応しています。</p>
