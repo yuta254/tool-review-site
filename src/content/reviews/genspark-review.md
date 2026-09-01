@@ -1,5 +1,5 @@
 ---
-title: "Gensparkの「Sparkpage」は検索の代わりになるか、実際に試した"
+title: "Gensparkの「Sparkpage」は検索の代わりになるか"
 description: "質問に対して複数情報源を横断しまとめページを自動生成するAI検索ツール、Gensparkを検証します。"
 pubDate: 2026-07-06
 category: "リサーチ"

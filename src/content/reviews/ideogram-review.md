@@ -1,6 +1,6 @@
 ---
 title: "Ideogramレビュー：画像内の文字・ロゴを正確に描けるAI画像生成"
-description: "画像内テキストの正確な描画に強みを持つAI画像生成ツールIdeogramを、実際に使った視点で評価します。"
+description: "画像内テキストの正確な描画に強みを持つAI画像生成ツールIdeogramが、実務でどこまで使えるかを整理します。"
 pubDate: 2026-07-06
 category: "画像生成AI"
 tags: ["Ideogram", "画像生成AI", "AIロゴ生成", "タイポグラフィ"]
