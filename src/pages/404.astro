@@ -1,0 +1,42 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { categoryPath } from '../lib/categories';
+
+const reviews = await getCollection('reviews');
+const counts = new Map<string, number>();
+for (const r of reviews) counts.set(r.data.category, (counts.get(r.data.category) ?? 0) + 1);
+const categories = [...counts.entries()].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0], 'ja'));
+
+const latest = [...reviews]
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+  .slice(0, 5);
+---
+<BaseLayout title="ページが見つかりません" description="お探しのページは見つかりませんでした。">
+  <h1>ページが見つかりません</h1>
+  <p>
+    お探しのページは、移動したか削除された可能性があります。
+    下のカテゴリか新着記事から探してみてください。
+  </p>
+
+  <h2>カテゴリから探す</h2>
+  <ul class="chip-list">
+    {categories.map(([name, count]) => (
+      <li><a href={categoryPath(name)}>{name}<span class="count">{count}</span></a></li>
+    ))}
+  </ul>
+
+  <h2>新着記事</h2>
+  <ul>
+    {latest.map((r) => (
+      <li><a href={`/reviews/${r.id}/`}>{r.data.title}</a></li>
+    ))}
+  </ul>
+
+  <h2>その他</h2>
+  <ul>
+    <li><a href="/">トップページ</a></li>
+    <li><a href="/tools/">無料ツール一覧</a></li>
+    <li><a href="/contact/">お問い合わせ</a>(リンク切れを見つけた場合はこちらからお知らせください)</li>
+  </ul>
+</BaseLayout>
