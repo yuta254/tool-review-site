@@ -58,10 +58,10 @@ Pikaは、テキストプロンプトや一枚の画像、あるいはその組�
 
 [動画ファイルサイズ計算ツール](/tools/video-size-calculator/) — 再生時間とビットレートから書き出しサイズを概算し、容量上限に収めるための必要ビットレートを逆算できます。
 
-<div class="affiliate-box">
+<div class="affiliate-box" data-pr="videoproc">
   <p><strong>PR</strong>｜生成した短尺クリップをつなぐ前工程</p>
-  <p>Pikaの出力は数秒単位のクリップになるため、実際の納品物にするには結合・形式変換・圧縮といった後工程が必要です。この工程をまとめて扱えるソフトとして <a href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="nofollow">【VideoProc】</a> があります。</p>
+  <p>Pikaの出力は数秒単位のクリップになるため、実際の納品物にするには結合・形式変換・圧縮といった後工程が必要です。この工程をまとめて扱えるソフトとして <a data-pr="videoproc" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="nofollow">【VideoProc】</a> があります。</p>
   <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="nofollow">VideoProc 公式サイト</a>
-  <img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BC0UI+5I9D82+428G+C0YF6" alt="">
+  <a class="cta" data-pr="videoproc" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="nofollow">VideoProc 公式サイト</a>
+  <img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BC0UI+5I9D82+428G+C0YF6" alt="" data-pr="videoproc">
 </div>

@@ -49,10 +49,10 @@ DeepLはニューラル機械翻訳を用いた翻訳ツールで、他の翻訳
 **Q. 機密文書を翻訳しても大丈夫ですか。**
 プランによってデータの取り扱いが異なります。未公開情報を扱う前に、契約しているプランの条件と社内規程の両方を確認してください。この確認を飛ばすと、後から取り返しがつきません。
 
-<div class="affiliate-box">
+<div class="affiliate-box" data-pr="idbusiness">
   <p><strong>PR</strong>｜訳文をそのまま出す前に</p>
-  <p>DeepLの訳文は自然ですが、契約書や対外的な提案書など「間違えられない英文」では、人の目による最終確認が要ります。ネイティブチェックを外注できるサービスとして <a href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+61WO6Q+2KSK+C0QPE" rel="nofollow">363円からのネイティブチェックならアイディービジネス</a> があります。</p>
+  <p>DeepLの訳文は自然ですが、契約書や対外的な提案書など「間違えられない英文」では、人の目による最終確認が要ります。ネイティブチェックを外注できるサービスとして <a data-pr="idbusiness" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+61WO6Q+2KSK+C0QPE" rel="nofollow">363円からのネイティブチェックならアイディービジネス</a> があります。</p>
   <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+61WO6Q+2KSK+C0QPE" rel="nofollow">アイディービジネス 公式サイト</a>
-  <img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4BC0UI+61WO6Q+2KSK+C0QPE" alt="">
+  <a class="cta" data-pr="idbusiness" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+61WO6Q+2KSK+C0QPE" rel="nofollow">アイディービジネス 公式サイト</a>
+  <img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4BC0UI+61WO6Q+2KSK+C0QPE" alt="" data-pr="idbusiness">
 </div>

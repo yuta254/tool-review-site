@@ -62,10 +62,10 @@ Zoomの中で完結する点が最大の利点です。既に上位プランを�
 **Q. 議事録の清書までAIに任せられますか。**
 要約と論点抽出までは任せられますが、「決まったこと」と「決まっていないこと」の線引きは人が確認する必要があります。ここを機械の出力のまま配布すると、後から認識のずれが表面化します。
 
-<div class="affiliate-box">
+<div class="affiliate-box" data-pr="plaud">
   <p><strong>PR</strong>｜オンライン以外の会議も記録したいとき</p>
-  <p>ここで挙げた4つはいずれもオンライン会議が主戦場で、対面の打ち合わせや外出先での会話は守備範囲の外にあります。録音と文字起こしを端末側で完結させる選択肢として <a href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="nofollow">PLAUD NOTE</a> のようなAIボイスレコーダーがあります。</p>
+  <p>ここで挙げた4つはいずれもオンライン会議が主戦場で、対面の打ち合わせや外出先での会話は守備範囲の外にあります。録音と文字起こしを端末側で完結させる選択肢として <a data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="nofollow">PLAUD NOTE</a> のようなAIボイスレコーダーがあります。</p>
   <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="nofollow">PLAUD NOTE 公式サイト</a>
-  <img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="">
+  <a class="cta" data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="nofollow">PLAUD NOTE 公式サイト</a>
+  <img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="" data-pr="plaud">
 </div>

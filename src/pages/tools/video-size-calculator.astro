@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import AdSlot from '../../components/AdSlot.astro';
+import { affiliateUrl, affiliatePixel } from '../../lib/affiliates';
 ---
 <BaseLayout
   title="動画ファイルサイズ計算ツール"
@@ -67,10 +68,10 @@ import AdSlot from '../../components/AdSlot.astro';
 
   <div class="affiliate-box">
     <p><strong>PR</strong>｜再エンコード・形式変換をまとめて行う</p>
-    <p>変換・圧縮・画面録画を1本で扱えるソフトとして <a href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="nofollow">【VideoProc】</a> があります。</p>
+    <p>変換・圧縮・画面録画を1本で扱えるソフトとして <a href={affiliateUrl('videoproc')} rel="nofollow">【VideoProc】</a> があります。</p>
     <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-    <a class="cta" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="nofollow">VideoProc 公式サイト</a>
-    <img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BC0UI+5I9D82+428G+C0YF6" alt="">
+    <a class="cta" href={affiliateUrl('videoproc')} rel="nofollow">VideoProc 公式サイト</a>
+    <img border="0" width="1" height="1" src={affiliatePixel('videoproc')} alt="" />
   </div>
 
   <p><a href="/tools/">&larr; 無料ツール一覧</a></p>

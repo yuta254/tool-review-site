@@ -9,7 +9,10 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "affiliates:sync": "node scripts/sync-affiliates.mjs",
+    "affiliates:check": "node scripts/sync-affiliates.mjs --check",
+    "prebuild": "node scripts/sync-affiliates.mjs --check"
   },
   "dependencies": {
     "@astrojs/rss": "^4.0.19",

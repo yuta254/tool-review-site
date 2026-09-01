@@ -49,10 +49,10 @@ UIは出てきますが、自分のプロジェクトに組み込む段階で知
 **Q. Vercel以外の環境でも動きますか。**
 出てくるのは標準的なReact/Tailwindのコードなので、他の環境でも動かせます。ただしVercelの周辺機能を前提にした提案が混ざることがあるため、そこは読み替えが要ります。
 
-<div class="affiliate-box">
+<div class="affiliate-box" data-pr="onamae">
   <p><strong>PR</strong>｜生成したUIを実サイトに載せるとき</p>
-  <p>v0が出すのはコンポーネント単位のコードで、そこから先は自分のプロジェクトに組み込んで公開する工程になります。公開先として、国内のレンタルサーバー・VPSの選択肢に <a href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5Q0036+50+35CAFM" rel="nofollow">お名前.com レンタルサーバー</a> があります。</p>
+  <p>v0が出すのはコンポーネント単位のコードで、そこから先は自分のプロジェクトに組み込んで公開する工程になります。公開先として、国内のレンタルサーバー・VPSの選択肢に <a data-pr="onamae" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5Q0036+50+35CAFM" rel="nofollow">お名前.com レンタルサーバー</a> があります。</p>
   <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5Q0036+50+35CAFM" rel="nofollow">お名前.com レンタルサーバー</a>
-  <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BC0UI+5Q0036+50+35CAFM" alt="">
+  <a class="cta" data-pr="onamae" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5Q0036+50+35CAFM" rel="nofollow">お名前.com レンタルサーバー</a>
+  <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BC0UI+5Q0036+50+35CAFM" alt="" data-pr="onamae">
 </div>

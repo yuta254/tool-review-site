@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import AdSlot from '../../components/AdSlot.astro';
+import { affiliateUrl, affiliatePixel } from '../../lib/affiliates';
 ---
 <BaseLayout
   title="画像サイズ・印刷解像度チェッカー"
@@ -63,10 +64,10 @@ import AdSlot from '../../components/AdSlot.astro';
 
   <div class="affiliate-box">
     <p><strong>PR</strong>｜拡大処理をかける場合</p>
-    <p>拡大とノイズ除去に特化したツールとして <a href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="nofollow">【Aiarty Image Enhancer】</a> があります。最大32倍のロスレス拡大、ノイズ除去、ピンボケ補正に対応しています。</p>
+    <p>拡大とノイズ除去に特化したツールとして <a href={affiliateUrl('aiarty')} rel="nofollow">【Aiarty Image Enhancer】</a> があります。最大32倍のロスレス拡大、ノイズ除去、ピンボケ補正に対応しています。</p>
     <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-    <a class="cta" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="nofollow">Aiarty Image Enhancer 公式サイト</a>
-    <img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+EVUWI+428G+HVFKY" alt="">
+    <a class="cta" href={affiliateUrl('aiarty')} rel="nofollow">Aiarty Image Enhancer 公式サイト</a>
+    <img border="0" width="1" height="1" src={affiliatePixel('aiarty')} alt="" />
   </div>
 
   <p><a href="/tools/">&larr; 無料ツール一覧</a></p>

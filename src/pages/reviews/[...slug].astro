@@ -18,19 +18,39 @@ export async function getStaticPaths() {
 const { review, allReviews } = Astro.props;
 const { Content } = await render(review);
 
+const pageUrl = new URL(`/reviews/${review.id}/`, Astro.site).toString();
+const publisher = {
+  '@type': 'Organization',
+  name: 'AI Tool Lab',
+  url: new URL('/', Astro.site).toString(),
+};
+
 const articleLd = {
   '@type': 'Article',
   headline: review.data.title,
   description: review.data.description,
+  url: pageUrl,
+  mainEntityOfPage: { '@type': 'WebPage', '@id': pageUrl },
+  inLanguage: 'ja',
   datePublished: review.data.pubDate.toISOString(),
   ...(review.data.updatedDate && { dateModified: review.data.updatedDate.toISOString() }),
   articleSection: review.data.category,
   keywords: review.data.tags.join(', '),
-  author: { '@type': 'Organization', name: 'AI Tool Lab' },
-  publisher: { '@type': 'Organization', name: 'AI Tool Lab' },
+  author: publisher,
+  publisher,
 };
 
-// 本文に「よくある質問」があればFAQPageも出す(検索結果でQ&Aとして扱われる可能性がある)
+// パンくず。検索結果に階層が出るようにする(画面上のリンクはカテゴリタグが担う)
+const breadcrumbLd = {
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'ホーム', item: new URL('/', Astro.site).toString() },
+    { '@type': 'ListItem', position: 2, name: review.data.category, item: new URL(categoryPath(review.data.category), Astro.site).toString() },
+    { '@type': 'ListItem', position: 3, name: review.data.title, item: pageUrl },
+  ],
+};
+
+// 本文に「よくある質問」があればFAQPageも出す
 const faq = extractFaq(review.body ?? '');
 const faqLd = faq.length > 0
   ? {
@@ -45,7 +65,7 @@ const faqLd = faq.length > 0
 
 const jsonLd = {
   '@context': 'https://schema.org',
-  '@graph': faqLd ? [articleLd, faqLd] : [articleLd],
+  '@graph': faqLd ? [articleLd, breadcrumbLd, faqLd] : [articleLd, breadcrumbLd],
 };
 ---
 <BaseLayout title={review.data.title} description={review.data.description} jsonLd={jsonLd}>
