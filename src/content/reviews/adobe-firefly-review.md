@@ -38,6 +38,17 @@ Adobe FireflyはAdobe Stockやライセンス許諾済みコンテンツを中�
 
 最新の料金プランや生成クレジットの仕様、対応機能は変更されることがあるため、利用前に必ず[Adobe Firefly公式サイト](https://firefly.adobe.com)で最新情報を確認してください。
 
+## よくある質問
+
+**Q. 商用利用が安心と言われるのはなぜですか。**
+学習データの出どころが明示されている点が理由です。ただし「安心」は相対的なもので、生成物が既存の作品に似ていないかの確認までは免除されません。公開前に自分で見比べる工程は残ります。
+
+**Q. Photoshopの生成塗りつぶしとは別物ですか。**
+同じFireflyの技術がPhotoshopに組み込まれています。既にPhotoshopを使っているなら、単体のFireflyを別途契約する前に、手元の機能で足りないかを確認してください。
+
+**Q. 他の画像生成AIと比べてどうですか。**
+表現の幅ではMidjourney、文字の描画ではIdeogramが上回る場面があります。Fireflyの強みは品質そのものより、商用利用の説明のしやすさです。詳しくは[画像生成AI4種の比較](/reviews/ai-image-generation-comparison/)を参照してください。
+
 <div class="affiliate-box">
   <p><strong>PR</strong>｜生成物を印刷用の解像度まで引き上げたい</p>
   <p>Fireflyの出力はWeb用途では十分でも、チラシやポスターなど印刷物に回すと画素数が足りないことがあります。生成後の拡大・ノイズ除去に特化したツールとして <a href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="nofollow">【Aiarty Image Enhancer】</a> があります。最大32倍のロスレス拡大とぼかし除去に対応しています。</p>
