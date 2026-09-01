@@ -37,3 +37,11 @@ Photoroomは、商品写真の背景除去とAIによる背景生成を手軽に
 3. 同じテンプレートや背景設定を使い回すことで、バッチ編集時にも店舗全体の見た目の統一感を保ちやすくなる
 
 料金プランや機能は変更されることがあるため、最新情報は必ず公式サイト（photoroom.com）でご確認ください。
+
+<div class="affiliate-box">
+  <p><strong>PR</strong>｜元の写真そのものが粗いとき</p>
+  <p>Photoroomは背景の除去・生成が得意な一方、元写真がブレていたり画素数が足りない場合、その粗さは残ります。撮り直しが難しい商品写真の下地を整える用途では、高画質化に特化した <a href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="nofollow">【Aiarty Image Enhancer】</a> のようなツールを前段に挟む選択肢もあります。ノイズ除去・ピンボケ補正・ロスレス拡大に対応しています。</p>
+  <p><em>※当サイトでは未検証です。対応形式・動作環境・料金は公式サイトでご確認ください。</em></p>
+  <a class="cta" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="nofollow">Aiarty Image Enhancer 公式サイト</a>
+  <img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+EVUWI+428G+HVFKY" alt="">
+</div>

@@ -34,3 +34,11 @@ Midjourneyは、テキストの指示(プロンプト)から高品質なイメ�
 - デザイナーではないが、それっぽいビジュアルを手早く用意したい人
 
 利用規約や商用利用条件は変更されることがあるため、実際に使用する前に必ず公式サイトの最新情報をご確認ください。
+
+<div class="affiliate-box">
+  <p><strong>PR</strong>｜生成後に解像度を上げたい場合</p>
+  <p>Midjourneyの出力は雰囲気づくりに強い一方、印刷用途など高解像度が求められる場面では画素数が足りないことがあります。生成後の拡大・ノイズ除去に特化したツールとして <a href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="nofollow">【Aiarty Image Enhancer】</a> があります。最大32倍のロスレス拡大とぼかし除去に対応しています。</p>
+  <p><em>※当サイトでは未検証です。対応形式・動作環境・料金は公式サイトでご確認ください。</em></p>
+  <a class="cta" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="nofollow">Aiarty Image Enhancer 公式サイト</a>
+  <img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+EVUWI+428G+HVFKY" alt="">
+</div>

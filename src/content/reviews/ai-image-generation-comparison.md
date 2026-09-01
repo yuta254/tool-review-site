@@ -52,3 +52,11 @@ Adobe Stockやライセンス許諾済みコンテンツを中心に学習して
 | 特定の画風に特化したモデルを選んで使いたい | Leonardo AI |
 
 どのツールも「生成AIが作ったと分かる仕上がり」になりやすい点や、手指・文字表現の崩れといったAI画像生成全般に共通する弱点は残っています。複数パターンを生成して選ぶ前提で使い、商用利用を検討する場合は必ず各社の最新の利用規約を確認してください。
+
+<div class="affiliate-box">
+  <p><strong>PR</strong>｜生成した画像の解像度が足りないとき</p>
+  <p>生成AIの出力をそのまま印刷物や大きなバナーに使うと、解像度不足やノイズ・輪郭のにじみが目立つことがあります。この後処理に特化したツールのひとつが <a href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="nofollow">【Aiarty Image Enhancer】</a> です。ノイズ除去・ピンボケ補正・最大32倍のロスレス拡大に対応しています。</p>
+  <p><em>※当サイトでは未検証です。対応形式・動作環境・料金は公式サイトでご確認ください。</em></p>
+  <a class="cta" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="nofollow">Aiarty Image Enhancer 公式サイト</a>
+  <img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+EVUWI+428G+HVFKY" alt="">
+</div>
