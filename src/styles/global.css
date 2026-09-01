@@ -118,15 +118,8 @@ footer.site-footer {
   font-weight: 600;
 }
 
-.ad-slot {
-  border: 1px dashed var(--color-border);
-  border-radius: 8px;
-  padding: 1rem;
-  text-align: center;
-  color: var(--color-muted);
-  font-size: 0.8rem;
-  margin: 1.5rem 0;
-}
+/* AdSenseの広告枠。審査通過前は AdSlot が何も描画しないので、この指定も使われない */
+.ad-slot { display: block; margin: 1.5rem 0; }
 
 article img { max-width: 100%; }
 

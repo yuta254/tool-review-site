@@ -1,9 +1,29 @@
 ---
-// AdSenseの審査通過後、ここに実際の広告タグ(<ins class="adsbygoogle">...)を差し込む。
-// 現時点ではプレースホルダーのみ表示。
+// AdSenseの審査が通るまでは何も描画しない。
+//
+// 以前はここに「広告枠(AdSense審査通過後に設置)」という点線の箱を出していたが、
+// それが92ページに108個並んでいた。サイトを見に来る広告主(A8の提携審査・AdSenseの審査)に
+// 「作りかけのサイト」に見えるだけで、読者にも何の情報も与えていなかったため出さないことにした。
+//
+// 審査に通ったら ADSENSE_SLOTS に枠IDを入れる。呼び出し側(<AdSlot label="..." />)は
+// そのままでよく、ここだけを直せば全ページに反映される。
+import { ADSENSE_CLIENT, ADSENSE_SLOTS } from '../lib/ads';
+
 interface Props {
+  /** どの位置の枠か(ADSENSE_SLOTS のキーと対応させる) */
   label?: string;
 }
 const { label = '広告' } = Astro.props;
+const slot = ADSENSE_SLOTS[label];
 ---
-<div class="ad-slot" data-ad-placeholder="true">{label}枠(AdSense審査通過後に設置)</div>
+{slot && (
+  <ins
+    class="adsbygoogle ad-slot"
+    style="display:block"
+    data-ad-client={ADSENSE_CLIENT}
+    data-ad-slot={slot}
+    data-ad-format="auto"
+    data-full-width-responsive="true"
+  />
+)}
+{slot && <script is:inline>(adsbygoogle = window.adsbygoogle || []).push({});</script>}
