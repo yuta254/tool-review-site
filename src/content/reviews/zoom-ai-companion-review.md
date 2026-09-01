@@ -45,3 +45,11 @@ Zoom AI Companionは、会議中のメモ取りや会議後のフォローアッ
 
 **Q. 参加者に知られずに使えますか。**
 使えませんし、使うべきでもありません。AI機能の利用は参加者に表示される仕組みになっています。録音・記録は相手の同意が前提であり、通知を回避する運用は考えないでください。
+
+<div class="affiliate-box">
+  <p><strong>PR</strong>｜Zoom以外の会議を記録したいとき</p>
+  <p>AI Companionの守備範囲はZoom会議の中に限られ、対面の打ち合わせや外出先での会話は記録されません。会議ツールに依存せず録音と文字起こしを端末側で完結させる選択肢として <a href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="nofollow">PLAUD NOTE</a> のようなAIボイスレコーダーがあります。</p>
+  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
+  <a class="cta" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="nofollow">PLAUD NOTE 公式サイト</a>
+  <img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="">
+</div>

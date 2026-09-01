@@ -50,3 +50,11 @@ Jasperは、広告文・LPコピー・ブログ記事・SNS投稿など、マー
 
 **Q. 料金に見合うのはどんな人ですか。**
 複数のブランド・複数チャネルのコピーを継続的に作る人です。単発の記事作成や社内文書が中心なら、費用が先行します。他ツールとの棲み分けは[ライティング・校正ツールの比較](/reviews/ai-writing-proofreading-comparison/)を参照してください。
+
+<div class="affiliate-box">
+  <p><strong>PR</strong>｜生成した英語コピーを外に出す前に</p>
+  <p>Jasperが出す英語コピーは形になりますが、業界特有の言い回しやブランドのトーンとして適切かは別の判断です。広告やLPなど外向けの英文で、人によるネイティブチェックを外注する選択肢として <a href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+61WO6Q+2KSK+C0QPE" rel="nofollow">363円からのネイティブチェックならアイディービジネス</a> があります。</p>
+  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
+  <a class="cta" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+61WO6Q+2KSK+C0QPE" rel="nofollow">アイディービジネス 公式サイト</a>
+  <img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4BC0UI+61WO6Q+2KSK+C0QPE" alt="">
+</div>

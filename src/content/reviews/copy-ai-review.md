@@ -50,3 +50,11 @@ Copy.aiは広告文やブログ構成といった定番のAIコピー生成に�
 
 **Q. Jasperとどちらを選ぶべきですか。**
 テンプレートの充実と使いやすさならJasper、生成から後続処理までを自動化したいならCopy.aiです。どちらも汎用AIチャットで代替できないかを先に確認すると無駄が減ります。詳しくは[ライティング・校正ツールの比較](/reviews/ai-writing-proofreading-comparison/)を参照してください。
+
+<div class="affiliate-box">
+  <p><strong>PR</strong>｜英文のまま公開する前の最終確認</p>
+  <p>自動化したワークフローの中で英語のコピーを量産すると、人の目を通らないまま公開まで進みがちです。要所だけでもネイティブチェックを挟む選択肢として <a href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+61WO6Q+2KSK+C0QPE" rel="nofollow">アイディービジネス</a> のような校正サービスがあります。</p>
+  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
+  <a class="cta" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+61WO6Q+2KSK+C0QPE" rel="nofollow">アイディービジネス 公式サイト</a>
+  <img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4BC0UI+61WO6Q+2KSK+C0QPE" alt="">
+</div>

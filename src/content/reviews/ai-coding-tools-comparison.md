@@ -80,3 +80,11 @@ AWSが提供するAIコーディング支援ツールで、旧CodeWhispererを�
 
 **Q. 会社のコードを扱う場合の注意点は。**
 入力データを学習に使わない設定があるか、その既定値は何か、を導入時に確認してください。個人プランと法人プランで条件が異なるツールが多く、個人プランを業務で使うのは避けるべきです。
+
+<div class="affiliate-box">
+  <p><strong>PR</strong>｜書いたものを動かす場所</p>
+  <p>コーディング支援AIは書く速度を上げますが、できたものを人に使ってもらう段階では公開先の環境が要ります。国内のレンタルサーバー・VPSの選択肢として <a href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5Q0036+50+35CAFM" rel="nofollow">お名前.com レンタルサーバー</a> があります。</p>
+  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
+  <a class="cta" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5Q0036+50+35CAFM" rel="nofollow">お名前.com レンタルサーバー</a>
+  <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BC0UI+5Q0036+50+35CAFM" alt="">
+</div>

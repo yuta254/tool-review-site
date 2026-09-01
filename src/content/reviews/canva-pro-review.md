@@ -47,3 +47,11 @@ Canva Proの価値は「デザインスキルがなくても、それっぽく�
 
 **Q. 商用利用はできますか。**
 自分で作ったデザインの商用利用は可能ですが、内蔵素材には個別のライセンス条件が付くものがあります。特にロゴや商標として登録する用途は制限に触れやすいので、使う素材ごとに条件を確認してください。
+
+<div class="affiliate-box">
+  <p><strong>PR</strong>｜持ち込んだ素材が粗いとき</p>
+  <p>Canvaのテンプレートは整っていても、自分で撮った写真や手元のロゴ画像が低解像度だと、そこだけが浮きます。素材側を整える工程として、拡大とノイズ除去に特化した <a href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="nofollow">【Aiarty Image Enhancer】</a> のようなツールがあります。</p>
+  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
+  <a class="cta" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="nofollow">Aiarty Image Enhancer 公式サイト</a>
+  <img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+EVUWI+428G+HVFKY" alt="">
+</div>

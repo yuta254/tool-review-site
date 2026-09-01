@@ -27,6 +27,7 @@ export const CATEGORY_SLUGS: Record<string, string> = {
   'サイト制作AI': 'site-builder',
   'デザインツール': 'design',
   'メール効率化': 'email',
+  'ガイド': 'guide',
 };
 
 // スラッグが未定義のカテゴリでもURLが壊れないようにフォールバックする
@@ -67,4 +68,5 @@ export const CATEGORY_INTROS: Record<string, string> = {
   'サイト制作AI': 'プロンプトからWebサイトを生成するAIのレビューです。',
   'デザインツール': 'デザイン制作を助けるツールのレビューです。',
   'メール効率化': '受信箱の処理を速くするツールのレビューです。',
+  'ガイド': 'ツール単体のレビューではなく、AIツールを選ぶ・使う・費用を抑えるときの考え方をまとめた記事です。'
 };
