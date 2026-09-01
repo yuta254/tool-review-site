@@ -1,0 +1,137 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import AdSlot from '../../components/AdSlot.astro';
+---
+<BaseLayout
+  title="画像サイズ・印刷解像度チェッカー"
+  description="画像のピクセル数から、印刷したときに何cmまで耐えられるかを判定する無料ツール。アップロードは行わず、すべてブラウザ内で処理します。"
+>
+  <h1>画像サイズ・印刷解像度チェッカー</h1>
+  <p>
+    画像を選ぶと、ピクセル数と「その画像が印刷で何cmまで耐えられるか」を表示します。
+    生成AIで作った画像をチラシやポスターに使う前の確認に使えます。
+  </p>
+  <p class="meta"><strong>画像はどこにも送信されません。</strong>すべてブラウザの中だけで処理しています。</p>
+
+  <AdSlot label="ツール上部広告" />
+
+  <p><input type="file" id="file" accept="image/*" /></p>
+
+  <div id="result" hidden>
+    <div class="card">
+      <p><strong id="dims">-</strong> <span class="meta">(幅 × 高さ ピクセル)</span></p>
+      <p class="meta" id="mp">-</p>
+    </div>
+
+    <h2>印刷したときの目安</h2>
+    <p class="meta">
+      一般に、商業印刷は350dpi、家庭用プリンタや簡易印刷は150〜200dpi、画面表示は72〜96dpiが目安とされます。
+    </p>
+    <table>
+      <thead><tr><th>用途</th><th>解像度</th><th>この画像で印刷できる最大サイズ</th></tr></thead>
+      <tbody id="rows"></tbody>
+    </table>
+
+    <h2>目標サイズから逆算する</h2>
+    <p>
+      印刷したい幅
+      <input type="number" id="targetCm" value="21" min="1" step="1" style="width:6rem;" /> cm を
+      <select id="targetDpi">
+        <option value="350">350dpi(商業印刷)</option>
+        <option value="300">300dpi</option>
+        <option value="200" selected>200dpi(家庭用)</option>
+        <option value="150">150dpi</option>
+      </select>
+      で印刷する場合:
+    </p>
+    <div class="card"><p id="verdict">-</p></div>
+  </div>
+
+  <AdSlot label="ツール下部広告" />
+
+  <h2>解像度が足りなかったら</h2>
+  <p>
+    足りない場合の選択肢は3つです。<strong>(1) 印刷サイズを小さくする</strong>、
+    <strong>(2) 元データを大きい設定で作り直す</strong>、<strong>(3) 拡大処理をかける</strong>。
+    生成AIの画像は作り直しが効くことが多いので、まず(2)を検討するのが確実です。
+    作り直せない写真やロゴでは(3)になります。
+  </p>
+  <p class="meta">
+    ※単純な拡大では画素が引き伸ばされるだけで精細さは戻りません。AIによる拡大は輪郭を推定して補いますが、
+    元に無い情報を作り出している点は理解したうえで使ってください。
+  </p>
+
+  <div class="affiliate-box">
+    <p><strong>PR</strong>｜拡大処理をかける場合</p>
+    <p>拡大とノイズ除去に特化したツールとして <a href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="nofollow">【Aiarty Image Enhancer】</a> があります。最大32倍のロスレス拡大、ノイズ除去、ピンボケ補正に対応しています。</p>
+    <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
+    <a class="cta" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="nofollow">Aiarty Image Enhancer 公式サイト</a>
+    <img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+EVUWI+428G+HVFKY" alt="">
+  </div>
+
+  <p><a href="/tools/">&larr; 無料ツール一覧</a></p>
+
+  <script>
+    const file = document.getElementById('file') as HTMLInputElement;
+    const result = document.getElementById('result') as HTMLElement;
+    const dims = document.getElementById('dims')!;
+    const mp = document.getElementById('mp')!;
+    const rows = document.getElementById('rows')!;
+    const targetCm = document.getElementById('targetCm') as HTMLInputElement;
+    const targetDpi = document.getElementById('targetDpi') as HTMLSelectElement;
+    const verdict = document.getElementById('verdict')!;
+
+    const PRESETS: [string, number][] = [
+      ['商業印刷(チラシ・冊子)', 350],
+      ['家庭用プリンタ', 200],
+      ['簡易印刷・掲示物', 150],
+      ['画面表示', 96],
+    ];
+
+    let w = 0;
+    let h = 0;
+
+    // 1インチ = 2.54cm。ピクセル数 / dpi = インチ。
+    const cm = (px: number, dpi: number) => (px / dpi) * 2.54;
+
+    function render() {
+      dims.textContent = `${w} × ${h}`;
+      mp.textContent = `約${(w * h / 1_000_000).toFixed(1)}メガピクセル`;
+      rows.innerHTML = PRESETS
+        .map(([label, dpi]) => `<tr><td>${label}</td><td>${dpi}dpi</td><td>約 ${cm(w, dpi).toFixed(1)} × ${cm(h, dpi).toFixed(1)} cm</td></tr>`)
+        .join('');
+      updateVerdict();
+    }
+
+    function updateVerdict() {
+      const wantCm = Number(targetCm.value);
+      const dpi = Number(targetDpi.value);
+      if (!w || !wantCm || wantCm <= 0) return;
+      const needPx = Math.ceil((wantCm / 2.54) * dpi);
+      if (w >= needPx) {
+        verdict.innerHTML = `必要な幅は <strong>${needPx}px</strong> です。この画像は <strong>${w}px</strong> なので<strong>足りています</strong>。`;
+      } else {
+        const factor = (needPx / w).toFixed(2);
+        verdict.innerHTML = `必要な幅は <strong>${needPx}px</strong> ですが、この画像は <strong>${w}px</strong> しかありません。<strong>約${factor}倍の拡大が必要</strong>です。`;
+      }
+    }
+
+    file.addEventListener('change', () => {
+      const f = file.files?.[0];
+      if (!f) return;
+      const url = URL.createObjectURL(f);
+      const img = new Image();
+      img.onload = () => {
+        w = img.naturalWidth;
+        h = img.naturalHeight;
+        URL.revokeObjectURL(url);
+        result.hidden = false;
+        render();
+      };
+      img.src = url;
+    });
+
+    targetCm.addEventListener('input', updateVerdict);
+    targetDpi.addEventListener('change', updateVerdict);
+  </script>
+</BaseLayout>

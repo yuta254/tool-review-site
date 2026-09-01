@@ -1,0 +1,124 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import AdSlot from '../../components/AdSlot.astro';
+---
+<BaseLayout
+  title="動画ファイルサイズ計算ツール"
+  description="ビットレートと再生時間から動画のファイルサイズを概算し、逆に容量上限に収めるための必要ビットレートも計算できる無料ツールです。"
+>
+  <h1>動画ファイルサイズ計算ツール</h1>
+  <p>
+    「この長さ・この画質で書き出すと何MBになるか」「この容量に収めるには何kbpsにすればいいか」を計算します。
+    アップロード先の容量制限に引っかかる前の確認に使えます。
+  </p>
+
+  <AdSlot label="ツール上部広告" />
+
+  <h2>1. サイズを計算する</h2>
+  <div class="card">
+    <p>
+      再生時間
+      <input type="number" id="min" value="5" min="0" step="1" style="width:5rem;" /> 分
+      <input type="number" id="sec" value="0" min="0" max="59" step="1" style="width:5rem;" /> 秒
+    </p>
+    <p>
+      映像ビットレート <input type="number" id="vbr" value="8000" min="1" step="100" style="width:7rem;" /> kbps
+      <select id="preset">
+        <option value="">プリセットから選ぶ</option>
+        <option value="2500">SNS向け 1080p(2,500kbps)</option>
+        <option value="8000">YouTube 1080p 目安(8,000kbps)</option>
+        <option value="16000">YouTube 1440p 目安(16,000kbps)</option>
+        <option value="35000">YouTube 4K 目安(35,000kbps)</option>
+        <option value="1000">軽量・共有用(1,000kbps)</option>
+      </select>
+    </p>
+    <p>
+      音声ビットレート <input type="number" id="abr" value="192" min="0" step="16" style="width:6rem;" /> kbps
+    </p>
+    <p><strong id="sizeOut">-</strong></p>
+  </div>
+
+  <h2>2. 容量上限から逆算する</h2>
+  <div class="card">
+    <p>
+      上限 <input type="number" id="capMb" value="100" min="1" step="1" style="width:6rem;" /> MB に、
+      上と同じ再生時間・音声ビットレートで収めるには:
+    </p>
+    <p><strong id="bitrateOut">-</strong></p>
+  </div>
+
+  <AdSlot label="ツール下部広告" />
+
+  <h2>計算の前提</h2>
+  <ul>
+    <li>ファイルサイズ =(映像ビットレート + 音声ビットレート)× 再生時間 ÷ 8 で計算しています。</li>
+    <li>1MB = 1,000,000バイトとして計算しています(1,048,576バイトで数える環境ではやや小さく出ます)。</li>
+    <li>可変ビットレート(VBR)で書き出す場合、実際のサイズは上下します。<strong>概算として使ってください。</strong></li>
+    <li>コンテナやメタデータの分は含めていません。上限ぎりぎりを狙うと超えることがあります。</li>
+  </ul>
+
+  <h2>上限に収まらないときの選択肢</h2>
+  <p>
+    <strong>(1) 解像度を下げる</strong>(1080p→720pで必要ビットレートは大きく下がります)、
+    <strong>(2) ビットレートを下げる</strong>(動きの少ない動画なら劣化は目立ちにくい)、
+    <strong>(3) 尺を分割する</strong>、<strong>(4) 圧縮ソフトで再エンコードする</strong>。
+    元素材を残したまま試すなら(4)が手戻りが少なく済みます。
+  </p>
+
+  <div class="affiliate-box">
+    <p><strong>PR</strong>｜再エンコード・形式変換をまとめて行う</p>
+    <p>変換・圧縮・画面録画を1本で扱えるソフトとして <a href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="nofollow">【VideoProc】</a> があります。</p>
+    <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
+    <a class="cta" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="nofollow">VideoProc 公式サイト</a>
+    <img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BC0UI+5I9D82+428G+C0YF6" alt="">
+  </div>
+
+  <p><a href="/tools/">&larr; 無料ツール一覧</a></p>
+
+  <script>
+    const $ = (id: string) => document.getElementById(id)!;
+    const min = $('min') as HTMLInputElement;
+    const sec = $('sec') as HTMLInputElement;
+    const vbr = $('vbr') as HTMLInputElement;
+    const abr = $('abr') as HTMLInputElement;
+    const capMb = $('capMb') as HTMLInputElement;
+    const preset = $('preset') as HTMLSelectElement;
+    const sizeOut = $('sizeOut');
+    const bitrateOut = $('bitrateOut');
+
+    const seconds = () => Number(min.value || 0) * 60 + Number(sec.value || 0);
+
+    function fmt(mb: number) {
+      return mb >= 1000 ? `${(mb / 1000).toFixed(2)} GB` : `${mb.toFixed(1)} MB`;
+    }
+
+    function update() {
+      const s = seconds();
+      const total = Number(vbr.value || 0) + Number(abr.value || 0); // kbps
+      if (s <= 0 || total <= 0) {
+        sizeOut.textContent = '再生時間とビットレートを入力してください。';
+        bitrateOut.textContent = '-';
+        return;
+      }
+      // kbps * 秒 / 8 = キロバイト -> /1000 でMB
+      const mb = (total * s) / 8 / 1000;
+      sizeOut.textContent = `おおよそ ${fmt(mb)}`;
+
+      const cap = Number(capMb.value || 0);
+      if (cap <= 0) { bitrateOut.textContent = '-'; return; }
+      const allowedTotalKbps = (cap * 1000 * 8) / s;
+      const allowedVideo = allowedTotalKbps - Number(abr.value || 0);
+      if (allowedVideo <= 0) {
+        bitrateOut.textContent = '音声だけで上限を超えます。音声ビットレートを下げるか、尺を短くしてください。';
+      } else {
+        bitrateOut.innerHTML = `映像ビットレートを <strong>${Math.floor(allowedVideo).toLocaleString()} kbps 以下</strong>にする必要があります。`;
+      }
+    }
+
+    preset.addEventListener('change', () => {
+      if (preset.value) { vbr.value = preset.value; update(); }
+    });
+    [min, sec, vbr, abr, capMb].forEach((el) => el.addEventListener('input', update));
+    update();
+  </script>
+</BaseLayout>

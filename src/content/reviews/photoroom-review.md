@@ -1,6 +1,6 @@
 ---
 title: "Photoroomレビュー：EC出品者の商品写真編集を時短するAIツール"
-description: "背景除去とAI背景生成で商品写真を素早く仕上げられるPhotoroomの実力と注意点を検証したレビュー。"
+description: "背景除去とAI背景生成で商品写真を素早く仕上げられるPhotoroomの実力と注意点を整理したレビュー。"
 pubDate: 2026-07-05
 category: "画像編集AI"
 tags: ["Photoroom", "背景除去", "EC", "商品写真", "画像編集", "モバイルアプリ"]

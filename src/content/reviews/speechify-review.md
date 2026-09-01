@@ -1,6 +1,6 @@
 ---
 title: "Speechifyレビュー:記事・PDFを『聴く』読書に変えるAI読み上げアプリ"
-description: "文章を作るElevenLabsとは違い、既存の記事やPDFを自然な音声で読み上げるSpeechifyの実力を検証します。"
+description: "音声そのものを作るElevenLabsとは用途が違い、既存の記事やPDFを読み上げて「聴く」に変えるSpeechifyの実力を整理します。"
 pubDate: 2026-07-05
 category: "音声読み上げAI"
 tags: ["Speechify", "text-to-speech", "読み上げ", "アクセシビリティ", "多読"]
