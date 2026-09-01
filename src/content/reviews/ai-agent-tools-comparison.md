@@ -1,5 +1,6 @@
 ---
 title: "Devin AI・Manus AI徹底比較:自律型AIエージェントに任せてよい仕事の線引き"
+seoTitle: "Devin・Manus比較:AIエージェントの線引き"
 description: "指示を受けて自律的に作業を進めるAIエージェント2種を、得意なタスクの形と、任せてはいけない操作の線引きから比較します。"
 pubDate: 2026-09-01
 category: "AIエージェント"

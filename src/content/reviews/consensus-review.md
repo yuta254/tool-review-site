@@ -1,5 +1,6 @@
 ---
 title: "Consensus徹底レビュー：論文だけを検索するAIは研究の味方になるか"
+seoTitle: "Consensusレビュー:論文だけを検索するAI"
 description: "査読済み論文だけを情報源にするAI検索エンジンConsensusの強みと注意点を正直にレビュー。"
 pubDate: 2026-07-05
 category: "論文検索AI"

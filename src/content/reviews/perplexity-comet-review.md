@@ -1,5 +1,6 @@
 ---
 title: "Comet徹底レビュー:Perplexityが作った『エージェント型AIブラウザ』の実力は?"
+seoTitle: "Cometレビュー:Perplexityの AIブラウザ"
 description: "Perplexityのブラウザ「Comet」をレビュー。検索を超えたエージェント機能の可能性と注意点を整理。"
 pubDate: 2026-07-05
 category: "AIブラウザ"

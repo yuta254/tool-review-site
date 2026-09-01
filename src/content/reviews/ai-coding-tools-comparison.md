@@ -1,5 +1,6 @@
 ---
 title: "Cursor・GitHub Copilot・Windsurf・Replit Agent・Warp・Amazon Q Developer徹底比較【2026年版】"
+seoTitle: "コーディング支援AI 6種を比較【2026年版】"
 description: "主要AIコーディング支援ツール6製品を、用途別・タイプ別に比較。エディタ型・エージェント型・ターミナル型・クラウド特化型の違いが分かります。"
 pubDate: 2026-07-05
 category: "開発ツール"

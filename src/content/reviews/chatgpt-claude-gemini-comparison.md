@@ -1,5 +1,6 @@
 ---
 title: "ChatGPT Plus・Claude Pro・Gemini Advanced徹底比較【2026年版】"
+seoTitle: "ChatGPT・Claude・Gemini比較【2026年版】"
 description: "主要AIチャットサービス3社を、用途別・料金別・得意分野別に比較。あなたに合うツールが分かります。"
 pubDate: 2026-07-01
 category: "AIチャット"

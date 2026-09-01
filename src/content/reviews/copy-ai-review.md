@@ -1,5 +1,6 @@
 ---
 title: "Copy.ai レビュー：コピー生成からワークフロー自動化へ進化したAIツール"
+seoTitle: "Copy.aiレビュー:生成から自動化まで"
 description: "Copy.aiはAI文章生成に加えワークフロー自動化を備え、少人数チームでも扱いやすいのが特徴。"
 pubDate: 2026-07-05
 category: "マーケティング"

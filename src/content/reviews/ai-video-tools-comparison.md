@@ -1,5 +1,6 @@
 ---
 title: "Runway・Pika・CapCut・Descript・Opus Clip徹底比較:AI動画ツールの守備範囲を整理する"
+seoTitle: "AI動画ツール5種を比較:守備範囲の整理"
 description: "動画を「生成する」ツールと「編集を助ける」ツールは別物です。Runway・Pika・CapCut・Descript・Opus Clipを工程別に整理し、どこにAIを入れると効くのかを解説します。"
 pubDate: 2026-09-01
 category: "動画編集AI"
@@ -66,7 +67,7 @@ CapCutは無料でも実用範囲です。生成系(Runway・Pika)は無料枠�
 
 ## 関連する無料ツール
 
-[動画ファイルサイズ計算ツール](/tools/video-size-calculator/) — 再生時間とビットレートから書き出しサイズを概算し、容量上限に収めるための必要ビットレートを逆算できます。
+工程をまたぐと、書き出しサイズが想定を超えることがあります。[動画ファイルサイズ計算ツール](/tools/video-size-calculator/)で、再生時間とビットレートからサイズを概算し、容量上限に収める必要ビットレートを逆算できます。
 
 <div class="affiliate-box" data-pr="videoproc">
   <p><strong>PR</strong>｜工程の間をつなぐ変換・圧縮</p>

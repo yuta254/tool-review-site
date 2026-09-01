@@ -1,5 +1,6 @@
 ---
 title: "Manus AIレビュー：自律型AIエージェントの実力と任せきりにできない理由"
+seoTitle: "Manus AIレビュー:任せきりにできない理由"
 description: "指示を受けて調査・資料作成まで自律実行するManus AIの強みと、過信できないリスクを解説します。"
 pubDate: 2026-07-06
 category: "AIエージェント"

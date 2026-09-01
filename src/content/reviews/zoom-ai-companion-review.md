@@ -1,5 +1,6 @@
 ---
 title: "Zoom AI Companionは会議の「後処理」をどれだけ楽にするか"
+seoTitle: "Zoom AI Companionレビュー:会議の後処理"
 description: "オンライン商談・社内会議が多い人向けに、Zoom AI Companionの要約・フォローアップ機能を検証します。"
 pubDate: 2026-07-02
 category: "業務効率化"

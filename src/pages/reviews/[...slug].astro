@@ -68,7 +68,7 @@ const jsonLd = {
   '@graph': faqLd ? [articleLd, breadcrumbLd, faqLd] : [articleLd, breadcrumbLd],
 };
 ---
-<BaseLayout title={review.data.title} description={review.data.description} jsonLd={jsonLd}>
+<BaseLayout title={review.data.seoTitle ?? review.data.title} description={review.data.description} jsonLd={jsonLd}>
   <p class="meta">
     <a class="tag" href={categoryPath(review.data.category)}>{review.data.category}</a>
     {review.data.pubDate.toLocaleDateString('ja-JP')}

@@ -1,5 +1,6 @@
 ---
 title: "QuillBotレビュー:言い換え(パラフレーズ)は英語論文・レポートでどこまで使えるか"
+seoTitle: "QuillBotレビュー:英語の言い換えの実力"
 description: "パラフレーズ機能が中心のQuillBotを、英語論文・レポート執筆での活用を軸にレビューします。"
 pubDate: 2026-07-06
 category: "ライティング支援"

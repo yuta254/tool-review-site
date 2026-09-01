@@ -1,5 +1,6 @@
 ---
 title: "Windsurf（Codeium）レビュー：Cascadeが切り拓く自律型コーディングの現在地"
+seoTitle: "Windsurfレビュー:Cascadeの自律コーディング"
 description: "VS CodeベースのAIエディタWindsurfを、独自機能「Cascade」の自律編集を中心に整理したレビュー。"
 pubDate: 2026-07-05
 category: "開発ツール"

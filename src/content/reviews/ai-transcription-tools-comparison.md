@@ -1,5 +1,6 @@
 ---
 title: "Otter.ai・Fireflies.ai・Zoom AI Companion・Krisp徹底比較:AI文字起こしはどれを選ぶべきか"
+seoTitle: "AI文字起こしツール4種を比較:選び方"
 description: "会議の文字起こし・要約を担うAIツール4種を、対応する会議形態・議事録の粒度・料金の考え方から比較し、用途別の選び方を整理します。"
 pubDate: 2026-09-01
 category: "議事録AI"

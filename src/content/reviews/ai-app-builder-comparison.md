@@ -1,5 +1,6 @@
 ---
 title: "Bolt.new・v0・Framer AI・Replit Agent徹底比較:プロンプトから作れるのはどこまでか"
+seoTitle: "AIアプリ生成4種を比較:どこまで作れるか"
 description: "プロンプトからWebサイトやアプリを生成する4つのツールを、出力の粒度・公開までの距離・エンジニアの関与度から比較し、用途別の選び方を整理します。"
 pubDate: 2026-09-01
 category: "サイト制作AI"

@@ -1,5 +1,6 @@
 ---
 title: "Adobe Fireflyレビュー：商用利用の安心感が武器のAI画像生成"
+seoTitle: "Adobe Fireflyレビュー:商用利用の安心感"
 description: "Adobe FireflyはStock由来の学習データと商用利用のしやすさが特徴のAI画像生成ツールを実際の観点から評価"
 pubDate: 2026-07-05
 category: "画像生成AI"
@@ -51,7 +52,7 @@ Adobe FireflyはAdobe Stockやライセンス許諾済みコンテンツを中�
 
 ## 関連する無料ツール
 
-[画像サイズ・印刷解像度チェッカー](/tools/image-size-checker/) — 手元の画像が何cmまで印刷に耐えるか、足りない場合は何倍の拡大が必要かをその場で確認できます。ファイルはアップロードされず、ブラウザ内だけで処理されます。
+商用利用の条件が整っていても、解像度が足りなければ入稿できません。[画像サイズ・印刷解像度チェッカー](/tools/image-size-checker/)で、生成物が想定の印刷サイズに耐えるかを先に確かめられます。
 
 <div class="affiliate-box" data-pr="aiarty">
   <p><strong>PR</strong>｜生成物を印刷用の解像度まで引き上げたい</p>

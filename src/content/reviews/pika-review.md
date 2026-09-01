@@ -1,5 +1,6 @@
 ---
 title: "Pikaレビュー:テキスト・画像からユニークな短編動画を作れるAI動画生成ツール"
+seoTitle: "Pikaレビュー:短編動画を作るAI"
 description: "Pikaはテキストや画像から短い動画を手軽に作れるAI動画生成ツールです。特徴的な演出効果Pikaffectsの魅力から、得意な用途、過信は禁物な弱点まで実務目線で丁寧に解説します。"
 pubDate: 2026-07-03
 category: "動画生成AI"
@@ -56,7 +57,7 @@ Pikaは、テキストプロンプトや一枚の画像、あるいはその組�
 
 ## 関連する無料ツール
 
-[動画ファイルサイズ計算ツール](/tools/video-size-calculator/) — 再生時間とビットレートから書き出しサイズを概算し、容量上限に収めるための必要ビットレートを逆算できます。
+短いクリップでも、つないだ後の総容量は膨らみます。[動画ファイルサイズ計算ツール](/tools/video-size-calculator/)で、完成尺での見込みを先に出せます。
 
 <div class="affiliate-box" data-pr="videoproc">
   <p><strong>PR</strong>｜生成した短尺クリップをつなぐ前工程</p>

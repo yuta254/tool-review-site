@@ -1,5 +1,6 @@
 ---
 title: "Motion・Reclaim.ai・Todoist AI Assistant徹底比較：AIタスク管理はどこまで任せるべきか"
+seoTitle: "AIタスク管理3種を比較:どこまで任せるか"
 description: "AIでタスク・スケジュールを管理するMotion、Reclaim.ai、Todoist AI Assistantを、自動化の度合いと導入のしやすさで比較。"
 pubDate: 2026-07-05
 category: "タスク管理AI"

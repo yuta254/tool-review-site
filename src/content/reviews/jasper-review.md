@@ -1,5 +1,6 @@
 ---
 title: "Jasperレビュー:マーケティング特化のAIライティングは実務でどこまで使えるか"
+seoTitle: "Jasperレビュー:マーケ特化AIライティング"
 description: "広告文やLPなどマーケコピーに特化したAIライティングツールJasperの強みと限界を検証します。"
 pubDate: 2026-07-04
 category: "マーケティング"

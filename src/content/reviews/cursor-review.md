@@ -1,5 +1,6 @@
 ---
 title: "Cursorレビュー:VS Code育ちのAIファーストエディタは実務で使えるか"
+seoTitle: "Cursorレビュー:AIファーストエディタの実力"
 description: "AIチャットとエージェント機能を核とするコードエディタCursorを、実務利用の観点で率直にレビューします。"
 pubDate: 2026-07-04
 category: "開発ツール"

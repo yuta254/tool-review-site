@@ -1,5 +1,6 @@
 ---
 title: "Amazon Q Developerレビュー:AWS環境に強いコーディング支援AIの実力"
+seoTitle: "Amazon Q Developerレビュー:AWSに強いAI"
 description: "AWS公式のAIコーディング支援ツールAmazon Q Developerについて、AWS連携の強さやレガシーコードのコード変換機能を中心に、得意分野と過信すべきでない点を整理して解説します。"
 pubDate: 2026-07-03
 category: "開発ツール"

@@ -1,5 +1,6 @@
 ---
 title: "Google Geminiレビュー:Google連携と検索の強さで選ぶAIチャット"
+seoTitle: "Google Geminiレビュー:Google連携の強み"
 description: "GmailやDocsとの連携、検索に基づく最新情報の反映が魅力のGoogle Geminiを実際の使い勝手から評価します。"
 pubDate: 2026-07-05
 category: "AIチャット"

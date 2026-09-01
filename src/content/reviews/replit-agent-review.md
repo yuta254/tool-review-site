@@ -1,5 +1,6 @@
 ---
 title: "Replit Agentレビュー：プロンプトだけでアプリが完成する新体験は本物か"
+seoTitle: "Replit Agentレビュー:指示だけでアプリ"
 description: "自然言語だけでアプリを構築・公開できるReplit Agentの実力と注意点を正直にレビューします。"
 pubDate: 2026-07-05
 category: "開発ツール"

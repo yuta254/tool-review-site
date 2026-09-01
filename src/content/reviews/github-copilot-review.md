@@ -1,5 +1,6 @@
 ---
 title: "GitHub Copilotレビュー:導入して分かった実際の生産性への効果"
+seoTitle: "GitHub Copilotレビュー:生産性への効果"
 description: "GitHub Copilotの実力を、日々の開発フローの中でどう役立つかという観点でレビューします。"
 pubDate: 2026-07-01
 category: "開発ツール"

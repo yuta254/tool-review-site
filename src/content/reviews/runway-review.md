@@ -1,5 +1,6 @@
 ---
 title: "Runwayレビュー:テキスト・画像から動画を生み出すAI動画生成ツール"
+seoTitle: "Runwayレビュー:テキストから動画を生成"
 description: "テキストや静止画から短い動画を生成できるRunwayの強みと使いどころを実務目線で検証します。"
 pubDate: 2026-07-04
 category: "動画生成AI"
@@ -51,7 +52,7 @@ Runwayは、テキストや一枚の画像から数秒〜数十秒の動画を�
 
 ## 関連する無料ツール
 
-[動画ファイルサイズ計算ツール](/tools/video-size-calculator/) — 再生時間とビットレートから書き出しサイズを概算し、容量上限に収めるための必要ビットレートを逆算できます。
+Runwayの出力は高品質な分だけ重くなります。[動画ファイルサイズ計算ツール](/tools/video-size-calculator/)で、共有や入稿の容量制限に収まるかを確認できます。
 
 <div class="affiliate-box" data-pr="videoproc">
   <p><strong>PR</strong>｜書き出し後の変換・圧縮を軽くしたいとき</p>

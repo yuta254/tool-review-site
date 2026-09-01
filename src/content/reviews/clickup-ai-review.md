@@ -1,5 +1,6 @@
 ---
 title: "ClickUp AIレビュー：プロジェクト管理に溶け込むAI機能は本物か"
+seoTitle: "ClickUp AIレビュー:プロジェクト管理AI"
 description: "ClickUpに組み込まれたAI機能を、タスク要約や進捗レポート生成の実用性を軸に正直に評価する。"
 pubDate: 2026-07-05
 category: "プロジェクト管理AI"

@@ -1,5 +1,6 @@
 ---
 title: "Superhuman徹底レビュー:キーボード操作とAIで受信箱を高速処理する有料メールクライアント"
+seoTitle: "Superhumanレビュー:AIで受信箱を高速処理"
 description: "キーボードショートカットとAI機能でメール処理を高速化するSuperhumanの実力と注意点を正直にレビュー。"
 pubDate: 2026-07-05
 category: "メール効率化"

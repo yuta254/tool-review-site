@@ -1,5 +1,6 @@
 ---
 title: "Microsoft 365 Copilot・Notion AI・Slack AI・Zoom AI Companion徹底比較:既存ツール内蔵AIはどれが効くか"
+seoTitle: "既存ツール内蔵AI 4種を比較:どれが効くか"
 description: "業務ツールに後付けされたAI機能4種を、効きやすい条件と導入前に潰しておくべき前提から比較します。単体のAIを足すより、使っているツールの中で完結するほうが定着します。"
 pubDate: 2026-09-01
 category: "業務効率化"

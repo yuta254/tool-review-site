@@ -1,5 +1,6 @@
 ---
 title: "Photoroomレビュー：EC出品者の商品写真編集を時短するAIツール"
+seoTitle: "Photoroomレビュー:商品写真の編集を時短"
 description: "背景除去とAI背景生成で商品写真を素早く仕上げられるPhotoroomの実力と注意点を整理したレビュー。"
 pubDate: 2026-07-05
 category: "画像編集AI"
@@ -51,7 +52,7 @@ Photoroomは、商品写真の背景除去とAIによる背景生成を手軽に
 
 ## 関連する無料ツール
 
-[画像サイズ・印刷解像度チェッカー](/tools/image-size-checker/) — 手元の画像が何cmまで印刷に耐えるか、足りない場合は何倍の拡大が必要かをその場で確認できます。ファイルはアップロードされず、ブラウザ内だけで処理されます。
+背景を整えても、元写真の画素数が足りなければ商品ページで粗く見えます。[画像サイズ・印刷解像度チェッカー](/tools/image-size-checker/)で、手元の写真が必要なサイズに耐えるかを確認できます。
 
 <div class="affiliate-box" data-pr="aiarty">
   <p><strong>PR</strong>｜元の写真そのものが粗いとき</p>

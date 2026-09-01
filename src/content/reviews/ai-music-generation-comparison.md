@@ -1,5 +1,6 @@
 ---
 title: "Suno・Udio徹底比較:AI音楽生成は商用コンテンツで使えるところまで来たか"
+seoTitle: "Suno・Udio比較:AI音楽は商用で使えるか"
 description: "テキストから楽曲を生成するSunoとUdioを、音質・ジャンル表現・商用利用の条件から比較し、動画BGMなど実務で使う際の注意点を整理します。"
 pubDate: 2026-09-01
 category: "音楽生成AI"

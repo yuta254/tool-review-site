@@ -1,5 +1,6 @@
 ---
 title: "Leonardo AIレビュー:ゲーム素材制作に強い画像生成AIの実力を検証"
+seoTitle: "Leonardo AIレビュー:ゲーム素材に強い"
 description: "Canva傘下の画像生成AI「Leonardo AI」を、ゲームアセット制作やファインチューニング機能を中心に業務利用の観点から解説します。"
 pubDate: 2026-07-03
 category: "画像生成AI"
@@ -55,7 +56,7 @@ Leonardo AIは、キャラクターコンセプトやアイテムアイコン、
 
 ## 関連する無料ツール
 
-[画像サイズ・印刷解像度チェッカー](/tools/image-size-checker/) — 手元の画像が何cmまで印刷に耐えるか、足りない場合は何倍の拡大が必要かをその場で確認できます。ファイルはアップロードされず、ブラウザ内だけで処理されます。
+アセットは後から拡大して使う場面が出てきます。[画像サイズ・印刷解像度チェッカー](/tools/image-size-checker/)で、必要なサイズに対して画素数が足りているかを確認できます。
 
 <div class="affiliate-box" data-pr="aiarty">
   <p><strong>PR</strong>｜アセットを高解像度で書き出したいとき</p>

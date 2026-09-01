@@ -1,5 +1,6 @@
 ---
 title: "Perplexity・Consensus・Genspark・NotebookLM徹底比較:リサーチ用AIはどれを選ぶべきか"
+seoTitle: "リサーチ用AI 4種を比較:どれを選ぶか"
 description: "検索特化型AI4サービスを、一般的な調べ物・論文検索・レポート生成・資料読み込みの用途別に比較します。"
 pubDate: 2026-07-05
 category: "リサーチ"

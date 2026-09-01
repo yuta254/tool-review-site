@@ -1,5 +1,6 @@
 ---
 title: "Microsoft 365 Copilotレビュー:Word・Excel・Teamsでの実力は"
+seoTitle: "Microsoft 365 Copilotレビュー"
 description: "Word/Excel/PowerPoint/Outlook/Teamsに統合されたMicrosoft Copilotを、日常業務での使い勝手の観点でレビューします。"
 pubDate: 2026-07-06
 category: "業務効率化"

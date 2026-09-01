@@ -1,5 +1,6 @@
 ---
 title: "Devin AIレビュー：自律型AIソフトウェアエンジニアは実務で使えるか"
+seoTitle: "Devin AIレビュー:自律型AIエンジニア"
 description: "要件を渡すだけで実装・デバッグまで自律的に行うDevin AIの実力と、任せきりにできない理由を解説します。"
 pubDate: 2026-07-06
 category: "AIエージェント"

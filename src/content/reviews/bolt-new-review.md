@@ -1,5 +1,6 @@
 ---
 title: "Bolt.newレビュー：ブラウザだけでフルスタックアプリを一気に形にするAIビルダー"
+seoTitle: "Bolt.newレビュー:ブラウザでアプリ生成"
 description: "StackBlitzのBolt.newで、フルスタックアプリをブラウザ完結で素早く作れるかを検証します。"
 pubDate: 2026-07-06
 category: "UI生成AI"

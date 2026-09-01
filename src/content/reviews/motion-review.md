@@ -1,5 +1,6 @@
 ---
 title: "Motionレビュー：AIがカレンダーを自動で埋めてくれるタスク管理アプリの実力"
+seoTitle: "Motionレビュー:AIが予定を自動で埋める"
 description: "AIがタスクと予定を自動でカレンダーに配置するMotionを、得意なことと過信禁物な点の両面からレビュー。"
 pubDate: 2026-07-05
 category: "タスク管理AI"

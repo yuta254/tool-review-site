@@ -1,5 +1,6 @@
 ---
 title: "HeyGenレビュー：AIアバターが台本を読み上げる動画生成ツールの実力"
+seoTitle: "HeyGenレビュー:AIアバター動画の実力"
 description: "HeyGenはテキスト台本からAIアバター動画を作れるツール。使いどころと注意点を整理します。"
 pubDate: 2026-07-05
 category: "AIアバター動画"
@@ -51,7 +52,7 @@ HeyGenは、テキスト台本を入力するだけでAIアバターが読み上
 
 ## 関連する無料ツール
 
-[動画ファイルサイズ計算ツール](/tools/video-size-calculator/) — 再生時間とビットレートから書き出しサイズを概算し、容量上限に収めるための必要ビットレートを逆算できます。
+納品先の容量制限に合わせる工程が必ず発生します。[動画ファイルサイズ計算ツール](/tools/video-size-calculator/)で、必要なビットレートを逆算できます。
 
 <div class="affiliate-box" data-pr="videoproc">
   <p><strong>PR</strong>｜納品形式に合わせて変換したいとき</p>

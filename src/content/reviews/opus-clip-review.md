@@ -1,5 +1,6 @@
 ---
 title: "Opus Clipレビュー：長尺動画からバズりそうな切り抜きをAIが自動生成"
+seoTitle: "Opus Clipレビュー:切り抜きを自動生成"
 description: "YouTube等の長尺動画から切り抜きを自動生成するOpus Clipの精度と限界を検証します。"
 pubDate: 2026-07-06
 category: "動画編集AI"
@@ -54,7 +55,7 @@ Opus Clipは、YouTube動画やウェビナー、ポッドキャスト映像な�
 
 ## 関連する無料ツール
 
-[動画ファイルサイズ計算ツール](/tools/video-size-calculator/) — 再生時間とビットレートから書き出しサイズを概算し、容量上限に収めるための必要ビットレートを逆算できます。
+切り抜きを量産すると、1本ずつの容量が効いてきます。[動画ファイルサイズ計算ツール](/tools/video-size-calculator/)で、必要なビットレートを逆算できます。
 
 <div class="affiliate-box" data-pr="videoproc">
   <p><strong>PR</strong>｜切り抜き前後のファイル変換をまとめたいとき</p>

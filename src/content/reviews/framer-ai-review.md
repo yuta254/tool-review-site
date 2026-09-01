@@ -1,5 +1,6 @@
 ---
 title: "Framer AIレビュー：プロンプトから本格デザインサイトを一発生成できるか"
+seoTitle: "Framer AIレビュー:デザインサイト生成"
 description: "AIでサイトを自動生成し、その後は本格的なビジュアルエディタで仕上げられるFramer AIを実際の視点で解説。"
 pubDate: 2026-07-05
 category: "サイト制作AI"

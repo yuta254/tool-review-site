@@ -1,5 +1,6 @@
 ---
 title: "Murf AIレビュー：研修教材・ビジネスプレゼン向けのナレーション生成AI"
+seoTitle: "Murf AIレビュー:研修向けナレーション生成"
 description: "Murf AIをeラーニング教材やスライドナレーション用途で試し、実務での使い勝手と限界を解説します。"
 pubDate: 2026-07-06
 category: "音声AI"

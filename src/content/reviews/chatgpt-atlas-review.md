@@ -1,5 +1,6 @@
 ---
 title: "ChatGPT Atlasレビュー:OpenAI製AIブラウザは『使えるChatGPT』の延長として優秀"
+seoTitle: "ChatGPT Atlasレビュー:OpenAI製AIブラウザ"
 description: "OpenAIのAIブラウザ「ChatGPT Atlas」をレビュー。エージェント操作の実力とCometとの違いを整理。"
 pubDate: 2026-07-06
 category: "AIブラウザ"

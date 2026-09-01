@@ -1,5 +1,6 @@
 ---
 title: "CapCutレビュー:AI機能で動画編集とSNSコンテンツ制作を効率化するアプリ"
+seoTitle: "CapCutレビュー:AIで動画編集を効率化"
 description: "TikTok運営元発の動画編集アプリCapCutについて、字幕自動生成や背景除去、自動リフレームなど豊富なAI機能の実力と、有料プランや精度面で過信できない点をあわせて整理して解説します。"
 pubDate: 2026-07-03
 category: "動画編集AI"
@@ -55,7 +56,7 @@ SNS向けの編集なら無料版で実用範囲です。有料が効いてく�
 
 ## 関連する無料ツール
 
-[動画ファイルサイズ計算ツール](/tools/video-size-calculator/) — 再生時間とビットレートから書き出しサイズを概算し、容量上限に収めるための必要ビットレートを逆算できます。
+SNSごとに容量やビットレートの制限が違います。[動画ファイルサイズ計算ツール](/tools/video-size-calculator/)で、書き出し設定が上限に収まるかを事前に確認できます。
 
 <div class="affiliate-box" data-pr="videoproc">
   <p><strong>PR</strong>｜書き出し形式や画面収録で詰まったとき</p>

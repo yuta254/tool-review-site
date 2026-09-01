@@ -1,5 +1,6 @@
 ---
 title: "Grammarly・QuillBot・DeepL・Jasper・Copy.ai徹底比較:英文と日本語、どの工程にAIを入れるか"
+seoTitle: "AIライティング・英文校正 5種を比較"
 description: "書く・言い換える・訳す・整えるという工程ごとに、Grammarly・QuillBot・DeepL・Jasper・Copy.aiの守備範囲を整理し、重複投資を避ける選び方を解説します。"
 pubDate: 2026-09-01
 category: "ライティング支援"
