@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import AdSlot from '../../components/AdSlot.astro';
+import AffiliateDisclosure from '../../components/AffiliateDisclosure.astro';
 import { affiliateUrl, affiliatePixel } from '../../lib/affiliates';
 ---
 <BaseLayout
@@ -8,6 +9,7 @@ import { affiliateUrl, affiliatePixel } from '../../lib/affiliates';
   description="ビットレートと再生時間から動画のファイルサイズを概算し、逆に容量上限に収めるための必要ビットレートも計算できる無料ツールです。"
 >
   <h1>動画ファイルサイズ計算ツール</h1>
+  <AffiliateDisclosure hasAds />
   <p>
     「この長さ・この画質で書き出すと何MBになるか」「この容量に収めるには何kbpsにすればいいか」を計算します。
     アップロード先の容量制限に引っかかる前の確認に使えます。

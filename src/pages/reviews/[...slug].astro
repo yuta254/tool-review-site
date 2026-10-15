@@ -18,6 +18,9 @@ export async function getStaticPaths() {
 const { review, allReviews } = Astro.props;
 const { Content } = await render(review);
 
+// 本文に広告ボックスがある記事は、冒頭の広告表記を「含みます」と言い切る形にする
+const hasAds = (review.body ?? '').includes('class="affiliate-box"');
+
 const pageUrl = new URL(`/reviews/${review.id}/`, Astro.site).toString();
 const publisher = {
   '@type': 'Organization',
@@ -75,7 +78,7 @@ const jsonLd = {
   </p>
   <h1>{review.data.title}</h1>
 
-  {review.data.affiliateDisclosure && <AffiliateDisclosure />}
+  {review.data.affiliateDisclosure && <AffiliateDisclosure hasAds={hasAds} />}
 
   <article>
     <Content />

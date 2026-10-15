@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import AdSlot from '../../components/AdSlot.astro';
+import AffiliateDisclosure from '../../components/AffiliateDisclosure.astro';
 import { affiliateUrl, affiliatePixel } from '../../lib/affiliates';
 ---
 <BaseLayout
@@ -8,6 +9,7 @@ import { affiliateUrl, affiliatePixel } from '../../lib/affiliates';
   description="画像のピクセル数から、印刷したときに何cmまで耐えられるかを判定する無料ツール。アップロードは行わず、すべてブラウザ内で処理します。"
 >
   <h1>画像サイズ・印刷解像度チェッカー</h1>
+  <AffiliateDisclosure hasAds />
   <p>
     画像を選ぶと、ピクセル数と「その画像が印刷で何cmまで耐えられるか」を表示します。
     生成AIで作った画像をチラシやポスターに使う前の確認に使えます。
