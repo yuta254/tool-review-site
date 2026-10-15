@@ -1,8 +1,9 @@
 ---
-title: "ChatGPT Plus・Claude Pro・Gemini Advanced徹底比較【2026年版】"
+title: "ChatGPT Plus・Claude Pro・Google AI Pro(Gemini)徹底比較【2026年版】"
 seoTitle: "ChatGPT・Claude・Gemini比較【2026年版】"
 description: "主要AIチャットサービス3社を、用途別・料金別・得意分野別に比較。あなたに合うツールが分かります。"
 pubDate: 2026-07-01
+updatedDate: 2026-10-15
 category: "AIチャット"
 tags: ["ChatGPT", "Claude", "Gemini", "比較"]
 ---
@@ -11,9 +12,9 @@ tags: ["ChatGPT", "Claude", "Gemini", "比較"]
 
 - **文章作成・要約・日常的な相談**なら ChatGPT Plus が万能で使いやすい
 - **長文の読解・コーディング・複雑な指示への追従**なら Claude Pro が安定して強い
-- **Googleサービス連携(Gmail・スプレッドシート等)を重視**なら Gemini Advanced が便利
+- **Googleサービス連携(Gmail・スプレッドシート等)を重視**なら Google AI Pro(Gemini) が便利
 
-料金プランは各社頻繁に見直されるため、契約前に必ず公式サイトの最新情報を確認してください。
+Geminiの個人向け有料プランは、以前の「Gemini Advanced」から名称が変わり、2026年10月時点の公式ページではGoogle AI Plus・Pro・Ultraの3段階です。本記事ではそのうちGoogle AI Proを比較対象にしています。料金プランは各社頻繁に見直されるため、契約前に必ず公式サイトの最新情報を確認してください。
 
 ## 比較の観点
 
@@ -31,7 +32,7 @@ OpenAIが提供する定番サービス。対話の自然さ、プラグイン�
 
 Anthropicが提供するサービス。長い文書やコードベース全体を渡しても文脈を保ったまま処理できる点、指示(プロンプト)に忠実に応答する精度の高さで評価されています。開発者やライター、リサーチ用途で選ばれる傾向があります。
 
-### Gemini Advanced
+### Google AI Pro(Gemini)
 
 Googleが提供するサービス。Gmail・ドキュメント・スプレッドシートなどGoogle Workspaceとの統合が強みです。普段からGoogleのエコシステムを使っている人にとって導入の障壁が低いのが利点です。
 
@@ -41,7 +42,7 @@ Googleが提供するサービス。Gmail・ドキュメント・スプレッド
 | --- | --- |
 | はじめてAIチャットを使う | ChatGPT Plus |
 | コード・長文資料を扱う仕事 | Claude Pro |
-| Google Workspaceをフル活用中 | Gemini Advanced |
+| Google Workspaceをフル活用中 | Google AI Pro(Gemini) |
 
 比較検討の際は、無料の[AIトークン数カウンター](/tools/token-counter/)で各モデルに渡す文章のトークン数を確認しつつ、[AI API料金計算ツール](/tools/ai-api-cost-calculator/)でAPI利用時のコストを試算しておくと、実際の使用感だけでなく費用面からも選びやすくなります。
 
