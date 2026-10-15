@@ -1,7 +1,7 @@
 ---
 title: "Todoist AI Assistant徹底レビュー：使い慣れたTodo管理に、ほどよいAIの手助け"
 seoTitle: "Todoist AI Assistantレビュー"
-description: "Todoistの自然言語入力やタスク分解提案などAI機能を、シンプルさ重視の観点から honest にレビュー。"
+description: "Todoistの自然言語入力やタスク分解提案などAI機能を、シンプルさ重視の観点から正直にレビュー。"
 pubDate: 2026-07-05
 category: "タスク管理AI"
 tags: ["Todoist", "タスク管理", "AIアシスタント", "ToDoリスト", "生産性"]
