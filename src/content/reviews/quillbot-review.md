@@ -52,8 +52,8 @@ QuillBotは、英文の「言い換え(パラフレーズ)」を軸にしたラ�
 
 <div class="affiliate-box" data-pr="idbusiness">
   <p><strong>PR</strong>｜言い換えた英文の妥当性を確かめたいとき</p>
-  <p>QuillBotの言い換えは滑らかですが、元の意味が保たれているか、その文脈で自然かは別の判断です。人によるネイティブチェックを外注する選択肢として <a data-pr="idbusiness" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+61WO6Q+2KSK+C0QPE" rel="nofollow">アイディービジネス</a> があります。</p>
+  <p>QuillBotの言い換えは滑らかですが、元の意味が保たれているか、その文脈で自然かは別の判断です。人によるネイティブチェックを外注する選択肢として <a data-pr="idbusiness" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+61WO6Q+2KSK+C0QPE" rel="sponsored nofollow">アイディービジネス</a> があります。</p>
   <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="idbusiness" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+61WO6Q+2KSK+C0QPE" rel="nofollow">アイディービジネス 公式サイト</a>
+  <a class="cta" data-pr="idbusiness" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+61WO6Q+2KSK+C0QPE" rel="sponsored nofollow">アイディービジネス 公式サイト</a>
   <img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4BC0UI+61WO6Q+2KSK+C0QPE" alt="" data-pr="idbusiness">
 </div>

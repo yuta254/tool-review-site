@@ -71,8 +71,8 @@ Adobe Stockやライセンス許諾済みコンテンツを中心に学習して
 
 <div class="affiliate-box" data-pr="aiarty">
   <p><strong>PR</strong>｜生成した画像の解像度が足りないとき</p>
-  <p>生成AIの出力をそのまま印刷物や大きなバナーに使うと、解像度不足やノイズ・輪郭のにじみが目立つことがあります。この後処理に特化したツールのひとつが <a data-pr="aiarty" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="nofollow">【Aiarty Image Enhancer】</a> です。ノイズ除去・ピンボケ補正・最大32倍のロスレス拡大に対応しています。</p>
+  <p>生成AIの出力をそのまま印刷物や大きなバナーに使うと、解像度不足やノイズ・輪郭のにじみが目立つことがあります。この後処理に特化したツールのひとつが <a data-pr="aiarty" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="sponsored nofollow">【Aiarty Image Enhancer】</a> です。ノイズ除去・ピンボケ補正・最大32倍のロスレス拡大に対応しています。</p>
   <p><em>※当サイトでは未検証です。対応形式・動作環境・料金は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="aiarty" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="nofollow">Aiarty Image Enhancer 公式サイト</a>
+  <a class="cta" data-pr="aiarty" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="sponsored nofollow">Aiarty Image Enhancer 公式サイト</a>
   <img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+EVUWI+428G+HVFKY" alt="" data-pr="aiarty">
 </div>

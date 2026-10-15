@@ -52,8 +52,8 @@ Framerは完成したWebサイト、v0はコンポーネント、Bolt.newは動�
 
 <div class="affiliate-box" data-pr="onamae">
   <p><strong>PR</strong>｜独自ドメインと自前サーバーで運用したい場合</p>
-  <p>Framerはホスティングまで含めて完結しますが、独自ドメインで運用したい、将来的に自前のサーバーへ移したい、という要件が出てくることがあります。国内のレンタルサーバーの選択肢として <a data-pr="onamae" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5Q0036+50+35CAFM" rel="nofollow">お名前.com レンタルサーバー</a> があります。</p>
+  <p>Framerはホスティングまで含めて完結しますが、独自ドメインで運用したい、将来的に自前のサーバーへ移したい、という要件が出てくることがあります。国内のレンタルサーバーの選択肢として <a data-pr="onamae" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5Q0036+50+35CAFM" rel="sponsored nofollow">お名前.com レンタルサーバー</a> があります。</p>
   <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="onamae" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5Q0036+50+35CAFM" rel="nofollow">お名前.com レンタルサーバー</a>
+  <a class="cta" data-pr="onamae" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5Q0036+50+35CAFM" rel="sponsored nofollow">お名前.com レンタルサーバー</a>
   <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BC0UI+5Q0036+50+35CAFM" alt="" data-pr="onamae">
 </div>

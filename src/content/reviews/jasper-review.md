@@ -54,8 +54,8 @@ Jasperは、広告文・LPコピー・ブログ記事・SNS投稿など、マー
 
 <div class="affiliate-box" data-pr="idbusiness">
   <p><strong>PR</strong>｜生成した英語コピーを外に出す前に</p>
-  <p>Jasperが出す英語コピーは形になりますが、業界特有の言い回しやブランドのトーンとして適切かは別の判断です。広告やLPなど外向けの英文で、人によるネイティブチェックを外注する選択肢として <a data-pr="idbusiness" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+61WO6Q+2KSK+C0QPE" rel="nofollow">363円からのネイティブチェックならアイディービジネス</a> があります。</p>
+  <p>Jasperが出す英語コピーは形になりますが、業界特有の言い回しやブランドのトーンとして適切かは別の判断です。広告やLPなど外向けの英文で、人によるネイティブチェックを外注する選択肢として <a data-pr="idbusiness" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+61WO6Q+2KSK+C0QPE" rel="sponsored nofollow">363円からのネイティブチェックならアイディービジネス</a> があります。</p>
   <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="idbusiness" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+61WO6Q+2KSK+C0QPE" rel="nofollow">アイディービジネス 公式サイト</a>
+  <a class="cta" data-pr="idbusiness" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+61WO6Q+2KSK+C0QPE" rel="sponsored nofollow">アイディービジネス 公式サイト</a>
   <img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4BC0UI+61WO6Q+2KSK+C0QPE" alt="" data-pr="idbusiness">
 </div>

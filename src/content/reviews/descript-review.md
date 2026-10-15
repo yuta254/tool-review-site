@@ -49,8 +49,8 @@ Descriptの最大の特徴は、動画を「文字起こしされたテキスト
 
 <div class="affiliate-box" data-pr="creatorsjapan">
   <p><strong>PR</strong>｜編集の基礎を体系的に身につけたいとき</p>
-  <p>Descriptは文字起こしベースで編集できるため入口は入りやすい一方で、カット割りやテロップ設計といった「編集の考え方」そのものはツールが教えてくれません。体系的に学ぶ選択肢として、動画編集スクール <a data-pr="creatorsjapan" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+633JEA+4LJQ+614CY" rel="nofollow">【クリエイターズジャパン】</a> のような講座があります。</p>
+  <p>Descriptは文字起こしベースで編集できるため入口は入りやすい一方で、カット割りやテロップ設計といった「編集の考え方」そのものはツールが教えてくれません。体系的に学ぶ選択肢として、動画編集スクール <a data-pr="creatorsjapan" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+633JEA+4LJQ+614CY" rel="sponsored nofollow">【クリエイターズジャパン】</a> のような講座があります。</p>
   <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="creatorsjapan" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+633JEA+4LJQ+614CY" rel="nofollow">クリエイターズジャパン 公式サイト</a>
+  <a class="cta" data-pr="creatorsjapan" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+633JEA+4LJQ+614CY" rel="sponsored nofollow">クリエイターズジャパン 公式サイト</a>
   <img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4BC0UI+633JEA+4LJQ+614CY" alt="" data-pr="creatorsjapan">
 </div>

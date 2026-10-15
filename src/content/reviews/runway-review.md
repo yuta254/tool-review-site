@@ -56,8 +56,8 @@ Runwayの出力は高品質な分だけ重くなります。[動画ファイル�
 
 <div class="affiliate-box" data-pr="videoproc">
   <p><strong>PR</strong>｜書き出し後の変換・圧縮を軽くしたいとき</p>
-  <p>Runwayの出力は高品質な分ファイルサイズが大きくなりがちで、そのままでは共有や入稿に不向きなことがあります。変換・圧縮・画面録画を1本で扱えるソフトとして <a data-pr="videoproc" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="nofollow">【VideoProc】</a> があります。</p>
+  <p>Runwayの出力は高品質な分ファイルサイズが大きくなりがちで、そのままでは共有や入稿に不向きなことがあります。変換・圧縮・画面録画を1本で扱えるソフトとして <a data-pr="videoproc" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="sponsored nofollow">【VideoProc】</a> があります。</p>
   <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="videoproc" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="nofollow">VideoProc 公式サイト</a>
+  <a class="cta" data-pr="videoproc" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="sponsored nofollow">VideoProc 公式サイト</a>
   <img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BC0UI+5I9D82+428G+C0YF6" alt="" data-pr="videoproc">
 </div>

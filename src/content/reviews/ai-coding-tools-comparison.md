@@ -84,8 +84,8 @@ AWSが提供するAIコーディング支援ツールで、旧CodeWhispererを�
 
 <div class="affiliate-box" data-pr="onamae">
   <p><strong>PR</strong>｜書いたものを動かす場所</p>
-  <p>コーディング支援AIは書く速度を上げますが、できたものを人に使ってもらう段階では公開先の環境が要ります。国内のレンタルサーバー・VPSの選択肢として <a data-pr="onamae" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5Q0036+50+35CAFM" rel="nofollow">お名前.com レンタルサーバー</a> があります。</p>
+  <p>コーディング支援AIは書く速度を上げますが、できたものを人に使ってもらう段階では公開先の環境が要ります。国内のレンタルサーバー・VPSの選択肢として <a data-pr="onamae" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5Q0036+50+35CAFM" rel="sponsored nofollow">お名前.com レンタルサーバー</a> があります。</p>
   <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="onamae" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5Q0036+50+35CAFM" rel="nofollow">お名前.com レンタルサーバー</a>
+  <a class="cta" data-pr="onamae" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5Q0036+50+35CAFM" rel="sponsored nofollow">お名前.com レンタルサーバー</a>
   <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BC0UI+5Q0036+50+35CAFM" alt="" data-pr="onamae">
 </div>

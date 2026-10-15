@@ -31,7 +31,7 @@ function rewrite(text) {
       .replace(/\s*rel="[^"]*"/g, '')
       .trim();
     const attrs = keep ? ` ${keep}` : '';
-    return `<a${attrs} data-pr="${key}" href="${linkUrl(a)}" rel="nofollow">`;
+    return `<a${attrs} data-pr="${key}" href="${linkUrl(a)}" rel="sponsored nofollow">`;
   });
 
   // 2) 計測用1x1画像。既にあれば行ごと差し替え、無ければ </div> の直前に追加

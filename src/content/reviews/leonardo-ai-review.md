@@ -60,8 +60,8 @@ Leonardo AIは、キャラクターコンセプトやアイテムアイコン、
 
 <div class="affiliate-box" data-pr="aiarty">
   <p><strong>PR</strong>｜アセットを高解像度で書き出したいとき</p>
-  <p>ゲームアセットやコンセプトアートは、後から拡大して使う場面が出てきます。生成後の拡大・ピンボケ補正に特化したツールとして <a data-pr="aiarty" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="nofollow">【Aiarty Image Enhancer】</a> があり、最大32倍のロスレス拡大に対応しています。</p>
+  <p>ゲームアセットやコンセプトアートは、後から拡大して使う場面が出てきます。生成後の拡大・ピンボケ補正に特化したツールとして <a data-pr="aiarty" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="sponsored nofollow">【Aiarty Image Enhancer】</a> があり、最大32倍のロスレス拡大に対応しています。</p>
   <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="aiarty" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="nofollow">Aiarty Image Enhancer 公式サイト</a>
+  <a class="cta" data-pr="aiarty" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="sponsored nofollow">Aiarty Image Enhancer 公式サイト</a>
   <img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+EVUWI+428G+HVFKY" alt="" data-pr="aiarty">
 </div>

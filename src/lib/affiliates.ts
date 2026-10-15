@@ -1,6 +1,6 @@
 // A8.netの提携プログラム。広告リンクを変更するときは、ここ1箇所だけを直す。
 // 記事側は <a data-pr="キー"> と <div class="affiliate-box" data-pr="キー"> だけを書き、
-// href・rel・計測用ピクセルはビルド時に rehype-affiliate.mjs が埋める。
+// href・rel・計測用ピクセルは scripts/sync-affiliates.mjs が書き込む(npm run affiliates:sync。build前に --check で照合)。
 export interface Affiliate {
   /** 表示名(記事の文言確認用。出力には使わない) */
   name: string;
