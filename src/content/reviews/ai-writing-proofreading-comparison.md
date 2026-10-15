@@ -68,7 +68,7 @@ tags: ["Grammarly", "QuillBot", "DeepL", "Jasper", "Copy.ai", "英文校正", "�
 
 <div class="affiliate-box" data-pr="idbusiness">
   <p><strong>PR</strong>｜機械チェックのあとに人の目を入れる</p>
-  <p>AI翻訳とAI校正を通しても、業界特有の言い回しや文書全体のトーンが適切かは別の判断になります。契約書や対外提案など「間違えられない英文」で、人によるネイティブチェックを外注する選択肢として <a data-pr="idbusiness" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+61WO6Q+2KSK+C0QPE" rel="sponsored nofollow">363円からのネイティブチェックならアイディービジネス</a> があります。</p>
+  <p>AI翻訳とAI校正を通しても、業界特有の言い回しや文書全体のトーンが適切かは別の判断になります。契約書や対外提案など「間違えられない英文」で、人によるネイティブチェックを外注する選択肢として <a data-pr="idbusiness" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+61WO6Q+2KSK+C0QPE" rel="sponsored nofollow">アイディービジネス</a> があります。</p>
   <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
   <a class="cta" data-pr="idbusiness" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+61WO6Q+2KSK+C0QPE" rel="sponsored nofollow">アイディービジネス 公式サイト</a>
   <img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4BC0UI+61WO6Q+2KSK+C0QPE" alt="" data-pr="idbusiness">

@@ -52,7 +52,7 @@ HeyGenは、テキスト台本を入力するだけでAIアバターが読み上
 
 ## 関連する無料ツール
 
-納品先の容量制限に合わせる工程が必ず発生します。[動画ファイルサイズ計算ツール](/tools/video-size-calculator/)で、必要なビットレートを逆算できます。
+納品先に容量制限がある場合は、それに合わせる工程が発生します。[動画ファイルサイズ計算ツール](/tools/video-size-calculator/)で、必要なビットレートを逆算できます。
 
 <div class="affiliate-box" data-pr="videoproc">
   <p><strong>PR</strong>｜納品形式に合わせて変換したいとき</p>

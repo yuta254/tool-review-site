@@ -56,7 +56,7 @@ Adobe FireflyはAdobe Stockやライセンス許諾済みコンテンツを中�
 
 <div class="affiliate-box" data-pr="aiarty">
   <p><strong>PR</strong>｜生成物を印刷用の解像度まで引き上げたい</p>
-  <p>Fireflyの出力はWeb用途では十分でも、チラシやポスターなど印刷物に回すと画素数が足りないことがあります。生成後の拡大・ノイズ除去に特化したツールとして <a data-pr="aiarty" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="sponsored nofollow">【Aiarty Image Enhancer】</a> があります。最大32倍のロスレス拡大とぼかし除去に対応しています。</p>
+  <p>Fireflyの出力はWeb用途では十分でも、チラシやポスターなど印刷物に回すと画素数が足りないことがあります。生成後の拡大・ノイズ除去に特化したツールとして <a data-pr="aiarty" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="sponsored nofollow">【Aiarty Image Enhancer】</a> があります。公式サイトによると、最大32K解像度までの拡大とぼかし除去に対応しています。</p>
   <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
   <a class="cta" data-pr="aiarty" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="sponsored nofollow">Aiarty Image Enhancer 公式サイト</a>
   <img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+EVUWI+428G+HVFKY" alt="" data-pr="aiarty">
