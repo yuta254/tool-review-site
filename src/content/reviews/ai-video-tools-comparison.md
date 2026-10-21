@@ -67,7 +67,7 @@ CapCutは無料でも実用範囲です。生成系(Runway・Pika)は無料枠�
 
 ## 関連する無料ツール
 
-工程をまたぐと、書き出しサイズが想定を超えることがあります。[動画ファイルサイズ計算ツール](/tools/video-size-calculator/)で、再生時間とビットレートからサイズを概算し、容量上限に収める必要ビットレートを逆算できます。
+工程をまたぐと、書き出しサイズが想定を超えることがあります。[動画ファイルサイズ計算ツール](/tools/video-size-calculator/)で、再生時間とビットレートからサイズを概算し、容量上限に収める必要ビットレートを逆算できます。変換・圧縮をまとめて扱うソフトの無料版の制限と料金は[VideoProc Converter AIの解説](/reviews/videoproc-converter-ai-review/)で整理しています。
 
 <div class="affiliate-box" data-pr="videoproc">
   <p><strong>PR</strong>｜工程の間をつなぐ変換・圧縮</p>
