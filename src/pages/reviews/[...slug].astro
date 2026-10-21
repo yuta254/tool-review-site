@@ -74,7 +74,8 @@ const jsonLd = {
 <BaseLayout title={review.data.seoTitle ?? review.data.title} description={review.data.description} jsonLd={jsonLd}>
   <p class="meta">
     <a class="tag" href={categoryPath(review.data.category)}>{review.data.category}</a>
-    {review.data.pubDate.toLocaleDateString('ja-JP')}
+    公開 {review.data.pubDate.toLocaleDateString('ja-JP')}
+    {review.data.updatedDate && <span>/ 更新 {review.data.updatedDate.toLocaleDateString('ja-JP')}</span>}
   </p>
   <h1>{review.data.title}</h1>
 
