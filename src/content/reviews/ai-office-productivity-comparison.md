@@ -24,7 +24,7 @@ tags: ["Microsoft 365 Copilot", "Notion AI", "Slack AI", "Zoom AI Companion", "�
 | Microsoft 365 Copilot | Word・Excel・Teamsに業務が集約されている | Google系と併用している | ファイルのアクセス権の棚卸し |
 | Notion AI | ワークスペースに正しい情報が整理されている | 書きかけ・古いページが同居している | どのページが正かの整理 |
 | Slack AI | 1チャンネル1話題が保たれている | 雑談と業務連絡が混在している | チャンネル設計、保存期間の確認 |
-| Zoom AI Companion | 会議がZoomに統一されている | Meet・Teamsが混在している | 契約プランが対象か確認 |
+| Zoom AI Companion(現在は「AI機能」とZoomMate) | 会議がZoomに統一されている | 会議の記録を別のツールで管理している | 契約プランとライセンスの割り当てを確認 |
 
 ## それぞれの位置づけ
 
@@ -42,7 +42,7 @@ WordやExcel、Teamsの中で完結する点が価値です。ただし**既存�
 
 ### Zoom AI Companion
 
-対象の有料プランに含まれる場合があり、**追加コストなしで始められる可能性がある**点が他と違います。一方、Zoom以外の会議には使えません。詳しくは[Zoom AI Companionレビュー](/reviews/zoom-ai-companion-review/)を参照してください。
+会議の要約などは対象の有料プランに**追加料金なしで含まれる**点が他と違います。「AI Companion」の名前は使われなくなり、今は有料プランの「AI機能」と、有料アドオンの「ZoomMate」に分かれています。AIメモ機能「My Notes」は Teams・Google Meet の会議にも対応すると公式に説明されています(2026年10月22日確認)。詳しくは[Zoom AI Companion(ZoomMate)の料金・無料版・違い](/reviews/zoom-ai-companion-review/)を参照してください。
 
 ## 単体ツールを足すべきか、内蔵で済ませるか
 

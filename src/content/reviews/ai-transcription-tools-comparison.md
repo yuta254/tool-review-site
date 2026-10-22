@@ -24,7 +24,7 @@ tags: ["Otter.ai", "Fireflies.ai", "Zoom AI Companion", "Krisp", "文字起こ�
 | --- | --- | --- | --- |
 | Otter.ai | オンライン会議・スマホ録音 | 汎用性が高く、個人利用の入口として使いやすい | 日本語の精度は英語ほどではなく、固有名詞の修正が要る |
 | Fireflies.ai | オンライン会議(営業通話) | CRM連携を前提とした記録の残し方ができる | チーム運用が前提で、個人単発だと機能が過剰 |
-| Zoom AI Companion | Zoom会議 | 既存プランに含まれる場合があり、追加コストが増えにくい | Zoom以外の会議には使えない |
+| Zoom AI Companion(現在は「AI機能」とZoomMate) | Zoom会議(My Notesは他社の会議・対面にも対応) | 有料プランに追加料金なしで含まれる | 他社の会議はMy Notes経由で、無料プランは月3回まで |
 | Krisp | 音声の前処理 | 入力ノイズを消して、他ツールの精度を底上げできる | それ自体は議事録を作らない |
 
 ## それぞれの位置づけ
@@ -39,7 +39,7 @@ tags: ["Otter.ai", "Fireflies.ai", "Zoom AI Companion", "Krisp", "文字起こ�
 
 ### Zoom AI Companion
 
-Zoomの中で完結する点が最大の利点です。既に上位プランを契約しているなら、追加の月額を増やさずに要約・アクションアイテム抽出まで到達できます。逆に、Google MeetやTeamsが混在する環境では守備範囲から外れます。詳しくは[Zoom AI Companionレビュー](/reviews/zoom-ai-companion-review/)を参照してください。
+Zoomの中で完結する点が最大の利点です。既に有料プランを契約しているなら、追加の月額を増やさずに要約・アクションアイテム抽出まで到達できます。なお「AI Companion」の名前は使われなくなり、今は有料プランに含まれる「AI機能」と、有料アドオンの「ZoomMate」に分かれています。また、AIメモ機能「My Notes」は Teams・Google Meet の会議や対面の会話にも対応すると公式に説明されています(2026年10月22日確認)。詳しくは[Zoom AI Companion(ZoomMate)の料金・無料版・違い](/reviews/zoom-ai-companion-review/)を参照してください。
 
 ### Krisp
 
