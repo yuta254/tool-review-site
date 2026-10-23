@@ -3,11 +3,14 @@ title: "NotebookLMは資料の「読み込み」作業をどれだけ肩代わ�
 seoTitle: "NotebookLMレビュー:資料の読み込みを任せる"
 description: "大量の資料・議事録・論文を扱う人向けに、Googleの NotebookLM の実力を検証します。"
 pubDate: 2026-07-03
+updatedDate: 2026-10-23
 category: "リサーチ"
 tags: ["NotebookLM", "Google", "リサーチ"]
 ---
 
 ## 総評
+
+※Google の公式サイトによると、**NotebookLM は2026年7月から「Gemini Notebook」に名前が変わりました**。これまでのノートブックはそのまま使えます。無料版と有料版(Google AI Plus 月725円など)の上限、Genspark・Perplexity との違いは[Genspark・Perplexity・NotebookLMの違い](/reviews/genspark-perplexity-notebooklm-difference/)にまとめています(2026年10月23日確認)。
 
 NotebookLMは、自分がアップロードした資料(PDF・議事録・メモなど)だけを情報源として、質問応答や要約を行ってくれるツールです。一般的なAIチャットと違い「アップロードした資料の外にある知識」を勝手に混ぜ込みにくい設計になっているため、社内資料の整理・把握に向いています。
 

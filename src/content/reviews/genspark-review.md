@@ -2,13 +2,16 @@
 title: "Gensparkの「Sparkpage」は検索の代わりになるか"
 description: "質問に対して複数情報源を横断しまとめページを自動生成するAI検索ツール、Gensparkを検証します。"
 pubDate: 2026-07-06
+updatedDate: 2026-10-23
 category: "リサーチ"
 tags: ["Genspark", "AI検索", "リサーチ", "Sparkpage"]
 ---
 
 ## 総評
 
-Gensparkは、質問を投げると複数のWebサイトや情報源を横断的に調べ、その内容を1枚の「Sparkpage」と呼ばれる独自のまとめページに自動生成してくれるAI検索・リサーチツールです。単に回答テキストを返すだけでなく、比較表や画像、関連リンクなどを組み合わせたページ形式でアウトプットされる点が特徴で、同じリサーチ系のPerplexityが「引用元付きの回答」を返すのに対し、Gensparkは「1本の記事・資料のような成果物」を作ってくれる感覚に近いです。検索から情報整理までの手間を一気に圧縮してくれる一方で、まとめページが自動生成されるがゆえに、内容を鵜呑みにしてよいかどうかは別問題だと感じました。
+Gensparkは、質問を投げると複数のWebサイトや情報源を横断的に調べ、その内容を1枚の「Sparkpage」と呼ばれる独自のまとめページに自動生成してくれるAI検索・リサーチツールです。単に回答テキストを返すだけでなく、比較表や画像、関連リンクなどを組み合わせたページ形式でアウトプットされる点が特徴で、同じリサーチ系のPerplexityが「引用元付きの回答」を返すのに対し、Gensparkは「1本の記事・資料のような成果物」を作ってくれる感覚に近いです。検索から情報整理までの手間を一気に圧縮してくれる一方で、まとめページが自動生成されるがゆえに、内容を鵜呑みにしてよいかどうかは別問題です。
+
+※2026年10月23日に公式ヘルプを確認したところ、Genspark は現在、調べ物からスライド・資料・Webページなどの成果物づくりまでを任せる「Super Agent」を中心にした AIワークスペースとして案内されており、機能一覧に Sparkpage の項目はありませんでした。最新の料金(無料版は1日100クレジット、Plus は月24.99ドル)と Perplexity・NotebookLM との違いは[Genspark・Perplexity・NotebookLMの違い](/reviews/genspark-perplexity-notebooklm-difference/)にまとめています。
 
 ## 得意なこと
 
@@ -47,4 +50,4 @@ Gensparkは、質問を投げると複数のWebサイトや情報源を横断的
 出典が示されていても、その出典が主張を裏付けているかは別問題です。重要な判断に使う情報は、必ず元のページを開いて確認してください。
 
 **Q. Perplexityと使い分けますか。**
-どちらも検索AIですが、Perplexityは質問への回答、Gensparkはテーマのまとめページという性格の差があります。詳しくは[リサーチAI4種の比較](/reviews/ai-research-tools-comparison/)を参照してください。
+どちらも検索AIですが、Perplexityは質問への回答、Gensparkはテーマのまとめページという性格の差があります。料金と無料版の制限を並べた比較は[Genspark・Perplexity・NotebookLMの違い](/reviews/genspark-perplexity-notebooklm-difference/)、用途別の選び方は[リサーチAI4種の比較](/reviews/ai-research-tools-comparison/)を参照してください。
