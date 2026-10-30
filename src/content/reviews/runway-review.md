@@ -52,7 +52,7 @@ Runwayは、テキストや一枚の画像から数秒〜数十秒の動画を�
 
 ## 関連する無料ツール
 
-Runwayの出力は高品質な分だけ重くなります。[動画ファイルサイズ計算ツール](/tools/video-size-calculator/)で、共有や入稿の容量制限に収まるかを確認できます。
+Runwayの出力は高品質な分だけ重くなります。[動画ファイルサイズ計算ツール](/tools/video-size-calculator/)で、共有や入稿の容量制限に収まるかを確認できます。生成した短い動画の解像度を上げたり、フレーム補間で動きを滑らかにしたりする後処理のソフトについては、[VideoProc Converter AIの解説](/reviews/videoproc-converter-ai-review/)で無料版の制限と料金を整理しています。
 
 <div class="affiliate-box" data-pr="videoproc">
   <p><strong>PR</strong>｜書き出し後の変換・圧縮を軽くしたいとき</p>

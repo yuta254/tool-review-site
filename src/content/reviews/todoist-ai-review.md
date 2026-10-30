@@ -1,9 +1,9 @@
 ---
 title: "Todoist AI(Todoist Assist)レビュー:できること・料金・日本語で使うときの注意点"
-seoTitle: "Todoist AIでできること・料金(Todoist Assist)"
-description: "TodoistのAI機能「Todoist Assist」(Task Assist・Email Assist・Filter Assist)でできること、無料プランとプロプランで使える範囲、料金、日本語で使うときの注意点を公式情報から整理しました(2026年10月21日確認)。"
+seoTitle: "Todoist AIでできること・無料版の範囲・料金"
+description: "Todoist AI(現在の名前はTodoist Assist)は無料プランでも一部使えますが、無料で使えるのはFilter Assistだけで日本語には未対応。タスク分解のTask Assistやメールの取り込みはプロ以上です。料金と向いている人を公式情報で整理しました(2026年10月31日確認)。"
 pubDate: 2026-07-05
-updatedDate: 2026-10-21
+updatedDate: 2026-10-31
 category: "タスク管理AI"
 tags: ["Todoist", "Todoist Assist", "タスク管理", "AIアシスタント", "ToDoリスト", "生産性"]
 ---
@@ -12,7 +12,7 @@ tags: ["Todoist", "Todoist Assist", "タスク管理", "AIアシスタント", "
 
 Todoist の AI機能は、現在「**Todoist Assist**」という名前でまとめられています。中身は、タスクを分解・言い換える **Task Assist**、メールをタスクに変える **Email Assist**、話し言葉からフィルターを作る **Filter Assist** などです。Motion のようにカレンダーを丸ごとAIに任せる発想ではなく、**入力と整理の手間を少し減らす補助役**という立ち位置は変わっていません。すでに Todoist に慣れている人や、AIに主導権を渡したくない人には自然な選択肢です。
 
-この記事の機能・料金は、Todoist の公式料金ページとヘルプセンターを2026年10月21日に確認したものです。当サイトは公式の公開情報を整理しており、実際に使った検証はしていません。
+この記事の機能・料金は、Todoist の公式料金ページとヘルプセンターを2026年10月21日に確認したものです(プラン別に使えるAI機能と、Filter Assist の対応言語は2026年10月31日に再確認)。当サイトは公式の公開情報を整理しており、実際に使った検証はしていません。
 
 ## Todoist Assist でできること
 

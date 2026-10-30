@@ -91,6 +91,7 @@ GPUが弱いパソコンでも動きますが、大きな画像の処理には�
 ## ほかの選択肢との違い
 
 - **ブラウザで使う画像編集AI(Canva、Photoroom など)**:インストール不要で手軽ですが、画像はサービス側に送られます。背景の除去や商品写真の加工が中心なら、そちらの方が早い場面もあります。[Photoroomレビュー](/reviews/photoroom-review/)、[Canva Proレビュー](/reviews/canva-pro-review/)
+- **動画の高画質化**:Aiarty Image Enhancer は静止画が対象です。動画の解像度を上げたい、古い動画の粗さを整えたいといった用途には、AI高画質化を含む動画変換ソフトが候補になります。無料版の制限と料金は[VideoProc Converter AIの解説](/reviews/videoproc-converter-ai-review/)で整理しています。
 - **画像生成AI(Midjourney、Leonardo.Ai など)**:新しい画像を作る道具です。生成した画像を印刷用に大きくする段階で、Aiarty のような高画質化ソフトを後ろに組み合わせる使い方があります。[画像生成AIの比較](/reviews/ai-image-generation-comparison/)
 
 ## よくある質問

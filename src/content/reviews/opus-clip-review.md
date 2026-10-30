@@ -57,6 +57,8 @@ Opus Clipは、YouTube動画やウェビナー、ポッドキャスト映像な�
 
 切り抜きを量産すると、1本ずつの容量が効いてきます。[動画ファイルサイズ計算ツール](/tools/video-size-calculator/)で、必要なビットレートを逆算できます。
 
+元の長尺動画の形式をそろえたり、書き出した切り抜きを各SNSの仕様に合わせて圧縮し直したりする工程には、変換ソフトを組み合わせる方法があります。無料版でどこまでできるかは[VideoProc Converter AIの解説](/reviews/videoproc-converter-ai-review/)にまとめました。
+
 <div class="affiliate-box" data-pr="videoproc">
   <p><strong>PR</strong>｜切り抜き前後のファイル変換をまとめたいとき</p>
   <p>Opus Clipに渡す長尺素材の形式変換や、書き出したショート動画を各SNSの仕様に合わせて再変換する工程は、別のツールが必要になります。変換・圧縮・画面録画を1本で扱えるソフトとして <a data-pr="videoproc" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="sponsored nofollow">【VideoProc】</a> があります。</p>
