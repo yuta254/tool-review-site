@@ -1,6 +1,6 @@
 ---
 title: "Slack AIは通知の洪水をどこまで解決してくれるか"
-description: "チャンネルの未読が溜まりがちなSlackユーザー向けに、Slack AIの要約機能の実力を検証します。"
+description: "チャンネルの未読が溜まりがちなSlackユーザー向けに、Slack AIの要約機能でできることと注意点を整理します。"
 pubDate: 2026-07-02
 category: "業務効率化"
 tags: ["Slack", "Slack AI", "チーム連携"]

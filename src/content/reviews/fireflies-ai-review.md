@@ -1,7 +1,7 @@
 ---
 title: "Fireflies.ai レビュー:営業チームの通話記録を自動でCRMに残すAI議事録ツール"
 seoTitle: "Fireflies.aiレビュー:営業向けAI議事録"
-description: "Fireflies.aiは会議の自動参加とCRM連携に強みを持つAI議事録ツール。営業チーム向けの実力を検証。"
+description: "Fireflies.aiは会議の自動参加とCRM連携に強みを持つAI議事録ツール。営業チーム向けの強みと注意点を整理。"
 pubDate: 2026-07-05
 category: "議事録AI"
 tags: ["Fireflies.ai", "AI議事録", "CRM連携", "営業支援", "Salesforce", "HubSpot"]

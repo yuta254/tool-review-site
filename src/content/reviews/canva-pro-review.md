@@ -1,6 +1,6 @@
 ---
 title: "Canva Proは個人事業主・副業に必要か?コスパを検証"
-description: "SNS投稿画像や資料作成にCanva Proの有料機能がどこまで必要かを、無料版との違いから検証します。"
+description: "SNS投稿画像や資料作成にCanva Proの有料機能がどこまで必要かを、無料版との違いから整理します。"
 pubDate: 2026-07-01
 category: "デザインツール"
 tags: ["Canva", "デザイン", "SNS運用"]

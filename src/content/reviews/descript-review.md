@@ -1,7 +1,7 @@
 ---
 title: "Descriptレビュー:動画編集を「テキスト編集」感覚で行うAIツール"
 seoTitle: "Descriptレビュー:文字起こしベース編集"
-description: "動画編集の心理的ハードルを下げたい人向けに、文字起こしベースで編集できるDescriptを検証します。"
+description: "動画編集の心理的ハードルを下げたい人向けに、文字起こしベースで動画編集できるDescriptの特徴と注意点を、公開情報をもとに整理します。"
 pubDate: 2026-07-04
 category: "動画編集AI"
 tags: ["Descript", "動画編集", "文字起こし"]

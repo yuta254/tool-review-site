@@ -1,6 +1,6 @@
 ---
 title: "Otter.aiレビュー:会議の文字起こし・要約はどこまで実用的か"
-description: "オンライン会議の議事録作成を自動化したい人向けに、Otter.aiの実力を検証します。"
+description: "オンライン会議の議事録作成を自動化したい人向けに、Otter.aiでできることと注意点を整理します。"
 pubDate: 2026-07-02
 category: "業務効率化"
 tags: ["Otter.ai", "文字起こし", "議事録"]

@@ -1,6 +1,6 @@
 ---
 title: "ElevenLabsで音声合成AIはどこまで実務に使えるか"
-description: "ナレーション・音声コンテンツ制作の負担を減らしたい人向けに、ElevenLabsの音声合成AIを検証します。"
+description: "ナレーション・音声コンテンツ制作の負担を減らしたい人向けに、ElevenLabsの音声合成AIでできることと注意点を整理します。"
 pubDate: 2026-07-03
 category: "音声AI"
 tags: ["ElevenLabs", "音声合成", "ナレーション"]

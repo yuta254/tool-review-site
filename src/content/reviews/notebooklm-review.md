@@ -1,7 +1,7 @@
 ---
 title: "NotebookLMは資料の「読み込み」作業をどれだけ肩代わりしてくれるか"
 seoTitle: "NotebookLMレビュー:資料の読み込みを任せる"
-description: "大量の資料・議事録・論文を扱う人向けに、Googleの NotebookLM の実力を検証します。"
+description: "大量の資料・議事録・論文を扱う人向けに、Googleの NotebookLM でできることと注意点を整理します。"
 pubDate: 2026-07-03
 updatedDate: 2026-10-23
 category: "リサーチ"

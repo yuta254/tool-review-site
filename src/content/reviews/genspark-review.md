@@ -1,6 +1,6 @@
 ---
 title: "Gensparkの「Sparkpage」は検索の代わりになるか"
-description: "質問に対して複数情報源を横断しまとめページを自動生成するAI検索ツール、Gensparkを検証します。"
+description: "質問に対して複数情報源を横断しまとめページを自動生成するAI検索ツール、Gensparkの特徴と注意点を整理します。"
 pubDate: 2026-07-06
 updatedDate: 2026-10-23
 category: "リサーチ"

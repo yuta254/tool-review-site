@@ -1,7 +1,7 @@
 ---
 title: "Opus Clipレビュー：長尺動画からバズりそうな切り抜きをAIが自動生成"
 seoTitle: "Opus Clipレビュー:切り抜きを自動生成"
-description: "YouTube等の長尺動画から切り抜きを自動生成するOpus Clipの精度と限界を検証します。"
+description: "YouTube等の長尺動画から切り抜きを自動生成するOpus Clipの得意なことと限界を整理します。"
 pubDate: 2026-07-06
 category: "動画編集AI"
 tags: ["Opus Clip", "ショート動画", "動画編集AI", "SNS運用"]

@@ -1,7 +1,7 @@
 ---
 title: "Runwayレビュー:テキスト・画像から動画を生み出すAI動画生成ツール"
 seoTitle: "Runwayレビュー:テキストから動画を生成"
-description: "テキストや静止画から短い動画を生成できるRunwayの強みと使いどころを実務目線で検証します。"
+description: "テキストや静止画から短い動画を生成できるRunwayの強みと使いどころを実務目線で整理します。"
 pubDate: 2026-07-04
 category: "動画生成AI"
 tags: ["Runway", "動画生成", "AI映像"]
