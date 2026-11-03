@@ -83,7 +83,7 @@ GitHubは2026年3月に、Copilotの「インタラクションデータ」(入�
 
 - エディタごと乗り換えて、コードベース全体を前提にした提案を受けたい人 → [Cursor](/reviews/cursor-review/)など
 - 課題をまるごと渡して任せたい人 → [AIエージェントの比較](/reviews/ai-agent-tools-comparison/)も参照
-- AWS中心の開発 → [Amazon Q Developer](/reviews/amazon-q-developer-review/)を併せて検討
+- AWS中心の開発 → AWSは Amazon Q Developer の新規受付を2026年5月に止め、後継として Kiro を案内しています([Amazon Q Developerの現状](/reviews/amazon-q-developer-review/))
 
 ツールごとの違いは[AIコーディングツールの比較](/reviews/ai-coding-tools-comparison/)にまとめています。
 
