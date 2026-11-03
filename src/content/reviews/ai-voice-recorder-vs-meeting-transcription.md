@@ -39,9 +39,9 @@ Zoom や Microsoft Teams などの会議ツールには、会議の要約や文�
 
 Otter.ai や Fireflies.ai は、オンライン会議に記録用の参加者(ボット)として入り、会話を文字起こし・要約するサービスです。会議ツールを問わず記録を1か所に集められるのが強みです。
 
-Otter.ai の公式料金ページ(2026年10月21日確認)では、無料の Basic プランは月300分・1回の会話は30分まで、Pro プランは月1,200分・1回90分までとされています。文字起こしの対応言語には日本語も挙がっています。ただし Otter.ai は英語の会議で広く使われてきたサービスで、日本語の会議では固有名詞などを後から直す前提で考えた方が現実的です。
+Otter.ai の公式料金ページ(2026年10月21日確認)では、無料の Basic プランは月300分・1回の会話は30分まで、Pro プランは月1,200分・1回90分までとされています。文字起こしの対応言語には日本語も挙がっています。公式ヘルプ(2026年11月3日確認)によると、日本語は2025年11月に加わった対応言語で、1回の録音で文字起こしできるのは1つの言語だけ、設定やメニューの表示は英語のままです。
 
-詳しくは[Otter.aiレビュー](/reviews/otter-ai-review/)、[Fireflies.aiレビュー](/reviews/fireflies-ai-review/)、[AI文字起こしツール4種の比較](/reviews/ai-transcription-tools-comparison/)を参照してください。
+詳しくは[Otter.aiレビュー](/reviews/otter-ai-review/)、[Fireflies.aiレビュー](/reviews/fireflies-ai-review/)、[AI文字起こしツールの比較](/reviews/ai-transcription-tools-comparison/)を参照してください。
 
 ## 3. AIボイスレコーダー(専用の録音機)
 

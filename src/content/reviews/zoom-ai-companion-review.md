@@ -108,7 +108,7 @@ My Notes は有料の Workplace プランに含まれ、無料のベーシック
 AI Companion は Zoom のAI機能全体の旧称で、要約などの機能は今は名前を外して有料プランに含まれています。ZoomMate は、Custom AI Companion を土台にした別売りの上位製品で、会議の内容をもとに資料作成・フォローアップ・外部ツールの更新までを進めるものです。要約だけが目的なら ZoomMate は要りません。
 
 **Q. Zoom以外の会議でも使えますか。**
-My Notes を使えば、Teams や Google Meet の会議、対面の会話もメモにできると公式に説明されています。一方、スマートフォンの通話の記録については、今回確認した公式ページには説明がありませんでした。電話や外出先の会話を確実に残したい場合は[AIボイスレコーダーと会議の文字起こしAIの違い](/reviews/ai-voice-recorder-vs-meeting-transcription/)を、複数の会議ツールの記録を比べたい場合は[AI文字起こしツール4種の比較](/reviews/ai-transcription-tools-comparison/)や[Otter.aiレビュー](/reviews/otter-ai-review/)を参照してください。
+My Notes を使えば、Teams や Google Meet の会議、対面の会話もメモにできると公式に説明されています。一方、スマートフォンの通話の記録については、今回確認した公式ページには説明がありませんでした。電話や外出先の会話を確実に残したい場合は[AIボイスレコーダーと会議の文字起こしAIの違い](/reviews/ai-voice-recorder-vs-meeting-transcription/)を、複数の会議ツールの記録を比べたい場合は[AI文字起こしツールの比較](/reviews/ai-transcription-tools-comparison/)や[Otter.aiレビュー](/reviews/otter-ai-review/)を参照してください。
 
 **Q. 参加者に知られずに使えますか。**
 使うべきではありません。Zoom の会議で文字起こしが動いているときは、画面に表示が出ると公式に説明されています。管理者がAIの利用に同意を求める設定にしている会社もあり、Teams・Google Meet の会議に Zoom AI を参加させた場合はチャットで知らせが出ます。一方、My Notes や対面の会話では相手から見えにくいことがあるので、必ず先に伝えて了解を得てください(詳しくは上の「Zoom AIを使うと相手に分かる?」の節)。
