@@ -3,6 +3,7 @@ title: "Genspark・Perplexity・NotebookLMの違い:料金・無料版の制限�
 seoTitle: "Genspark・Perplexity・NotebookLMの違いと料金"
 description: "Genspark・Perplexity・NotebookLM(2026年7月からGemini Notebook)は、どれも調べ物を助けるAIですが、情報源と出来上がるものが違います。料金、無料版でできる回数、得意なこと、日本語対応を各社の公式ページで整理しました(2026年10月23日確認)。"
 pubDate: 2026-10-23
+updatedDate: 2026-11-03
 category: "リサーチ"
 tags: ["Genspark", "Perplexity", "NotebookLM", "Gemini Notebook", "AI検索", "リサーチ", "比較", "料金"]
 ---
@@ -17,7 +18,7 @@ tags: ["Genspark", "Perplexity", "NotebookLM", "Gemini Notebook", "AI検索", "�
 | 出来上がるもの | 出典つきの回答 | スライド・資料・表・Webページなどの成果物 | 資料に基づく回答、要約、音声解説 |
 | 向いている調べ物 | 最新の事実確認、調べ始め | 調べた結果を資料の形にまとめる | 手元の資料・論文・議事録を読み解く |
 | 無料版 | 基本の検索は実質無制限、Pro検索は1日3回 | 1日100クレジット(生涯の上限あり) | 1日50回のチャット、1ノートブック50ソース |
-| 有料版 | Pro:年額請求で月17ドル相当 | Plus:月24.99ドル | Google AI Plus:月725円 |
+| 有料版 | Pro:年額請求で月17ドル相当 | Plus:月24.99ドル | Google AI Plus(月725円または月1,450円と公式ページで表示が分かれる) |
 
 - **事実を確かめたい・調べ始めたい** → Perplexity。回答の文中に引用元が付くので、元のページをたどりやすい
 - **調べた結果をスライドや資料にしたい** → Genspark。調べるところから成果物を仕上げるところまでを任せる道具
@@ -80,7 +81,7 @@ Genspark の公式ヘルプでは、中心の機能「Super Agent」を、**依�
 
 | | 無料(Standard) | Google AI Plus | Google AI Pro |
 | --- | --- | --- | --- |
-| 料金(Google One の表示) | 0円 | 月725円 | 月2,900円 |
+| 料金 | 0円 | 月725円(gemini.google の表示)/月1,450円(one.google.com の表示)※2026年11月3日、公式ページで表示が分かれていた | 月2,900円 |
 | ノートブック数 | 100 | 200 | 500 |
 | 1ノートブックのソース数 | 50 | 100 | 300 |
 | チャット | 1日50回 | 1日200回 | 1日500回 |
