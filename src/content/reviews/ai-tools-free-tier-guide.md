@@ -40,7 +40,7 @@ tags: ["無料", "料金", "AIツール", "使い分け", "コスト"]
 
 当サイトのレビューを横断すると、無料枠のまま業務で回しやすいのはこのあたりです。
 
-- **動画編集**: SNS向けの編集は無料版でも実用範囲に入ります([CapCutレビュー](/reviews/capcut-review/))。動画の変換・圧縮のソフトも無料版で主な機能を試せますが、AI機能には書き出し本数の上限があるものがあります([VideoProc Converter AIの解説](/reviews/videoproc-converter-ai-review/))
+- **動画編集**: SNS向けの編集は無料版でも実用範囲に入ります([CapCutレビュー](/reviews/capcut-review/))。動画の変換・圧縮のソフトも無料版で主な機能を試せますが、扱える動画の長さ(5分未満など)やAI機能の書き出し本数に上限があるものがあります([VideoProc Converter AIの解説](/reviews/videoproc-converter-ai-review/))
 - **デザイン**: 単発の資料やSNS画像なら無料で足ります([Canva Proレビュー](/reviews/canva-pro-review/))
 - **AIチャット**: 調べ物と文章の相談程度なら無料版で回ります([AIチャット3種の比較](/reviews/chatgpt-claude-gemini-comparison/))
 - **リサーチ**: 1日に何度も深い調査をしないなら無料で足ります([Perplexityレビュー](/reviews/perplexity-review/))
