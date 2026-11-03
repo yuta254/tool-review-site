@@ -21,6 +21,7 @@ import AdSlot from '../../components/AdSlot.astro';
 
   <AdSlot label="ツール下部広告" />
 
+  <p class="meta">※判定は日本肥満学会の基準(成人)によります: 18.5未満=低体重、18.5以上25未満=普通体重、25以上30未満=肥満(1度)、30以上35未満=肥満(2度)、35以上40未満=肥満(3度)、40以上=肥満(4度)。標準体重はBMI22になる体重です。子どもには使えません。</p>
   <p class="meta">※この計算結果は目安であり、医学的な診断ではありません。健康上の判断は医師にご相談ください。</p>
 
   <script>
@@ -41,10 +42,13 @@ import AdSlot from '../../components/AdSlot.astro';
       }
       const bmi = w / (h * h);
       bmiEl.textContent = bmi.toFixed(1);
+      // 日本肥満学会の判定基準(成人)
       let judge = '普通体重';
-      if (bmi < 18.5) judge = '低体重(やせ型)';
-      else if (bmi >= 25 && bmi < 30) judge = '肥満(1度)';
-      else if (bmi >= 30) judge = '肥満(2度以上)';
+      if (bmi < 18.5) judge = '低体重';
+      else if (bmi >= 40) judge = '肥満(4度)';
+      else if (bmi >= 35) judge = '肥満(3度)';
+      else if (bmi >= 30) judge = '肥満(2度)';
+      else if (bmi >= 25) judge = '肥満(1度)';
       judgeEl.textContent = judge;
       standardEl.textContent = (22 * h * h).toFixed(1);
     }

@@ -12,6 +12,7 @@ import AdSlot from '../../components/AdSlot.astro';
   <p class="disclosure">
     ※このツールはあくまで概算です。正確なトークン数はモデルやAPI提供元の公式トークナイザーで確認してください。
     日本語は英語よりも1文字あたりのトークン消費が多い傾向があります。
+    また、トークナイザーはモデルごとに違い、同じ文章でも数え方が変わります(例: Anthropicは、Claude 4.7以降のモデルの新しいトークナイザーでは同じ文章が約30%多いトークン数になると<a href="https://platform.claude.com/docs/en/about-claude/pricing" rel="nofollow noopener" target="_blank">公式料金ページ</a>で説明しています。2026年11月3日確認)。
   </p>
 
   <AdSlot label="ツール上部広告" />
@@ -40,9 +41,11 @@ import AdSlot from '../../components/AdSlot.astro';
 
     function update() {
       const text = input.value;
-      const total = text.length;
+      // 絵文字などのサロゲートペアを1文字として数える(text.lengthだと2になる)
+      const chars = Array.from(text);
+      const total = chars.length;
       let jaChars = 0;
-      for (const ch of text) {
+      for (const ch of chars) {
         if (JA_PATTERN.test(ch)) jaChars++;
       }
       const otherChars = total - jaChars;

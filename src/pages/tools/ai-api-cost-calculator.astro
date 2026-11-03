@@ -10,7 +10,10 @@ import AdSlot from '../../components/AdSlot.astro';
   </p>
 
   <p class="disclosure">
-    ※単価は2026年10月15日に各社の公式料金ページで確認した標準料金(100万トークンあたり・米ドル、長いプロンプトの割増やキャッシュ・バッチ割引は含まない)です。料金は改定されるため、実際の料金は各社の公式サイトでご確認ください。
+    ※料金は2026年11月3日に各社の公式料金ページで確認しました(<a href="https://developers.openai.com/api/docs/pricing" rel="nofollow noopener" target="_blank">OpenAI</a>・<a href="https://platform.claude.com/docs/en/about-claude/pricing" rel="nofollow noopener" target="_blank">Anthropic</a>・<a href="https://ai.google.dev/gemini-api/docs/pricing" rel="nofollow noopener" target="_blank">Google</a>)。100万トークンあたりの標準料金(米ドル)で、長いプロンプトの割増やキャッシュ・バッチ割引は含みません。<br />
+    ※長いプロンプトの割増の例: OpenAIの主力モデルは入力27.2万トークン超、Gemini 3.1 Pro Previewは20万トークン超、Claude Haiku 5.5は10万トークン超で単価が上がります。<br />
+    ※値上げの予定: Gemini 4 Argonは2026年12月1日から入力$4.00 / 出力$20.00、Gemini 3.8 Flashは2027年1月1日から入力$1.50 / 出力$7.50になると公式ページに記載されています。<br />
+    ※料金は改定されるため、実際の料金は各社の公式サイトでご確認ください。
   </p>
 
   <AdSlot label="ツール上部広告" />
@@ -18,14 +21,19 @@ import AdSlot from '../../components/AdSlot.astro';
   <div class="card">
     <label>
       モデル選択:
-      <select id="model" style="padding:0.4rem; width:260px;">
+      <select id="model" style="padding:0.4rem; width:100%; max-width:460px;">
+        <option value="10.00,50.00">OpenAI gpt-6-astra(入力$10.00 / 出力$50.00)</option>
         <option value="2.00,10.00">OpenAI gpt-6.1-sol(入力$2.00 / 出力$10.00)</option>
+        <option value="1.00,5.00">OpenAI gpt-6.1-terra(入力$1.00 / 出力$5.00)</option>
         <option value="0.10,0.50">OpenAI gpt-6-luna(入力$0.10 / 出力$0.50)</option>
+        <option value="10.00,50.00">Claude Fable 5.1(入力$10.00 / 出力$50.00)</option>
         <option value="4.00,20.00">Claude Opus 5.5(入力$4.00 / 出力$20.00)</option>
         <option value="2.00,10.00">Claude Sonnet 5.5(入力$2.00 / 出力$10.00)</option>
-        <option value="0.10,0.50">Claude Haiku 5.5(入力$0.10 / 出力$0.50)</option>
+        <option value="0.10,0.50">Claude Haiku 5.5(入力$0.10 / 出力$0.50・10万トークン以下)</option>
+        <option value="2.00,10.00">Gemini 4 Argon(入力$2.00 / 出力$10.00・11月30日まで)</option>
+        <option value="0.75,3.75">Gemini 3.8 Flash(入力$0.75 / 出力$3.75・12月31日まで)</option>
         <option value="2.00,12.00">Gemini 3.1 Pro Preview(入力$2.00 / 出力$12.00)</option>
-        <option value="0.30,2.50">Gemini 2.5 Flash(入力$0.30 / 出力$2.50)</option>
+        <option value="0.30,2.50">Gemini 3.5 Flash-Lite(入力$0.30 / 出力$2.50)</option>
         <option value="2.50,10.00">OpenAI gpt-4o(旧モデル・入力$2.50 / 出力$10.00)</option>
       </select>
     </label><br /><br />
@@ -78,7 +86,7 @@ import AdSlot from '../../components/AdSlot.astro';
       const monthlyJpy = monthlyUsd * fxRate;
 
       perCallUsdEl.textContent = perCallUsd.toLocaleString(undefined, { minimumFractionDigits: 4, maximumFractionDigits: 4 });
-      perCallJpyEl.textContent = Math.round(perCallJpy).toLocaleString();
+      perCallJpyEl.textContent = perCallJpy.toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 });
       monthlyUsdEl.textContent = monthlyUsd.toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 });
       monthlyJpyEl.textContent = Math.round(monthlyJpy).toLocaleString();
     }

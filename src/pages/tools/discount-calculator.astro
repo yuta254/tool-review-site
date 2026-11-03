@@ -20,6 +20,8 @@ import AdSlot from '../../components/AdSlot.astro';
     <p>割引額: <strong id="discountAmount">-</strong> 円</p>
   </div>
 
+  <p class="meta">※割引は税抜価格にかけてから消費税を足しています。1円未満は四捨五入で表示しています(お店によっては切り捨て・切り上げのため1円ずれることがあります)。</p>
+
   <AdSlot label="ツール下部広告" />
 
   <script>
@@ -34,7 +36,12 @@ import AdSlot from '../../components/AdSlot.astro';
       const p = parseFloat(price.value);
       const d = parseFloat(discount.value);
       const t = parseFloat(tax.value);
-      if (isNaN(p) || isNaN(d) || isNaN(t)) return;
+      if (isNaN(p) || isNaN(d) || isNaN(t)) {
+        afterDiscount.textContent = '-';
+        afterTax.textContent = '-';
+        discountAmount.textContent = '-';
+        return;
+      }
       const discounted = p * (1 - d / 100);
       const withTax = discounted * (1 + t / 100);
       afterDiscount.textContent = Math.round(discounted).toLocaleString();

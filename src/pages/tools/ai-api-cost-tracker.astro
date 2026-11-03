@@ -32,14 +32,19 @@ import AdSlot from '../../components/AdSlot.astro';
     <label>日付: <input type="date" id="entryDate" style="padding:0.4rem;" /></label><br /><br />
     <label>
       モデル:
-      <select id="entryModel" style="padding:0.4rem; width:260px;">
+      <select id="entryModel" style="padding:0.4rem; width:100%; max-width:320px;">
+        <option value="OpenAI gpt-6-astra">OpenAI gpt-6-astra</option>
         <option value="OpenAI gpt-6.1-sol">OpenAI gpt-6.1-sol</option>
+        <option value="OpenAI gpt-6.1-terra">OpenAI gpt-6.1-terra</option>
         <option value="OpenAI gpt-6-luna">OpenAI gpt-6-luna</option>
+        <option value="Claude Fable 5.1">Claude Fable 5.1</option>
         <option value="Claude Opus 5.5">Claude Opus 5.5</option>
         <option value="Claude Sonnet 5.5">Claude Sonnet 5.5</option>
         <option value="Claude Haiku 5.5">Claude Haiku 5.5</option>
+        <option value="Gemini 4 Argon">Gemini 4 Argon</option>
+        <option value="Gemini 3.8 Flash">Gemini 3.8 Flash</option>
         <option value="Gemini 3.1 Pro Preview">Gemini 3.1 Pro Preview</option>
-        <option value="Gemini 2.5 Flash">Gemini 2.5 Flash</option>
+        <option value="Gemini 3.5 Flash-Lite">Gemini 3.5 Flash-Lite</option>
         <option value="OpenAI gpt-4o">OpenAI gpt-4o</option>
         <option value="その他">その他</option>
       </select>
@@ -68,21 +73,6 @@ import AdSlot from '../../components/AdSlot.astro';
 
   <AdSlot label="ツール下部広告" />
 
-  <div class="card" style="margin-top:1rem; background:#f5f8ff;">
-    <h2 style="margin-top:0;">プレミアム版のご案内(準備中)</h2>
-    <p>
-      現在無料で使えるのは「ブラウザ内保存・手動記録」までの機能です。今後、以下の機能を有料版(月額980円〜)として提供予定です。
-    </p>
-    <ul>
-      <li>予算の一定割合を超えたら自動でメール/Slack通知</li>
-      <li>複数プロジェクト・複数モデルをまたいだ横断ダッシュボード</li>
-      <li>チームメンバーとの利用状況共有</li>
-      <li>デバイスをまたいだデータの自動同期(現在はブラウザ内保存のみ)</li>
-    </ul>
-    <p>
-      ご興味があれば <a href="mailto:aitoollab367@gmail.com?subject=AI APIコスト管理ツール プレミアム版に興味あり">aitoollab367@gmail.com</a> までご連絡ください。優先的にご案内します。
-    </p>
-  </div>
 
   <script>
     interface Entry {
@@ -123,13 +113,30 @@ import AdSlot from '../../components/AdSlot.astro';
       localStorage.setItem(STORAGE_KEY, JSON.stringify(entries));
     }
 
+    function escapeHtml(raw: string): string {
+      return String(raw)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#39;');
+    }
+
+    // 端末のローカル日付(YYYY-MM-DD)。toISOString()はUTCなので日本時間の0〜9時に前日になる。
+    function localDateStr(d = new Date()) {
+      const y = d.getFullYear();
+      const m = String(d.getMonth() + 1).padStart(2, '0');
+      const day = String(d.getDate()).padStart(2, '0');
+      return `${y}-${m}-${day}`;
+    }
+
     function currentMonthKey(dateStr: string) {
       return dateStr.slice(0, 7); // YYYY-MM
     }
 
     function render() {
       const entries = loadEntries();
-      const thisMonth = new Date().toISOString().slice(0, 7);
+      const thisMonth = localDateStr().slice(0, 7);
       const monthEntries = entries.filter((e) => currentMonthKey(e.date) === thisMonth);
 
       entryBody.innerHTML = '';
@@ -143,11 +150,11 @@ import AdSlot from '../../components/AdSlot.astro';
           .forEach((e) => {
             const tr = document.createElement('tr');
             tr.innerHTML = `
-              <td style="padding:0.4rem; border-bottom:1px solid #eee;">${e.date}</td>
-              <td style="padding:0.4rem; border-bottom:1px solid #eee;">${e.model}</td>
+              <td style="padding:0.4rem; border-bottom:1px solid #eee;">${escapeHtml(e.date)}</td>
+              <td style="padding:0.4rem; border-bottom:1px solid #eee;">${escapeHtml(e.model)}</td>
               <td style="padding:0.4rem; border-bottom:1px solid #eee; text-align:right;">${e.cost.toLocaleString()}</td>
-              <td style="padding:0.4rem; border-bottom:1px solid #eee;">${e.note}</td>
-              <td style="padding:0.4rem; border-bottom:1px solid #eee;"><button data-id="${e.id}" class="deleteBtn" style="color:#c0392b; background:none; border:none; cursor:pointer;">削除</button></td>
+              <td style="padding:0.4rem; border-bottom:1px solid #eee;">${escapeHtml(e.note)}</td>
+              <td style="padding:0.4rem; border-bottom:1px solid #eee;"><button data-id="${escapeHtml(e.id)}" class="deleteBtn" style="color:#c0392b; background:none; border:none; cursor:pointer;">削除</button></td>
             `;
             entryBody.appendChild(tr);
           });
@@ -180,7 +187,7 @@ import AdSlot from '../../components/AdSlot.astro';
     });
 
     addEntryBtn.addEventListener('click', () => {
-      const date = entryDateInput.value || new Date().toISOString().slice(0, 10);
+      const date = entryDateInput.value || localDateStr();
       const cost = parseFloat(entryCostInput.value);
       if (isNaN(cost) || cost < 0) return;
       const entries = loadEntries();
@@ -199,7 +206,7 @@ import AdSlot from '../../components/AdSlot.astro';
 
     const savedBudget = localStorage.getItem(BUDGET_KEY);
     if (savedBudget) budgetInput.value = savedBudget;
-    entryDateInput.value = new Date().toISOString().slice(0, 10);
+    entryDateInput.value = localDateStr();
 
     render();
   </script>

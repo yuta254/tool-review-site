@@ -28,8 +28,9 @@ import AdSlot from '../../components/AdSlot.astro';
 
     function update() {
       const text = input.value;
-      charCount.textContent = String(text.length);
-      charCountNoSpace.textContent = String(text.replace(/\s/g, '').length);
+      // 絵文字や一部の漢字(𠮷など)を1文字として数える(text.lengthだと2になる)
+      charCount.textContent = String(Array.from(text).length);
+      charCountNoSpace.textContent = String(Array.from(text.replace(/\s/g, '')).length);
       lineCount.textContent = String(text === '' ? 0 : text.split('\n').length);
       wordCount.textContent = String(text.trim() === '' ? 0 : text.trim().split(/\s+/).length);
     }
