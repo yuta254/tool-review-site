@@ -1,10 +1,11 @@
 ---
-title: "Otter.ai・Fireflies.ai・Zoom AI Companion・Krisp徹底比較:AI文字起こしはどれを選ぶべきか"
-seoTitle: "AI文字起こしツール4種を比較:選び方"
-description: "会議の文字起こし・要約を担うAIツール4種を、対応する会議形態・議事録の粒度・料金の考え方から比較し、用途別の選び方を整理します。"
+title: "Notta・Otter.ai・Fireflies.ai・Zoom AI Companion・Krispを比較:AI文字起こし・議事録はどれを選ぶべきか"
+seoTitle: "議事録AI・文字起こしツールの比較:料金・無料版・選び方"
+description: "会議の文字起こし・要約を担うAIツール5種(国内のNottaと、Otter.ai・Fireflies.ai・Zoom AI Companion・Krisp)を、対応する会議形態・無料版の範囲・料金の考え方から比較し、用途別の選び方を整理します(Nottaの料金は2026年11月3日確認)。"
 pubDate: 2026-09-01
+updatedDate: 2026-11-03
 category: "議事録AI"
-tags: ["Otter.ai", "Fireflies.ai", "Zoom AI Companion", "Krisp", "文字起こし", "議事録", "比較"]
+tags: ["Notta", "Otter.ai", "Fireflies.ai", "Zoom AI Companion", "Krisp", "文字起こし", "議事録", "比較"]
 ---
 
 ## この記事の結論
@@ -13,6 +14,7 @@ tags: ["Otter.ai", "Fireflies.ai", "Zoom AI Companion", "Krisp", "文字起こ�
 
 | 状況 | 向いているツール |
 | --- | --- |
+| 国内の会社のサービスを、日本語の料金表・ヘルプで契約したい(法人は請求書払いも) | Notta |
 | Zoomをメインで使っていて、追加契約を増やしたくない | Zoom AI Companion |
 | 商談記録をCRMに残したい・営業チームで使う | Fireflies.ai |
 | ツールを問わず個人で幅広く記録したい | Otter.ai |
@@ -22,12 +24,19 @@ tags: ["Otter.ai", "Fireflies.ai", "Zoom AI Companion", "Krisp", "文字起こ�
 
 | | 主な守備範囲 | 強み | つまずきやすい点 |
 | --- | --- | --- | --- |
+| Notta | オンライン会議・スマホ録音・ファイルの取り込み | 国内の会社のサービスで、料金表・ヘルプ・学割(学生・教職員は年間プラン50%OFF)が日本語で揃っている | 無料のフリーは1回3分までで、会議1本を丸ごと文字起こしするには有料プランが要る |
 | Otter.ai | オンライン会議・スマホ録音 | 汎用性が高く、個人利用の入口として使いやすい | 日本語の精度は英語ほどではなく、固有名詞の修正が要る |
 | Fireflies.ai | オンライン会議(営業通話) | CRM連携を前提とした記録の残し方ができる | チーム運用が前提で、個人単発だと機能が過剰 |
 | Zoom AI Companion(現在は「AI機能」とZoomMate) | Zoom会議(My Notesは他社の会議・対面にも対応) | 有料プランに追加料金なしで含まれる | 他社の会議はMy Notes経由で、無料プランは月3回まで |
 | Krisp | 音声の前処理 | 入力ノイズを消して、他ツールの精度を底上げできる | それ自体は議事録を作らない |
 
 ## それぞれの位置づけ
+
+### Notta
+
+Notta株式会社が提供する、国内向けのAI文字起こし・議事録サービスです。公式の料金ページ(2026年11月3日確認)では、フリー(0円・月120分)、プレミアム(月払い1,980円/年払いで月1,185円・月1,800分)、ビジネス(1アカウント月払い4,180円/年払いで月2,508円・文字起こし無制限)、エンタープライズ(要相談)の4つで、表示は税込です。対応言語は日本語・英語など58言語とヘルプセンターに書かれています。
+
+注意したいのは、**無料のフリーは1回の文字起こしが3分まで**という点です。月120分の枠があっても、1時間の会議を1本まるごと文字起こしすることはできません。会議の記録に使うなら、プレミアム以上が前提になります。録音機の「Notta Memo」をつなぐと文字起こしの枠が付く特典もあります。料金・学割・解約の条件は[Nottaの料金まとめ](/reviews/notta-price-plans/)に、録音機どうしの違いは[Notta MemoとPLAUD Noteの違い](/reviews/notta-memo-vs-plaud-note/)にまとめました。
 
 ### Otter.ai
 
@@ -43,7 +52,7 @@ Zoomの中で完結する点が最大の利点です。既に有料プランを�
 
 ### Krisp
 
-他の3つとは層が違い、音声そのものを整えるツールです。「文字起こしの精度が出ない」という悩みの原因が、実はツールではなく入力音声の品質にある場合、ここを直すほうが効きます。詳しくは[Krispレビュー](/reviews/krisp-review/)を参照してください。
+他のツールとは層が違い、音声そのものを整えるツールです。「文字起こしの精度が出ない」という悩みの原因が、実はツールではなく入力音声の品質にある場合、ここを直すほうが効きます。詳しくは[Krispレビュー](/reviews/krisp-review/)を参照してください。
 
 ## 選ぶ前に確認したいこと
 
@@ -65,7 +74,7 @@ Zoomの中で完結する点が最大の利点です。既に有料プランを�
 
 <div class="affiliate-box" data-pr="plaud">
   <p><strong>PR</strong>｜オンライン以外の会議も記録したいとき</p>
-  <p>ここで挙げた4つはいずれもオンライン会議が主戦場で、対面の打ち合わせや外出先での会話は守備範囲の外にあります。録音と文字起こしを端末側で完結させる選択肢として <a data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE</a> のようなAIボイスレコーダーがあります。</p>
+  <p>ここで挙げたツールはオンライン会議の記録が中心で、対面の打ち合わせや外出先での会話は守備範囲の外にあります。録音と文字起こしを端末側で完結させる選択肢として <a data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE</a> のようなAIボイスレコーダーがあります。</p>
   <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
   <a class="cta" data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE 公式サイト</a>
   <img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="" data-pr="plaud">

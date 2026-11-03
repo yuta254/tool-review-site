@@ -53,7 +53,7 @@ PLAUD の日本公式ストアの説明(2026年10月21日確認)では、次の�
 - Note Pro の公式ページでは、無料のパソコン用アプリ「Plaud Desktop」で**オンライン会議も録音できる**と説明されている
 - 本体を買うと、無料の Starter プランで**毎月300分**まで文字起こしできる。それ以上は年額の有料プランか、買い切りの追加パッケージ
 
-本体は27,500円〜30,800円(税込)の買い切りです。機種ごとの違いと総額は[PLAUDの料金まとめ](/reviews/plaud-note-price-plans/)に整理しました。
+本体は27,500円〜30,800円(税込)の買い切りです。機種ごとの違いと総額は[PLAUDの料金まとめ](/reviews/plaud-note-price-plans/)に整理しました。ほかの会社のカード型の録音機(Notta Memo)との違いは[Notta MemoとPLAUD Noteの違い](/reviews/notta-memo-vs-plaud-note/)で比べています。
 
 <div class="affiliate-box" data-pr="plaud">
   <p><strong>PR</strong>｜対面の会話や電話も記録したいとき</p>
