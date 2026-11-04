@@ -4,7 +4,7 @@
 //   node scripts/indexnow.mjs <url> [<url>...] send only the URLs that changed
 // Do not resend unchanged URLs: 429 means "too many" and we stop.
 // The key file public/<KEY>.txt must be live before this runs.
-const HOST = "tool-review-site.vercel.app";
+const HOST = "tool-review-site.pages.dev";
 const KEY = "4c5cfed28fd1465fdde76fc579ecf473";
 const ORIGIN = `https://${HOST}`;
 

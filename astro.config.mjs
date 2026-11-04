@@ -18,7 +18,7 @@ for (const file of fs.readdirSync(reviewsDir)) {
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://tool-review-site.vercel.app',
+  site: 'https://tool-review-site.pages.dev',
   integrations: [
     sitemap({
       serialize(item) {
