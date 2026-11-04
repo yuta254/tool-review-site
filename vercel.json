@@ -1,9 +1,5 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
-  "framework": null,
-  "installCommand": "",
-  "buildCommand": "",
-  "outputDirectory": "public",
   "redirects": [
     {
       "source": "/:path((?!google3773bac77a5113bc\\.html$|googlea4086b59216f87ce\\.html$|4c5cfed28fd1465fdde76fc579ecf473\\.txt$|sitemap-old\\.xml$).*)",
