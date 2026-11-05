@@ -159,6 +159,13 @@ Nottaには「Notta Memo」「Notta Memo Pro」というAIボイスレコーダ�
 
 本体の価格や他社の録音機との違いは、[Notta MemoとPLAUD NOTEの比較](/reviews/notta-memo-vs-plaud-note/)で扱います。録音機と、会議ツールにつなぐ文字起こしAIのどちらが合うかは、[AIボイスレコーダーと会議の文字起こしAIの違い](/reviews/ai-voice-recorder-vs-meeting-transcription/)にまとめています。
 
+<div class="affiliate-box" data-pr="nottamemo">
+  <p><strong>PR</strong>｜Notta Memo の価格と在庫は公式ストアで確認できます</p>
+  <p>Notta Memo の通常価格は23,500円(税込)で、本体を登録すると無料で月600分の文字起こし枠が付きます(2026年11月3日確認)。セール中は価格が変わることがあるので、購入前に <a data-pr="nottamemo">Notta 公式ストア</a> で最新の表示を確かめてください。</p>
+  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
+  <a class="cta" data-pr="nottamemo">Notta Memo 公式ストア</a>
+</div>
+
 ## どのプランを選ぶか(条件で分ける)
 
 公式ヘルプの「料金プランの選び方」は、**人数 → 月の文字起こし時間 → 1回の長さ → よく使う機能の回数**の順に確認するよう案内しています。これに沿うと、次のように分けられます。
@@ -175,6 +182,13 @@ Nottaには「Notta Memo」「Notta Memo Pro」というAIボイスレコーダ�
 会議の大半がZoomなら、会議ツールに付いているAI機能で足りる場合もあります。Zoom側の機能は[Zoom AI Companionの解説](/reviews/zoom-ai-companion-review/)を、他の文字起こしサービスとの比較は[AI文字起こしツールの比較](/reviews/ai-transcription-tools-comparison/)を見てください。録音機を本体ごと買う形のPLAUDの料金は、[PLAUDの料金まとめ](/reviews/plaud-note-price-plans/)で整理しています。
 
 会議を録音・文字起こしする前には、参加者に伝えて同意を得ておくことも大切です。考え方は[AI議事録の録音同意ガイド](/reviews/ai-meeting-recording-consent-guide/)にまとめました。
+
+<div class="affiliate-box" data-pr="notta">
+  <p><strong>PR</strong>｜Notta の料金とプランは公式サイトで確認できます</p>
+  <p>Notta はフリープラン(月120分・1回3分まで)から始められ、プレミアムは月払い1,980円・年払い14,220円です(2026年11月3日確認)。価格やキャンペーンは変わることがあるので、申し込む前に <a data-pr="notta">Notta 公式サイト</a> で最新の表示を確かめてください。</p>
+  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
+  <a class="cta" data-pr="notta">Notta 公式サイト</a>
+</div>
 
 ## よくある質問
 
