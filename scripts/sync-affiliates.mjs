@@ -34,18 +34,16 @@ function rewrite(text) {
     return `<a${attrs} data-pr="${key}" href="${linkUrl(a)}" rel="sponsored nofollow">`;
   });
 
-  // 2) 計測用1x1画像。既にあれば行ごと差し替え、無ければ </div> の直前に追加
-  for (const [, key] of out.matchAll(/<div class="affiliate-box" data-pr="([^"]+)">/g)) {
+  // 2) 計測用1x1画像。広告枠ごとに1つ。枠の中に既にあれば差し替え、無ければその枠の </div> の直前に追加
+  //    (2026-11-05: 以前は記事で最初の </div> にしか入らず、2つ目の枠に画像が入らなかった)
+  out = out.replace(/(<div class="affiliate-box" data-pr="([^"]+)">)([\s\S]*?)\n<\/div>/g, (whole, open, key, inner) => {
     const a = AFFILIATES[key];
-    if (!a) continue;
+    if (!a) return whole;
     const img = `<img border="0" width="1" height="1" src="${pixelUrl(a)}" alt="" data-pr="${key}">`;
-    const existing = new RegExp(`^[ \t]*<img[^>]*data-pr="${key}"[^>]*>[ \t]*$`, 'm');
-    if (existing.test(out)) {
-      out = out.replace(existing, `  ${img}`);
-    } else {
-      out = out.replace(/\n<\/div>/, `\n  ${img}\n</div>`);
-    }
-  }
+    const nl = whole.includes('\r\n') ? '\r\n' : '\n'; // 改行コードは元のまま保つ
+    const lines = inner.replace(/\r$/, '').split(/\r?\n/).filter((l) => !/^[ \t]*<img[^>]*data-pr="[^"]+"[^>]*>[ \t]*$/.test(l));
+    return `${open}${lines.join(nl)}${nl}  ${img}${nl}</div>`;
+  });
 
   return out;
 }

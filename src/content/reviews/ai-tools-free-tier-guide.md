@@ -3,7 +3,7 @@ title: "AIツールの無料版・無料お試しの見極め方:どこまで無
 seoTitle: "AIツールの無料版・お試しはどこまで使える?無料枠の一覧と見極め方"
 description: "AIツールの無料枠は種類によって性格が違います。無料のまま実務で使えるもの、お試しにしかならないものを整理し、Notta・PLAUD・GitHub Copilot・Todoist・Motion・Zoom・VideoProc・Aiartyの無料版と無料お試しの中身を一覧にしました(各ツールの公式情報を2026年10〜11月に確認)。"
 pubDate: 2026-09-01
-updatedDate: 2026-11-03
+updatedDate: 2026-11-05
 category: "ガイド"
 tags: ["無料", "料金", "AIツール", "使い分け", "コスト"]
 ---
@@ -52,7 +52,7 @@ tags: ["無料", "料金", "AIツール", "使い分け", "コスト"]
 | Motion | 無料で使い続けられるプランはなく、有料プランの無料トライアルのみ | 試用型 | 10/31・[Motion](/reviews/motion-review/) |
 | Zoom(AI機能・My Notes) | 無料のベーシックでは My Notes が月3回まで | 従量枠型 | 10/22・[Zoom AI Companion](/reviews/zoom-ai-companion-review/) |
 | VideoProc Converter AI | 変換・圧縮は5分未満の動画まで、AI機能は透かしなしで5本まで、画面録画は透かし入り | 試用型 | 11/3・[VideoProc Converter AI](/reviews/videoproc-converter-ai-review/) |
-| Aiarty Image Enhancer | AIによる画像処理は無料版でも使える。複数の画像をまとめて書き出す機能は有料版のみ | 恒久無料型(1枚ずつ) | 10/21・[Aiarty Image Enhancer](/reviews/aiarty-image-enhancer-review/) |
+| Aiarty Image Enhancer | AIによる画像処理は無料版でも使える。ただし書き出した画像には透かしが入り、一括書き出しは有料版のみ | 試用型(透かし入り) | 11/5・[Aiarty Image Enhancer](/reviews/aiarty-image-enhancer-review/) |
 
 表から分かるように、**同じ「無料」でも、ずっと使えるもの・毎月の上限があるもの・買うかどうかを決めるためのお試しは中身が違います**。特に「無料トライアルが終わると自動で課金される」もの(Notta のトライアルなど)は、続けないなら期限の前に手続きが要ります。
 
