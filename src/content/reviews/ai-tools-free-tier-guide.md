@@ -58,9 +58,9 @@ tags: ["無料", "料金", "AIツール", "使い分け", "コスト"]
 
 <div class="affiliate-box" data-pr="notta">
   <p><strong>PR</strong>｜Notta の料金とプランは公式サイトで確認できます</p>
-  <p>Notta はフリープラン(月120分・1回3分まで)から始められ、プレミアムは月払い1,980円・年払い14,220円です(2026年11月3日確認)。価格やキャンペーンは変わることがあるので、申し込む前に <a data-pr="notta">Notta 公式サイト</a> で最新の表示を確かめてください。</p>
+  <p>Notta はフリープラン(月120分・1回3分まで)から始められ、プレミアムは月払い1,980円・年払い14,220円です(2026年11月3日確認)。価格やキャンペーンは変わることがあるので、申し込む前に公式サイト(<a data-pr="notta" href="https://px.a8.net/svt/ejp?a8mat=4BGCF5+64AELU+5988+5YRHE" rel="sponsored nofollow">【Notta】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGCF5+64AELU+5988+5YRHE" alt="" data-pr="notta">)で最新の表示を確かめてください。</p>
   <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="notta">Notta 公式サイト</a>
+  <a class="cta" data-pr="notta" href="https://px.a8.net/svt/ejp?a8mat=4BGCF5+64AELU+5988+5YRHE" rel="sponsored nofollow">【Notta】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGCF5+64AELU+5988+5YRHE" alt="" data-pr="notta">
 </div>
 
 ## 無料のまま実務に耐えやすい領域

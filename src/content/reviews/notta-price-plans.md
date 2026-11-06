@@ -161,9 +161,9 @@ Nottaには「Notta Memo」「Notta Memo Pro」というAIボイスレコーダ�
 
 <div class="affiliate-box" data-pr="nottamemo">
   <p><strong>PR</strong>｜Notta Memo の価格と在庫は公式ストアで確認できます</p>
-  <p>Notta Memo の通常価格は23,500円(税込)で、本体を登録すると無料で月600分の文字起こし枠が付きます(2026年11月3日確認)。セール中は価格が変わることがあるので、購入前に <a data-pr="nottamemo">Notta 公式ストア</a> で最新の表示を確かめてください。</p>
+  <p>Notta Memo の通常価格は23,500円(税込)で、本体を登録すると無料で月600分の文字起こし枠が付きます(2026年11月3日確認)。セール中は価格が変わることがあるので、購入前に公式ストア(<a data-pr="nottamemo" href="https://px.a8.net/svt/ejp?a8mat=4BGCF7+FKUCMQ+5988+BX3J6" rel="sponsored nofollow">【Notta Memo】</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BGCF7+FKUCMQ+5988+BX3J6" alt="" data-pr="nottamemo">)で最新の表示を確かめてください。</p>
   <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="nottamemo">Notta Memo 公式ストア</a>
+  <a class="cta" data-pr="nottamemo" href="https://px.a8.net/svt/ejp?a8mat=4BGCF7+FKUCMQ+5988+BX3J6" rel="sponsored nofollow">【Notta Memo】</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BGCF7+FKUCMQ+5988+BX3J6" alt="" data-pr="nottamemo">
 </div>
 
 ## どのプランを選ぶか(条件で分ける)
@@ -185,9 +185,9 @@ Nottaには「Notta Memo」「Notta Memo Pro」というAIボイスレコーダ�
 
 <div class="affiliate-box" data-pr="notta">
   <p><strong>PR</strong>｜Notta の料金とプランは公式サイトで確認できます</p>
-  <p>Notta はフリープラン(月120分・1回3分まで)から始められ、プレミアムは月払い1,980円・年払い14,220円です(2026年11月3日確認)。価格やキャンペーンは変わることがあるので、申し込む前に <a data-pr="notta">Notta 公式サイト</a> で最新の表示を確かめてください。</p>
+  <p>Notta はフリープラン(月120分・1回3分まで)から始められ、プレミアムは月払い1,980円・年払い14,220円です(2026年11月3日確認)。価格やキャンペーンは変わることがあるので、申し込む前に公式サイト(<a data-pr="notta" href="https://px.a8.net/svt/ejp?a8mat=4BGCF5+64AELU+5988+5YRHE" rel="sponsored nofollow">【Notta】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGCF5+64AELU+5988+5YRHE" alt="" data-pr="notta">)で最新の表示を確かめてください。</p>
   <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="notta">Notta 公式サイト</a>
+  <a class="cta" data-pr="notta" href="https://px.a8.net/svt/ejp?a8mat=4BGCF5+64AELU+5988+5YRHE" rel="sponsored nofollow">【Notta】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGCF5+64AELU+5988+5YRHE" alt="" data-pr="notta">
 </div>
 
 ## よくある質問

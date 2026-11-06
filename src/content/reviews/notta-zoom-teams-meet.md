@@ -136,6 +136,13 @@ Nottaデスクトップ版では、会議にボットを入れずに、PCのマ�
 
 会議の大半がZoomで、要約だけで足りるなら、Zoomに付いているAI機能で済む場合もあります。違いは[Zoom AI Companion(ZoomMate)の解説](/reviews/zoom-ai-companion-review/)を見てください。他社の無料プランの上限と比べたい場合は、[無料で使えるAI文字起こしの上限比較](/reviews/ai-transcription-free-limits/)にまとめています。
 
+<div class="affiliate-box" data-pr="notta">
+  <p><strong>PR</strong>｜Notta の料金とプランは公式サイトで確認できます</p>
+  <p>会議ツールとの連携は、プランによって使える範囲が変わります。申し込む前に公式サイト(<a data-pr="notta" href="https://px.a8.net/svt/ejp?a8mat=4BGCF5+64AELU+5988+5YRHE" rel="sponsored nofollow">【Notta】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGCF5+64AELU+5988+5YRHE" alt="" data-pr="notta">)で最新のプランと条件を確かめてください。</p>
+  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
+  <a class="cta" data-pr="notta" href="https://px.a8.net/svt/ejp?a8mat=4BGCF5+64AELU+5988+5YRHE" rel="sponsored nofollow">【Notta】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGCF5+64AELU+5988+5YRHE" alt="" data-pr="notta">
+</div>
+
 ## よくある質問
 
 ### Nottaの無料プランでZoom会議を文字起こしできますか?

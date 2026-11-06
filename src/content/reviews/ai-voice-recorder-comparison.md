@@ -130,9 +130,9 @@ HiDock P1 は、確認日の価格(29,800円)で計算しています。オー�
 
 <div class="affiliate-box" data-pr="nottamemo">
   <p><strong>PR</strong>｜Notta Memo の価格と在庫は公式ストアで確認できます</p>
-  <p>Notta Memo の通常価格は23,500円(税込)で、本体を登録すると無料で月600分の文字起こし枠が付きます(2026年11月3日確認)。セール中は価格が変わることがあるので、購入前に <a data-pr="nottamemo">Notta 公式ストア</a> で最新の表示を確かめてください。</p>
+  <p>Notta Memo の通常価格は23,500円(税込)で、本体を登録すると無料で月600分の文字起こし枠が付きます(2026年11月3日確認)。セール中は価格が変わることがあるので、購入前に公式ストア(<a data-pr="nottamemo" href="https://px.a8.net/svt/ejp?a8mat=4BGCF7+FKUCMQ+5988+BX3J6" rel="sponsored nofollow">【Notta Memo】</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BGCF7+FKUCMQ+5988+BX3J6" alt="" data-pr="nottamemo">)で最新の表示を確かめてください。</p>
   <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="nottamemo">Notta Memo 公式ストア</a>
+  <a class="cta" data-pr="nottamemo" href="https://px.a8.net/svt/ejp?a8mat=4BGCF7+FKUCMQ+5988+BX3J6" rel="sponsored nofollow">【Notta Memo】</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BGCF7+FKUCMQ+5988+BX3J6" alt="" data-pr="nottamemo">
 </div>
 
 ## 機種ごとの特徴
