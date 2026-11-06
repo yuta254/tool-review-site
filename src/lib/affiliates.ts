@@ -66,6 +66,36 @@ export const AFFILIATES = {
     imgHost: 'www11',
     text: '【Notta Memo】', // 素材ID 002
   },
+  xserver: {
+    name: 'レンタルサーバー【エックスサーバー】',
+    a8mat: '4BGERH+6F07HU+CO4+6AZAQ',
+    imgHost: 'www16',
+    text: 'エックスサーバー', // 素材ID 059(2026-11-06 提携)
+  },
+  shinserver: {
+    name: '新世代レンタルサーバー【シンレンタルサーバー】',
+    a8mat: '4BGERH+6JROC2+5GDG+5YRHE',
+    imgHost: 'www16',
+    text: 'シンレンタルサーバー', // 素材ID 002(2026-11-06 提携)
+  },
+  movavi: {
+    name: '動画編集ソフト【Movavi】',
+    a8mat: '4BGERH+6NXPKI+3YWG+614CY',
+    imgHost: 'www15',
+    text: '動画編集が素早く出来るMovavi Video Editor', // 素材ID 013(2026-11-06 提携・購入30%)
+  },
+  bunken: {
+    name: '文章作成アドバイスツール【文賢】',
+    a8mat: '4BGERH+6XGN8Y+3Q2O+HVFKY',
+    imgHost: 'www12',
+    text: '文章作成アドバイスツール【文賢】', // 素材ID 002(2026-11-06 提携・初回購入3,000円)
+  },
+  aiseesoft: {
+    name: 'マルチメディアソフト【Aiseesoft】',
+    a8mat: '4BGERH+6TW1MA+38W2+5YJRM',
+    imgHost: 'www13',
+    text: '【Aiseesoft】', // 素材ID 001(2026-11-06 提携・購入30%)
+  },
 } as const satisfies Record<string, Affiliate>;
 
 export type AffiliateKey = keyof typeof AFFILIATES;
