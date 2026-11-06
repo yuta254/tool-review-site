@@ -1,0 +1,20 @@
+---
+// 記事の目次。h2 から自動で作り、<details> で開閉する(JSなし)。
+import type { MarkdownHeading } from 'astro';
+
+interface Props {
+  headings: MarkdownHeading[];
+}
+const items = Astro.props.headings.filter((h) => h.depth === 2);
+---
+{items.length >= 3 && (
+  <details class="toc">
+    <summary>
+      <span class="toc-title">目次</span>
+      <span class="toc-count">{items.length}項目</span>
+    </summary>
+    <ol>
+      {items.map((h) => <li><a href={`#${h.slug}`}>{h.text}</a></li>)}
+    </ol>
+  </details>
+)}

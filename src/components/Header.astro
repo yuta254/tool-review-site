@@ -6,12 +6,23 @@ const nav = [
   { href: '/about/', label: 'サイトについて' },
   { href: '/contact/', label: 'お問い合わせ' },
 ];
+const path = Astro.url.pathname;
+const isCurrent = (href: string) => (href === '/' ? path === '/' : path.startsWith(href));
 ---
 <header class="site-header">
-  <div class="container">
-    <a class="brand" href="/">AI Tool Lab</a>
-    <nav class="site-nav">
-      {nav.map((item) => <a href={item.href}>{item.label}</a>)}
+  <div class="container container-wide header-inner">
+    <a class="brand" href="/">
+      <svg class="brand-mark" width="30" height="30" viewBox="0 0 64 64" aria-hidden="true" focusable="false">
+        <rect width="64" height="64" rx="14" fill="currentColor"/>
+        <path d="M25 12h14v4h-2v12.5l11.2 17.6c1.7 2.7-.2 5.9-3.4 5.9H19.2c-3.2 0-5.1-3.2-3.4-5.9L27 28.5V16h-2z" fill="#fff"/>
+        <path d="M22.4 42 30 30h4l7.6 12z" fill="currentColor" opacity=".35"/>
+      </svg>
+      <span class="brand-text">AI Tool <span class="brand-lab">Lab</span></span>
+    </a>
+    <nav class="site-nav" aria-label="サイト内メニュー">
+      {nav.map((item) => (
+        <a href={item.href} aria-current={isCurrent(item.href) ? 'page' : undefined}>{item.label}</a>
+      ))}
     </nav>
   </div>
 </header>

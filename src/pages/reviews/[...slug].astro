@@ -4,6 +4,10 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import AffiliateDisclosure from '../../components/AffiliateDisclosure.astro';
 import AdSlot from '../../components/AdSlot.astro';
 import RelatedReviews from '../../components/RelatedReviews.astro';
+import Toc from '../../components/Toc.astro';
+import CategoryIcon from '../../components/CategoryIcon.astro';
+import { categoryStyle } from '../../lib/categoryStyle';
+import { formatDate, isoDate, readingMinutes } from '../../lib/articleMeta';
 import { categoryPath } from '../../lib/categories';
 import { extractFaq } from '../../lib/faq';
 
@@ -16,7 +20,9 @@ export async function getStaticPaths() {
 }
 
 const { review, allReviews } = Astro.props;
-const { Content } = await render(review);
+const { Content, headings } = await render(review);
+const catStyle = categoryStyle(review.data.category);
+const minutes = readingMinutes(review.body ?? '');
 
 // 本文に広告ボックスがある記事は、冒頭の広告表記を「含みます」と言い切る形にする
 const hasAds = (review.body ?? '').includes('class="affiliate-box"');
@@ -43,7 +49,7 @@ const articleLd = {
   publisher,
 };
 
-// パンくず。検索結果に階層が出るようにする(画面上のリンクはカテゴリタグが担う)
+// パンくず。検索結果に階層が出るようにする(画面にも同じ階層を出している)
 const breadcrumbLd = {
   '@type': 'BreadcrumbList',
   itemListElement: [
@@ -72,16 +78,44 @@ const jsonLd = {
 };
 ---
 <BaseLayout title={review.data.seoTitle ?? review.data.title} description={review.data.description} jsonLd={jsonLd}>
-  <p class="meta">
-    <a class="tag" href={categoryPath(review.data.category)}>{review.data.category}</a>
-    公開 {review.data.pubDate.toLocaleDateString('ja-JP')}
-    {review.data.updatedDate && <span>/ 更新 {review.data.updatedDate.toLocaleDateString('ja-JP')}</span>}
-  </p>
-  <h1>{review.data.title}</h1>
+  <nav class="breadcrumb" aria-label="パンくずリスト">
+    <ol>
+      <li><a href="/">ホーム</a></li>
+      <li><a href={categoryPath(review.data.category)}>{review.data.category}</a></li>
+      <li aria-current="page">{review.data.title}</li>
+    </ol>
+  </nav>
+
+  <header class="article-header">
+    <p class="article-cat">
+      <a class="cat-pill" href={categoryPath(review.data.category)} style={`--cat: ${catStyle.color}`}>
+        <CategoryIcon name={catStyle.icon} size={16} />{review.data.category}
+      </a>
+    </p>
+    <h1>{review.data.title}</h1>
+    <ul class="article-meta">
+      <li>
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4"/></svg>
+        公開 <time datetime={isoDate(review.data.pubDate)}>{formatDate(review.data.pubDate)}</time>
+      </li>
+      {review.data.updatedDate && (
+        <li>
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 11a8 8 0 1 0-2.3 5.7"/><path d="M20 4v7h-7"/></svg>
+          更新 <time datetime={isoDate(review.data.updatedDate)}>{formatDate(review.data.updatedDate)}</time>
+        </li>
+      )}
+      <li>
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg>
+        読了の目安 約{minutes}分
+      </li>
+    </ul>
+  </header>
 
   {review.data.affiliateDisclosure && <AffiliateDisclosure hasAds={hasAds} />}
 
-  <article>
+  <Toc headings={headings} />
+
+  <article class="prose">
     <Content />
   </article>
 
@@ -89,5 +123,5 @@ const jsonLd = {
 
   <RelatedReviews current={review} allReviews={allReviews} />
 
-  <p><a href="/">&larr; 一覧に戻る</a></p>
+  <p class="back-link"><a href={categoryPath(review.data.category)}>&larr; {review.data.category}の記事一覧</a> ・ <a href="/">ホームへ</a></p>
 </BaseLayout>

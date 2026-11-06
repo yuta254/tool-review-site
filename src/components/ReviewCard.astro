@@ -1,0 +1,37 @@
+---
+// 記事カード。上部にカテゴリの色帯とアイコン(画像の代わり)、下に題名・説明・日付。
+// カード全体を押せるように、題名のリンクを ::after でカードいっぱいに広げている。
+import type { CollectionEntry } from 'astro:content';
+import CategoryIcon from './CategoryIcon.astro';
+import { categoryStyle } from '../lib/categoryStyle';
+import { formatDate, isoDate, isNew } from '../lib/articleMeta';
+
+interface Props {
+  review: CollectionEntry<'reviews'>;
+  /** 見出しの階層(ページの構造に合わせる) */
+  headingLevel?: 2 | 3;
+  /** カテゴリ別ページなど、カテゴリ名が分かりきっている場所では帯の文字を省く */
+  showCategory?: boolean;
+}
+const { review, headingLevel = 3, showCategory = true } = Astro.props;
+const { title, description, category, pubDate, updatedDate } = review.data;
+const style = categoryStyle(category);
+const fresh = isNew(pubDate);
+const Heading = `h${headingLevel}`;
+---
+<article class="rcard" style={`--cat: ${style.color}`}>
+  <div class="rcard-thumb">
+    <CategoryIcon name={style.icon} size={30} class="rcard-icon" />
+    {showCategory && <span class="rcard-cat">{category}</span>}
+    {fresh && <span class="badge-new">NEW</span>}
+  </div>
+  <div class="rcard-body">
+    <Heading class="rcard-title"><a href={`/reviews/${review.id}/`}>{title}</a></Heading>
+    <p class="rcard-desc">{description}</p>
+    <p class="rcard-date">
+      {updatedDate
+        ? <>更新 <time datetime={isoDate(updatedDate)}>{formatDate(updatedDate)}</time></>
+        : <>公開 <time datetime={isoDate(pubDate)}>{formatDate(pubDate)}</time></>}
+    </p>
+  </div>
+</article>

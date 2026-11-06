@@ -1,7 +1,10 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import ReviewCard from '../../components/ReviewCard.astro';
+import CategoryIcon from '../../components/CategoryIcon.astro';
 import { categorySlug, CATEGORY_INTROS } from '../../lib/categories';
+import { categoryStyle } from '../../lib/categoryStyle';
 
 export async function getStaticPaths() {
   const reviews = await getCollection('reviews');
@@ -21,6 +24,7 @@ export async function getStaticPaths() {
 }
 
 const { name, list } = Astro.props;
+const st = categoryStyle(name);
 const intro = CATEGORY_INTROS[name] ?? `${name}に分類しているAIツールのレビュー一覧です。`;
 
 const jsonLd = {
@@ -40,20 +44,26 @@ const jsonLd = {
   },
 };
 ---
-<BaseLayout title={`${name}のAIツールレビュー(${list.length}件)`} description={intro} jsonLd={jsonLd}>
-  <p class="meta"><a href="/categories/">カテゴリ一覧</a></p>
-  <h1>{name}</h1>
-  <p>{intro}</p>
+<BaseLayout title={`${name}のAIツールレビュー(${list.length}件)`} description={intro} jsonLd={jsonLd} wide>
+  <nav class="breadcrumb" aria-label="パンくずリスト">
+    <ol>
+      <li><a href="/">ホーム</a></li>
+      <li><a href="/categories/">カテゴリ一覧</a></li>
+      <li aria-current="page">{name}</li>
+    </ol>
+  </nav>
+  <header class="cat-hero" style={`--cat: ${st.color}`}>
+    <span class="cat-hero-icon"><CategoryIcon name={st.icon} size={34} /></span>
+    <div>
+      <h1>{name}</h1>
+      <p>{intro}</p>
+      <p class="cat-hero-count">{list.length}件の記事</p>
+    </div>
+  </header>
 
-  <div class="card-list">
-    {list.map((r) => (
-      <article class="card">
-        <p class="meta">{r.data.pubDate.toLocaleDateString('ja-JP')}</p>
-        <h2><a href={`/reviews/${r.id}/`}>{r.data.title}</a></h2>
-        <p>{r.data.description}</p>
-      </article>
-    ))}
+  <div class="card-grid">
+    {list.map((r) => <ReviewCard review={r} headingLevel={2} showCategory={false} />)}
   </div>
 
-  <p><a href="/">&larr; すべての記事を見る</a></p>
+  <p class="back-link"><a href="/">&larr; すべての記事を見る</a></p>
 </BaseLayout>

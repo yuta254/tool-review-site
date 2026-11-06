@@ -1,7 +1,9 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import CategoryIcon from '../../components/CategoryIcon.astro';
 import { categoryPath } from '../../lib/categories';
+import { categoryStyle } from '../../lib/categoryStyle';
 
 const reviews = await getCollection('reviews');
 
@@ -27,11 +29,15 @@ const jsonLd = {
   <p>{reviews.length}本のレビューを{categories.length}カテゴリに分けています。用途から探してください。</p>
 
   <ul class="category-list">
-    {categories.map(([name, count]) => (
-      <li>
-        <a href={categoryPath(name)}>{name}</a>
-        <span class="count">{count}件</span>
-      </li>
-    ))}
+    {categories.map(([name, count]) => {
+      const st = categoryStyle(name);
+      return (
+        <li style={`--cat: ${st.color}`}>
+          <span class="cat-icon"><CategoryIcon name={st.icon} size={20} /></span>
+          <a href={categoryPath(name)}>{name}</a>
+          <span class="count">{count}件</span>
+        </li>
+      );
+    })}
   </ul>
 </BaseLayout>
