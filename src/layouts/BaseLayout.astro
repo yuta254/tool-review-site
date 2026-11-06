@@ -44,5 +44,7 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
       <slot />
     </main>
     <Footer />
+    <!-- Cloudflare Web Analytics(Cookie不使用。ページごとの閲覧数の計測。2026-11-06 導入) -->
+    <script is:inline defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "6ed43d34957a49fcb90ec8e43f7db523"}'></script>
   </body>
 </html>
