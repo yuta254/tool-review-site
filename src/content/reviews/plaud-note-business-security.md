@@ -108,10 +108,9 @@ Plaud Team は、複数の人が PLAUD を使う組織向けのプランです�
 
 <div class="affiliate-box" data-pr="plaud">
   <p><strong>PR</strong>｜本体の価格と在庫は公式ストアで確認できます</p>
-  <p>会社で使う前に、まず1台を公式ストアで買い、30日間の返品保証の間に社内のルールに合うかを確かめる方法もあります。購入前に <a data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE 公式ストア</a> で最新の価格と条件を確かめてください。</p>
+  <p>会社で使う前に、まず1台を公式ストアで買い、30日間の返品保証の間に社内のルールに合うかを確かめる方法もあります。購入前に公式ストア(<a data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="" data-pr="plaud">)で最新の価格と条件を確かめてください。</p>
   <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE 公式サイト</a>
-  <img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="" data-pr="plaud">
+  <a class="cta" data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="" data-pr="plaud">
 </div>
 
 ## 社内の要件ごとの判断

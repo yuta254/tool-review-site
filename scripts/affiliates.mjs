@@ -10,10 +10,10 @@ export function loadAffiliates() {
   const ts = readFileSync(SRC, 'utf8');
   const body = ts.slice(ts.indexOf('export const AFFILIATES'));
   const out = {};
-  const re = /(\w+):\s*\{[^}]*?a8mat:\s*'([^']+)'[^}]*?imgHost:\s*'([^']+)'/gs;
+  const re = /(\w+):\s*\{[^}]*?a8mat:\s*'([^']+)'[^}]*?imgHost:\s*'([^']+)'[^}]*?text:\s*'([^']+)'/gs;
   let m;
   while ((m = re.exec(body)) !== null) {
-    out[m[1]] = { a8mat: m[2], imgHost: m[3] };
+    out[m[1]] = { a8mat: m[2], imgHost: m[3], text: m[4] };
   }
   if (Object.keys(out).length === 0) {
     throw new Error('src/lib/affiliates.ts からプログラムを読み取れませんでした。');

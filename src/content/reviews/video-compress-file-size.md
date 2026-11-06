@@ -119,10 +119,9 @@ HandBrake の固定品質は「RF」という数値で指定し、**数値が小
 
 <div class="affiliate-box" data-pr="videoproc">
   <p><strong>PR</strong>｜目標サイズを指定して動画を圧縮できます</p>
-  <p>VideoProc Converter AI は、希望のサイズの直接指定やビットレート・解像度の調整ができる圧縮機能を持つソフトです。無料版では5分未満の動画を圧縮できます。 <a data-pr="videoproc" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="sponsored nofollow">【VideoProc】</a> の公式サイトから無料版をダウンロードできます。</p>
+  <p>VideoProc Converter AI は、希望のサイズの直接指定やビットレート・解像度の調整ができる圧縮機能を持つソフトです。無料版では5分未満の動画を圧縮できます。 <a data-pr="videoproc" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="sponsored nofollow">【VideoProc】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BC0UI+5I9D82+428G+C0YF6" alt="" data-pr="videoproc"> の公式サイトから無料版をダウンロードできます。</p>
   <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="videoproc" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="sponsored nofollow">VideoProc 公式サイト</a>
-  <img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BC0UI+5I9D82+428G+C0YF6" alt="" data-pr="videoproc">
+  <a class="cta" data-pr="videoproc" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="sponsored nofollow">【VideoProc】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BC0UI+5I9D82+428G+C0YF6" alt="" data-pr="videoproc">
 </div>
 
 ## 圧縮する前に気をつけること

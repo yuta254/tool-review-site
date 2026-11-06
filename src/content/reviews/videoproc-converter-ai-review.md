@@ -134,10 +134,9 @@ VideoProc Converter AI(旧名:VideoProc)は、**動画の変換・圧縮・簡�
 
 <div class="affiliate-box" data-pr="videoproc">
   <p><strong>PR</strong>｜無料版で手持ちの動画を試せます</p>
-  <p>無料版でも主な機能を試せます。手持ちの動画で仕上がりと処理時間を確かめてから、年間プランか永久ライセンスかを選べます。 <a data-pr="videoproc" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="sponsored nofollow">【VideoProc】</a> の公式サイトから無料版をダウンロードできます。</p>
+  <p>無料版でも主な機能を試せます。手持ちの動画で仕上がりと処理時間を確かめてから、年間プランか永久ライセンスかを選べます。 <a data-pr="videoproc" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="sponsored nofollow">【VideoProc】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BC0UI+5I9D82+428G+C0YF6" alt="" data-pr="videoproc"> の公式サイトから無料版をダウンロードできます。</p>
   <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="videoproc" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="sponsored nofollow">VideoProc 公式サイト</a>
-  <img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BC0UI+5I9D82+428G+C0YF6" alt="" data-pr="videoproc">
+  <a class="cta" data-pr="videoproc" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="sponsored nofollow">【VideoProc】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BC0UI+5I9D82+428G+C0YF6" alt="" data-pr="videoproc">
 </div>
 
 ## 動作環境

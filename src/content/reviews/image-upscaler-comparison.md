@@ -88,10 +88,9 @@ Firefly 全体の料金と規約は[Adobe Fireflyの解説](/reviews/adobe-firef
 
 <div class="affiliate-box" data-pr="aiarty">
   <p><strong>PR</strong>｜買い切りの高画質化ソフトを無料版から確かめられます</p>
-  <p>無料版でもAI処理は使えるので、手持ちの画像で仕上がりを見てから永久版を選べます(無料版の書き出しには透かしが入ります)。 <a data-pr="aiarty" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="sponsored nofollow">【Aiarty Image Enhancer】</a> の公式サイトから無料版をダウンロードできます。</p>
+  <p>無料版でもAI処理は使えるので、手持ちの画像で仕上がりを見てから永久版を選べます(無料版の書き出しには透かしが入ります)。 <a data-pr="aiarty" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="sponsored nofollow">【Aiarty Image Enhancer】</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+EVUWI+428G+HVFKY" alt="" data-pr="aiarty"> の公式サイトから無料版をダウンロードできます。</p>
   <p><em>※当サイトでは未検証です。料金・動作環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="aiarty" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="sponsored nofollow">Aiarty Image Enhancer 公式サイト</a>
-  <img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+EVUWI+428G+HVFKY" alt="" data-pr="aiarty">
+  <a class="cta" data-pr="aiarty" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="sponsored nofollow">【Aiarty Image Enhancer】</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+EVUWI+428G+HVFKY" alt="" data-pr="aiarty">
 </div>
 
 ## 拡大する前に知っておきたいこと

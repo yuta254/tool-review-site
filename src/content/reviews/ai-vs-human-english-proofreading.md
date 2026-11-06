@@ -108,10 +108,9 @@ DeepL の翻訳機能については[DeepLレビュー](/reviews/deepl-review/)�
 
 <div class="affiliate-box" data-pr="idbusiness">
   <p><strong>PR</strong>｜AIで直した英文を、人の目で確かめたいとき</p>
-  <p>契約書や対外的な提案書など、誤解されると困る英文の最終確認に、人によるネイティブチェックを使う選択肢として <a data-pr="idbusiness" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+61WO6Q+2KSK+C0QPE" rel="sponsored nofollow">アイディービジネス</a> があります。1単語1.5ポイントの従量制で、無料登録で100ポイントがもらえます(条件は公式サイトで確認してください)。</p>
+  <p>契約書や対外的な提案書など、誤解されると困る英文の最終確認に、人によるネイティブチェックを使う選択肢として <a data-pr="idbusiness" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+61WO6Q+2KSK+BWVTE" rel="sponsored nofollow">アイディービジネス</a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4BC0UI+61WO6Q+2KSK+BWVTE" alt="" data-pr="idbusiness"> があります。1単語1.5ポイントの従量制で、無料登録で100ポイントがもらえます(条件は公式サイトで確認してください)。</p>
   <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="idbusiness" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+61WO6Q+2KSK+C0QPE" rel="sponsored nofollow">アイディービジネス 公式サイト</a>
-  <img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4BC0UI+61WO6Q+2KSK+C0QPE" alt="" data-pr="idbusiness">
+  <a class="cta" data-pr="idbusiness" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+61WO6Q+2KSK+BWVTE" rel="sponsored nofollow">アイディービジネス</a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4BC0UI+61WO6Q+2KSK+BWVTE" alt="" data-pr="idbusiness">
 </div>
 
 ## 文書の種類ごとの使い分け

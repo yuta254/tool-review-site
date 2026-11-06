@@ -22,28 +22,28 @@ let changed = 0;
 function rewrite(text) {
   let out = text;
 
-  // 1) <a ... data-pr="key" ...> の href / rel を揃える(属性順も固定する)
-  out = out.replace(/<a([^>]*?)data-pr="([^"]+)"([^>]*?)>/g, (whole, pre, key, post) => {
-    const a = AFFILIATES[key];
-    if (!a) return whole;
-    const keep = (pre + post)
-      .replace(/\s*href="[^"]*"/g, '')
-      .replace(/\s*rel="[^"]*"/g, '')
-      .trim();
-    const attrs = keep ? ` ${keep}` : '';
-    return `<a${attrs} data-pr="${key}" href="${linkUrl(a)}" rel="sponsored nofollow">`;
-  });
+  // 1) <a ... data-pr="key" ...>文言</a> を A8 の広告コードと同じ形に揃える。
+  //    - href / rel を固定(属性順も固定)
+  //    - リンクの文言は affiliates.ts の text(A8 の素材の文言)そのもの。A8 の禁止事項「テキスト広告の文言の変更」に当たらないように
+  //    - 計測用1x1画像はリンクの直後に置く(「広告コードからリンク部分のみを使用」に当たらないように)
+  //    (2026-11-06: 以前は文言を自作し、画像は広告枠の末尾に1つだけだった)
+  out = out.replace(
+    /<a([^>]*?)data-pr="([^"]+)"([^>]*?)>([\s\S]*?)<\/a>((?:[ \t]*\r?\n[ \t]*)?<img[^>]*data-pr="[^"]+"[^>]*>)?/g,
+    (whole, pre, key, post) => {
+      const a = AFFILIATES[key];
+      if (!a) return whole;
+      const keep = (pre + post)
+        .replace(/\s*href="[^"]*"/g, '')
+        .replace(/\s*rel="[^"]*"/g, '')
+        .trim();
+      const attrs = keep ? ` ${keep}` : '';
+      const img = `<img border="0" width="1" height="1" src="${pixelUrl(a)}" alt="" data-pr="${key}">`;
+      return `<a${attrs} data-pr="${key}" href="${linkUrl(a)}" rel="sponsored nofollow">${a.text}</a>${img}`;
+    },
+  );
 
-  // 2) 計測用1x1画像。広告枠ごとに1つ。枠の中に既にあれば差し替え、無ければその枠の </div> の直前に追加
-  //    (2026-11-05: 以前は記事で最初の </div> にしか入らず、2つ目の枠に画像が入らなかった)
-  out = out.replace(/(<div class="affiliate-box" data-pr="([^"]+)">)([\s\S]*?)\n<\/div>/g, (whole, open, key, inner) => {
-    const a = AFFILIATES[key];
-    if (!a) return whole;
-    const img = `<img border="0" width="1" height="1" src="${pixelUrl(a)}" alt="" data-pr="${key}">`;
-    const nl = whole.includes('\r\n') ? '\r\n' : '\n'; // 改行コードは元のまま保つ
-    const lines = inner.replace(/\r$/, '').split(/\r?\n/).filter((l) => !/^[ \t]*<img[^>]*data-pr="[^"]+"[^>]*>[ \t]*$/.test(l));
-    return `${open}${lines.join(nl)}${nl}  ${img}${nl}</div>`;
-  });
+  // 2) リンクの直後に付かず、行だけで残っている計測用画像(以前の形)を取り除く
+  out = out.replace(/\r?\n[ \t]*<img[^>]*data-pr="[^"]+"[^>]*>[ \t]*(?=\r?\n)/g, '');
 
   return out;
 }

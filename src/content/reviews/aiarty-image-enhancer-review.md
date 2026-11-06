@@ -69,10 +69,9 @@ AIによる拡大は、元の画像に無い細部をAIが**推定して描き�
 
 <div class="affiliate-box" data-pr="aiarty">
   <p><strong>PR</strong>｜まず無料版で手持ちの画像を試せます</p>
-  <p>無料版でもAI処理は使えます(書き出した画像には透かしが入ります)。手持ちの画像で仕上がりと動作を見てから、有料版にするかを判断できます。 <a data-pr="aiarty" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="sponsored nofollow">【Aiarty Image Enhancer】</a> の公式サイトから無料版をダウンロードできます。</p>
+  <p>無料版でもAI処理は使えます(書き出した画像には透かしが入ります)。手持ちの画像で仕上がりと動作を見てから、有料版にするかを判断できます。 <a data-pr="aiarty" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="sponsored nofollow">【Aiarty Image Enhancer】</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+EVUWI+428G+HVFKY" alt="" data-pr="aiarty"> の公式サイトから無料版をダウンロードできます。</p>
   <p><em>※当サイトでは未検証です。対応形式・動作環境・料金は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="aiarty" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="sponsored nofollow">Aiarty Image Enhancer 公式サイト</a>
-  <img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+EVUWI+428G+HVFKY" alt="" data-pr="aiarty">
+  <a class="cta" data-pr="aiarty" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="sponsored nofollow">【Aiarty Image Enhancer】</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+EVUWI+428G+HVFKY" alt="" data-pr="aiarty">
 </div>
 
 ## Aiartyは安全?販売元・返金条件・クーポンの扱い

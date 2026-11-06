@@ -84,10 +84,9 @@ Converter AI は、公式サイトで「動画処理」の製品として紹介�
 
 <div class="affiliate-box" data-pr="videoproc">
   <p><strong>PR</strong>｜Vlogger も Converter AI も公式サイトから無料で入手できます</p>
-  <p>編集が目的なら Vlogger、変換・圧縮・高画質化が目的なら Converter AI の無料版から始められます。どちらも <a data-pr="videoproc" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="sponsored nofollow">【VideoProc】</a> の公式サイトからダウンロードできます。</p>
+  <p>編集が目的なら Vlogger、変換・圧縮・高画質化が目的なら Converter AI の無料版から始められます。どちらも <a data-pr="videoproc" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="sponsored nofollow">【VideoProc】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BC0UI+5I9D82+428G+C0YF6" alt="" data-pr="videoproc"> の公式サイトからダウンロードできます。</p>
   <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="videoproc" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="sponsored nofollow">VideoProc 公式サイト</a>
-  <img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BC0UI+5I9D82+428G+C0YF6" alt="" data-pr="videoproc">
+  <a class="cta" data-pr="videoproc" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="sponsored nofollow">【VideoProc】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BC0UI+5I9D82+428G+C0YF6" alt="" data-pr="videoproc">
 </div>
 
 ## 動作環境の違い

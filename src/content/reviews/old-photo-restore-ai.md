@@ -106,10 +106,9 @@ Adobe の古い写真の修復手順では、スキャンした写真の上に�
 
 <div class="affiliate-box" data-pr="aiarty">
   <p><strong>PR</strong>｜パソコンの中だけで処理する高画質化ソフト</p>
-  <p>公式の説明では、画像を外部のサーバーに送らずにノイズ除去・ぼかし解除・顔の補正・拡大ができます。無料版で手持ちの写真の仕上がりを見てから購入を決められます(無料版の書き出しには透かしが入ります)。 <a data-pr="aiarty" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="sponsored nofollow">【Aiarty Image Enhancer】</a> の公式サイトから無料版をダウンロードできます。</p>
+  <p>公式の説明では、画像を外部のサーバーに送らずにノイズ除去・ぼかし解除・顔の補正・拡大ができます。無料版で手持ちの写真の仕上がりを見てから購入を決められます(無料版の書き出しには透かしが入ります)。 <a data-pr="aiarty" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="sponsored nofollow">【Aiarty Image Enhancer】</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+EVUWI+428G+HVFKY" alt="" data-pr="aiarty"> の公式サイトから無料版をダウンロードできます。</p>
   <p><em>※当サイトでは未検証です。料金・動作環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="aiarty" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="sponsored nofollow">Aiarty Image Enhancer 公式サイト</a>
-  <img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+EVUWI+428G+HVFKY" alt="" data-pr="aiarty">
+  <a class="cta" data-pr="aiarty" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="sponsored nofollow">【Aiarty Image Enhancer】</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+EVUWI+428G+HVFKY" alt="" data-pr="aiarty">
 </div>
 
 Aiarty の料金・返金条件・動作環境は[Aiarty Image Enhancerの解説](/reviews/aiarty-image-enhancer-review/)にまとめています。

@@ -70,8 +70,7 @@ DeepLは、ドイツのDeepL社が提供するAI翻訳ツールです。日本�
 
 <div class="affiliate-box" data-pr="idbusiness">
   <p><strong>PR</strong>｜訳文をそのまま出す前に</p>
-  <p>DeepLの訳文は自然ですが、契約書や対外的な提案書など「間違えられない英文」では、人の目による最終確認が要ります。ネイティブチェックを外注できるサービスとして <a data-pr="idbusiness" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+61WO6Q+2KSK+C0QPE" rel="sponsored nofollow">アイディービジネス</a> があります。</p>
+  <p>DeepLの訳文は自然ですが、契約書や対外的な提案書など「間違えられない英文」では、人の目による最終確認が要ります。ネイティブチェックを外注できるサービスとして <a data-pr="idbusiness" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+61WO6Q+2KSK+BWVTE" rel="sponsored nofollow">アイディービジネス</a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4BC0UI+61WO6Q+2KSK+BWVTE" alt="" data-pr="idbusiness"> があります。</p>
   <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="idbusiness" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+61WO6Q+2KSK+C0QPE" rel="sponsored nofollow">アイディービジネス 公式サイト</a>
-  <img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4BC0UI+61WO6Q+2KSK+C0QPE" alt="" data-pr="idbusiness">
+  <a class="cta" data-pr="idbusiness" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+61WO6Q+2KSK+BWVTE" rel="sponsored nofollow">アイディービジネス</a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4BC0UI+61WO6Q+2KSK+BWVTE" alt="" data-pr="idbusiness">
 </div>

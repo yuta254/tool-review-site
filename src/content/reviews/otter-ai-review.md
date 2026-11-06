@@ -146,8 +146,7 @@ Basic は無料で、月300分まで、1回の会話は30分まで、ファイ�
 
 <div class="affiliate-box" data-pr="plaud">
   <p><strong>PR</strong>｜対面の会話を取りこぼしたくないとき</p>
-  <p>Otterはオンライン会議やスマホ録音に対応しますが、長時間の対面打ち合わせでは端末のバッテリーと集音性能がボトルネックになります。専用機という選択肢として <a data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE</a> のようなAIボイスレコーダーがあります。</p>
+  <p>Otterはオンライン会議やスマホ録音に対応しますが、長時間の対面打ち合わせでは端末のバッテリーと集音性能がボトルネックになります。専用機という選択肢として <a data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="" data-pr="plaud"> のようなAIボイスレコーダーがあります。</p>
   <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE 公式サイト</a>
-  <img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="" data-pr="plaud">
+  <a class="cta" data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="" data-pr="plaud">
 </div>

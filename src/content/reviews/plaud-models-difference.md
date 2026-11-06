@@ -124,10 +124,9 @@ tags: ["PLAUD", "PLAUD NOTE", "Plaud Note Pro", "Plaud NotePin", "AIボイスレ
 
 <div class="affiliate-box" data-pr="plaud">
   <p><strong>PR</strong>｜4機種の価格と在庫は公式ストアで確認できます</p>
-  <p>本体と年間プランのセット販売もあります。セール中は機種ごとの価格差が変わることがあるので、購入前に <a data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE 公式ストア</a> で最新の表示を確かめてください。</p>
+  <p>本体と年間プランのセット販売もあります。セール中は機種ごとの価格差が変わることがあるので、購入前に公式ストア(<a data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="" data-pr="plaud">)で最新の表示を確かめてください。</p>
   <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE 公式サイト</a>
-  <img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="" data-pr="plaud">
+  <a class="cta" data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="" data-pr="plaud">
 </div>
 
 ほかの会社の録音機も候補なら、同じカード型の[Notta MemoとPLAUD Noteの違い](/reviews/notta-memo-vs-plaud-note/)や、HiDock・Anker Soundcore Work・オートメモまで並べた[AIボイスレコーダーの比較](/reviews/ai-voice-recorder-comparison/)も参考にしてください。

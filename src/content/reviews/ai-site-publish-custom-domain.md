@@ -179,10 +179,9 @@ Framer はホスティングまで含めたサイト制作ツールで、公開�
 
 <div class="affiliate-box" data-pr="onamae">
   <p><strong>PR</strong>｜ドメインとサーバーをまとめて用意するとき</p>
-  <p>AIツールで作ったサイトに独自ドメインを付けたい、ブログやWordPressも同じ場所で運用したい、という場合の選択肢として <a data-pr="onamae" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5Q0036+50+35CAFM" rel="sponsored nofollow">お名前.com レンタルサーバー</a> があります。サーバーと同時に申し込むと、対象ドメインの更新料がサーバー利用中は0円になる特典があります(条件は公式サイトで確認してください)。</p>
+  <p>AIツールで作ったサイトに独自ドメインを付けたい、ブログやWordPressも同じ場所で運用したい、という場合の選択肢として <a data-pr="onamae" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5Q0036+50+35CAFM" rel="sponsored nofollow">お名前.com レンタルサーバー</a><img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BC0UI+5Q0036+50+35CAFM" alt="" data-pr="onamae"> があります。サーバーと同時に申し込むと、対象ドメインの更新料がサーバー利用中は0円になる特典があります(条件は公式サイトで確認してください)。</p>
   <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="onamae" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5Q0036+50+35CAFM" rel="sponsored nofollow">お名前.com レンタルサーバー</a>
-  <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BC0UI+5Q0036+50+35CAFM" alt="" data-pr="onamae">
+  <a class="cta" data-pr="onamae" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5Q0036+50+35CAFM" rel="sponsored nofollow">お名前.com レンタルサーバー</a><img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BC0UI+5Q0036+50+35CAFM" alt="" data-pr="onamae">
 </div>
 
 ## サーバー代を抑えたいときの選択肢

@@ -79,8 +79,7 @@ Photoroomは、商品写真の背景除去とAIによる背景生成を行える
 
 <div class="affiliate-box" data-pr="aiarty">
   <p><strong>PR</strong>｜元の写真そのものが粗いとき</p>
-  <p>Photoroomの有料プランにも高画質化の機能(Image Enhancer)が含まれていますが(公式の料金ページ、2026年11月3日確認)、背景の加工とは別に、元写真の画質だけを整えるソフトを使う方法もあります。撮り直しが難しい商品写真の下地を整える用途では、高画質化に特化した <a data-pr="aiarty" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="sponsored nofollow">【Aiarty Image Enhancer】</a> のようなツールを前段に挟む選択肢もあります。公式サイトによると、ノイズ除去・ピンボケ補正・拡大に対応しています。</p>
+  <p>Photoroomの有料プランにも高画質化の機能(Image Enhancer)が含まれていますが(公式の料金ページ、2026年11月3日確認)、背景の加工とは別に、元写真の画質だけを整えるソフトを使う方法もあります。撮り直しが難しい商品写真の下地を整える用途では、高画質化に特化した <a data-pr="aiarty" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="sponsored nofollow">【Aiarty Image Enhancer】</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+EVUWI+428G+HVFKY" alt="" data-pr="aiarty"> のようなツールを前段に挟む選択肢もあります。公式サイトによると、ノイズ除去・ピンボケ補正・拡大に対応しています。</p>
   <p><em>※当サイトでは未検証です。対応形式・動作環境・料金は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="aiarty" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="sponsored nofollow">Aiarty Image Enhancer 公式サイト</a>
-  <img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+EVUWI+428G+HVFKY" alt="" data-pr="aiarty">
+  <a class="cta" data-pr="aiarty" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="sponsored nofollow">【Aiarty Image Enhancer】</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+EVUWI+428G+HVFKY" alt="" data-pr="aiarty">
 </div>

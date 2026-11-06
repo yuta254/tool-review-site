@@ -57,10 +57,9 @@ PLAUD の日本公式ストアの説明(2026年10月21日確認)では、次の�
 
 <div class="affiliate-box" data-pr="plaud">
   <p><strong>PR</strong>｜対面の会話や電話も記録したいとき</p>
-  <p>オンライン会議向けのAIでは、対面の打ち合わせや電話は記録できません。録音機で録ってAIで文字起こし・要約する選択肢として <a data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE</a> があります。機種と料金は公式ストアで確認できます。</p>
+  <p>オンライン会議向けのAIでは、対面の打ち合わせや電話は記録できません。録音機で録ってAIで文字起こし・要約する選択肢として <a data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="" data-pr="plaud"> があります。機種と料金は公式ストアで確認できます。</p>
   <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE 公式サイト</a>
-  <img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="" data-pr="plaud">
+  <a class="cta" data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="" data-pr="plaud">
 </div>
 
 ## どれを選ぶか(状況別)

@@ -138,10 +138,9 @@ AIの校正ツールと人の校正のどちらを使うかを決めたい場合
 
 <div class="affiliate-box" data-pr="idbusiness">
   <p><strong>PR</strong>｜短い英文を早く直してほしいとき</p>
-  <p>1単語1.5ポイントの一律料金で、100単語なら3時間以内が目安とされている英文校正サービスに <a data-pr="idbusiness" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+61WO6Q+2KSK+C0QPE" rel="sponsored nofollow">アイディービジネス</a> があります。無料のメンバー登録で100ポイントがもらえると案内されています(条件は公式サイトで確認してください)。</p>
+  <p>1単語1.5ポイントの一律料金で、100単語なら3時間以内が目安とされている英文校正サービスに <a data-pr="idbusiness" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+61WO6Q+2KSK+BWVTE" rel="sponsored nofollow">アイディービジネス</a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4BC0UI+61WO6Q+2KSK+BWVTE" alt="" data-pr="idbusiness"> があります。無料のメンバー登録で100ポイントがもらえると案内されています(条件は公式サイトで確認してください)。</p>
   <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="idbusiness" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+61WO6Q+2KSK+C0QPE" rel="sponsored nofollow">アイディービジネス 公式サイト</a>
-  <img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4BC0UI+61WO6Q+2KSK+C0QPE" alt="" data-pr="idbusiness">
+  <a class="cta" data-pr="idbusiness" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+61WO6Q+2KSK+BWVTE" rel="sponsored nofollow">アイディービジネス</a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4BC0UI+61WO6Q+2KSK+BWVTE" alt="" data-pr="idbusiness">
 </div>
 
 ## 見積もりの取り方
