@@ -154,9 +154,10 @@ Billing の画面で、一定額に達したら知らせるアラートと、そ
 **Q. Bolt.new とどちらを選ぶべきですか。**
 Replit は実行環境・データベース・公開までを同じ場所で扱えるのが特徴です。生成されたコードを手元に持ってきて育てたいなら Bolt.new が候補になります。詳しくは[アプリビルダー4種の比較](/reviews/ai-app-builder-comparison/)を参照してください。
 
-<div class="affiliate-box" data-pr="onamae">
-  <p><strong>PR</strong>｜常時稼働させたくなったとき</p>
-  <p>Replit上での動作確認から一歩進めて、自分のドメインで常時稼働させたくなる場面があります。VPSを含む国内のホスティングの選択肢として <a data-pr="onamae" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5Q0036+50+35CAFM" rel="sponsored nofollow">お名前.com レンタルサーバー</a><img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BC0UI+5Q0036+50+35CAFM" alt="" data-pr="onamae"> があります。</p>
+<div class="affiliate-box" data-pr="xserver">
+  <p><strong>PR</strong>｜自分のドメインで公開したくなったとき</p>
+  <p>Replit上での動作確認から一歩進めて、紹介ページやブログを自分のドメインで公開したくなる場面があります。国内のレンタルサーバーの選択肢として <a data-pr="xserver" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6F07HU+CO4+6AZAQ" rel="sponsored nofollow">エックスサーバー</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGERH+6F07HU+CO4+6AZAQ" alt="" data-pr="xserver"> があります。公式サイトの表示では、スタンダードプランは36か月契約で月990円(税込)から、初期費用0円、10日間の無料お試し付きで、12か月以上の契約で独自ドメインが1つ無料になります(2026年11月6日確認)。</p>
+  <p>データベースや常時動くサーバー処理を使うアプリは、レンタルサーバーではそのままでは動かないことがあるため、Replit の公開機能と使い分けてください。</p>
   <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="onamae" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5Q0036+50+35CAFM" rel="sponsored nofollow">お名前.com レンタルサーバー</a><img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BC0UI+5Q0036+50+35CAFM" alt="" data-pr="onamae">
+  <a class="cta" data-pr="xserver" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6F07HU+CO4+6AZAQ" rel="sponsored nofollow">エックスサーバー</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGERH+6F07HU+CO4+6AZAQ" alt="" data-pr="xserver">
 </div>

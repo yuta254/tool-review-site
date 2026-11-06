@@ -67,9 +67,9 @@ Framer の公式料金ページ(framer.com/pricing)の表示です。ドル建�
 **Q. v0やBolt.newとどう違いますか。**
 Framerはホスティングまで含めたWebサイト、v0はNext.jsのコード(公式ドキュメントでは、UIだけでなくバックエンドの処理を含むアプリも作れると説明されています)、Bolt.newは動くアプリが出てきます。詳しくは[アプリビルダー4種の比較](/reviews/ai-app-builder-comparison/)を参照してください。
 
-<div class="affiliate-box" data-pr="onamae">
+<div class="affiliate-box" data-pr="xserver">
   <p><strong>PR</strong>｜独自ドメインと自前サーバーで運用したい場合</p>
-  <p>Framerはホスティングまで含めて完結しますが、独自ドメインで運用したい、将来的に自前のサーバーへ移したい、という要件が出てくることがあります。国内のレンタルサーバーの選択肢として <a data-pr="onamae" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5Q0036+50+35CAFM" rel="sponsored nofollow">お名前.com レンタルサーバー</a><img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BC0UI+5Q0036+50+35CAFM" alt="" data-pr="onamae"> があります。</p>
+  <p>Framerはホスティングまで含めて完結しますが、ブログやWordPressのサイトも自分で用意したサーバーで運用したい、という要件が出てくることがあります。国内のレンタルサーバーの選択肢として <a data-pr="xserver" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6F07HU+CO4+6AZAQ" rel="sponsored nofollow">エックスサーバー</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGERH+6F07HU+CO4+6AZAQ" alt="" data-pr="xserver"> があります。公式サイトの表示では、スタンダードプランは36か月契約で月990円(税込)から、初期費用0円、10日間の無料お試し付きで、12か月以上の契約で独自ドメインが1つ無料になります(2026年11月6日確認)。</p>
   <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="onamae" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5Q0036+50+35CAFM" rel="sponsored nofollow">お名前.com レンタルサーバー</a><img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BC0UI+5Q0036+50+35CAFM" alt="" data-pr="onamae">
+  <a class="cta" data-pr="xserver" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6F07HU+CO4+6AZAQ" rel="sponsored nofollow">エックスサーバー</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGERH+6F07HU+CO4+6AZAQ" alt="" data-pr="xserver">
 </div>

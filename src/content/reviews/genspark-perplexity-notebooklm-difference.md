@@ -1,9 +1,9 @@
 ---
 title: "Genspark・Perplexity・NotebookLMの違い:料金・無料版の制限・得意なことを公式情報で比較"
-seoTitle: "Genspark・Perplexity・NotebookLMの違いと料金"
-description: "Genspark・Perplexity・NotebookLM(2026年7月からGemini Notebook)は、どれも調べ物を助けるAIですが、情報源と出来上がるものが違います。料金、無料版でできる回数、得意なこと、日本語対応を各社の公式ページで整理しました(2026年10月23日確認)。"
+seoTitle: "Genspark・Perplexity・NotebookLM比較"
+description: "GensparkとPerplexityの違いは、出典つきで答えるか(Perplexity)、調べた結果を資料にするか(Genspark)です。NotebookLM(現Gemini Notebook)は自分が入れた資料だけで答えます。料金・無料版の回数・得意なことを公式ページで比較(2026年10月23日・11月3日確認)。"
 pubDate: 2026-10-23
-updatedDate: 2026-11-03
+updatedDate: 2026-11-06
 category: "リサーチ"
 tags: ["Genspark", "Perplexity", "NotebookLM", "Gemini Notebook", "AI検索", "リサーチ", "比較", "料金"]
 ---
@@ -25,6 +25,33 @@ tags: ["Genspark", "Perplexity", "NotebookLM", "Gemini Notebook", "AI検索", "�
 - **自分の手元にある資料を読み込ませたい** → NotebookLM。回答の根拠を、入れた資料に限れる
 
 この記事の料金・回数は各社の公式ページ・ヘルプを**2026年10月23日**に確認したものです。当サイトは実際に使った検証はしていません。公式の公開情報を整理した記事です。料金と回数の上限は変わることがあるため、契約する前に公式ページで最新の表示を確かめてください。
+
+## Perplexity と Genspark の違い
+
+**Perplexity は「質問に出典つきで答える検索AI」、Genspark は「調べた結果をスライドや資料、Webページなどの成果物に仕上げるAIワークスペース」です。** 事実を確かめたいなら Perplexity、調べた結果をそのまま人に見せる形にしたいなら Genspark、と分けると迷いません。料金は、Perplexity Pro が年額請求で月17ドル相当、Genspark Plus が月24.99ドル(年払いなら月19.99ドル)です。
+
+| 比べる点 | Perplexity | Genspark |
+| --- | --- | --- |
+| 公式の説明の中心 | 回答の文中に引用元が付き、主張を確かめられる | 依頼を手順に分け、道具を選んで成果物まで仕上げる(Super Agent) |
+| 出来上がるもの | 出典つきの回答 | スライド・資料・表・Webページなど |
+| 無料版の範囲 | 基本の検索は実質無制限、Pro検索は1日3回 | 1日100クレジット(生涯の上限に達すると補充が止まる) |
+| 有料版の入口 | Pro:年額請求で月17ドル相当 | Plus:月24.99ドル(年払いで月19.99ドル) |
+| 向いている使い方 | 最新の事実確認、調べ始め | 調べた内容をスライドや資料にまとめる |
+
+なお、Genspark は以前、調べた内容を1枚のまとめページ(Sparkpage)にする検索AIとして Perplexity と比べられていましたが、確認した公式ヘルプの機能一覧には Sparkpage の項目はありませんでした。いまは「検索AIどうし」ではなく、「検索AI」と「成果物まで作る道具」の比較になります。
+
+## NotebookLM と Genspark の違い
+
+**NotebookLM(現 Gemini Notebook)は、自分が入れた資料(ソース)の範囲だけで答えるAIです。Genspark は、Web や手元のファイルを材料に、新しく調べて成果物まで作ります。** 手元の資料を正確に読み解きたいなら NotebookLM、新しく調べて資料にまとめたいなら Genspark です。
+
+| 比べる点 | NotebookLM(Gemini Notebook) | Genspark |
+| --- | --- | --- |
+| 答えの根拠 | 自分が入れた資料だけ | Web や手元のファイル |
+| 出来上がるもの | 資料に基づく回答、要約、音声解説 | スライド・資料・表・Webページなど |
+| 無料版の範囲 | 1日50回のチャット、1ノートブック50ソース | 1日100クレジット(生涯の上限あり) |
+| 日本語 | 音声解説は日本語を含む80以上の言語に対応(公式ヘルプ) | 確認した公式ヘルプに対応言語の記載なし |
+
+両方を使う場合は、NotebookLM で手元の資料を読み込んで要点を確かめ、その内容を Genspark で人に見せる資料の形にする、という順番にすると、根拠を確かめる工程が抜けにくくなります。
 
 ## NotebookLM は「Gemini Notebook」に名前が変わった
 
@@ -110,11 +137,8 @@ Genspark の公式ヘルプでは、中心の機能「Super Agent」を、**依�
 
 ## よくある質問
 
-**Q. Genspark と Perplexity の違いは何ですか。**
-Perplexity は、質問に出典つきの回答を返す検索AIです。Genspark は、調べた内容をもとにスライドや資料、Webページなどの成果物まで作るAIワークスペースです。事実を確かめるなら Perplexity、資料の形にしたいなら Genspark、という分け方になります。料金は、Perplexity Pro が年額請求で月17ドル相当、Genspark Plus が月24.99ドル(年払いなら月19.99ドル)です。
-
-**Q. NotebookLM と Genspark の違いは何ですか。**
-NotebookLM(現 Gemini Notebook)は、自分が入れた資料の範囲で答えるのが特徴で、Webを広く調べる道具ではありません。Genspark は Web や手元のファイルを使って、成果物を作るところまで進めます。手元の資料を正確に読み解きたいなら NotebookLM、新しく調べて資料にまとめたいなら Genspark です。
+**Q. Genspark と Perplexity、NotebookLM と Genspark の違いは。**
+上の「[Perplexity と Genspark の違い](#perplexity-と-genspark-の違い)」「[NotebookLM と Genspark の違い](#notebooklm-と-genspark-の違い)」の表にまとめています。ひとことで言えば、Perplexity は出典つきの回答、NotebookLM は自分の資料だけに基づく回答、Genspark は調べた結果を成果物に仕上げる道具です。
 
 **Q. 無料版だけで足りますか。**
 使い方によります。Perplexity の無料版は基本の検索なら実質無制限ですが、Pro検索は1日3回です。NotebookLM の無料版は1日50回のチャットと1ノートブック50ソースまで使えます。Genspark の無料版は1日100クレジットで、生涯の上限に達すると補充が止まります。

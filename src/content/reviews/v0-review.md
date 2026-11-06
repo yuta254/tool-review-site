@@ -70,9 +70,10 @@ v0の中で作ってVercelに公開するところまではコードを書かず
 **Q. Vercel以外の環境でも動きますか。**
 公式FAQでは、コードを書き出して手元で作業できるとされ、生成されたコードの所有権はVercelにはないと説明されています。使われるのは Next.js・React・Tailwind CSS などの一般的な技術ですが、Vercel固有の機能を使っている部分は、移す先の環境に合わせた置き換えが必要です。
 
-<div class="affiliate-box" data-pr="onamae">
+<div class="affiliate-box" data-pr="xserver">
   <p><strong>PR</strong>｜生成したUIを実サイトに載せるとき</p>
-  <p>v0が出すのはコンポーネント単位のコードで、そこから先は自分のプロジェクトに組み込んで公開する工程になります。公開先として、国内のレンタルサーバー・VPSの選択肢に <a data-pr="onamae" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5Q0036+50+35CAFM" rel="sponsored nofollow">お名前.com レンタルサーバー</a><img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BC0UI+5Q0036+50+35CAFM" alt="" data-pr="onamae"> があります。</p>
+  <p>v0が出すのはコンポーネント単位のコードで、そこから先は自分のプロジェクトに組み込んで公開する工程になります。国内のレンタルサーバーの選択肢として <a data-pr="xserver" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6F07HU+CO4+6AZAQ" rel="sponsored nofollow">エックスサーバー</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGERH+6F07HU+CO4+6AZAQ" alt="" data-pr="xserver"> があります。公式サイトの表示では、スタンダードプランは36か月契約で月990円(税込)から、初期費用0円、10日間の無料お試し付きで、12か月以上の契約で独自ドメインが1つ無料になります(2026年11月6日確認)。</p>
+  <p>静的なHTMLとして書き出せるサイトなら置けますが、Next.js のサーバー側の機能を使う場合は、対応した公開先を選ぶ必要があります。</p>
   <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="onamae" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5Q0036+50+35CAFM" rel="sponsored nofollow">お名前.com レンタルサーバー</a><img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BC0UI+5Q0036+50+35CAFM" alt="" data-pr="onamae">
+  <a class="cta" data-pr="xserver" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6F07HU+CO4+6AZAQ" rel="sponsored nofollow">エックスサーバー</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGERH+6F07HU+CO4+6AZAQ" alt="" data-pr="xserver">
 </div>

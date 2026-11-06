@@ -68,9 +68,10 @@ Bolt には公開用のホスティング(Bolt Cloud)が組み込まれていて
 **Q. Replit Agentとどちらがよいですか。**
 どちらもブラウザで作って公開まで進められます。Boltの公式ヘルプでは、バックエンドはJavaScript系(Node.js)のみでPHPやPythonは使えないとされているため、JavaScript以外の言語でサーバー側を書きたい場合は、Replitなど対応する環境を検討してください。詳しくは[アプリビルダー4種の比較](/reviews/ai-app-builder-comparison/)を参照してください。
 
-<div class="affiliate-box" data-pr="onamae">
-  <p><strong>PR</strong>｜生成したアプリを自分の環境で公開するとき</p>
-  <p>boltは生成とプレビューまでは一気に進みますが、実際に人に使ってもらう段階では公開先の環境が必要になります。国内のレンタルサーバー・VPSの選択肢として <a data-pr="onamae" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5Q0036+50+35CAFM" rel="sponsored nofollow">お名前.com レンタルサーバー</a><img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BC0UI+5Q0036+50+35CAFM" alt="" data-pr="onamae"> があります。</p>
+<div class="affiliate-box" data-pr="xserver">
+  <p><strong>PR</strong>｜生成したサイトを自分の環境で公開するとき</p>
+  <p>boltは生成とプレビューまでは一気に進みますが、独自ドメインで公開したい、ブログも同じ場所で運用したい、という段階では公開先を選ぶ必要が出てきます。国内のレンタルサーバーの選択肢として <a data-pr="xserver" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6F07HU+CO4+6AZAQ" rel="sponsored nofollow">エックスサーバー</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGERH+6F07HU+CO4+6AZAQ" alt="" data-pr="xserver"> があります。公式サイトの表示では、スタンダードプランは36か月契約で月990円(税込)から、初期費用0円、10日間の無料お試し付きで、12か月以上の契約で独自ドメインが1つ無料になります(2026年11月6日確認)。</p>
+  <p>ビルドしたHTML・CSS・JavaScriptだけで動く静的なサイトなら、ファイルを置いて公開できます。データベースやログインを使うアプリは、そのままでは動かないことがあります。その場合は Bolt 側の公開機能を使う方が手間がかかりません。</p>
   <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="onamae" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5Q0036+50+35CAFM" rel="sponsored nofollow">お名前.com レンタルサーバー</a><img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BC0UI+5Q0036+50+35CAFM" alt="" data-pr="onamae">
+  <a class="cta" data-pr="xserver" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6F07HU+CO4+6AZAQ" rel="sponsored nofollow">エックスサーバー</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGERH+6F07HU+CO4+6AZAQ" alt="" data-pr="xserver">
 </div>
