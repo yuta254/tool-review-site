@@ -2,7 +2,7 @@
 title: "AI議事録を入れる前に決めておくこと:録音の伝え方・保存範囲・アクセス権の運用ルール"
 description: "AI議事録ツールの導入前に、録音を参加者にどう伝えて了解を得るか、記録の保存範囲、誰が読めるかを決めておくための整理です。Zoom AI Companion・Otter.aiの参加者への知らせ方と、個人情報保護委員会のガイドラインの関係する記載も公式情報(2026年11月3日確認)で紹介します。"
 pubDate: 2026-09-01
-updatedDate: 2026-11-03
+updatedDate: 2026-11-07
 category: "ガイド"
 tags: ["議事録", "文字起こし", "同意", "運用ルール", "情報管理", "Zoom AI Companion", "Otter.ai"]
 ---
@@ -91,6 +91,14 @@ AI議事録の導入は、たいてい「どのツールを選ぶか」から始
 | 商談記録をCRM(Salesforce・HubSpotなど)に残したい | [Fireflies.ai](/reviews/fireflies-ai-review/) |
 | Zoom・Google Meet・Teamsの会議を個人で記録したい | [Otter.ai](/reviews/otter-ai-review/) |
 | 記録より先に、会議の音が聞き取りにくい問題がある | [Krisp](/reviews/krisp-review/) |
+| 日本語の会議をZoom・Teams・Google Meetで記録したい | [Notta](/reviews/notta-zoom-teams-meet/) |
+| 対面の打ち合わせや電話を、会議ツールを使わずに記録したい | [PLAUD NOTE などのAIボイスレコーダー](/reviews/ai-voice-recorder-vs-meeting-transcription/) |
+
+### 候補を絞るときに、この記事のルールと照らす3点
+
+1. **データの保存先**: 録音・文字起こしがどの国のサーバーに置かれるか。保存と、要約などのAIの処理で場所が違うこともあります(PLAUDの例は[PLAUDを会社で使うときのセキュリティ](/reviews/plaud-note-business-security/))。
+2. **AIの学習に使われるか**: 初期設定で学習に使われるか、本人や管理者が止められるか。上の「2. 保存範囲と保存期間」で決めたルールと合うかを確かめます。
+3. **相手への知らせ方**: 会議に記録用のボットが入る形か、手元で録音する形か。ボットが入らない形では、上の「1. 参加者にどう伝えて了解を得るか」の連絡を人が行う必要があります。
 
 詳しい比較は[AI文字起こしツールの比較](/reviews/ai-transcription-tools-comparison/)にまとめています。
 
