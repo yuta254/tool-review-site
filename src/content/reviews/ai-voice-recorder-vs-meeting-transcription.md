@@ -3,9 +3,9 @@ title: "AIボイスレコーダーと会議の文字起こしAIの違い:PLAUD�
 seoTitle: "AIボイスレコーダーと会議の文字起こしAIの違い"
 description: "PLAUDのようなAIボイスレコーダーと、Zoomなどの会議ツールのAI機能、Otter.aiのような文字起こしサービスは、記録できる会話の範囲が違います。対面・通話・オンライン会議のどれを記録したいかで選び方を整理しました(2026年10月21日確認)。"
 pubDate: 2026-10-21
-updatedDate: 2026-10-22
+updatedDate: 2026-11-10
 category: "議事録AI"
-tags: ["PLAUD", "AIボイスレコーダー", "Zoom", "Otter.ai", "文字起こし", "議事録", "比較"]
+tags: ["PLAUD", "Comu", "AIボイスレコーダー", "Zoom", "Otter.ai", "文字起こし", "議事録", "比較"]
 ---
 
 ## この記事の結論
@@ -16,7 +16,7 @@ tags: ["PLAUD", "AIボイスレコーダー", "Zoom", "Otter.ai", "文字起こ�
 | --- | --- | --- | --- | --- |
 | 会議ツールに組み込まれたAI | Zoom のAI機能、Teams の Copilot など | 原則対象外(Zoom の My Notes は対応※) | 対象外 | 原則そのツールの会議だけ(※) |
 | 会議に参加する文字起こしサービス | Otter.ai、Fireflies.ai | 主な用途ではない | 主な用途ではない | 複数の会議ツールに対応 |
-| AIボイスレコーダー(専用の録音機) | PLAUD(Note Pro / Note / NotePin S / NotePin) | 得意 | カード型は対応 | パソコン用の無料アプリで対応(公式の説明) |
+| AIボイスレコーダー(専用の録音機) | PLAUD(Note Pro / Note / NotePin S / NotePin)、Comu Action Pro など | 得意 | カード型は対応 | パソコン用の無料アプリで対応(公式の説明) |
 
 ※Zoom は、AIメモ機能「My Notes」で Teams・Google Meet の会議や対面の会話もメモにできると公式に説明しています(2026年10月22日確認)。
 
@@ -53,7 +53,11 @@ PLAUD の日本公式ストアの説明(2026年10月21日確認)では、次の�
 - Note Pro の公式ページでは、無料のパソコン用アプリ「Plaud Desktop」で**オンライン会議も録音できる**と説明されている
 - 本体を買うと、無料の Starter プランで**毎月300分**まで文字起こしできる。それ以上は年額の有料プランか、買い切りの追加パッケージ
 
-本体は27,500円〜30,800円(税込)の買い切りです。機種ごとの違いと総額は[PLAUDの料金まとめ](/reviews/plaud-note-price-plans/)に整理しました。ほかの会社のカード型の録音機(Notta Memo)との違いは[Notta MemoとPLAUD Noteの違い](/reviews/notta-memo-vs-plaud-note/)で、HiDock・Soundcore Work・オートメモを含めた5社の比較は[AIボイスレコーダーの比較](/reviews/ai-voice-recorder-comparison/)で整理しています。
+本体は27,500円〜30,800円(税込)の買い切りです。
+
+PLAUD 以外のカード型では、Comu の **Comu Action Pro** も、商品ページの比較表で「電話録音」に対応し、スマートフォンでの録音に加えてパソコンでの録音にも対応すると説明されています(2026年11月10日に公式で確認)。PLAUD との大きな違いは無料の枠で、無料のスタータープランのまま**文字起こしと基本要約が無制限**とされています(PLAUD の無料枠は毎月300分)。一方で、リアルタイム翻訳は月1回、高度な分析ツールは月3回など、一部の機能は無料の回数に上限があります。通常価格は39,800円(税込)で、確認日は11月12日までのセール価格23,840円でした。
+
+機種ごとの違いと総額は[PLAUDの料金まとめ](/reviews/plaud-note-price-plans/)に整理しました。ほかの会社のカード型の録音機(Notta Memo)との違いは[Notta MemoとPLAUD Noteの違い](/reviews/notta-memo-vs-plaud-note/)で、HiDock・Comu・Soundcore Work・オートメモを含めた6社の比較は[AIボイスレコーダーの比較](/reviews/ai-voice-recorder-comparison/)で整理しています。
 
 <div class="affiliate-box" data-pr="plaud">
   <p><strong>PR</strong>｜対面の会話や電話も記録したいとき</p>
@@ -70,15 +74,23 @@ PLAUD の日本公式ストアの説明(2026年10月21日確認)では、次の�
 | Zoom・Teams・Google Meet が混在し、記録を1か所に集めたい | Otter.ai / Fireflies.ai、または Zoom の My Notes |
 | 対面の打ち合わせ・取材・現場の聞き取りが多い | AIボイスレコーダー |
 | 電話での打ち合わせを記録したい | カード型のAIボイスレコーダー |
+| 録音機を使うが、毎月の文字起こし時間を気にしたくない | 無料で文字起こしが無制限とされている録音機(Comu、HiDock) |
 | オンラインと対面が半々 | 会議ツールのAI機能 + AIボイスレコーダーの併用、または両方を録れる録音機 |
 
 迷ったときは、**先月の会議を「オンライン」「対面」「電話」に分けて数えてみる**のが早道です。オンラインが9割なら録音機は要りません。対面や電話が週に何本もあるなら、オンライン会議向けの道具だけでは記録が欠けます。
+
+<div class="affiliate-box" data-pr="comu">
+  <p><strong>PR</strong>｜録音機で、文字起こしの時間を気にせず録りたいとき</p>
+  <p>Comu Action Pro は、無料のスタータープランで文字起こしと基本要約を無制限に使えると案内され、電話録音とパソコンでの録音にも対応するとされています(2026年11月10日に公式で確認)。セール中は価格が変わるため、購入前に公式ストア(<a data-pr="comu" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6VOCFM+5YZG+5YRHE" rel="sponsored nofollow">【Comu】</a><img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BGERH+6VOCFM+5YZG+5YRHE" alt="" data-pr="comu">)で最新の価格と条件を確かめてください。</p>
+  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
+  <a class="cta" data-pr="comu" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6VOCFM+5YZG+5YRHE" rel="sponsored nofollow">【Comu】</a><img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BGERH+6VOCFM+5YZG+5YRHE" alt="" data-pr="comu">
+</div>
 
 ## どの道具でも共通する注意点
 
 1. **録音してよい会話かを先に確かめる。** 相手に伝えずに録ると、後で信頼を損ねることがあります。PLAUD の公式ストアにも、録音前に参加者へ伝えて同意を得るよう書かれています。考え方は[AI議事録の録音同意ガイド](/reviews/ai-meeting-recording-consent-guide/)にまとめました。
 2. **要約をそのまま配らない。** 「決まったこと」と「決まっていないこと」の線引きは、AIの要約だけでは崩れることがあります。配る前に人が確かめてください。
-3. **月の時間の上限を確かめる。** Otter.ai の無料プランも PLAUD の無料プランも、毎月の文字起こし時間に上限があります。週に何時間録るかを先に見積もると、有料プランが要るかどうかが分かります。
+3. **月の時間の上限を確かめる。** Otter.ai の無料プランも PLAUD の無料プランも、毎月の文字起こし時間に上限があります(Comu や HiDock のように、無料で文字起こしを無制限としている録音機もあります)。週に何時間録るかを先に見積もると、有料プランが要るかどうかが分かります。
 
 ## よくある質問
 

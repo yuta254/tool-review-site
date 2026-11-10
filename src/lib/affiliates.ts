@@ -96,6 +96,24 @@ export const AFFILIATES = {
     imgHost: 'www13',
     text: '【Aiseesoft】', // 素材ID 001(2026-11-06 提携・購入30%)
   },
+  comu: {
+    name: 'AIレコーダー【Comu】',
+    a8mat: '4BGERH+6VOCFM+5YZG+5YRHE',
+    imgHost: 'www12',
+    text: '【Comu】', // 素材ID 002(2026-11-09 提携・購入10%)
+  },
+  nottabrain: {
+    name: 'AIエージェント【Notta Brain】',
+    a8mat: '4BGERH+39VUK2+5988+HVFKY',
+    imgHost: 'www16',
+    text: '【Notta Brain】', // 素材ID 002(2026-11-09 提携・新規有料プラン契約30%)
+  },
+  miricanvas: {
+    name: 'AIデザインツール【MiriCanvas】',
+    a8mat: '4BGERH+6W9S1E+5EX8+5YZ76',
+    imgHost: 'www13',
+    text: 'MiriCanvas', // 素材ID 003(2026-11-10 提携・新規会員登録(無料プラン)100円)
+  },
 } as const satisfies Record<string, Affiliate>;
 
 export type AffiliateKey = keyof typeof AFFILIATES;

@@ -3,7 +3,7 @@ title: "Canva Proの料金・無料版との違い・無料トライアル:学�
 seoTitle: "Canva Proの料金・無料版との違い・無料トライアル"
 description: "Canva Pro(Canvaプロ)の料金は年11,800円または月1,180円(1人)。無料版との違い(テンプレート・素材の数、背景透過、AIの利用枠、ブランドキット、ストレージ)、30日間の無料体験と自動更新、解約と返金、ビジネス・エンタープライズとの違い、大学生や非営利団体が無料で使える条件、商用利用の注意点を、Canvaの公式ページで整理しました(2026年11月3日確認)。"
 pubDate: 2026-07-01
-updatedDate: 2026-11-03
+updatedDate: 2026-11-10
 category: "デザインツール"
 tags: ["Canva", "Canva Pro", "Canvaプロ", "デザイン", "SNS運用", "料金"]
 ---
@@ -170,6 +170,7 @@ Canvaプロは1つのアカウントを1人だけが使えるプランです。�
 
 - 画像の生成をAIに任せたい場合は[AI画像生成ツールの比較](/reviews/ai-image-generation-comparison/)、商品写真の背景処理に絞るなら[Photoroomレビュー](/reviews/photoroom-review/)も参照してください。
 - 資料やスライドを文章から作りたい場合は[Gammaレビュー](/reviews/gamma-review/)が近い用途です。
+- 有料プランの料金が安い別のデザインツールと比べたい場合は、[MiriCanvasの無料プランとCanvaとの違い](/reviews/miricanvas-free-plan-vs-canva/)に料金と無料でできることを整理しています。
 
 テンプレートに載せる素材の解像度は見落としがちです。[画像サイズ・印刷解像度チェッカー](/tools/image-size-checker/)で、持ち込む画像が印刷に耐えるかを先に確認できます。
 
