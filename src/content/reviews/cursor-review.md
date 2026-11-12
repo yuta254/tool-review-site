@@ -1,9 +1,9 @@
 ---
 title: "Cursorレビュー:VS Code育ちのAIファーストエディタは実務で使えるか"
 seoTitle: "Cursorレビュー:AIファーストエディタの特徴と料金"
-description: "AIチャットとエージェント機能を核とするコードエディタCursorを、実務利用の観点で整理します。2026年8月のSpaceXによる買収後の料金プラン(Free・Plus・Premium・Super・Ultra・Teams)と、Grok以外のモデルが別料金になった点も公式情報で確認しました(2026年11月3日確認)。"
+description: "AIチャットとエージェント機能が核のコードエディタCursorを、実務の観点で整理します。2026年8月のSpaceXによる買収後の料金プラン(Free・Plus・Premium・Super・Ultra・Teams)と、Grok以外のモデルが別料金になった点も公式情報で確認しました(2026年11月3日)。"
 pubDate: 2026-07-04
-updatedDate: 2026-11-03
+updatedDate: 2026-11-12
 category: "開発ツール"
 tags: ["Cursor", "コーディング支援", "AI", "エディタ"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "VideoProc Converter AIとは:無料版の制限・買い切りと年間版の違い・安全性と返金条件を公式情報で整理"
-seoTitle: "VideoProc Converter AIは無料でどこまで使える?制限と料金"
-description: "動画の変換・圧縮・AI高画質化をまとめて扱うソフト「VideoProc Converter AI」(旧名VideoProc)は無料でどこまで使えるか(変換・圧縮は5分未満、AI機能は透かしなし5本、録画は透かし入り、ダウンロードは1080p未満)、買い切り(永久ライセンス)と年間プランの違い、販売元・返金条件・入手先、動作環境、使う前に知っておきたい法律上の注意点を、公式サイトの記載から整理しました(料金は2026年11月12日、返金条件は11月3日確認)。"
+seoTitle: "VideoProc Converter AI 無料の制限と料金"
+description: "VideoProc Converter AI(旧VideoProc)の無料版は、変換・圧縮が5分未満、AI機能は透かしなし5本、録画は透かし入り、ダウンロードは1080p未満。買い切りと年間版の違い、販売元・返金条件・入手先、動作環境、法律上の注意も公式で整理(料金は2026年11月12日・返金は3日確認)。"
 pubDate: 2026-10-21
 updatedDate: 2026-11-12
 category: "動画編集AI"

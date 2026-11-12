@@ -111,7 +111,7 @@ Todoist の日本語の料金ページの表示です(Task Capture Assist の回
 既に Todoist を使っているなら、プロプランで試す価値はあります。ただ、AIのために他のツールから移行するほどの差はありません。Todoist の良さはAI以前の部分(入力の速さ、素直な構造)にあり、AIはその上に乗る補助です。
 
 **Q. 無料プランでもAIは使えますか。**
-使えます。公式ヘルプセンターでは、無料の初心者プランでも Filter Assist は使え、音声入力(Ramble)と Task Capture Assist は合わせて月10回まで使えるとされています。Task Assist と Email Assist はプロ・ビジネス向けです(2026年11月12日確認)。
+使えます。公式ヘルプセンターでは、無料の初心者プランでも Filter Assist は使え、音声入力(Ramble)と Task Capture Assist は合わせて月10回まで使えるとされています。Task Assist と Email Assist はプロ・ビジネス向けです(2026年11月12日確認)。ほかのAIツールの無料版・無料お試しの範囲は、[AIツールの無料版・お試しの見極め方](/reviews/ai-tools-free-tier-guide/)で一覧にしています。
 
 **Q. ChatGPT や Claude から Todoist を使えますか。**
 使えます。Todoist には Claude と ChatGPT 向けの公式の連携があり、公式ページでは全員が使えると案内されています。そのほかの MCP に対応したツールも、公式の MCP サーバー経由でつなげます。詳しくは上の「Claude・ChatGPT などの AIアシスタントとつなぐ」を参照してください。

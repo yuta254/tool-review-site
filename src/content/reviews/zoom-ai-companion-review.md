@@ -1,7 +1,7 @@
 ---
 title: "Zoom AI Companionは今どうなった?ZoomMateとの違い・料金・無料版でできること"
-seoTitle: "Zoom AI Companion(ZoomMate)の料金・無料版・違い"
-description: "Zoom AI Companionという名前は使われなくなり、会議の要約などは有料プランに含まれるAI機能として、上位版は有料のアドオン「ZoomMate」として提供されています。無料版の回数制限、プロ・ビジネスで使える範囲、ZoomMateの料金、Teams・Google Meet・対面でも使えるMy Notesを公式情報から整理しました(2026年11月12日確認)。"
+seoTitle: "Zoom AI Companionの料金・無料版と相手への通知"
+description: "Zoom AI Companionの名前は廃止され、会議の要約などは有料プランのAI機能に、上位版は有料アドオン「ZoomMate」になりました。無料版の回数制限、プロ・ビジネスで使える範囲、ZoomMateの料金、Teams・Meet・対面で使えるMy Notesを公式で整理(2026年11月12日確認)。"
 pubDate: 2026-07-02
 updatedDate: 2026-11-12
 category: "業務効率化"

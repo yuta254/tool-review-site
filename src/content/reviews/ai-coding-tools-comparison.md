@@ -1,9 +1,9 @@
 ---
 title: "Cursor・GitHub Copilot・Devin Desktop(旧Windsurf)・Replit Agent・Warpを比較【2026年版】"
 seoTitle: "コーディング支援AI 5種を比較【2026年版】"
-description: "Cursor・GitHub Copilot・Devin Desktop(旧Windsurf)・Replit Agent・Warpを、エディタ型・エージェント型・ターミナル型の違いと料金から比較します。サポート終了が決まったAmazon Q Developer(IDEプラグインは2027年4月30日まで)と後継のKiroにも触れます(2026年11月3日に公式情報を確認)。"
+description: "Cursor・GitHub Copilot・Devin Desktop(旧Windsurf)・Replit Agent・Warpを、エディタ/エージェント/ターミナル型と料金で比較。Amazon Q Developer(IDE版は2027年4月30日まで)と後継Kiroも扱います(2026年11月3日確認)。"
 pubDate: 2026-07-05
-updatedDate: 2026-11-03
+updatedDate: 2026-11-12
 category: "開発ツール"
 tags: ["Cursor", "GitHub Copilot", "Devin Desktop", "Windsurf", "Replit Agent", "Warp", "Amazon Q Developer", "比較"]
 ---

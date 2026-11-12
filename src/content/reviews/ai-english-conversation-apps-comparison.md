@@ -1,8 +1,9 @@
 ---
 title: "AI英会話アプリ比較:スピーク・Talkful・ELSA Speak・ChatGPT音声・Duolingo Maxの料金と無料体験"
 seoTitle: "AI英会話アプリ比較:料金・無料体験・できること"
-description: "AI英会話アプリのスピーク(Speak)・Talkful・ELSA Speak・ChatGPTの音声会話・Duolingo Maxを、料金、無料体験の期間と条件、発音・会話・添削でできること、対応端末で比べました。各社の公式サイト・公式ヘルプ・App Storeの表示どうしを並べています(2026年11月6日に公式で確認)。"
+description: "AI英会話アプリのスピーク(Speak)・Talkful・ELSA Speak・ChatGPTの音声会話・Duolingo Maxを、料金、無料体験の期間と条件、発音・会話・添削でできること、対応端末で比較。各社の公式サイト・ヘルプ・App Storeの表示どうしで並べました(2026年11月6日確認)。"
 pubDate: 2026-11-06
+updatedDate: 2026-11-12
 category: "音声AI"
 tags: ["AI英会話", "英会話アプリ", "スピーク", "Speak", "Talkful", "ELSA Speak", "ChatGPT", "Duolingo Max", "比較"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Warpとは:AIターミナルの料金・Windows対応・できることを公式情報で整理"
 seoTitle: "Warpとは:AIターミナルの料金・Windows対応・できること"
-description: "Warpは、AIエージェントと一緒に作業する前提で作られたターミナル(公式の呼び名は「エージェント型の開発環境」)です。macOS・Windows・Linuxの動作条件、使えるシェル(Windowsはcmd.exe非対応)、料金(Free・Build・Max・Business)とAI利用分の数え方、AIに送られるデータとゼロデータ保持、AIを切る設定、ログインが任意であることを、公式サイトとドキュメントの記載から整理しました(2026年11月12日確認)。"
+description: "WarpはAIエージェントと使う前提のターミナル(公式には「エージェント型の開発環境」)。対応OSとシェル(Windowsはcmd.exe非対応)、料金(Free〜Business)とAI利用分の数え方、送信データとゼロデータ保持、AIを切る設定、任意のログインを公式で整理(2026年11月12日確認)。"
 pubDate: 2026-07-05
 updatedDate: 2026-11-12
 category: "開発ツール"

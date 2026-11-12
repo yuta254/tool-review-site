@@ -1,9 +1,9 @@
 ---
 title: "Genspark・Perplexity・NotebookLMの違い:料金・無料版の制限・得意なことを公式情報で比較"
 seoTitle: "Genspark・Perplexity・NotebookLM比較"
-description: "GensparkとPerplexityの違いは、出典つきで答えるか(Perplexity)、調べた結果を資料にするか(Genspark)です。NotebookLM(現Gemini Notebook)は自分が入れた資料だけで答えます。料金・無料版の回数・得意なことを公式ページで比較(2026年10月23日・11月3日確認)。"
+description: "GensparkとPerplexityの違いは、出典つきで答えるか(Perplexity)、調べた結果を資料にするか(Genspark)。NotebookLM(現Gemini Notebook)は入れた資料だけで答えます。料金・無料版の回数・得意なことを公式で比較(2026年10月23日・11月3日確認)。"
 pubDate: 2026-10-23
-updatedDate: 2026-11-06
+updatedDate: 2026-11-12
 category: "リサーチ"
 tags: ["Genspark", "Perplexity", "NotebookLM", "Gemini Notebook", "AI検索", "リサーチ", "比較", "料金"]
 ---

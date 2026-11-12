@@ -1,8 +1,9 @@
 ---
 title: "生成AIの商用利用チェックリスト:公開前に確認する7項目と主なツールの条件"
-description: "AIで作った画像・文章・動画・音楽を仕事で使う前に確認すべき項目を、ツール横断で整理しました。Suno・Udio・Midjourney・Leonardo AI・Ideogram・Adobe Firefly・Canvaの商用利用の条件を公式の規約・ヘルプ(2026年11月3日確認)で並べ、規約だけでは足りない部分も解説します。"
+seoTitle: "生成AIの商用利用チェックリスト:7項目とツール別条件"
+description: "AIで作った画像・文章・動画・音楽を仕事で使う前の確認項目をツール横断で整理。Suno・Udio・Midjourney・Leonardo AI・Ideogram・Adobe Firefly・Canvaの商用利用の条件を公式の規約・ヘルプ(2026年11月3日確認)で並べ、規約だけでは足りない点も解説します。"
 pubDate: 2026-09-01
-updatedDate: 2026-11-03
+updatedDate: 2026-11-12
 category: "ガイド"
 tags: ["商用利用", "著作権", "生成AI", "チェックリスト", "コンプライアンス", "Suno", "Midjourney"]
 ---

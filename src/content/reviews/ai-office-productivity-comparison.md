@@ -1,7 +1,7 @@
 ---
 title: "Microsoft 365 Copilot・Notion AI・Slack AI・Zoom AI Companionの比較:必要なプラン・料金・データの扱い"
 seoTitle: "業務ツール内蔵AI 4種の比較:必要なプランと料金"
-description: "Microsoft 365 Copilot・NotionのAI・SlackのAI機能(旧Slack AI)・ZoomのAI機能(旧AI Companion)とZoomMateを、AIを使うのに必要なプランと料金(円)、日本語、データの学習への利用、導入前に整えておくことから比べます。料金・機能は公式サイトの記載を2026年11月12日に確認しました。"
+description: "Microsoft 365 Copilot・NotionのAI・SlackのAI機能(旧Slack AI)・ZoomのAI機能(旧AI Companion)とZoomMateを、必要なプランと料金(円)、日本語、データの学習への利用、導入前の準備で比較。公式サイトの記載を2026年11月12日に確認しました。"
 pubDate: 2026-09-01
 updatedDate: 2026-11-12
 category: "業務効率化"

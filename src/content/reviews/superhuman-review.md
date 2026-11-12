@@ -1,9 +1,9 @@
 ---
 title: "Superhuman Mailとは:キーボード操作とAIのメールアプリの料金・対応アカウント(Grammarlyの会社との関係)"
 seoTitle: "Superhuman Mailの料金・対応アカウント・運営会社"
-description: "キーボードショートカットとAIでメール処理を速めるSuperhuman Mailについて、料金(Starter・Business・Enterprise)、使えるのはGmailとMicrosoft 365のアカウントのみであること、対応端末、Grammarlyの会社が社名をSuperhumanに変えた経緯を公式サイトとヘルプセンターの記載で整理します(2026年11月3日確認)。"
+description: "Superhuman Mailはキーボード操作とAIでメールを速く処理するアプリ。料金(Starter〜Enterprise)、対応はGmailとMicrosoft 365のアカウントのみ、対応端末、Grammarlyの会社がSuperhumanに改名した経緯を公式で整理(2026年11月3日確認)。"
 pubDate: 2026-07-05
-updatedDate: 2026-11-03
+updatedDate: 2026-11-12
 category: "メール効率化"
 tags: ["Superhuman", "メールクライアント", "生産性", "AI", "キーボードショートカット"]
 ---

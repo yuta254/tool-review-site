@@ -1,8 +1,9 @@
 ---
 title: "GitHub Copilotの導入効果を測る方法:公式の指標で見られることと、見誤りやすい点"
-seoTitle: "GitHub Copilotの導入効果測定:公式の指標と測り方・注意点"
+seoTitle: "GitHub Copilotの導入効果測定:公式の指標と注意点"
 description: "GitHub Copilotを組織に入れた効果をどう測るか。GitHub公式のダッシュボードとAPIで見られる指標(利用者数・採用率・プルリクエスト)と、GitHub自身が書いている読み方の注意点を整理し、導入前後の比べ方の手順にまとめました(2026年10月21日確認)。"
 pubDate: 2026-10-21
+updatedDate: 2026-11-12
 category: "開発ツール"
 tags: ["GitHub Copilot", "効果測定", "導入", "開発生産性", "AIコーディング"]
 ---

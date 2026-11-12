@@ -1,8 +1,9 @@
 ---
 title: "Napkin AIとは:文章から図解を作るAIツールの料金・日本語対応・注意点"
+seoTitle: "Napkin AIとは:図解AIの料金・日本語対応"
 description: "Napkin AIは文章から図解・インフォグラフィックを自動生成するAIツール。日本語での利用、料金プラン(Free/Plus/Pro)と書き出し形式、スライド作成機能、注意点を公式情報から整理します(2026年11月3日確認)。"
 pubDate: 2026-07-05
-updatedDate: 2026-11-03
+updatedDate: 2026-11-12
 category: "資料作成AI"
 tags: ["Napkin AI", "図解生成", "インフォグラフィック", "資料作成", "AIツール"]
 ---

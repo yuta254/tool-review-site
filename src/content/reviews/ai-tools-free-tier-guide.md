@@ -1,9 +1,9 @@
 ---
 title: "AIツールの無料版・無料お試しの見極め方:どこまで無料で足りるか(主なツールの無料枠一覧つき)"
 seoTitle: "AIツールの無料版・お試しはどこまで使える?無料枠の一覧と見極め方"
-description: "AIツールの無料枠は種類によって性格が違います。無料のまま実務で使えるもの、お試しにしかならないものを整理し、Notta・PLAUD・GitHub Copilot・Todoist・Motion・Zoom・VideoProc・Aiartyの無料版と無料お試しの中身を一覧にしました(各ツールの公式情報を2026年10〜11月に確認)。"
+description: "AIツールの無料枠は、無料のまま実務で使えるものとお試し止まりのものに分かれます。見極め方と、Notta・PLAUD・GitHub Copilot・Todoist・Motion・Zoom・VideoProc・Aiartyの無料版と無料お試しの中身を一覧にしました(各公式情報を2026年10〜11月に確認)。"
 pubDate: 2026-09-01
-updatedDate: 2026-11-05
+updatedDate: 2026-11-12
 category: "ガイド"
 tags: ["無料", "料金", "AIツール", "使い分け", "コスト"]
 ---

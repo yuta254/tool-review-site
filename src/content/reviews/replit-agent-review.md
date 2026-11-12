@@ -1,9 +1,9 @@
 ---
 title: "Replit Agentとは:できること・料金・課金のしくみ(Agent 4・Free Mode・公開費用)を公式情報で整理"
 seoTitle: "Replit Agentとは:できること・料金・課金のしくみ"
-description: "Replit Agent(現在はAgent 4)は、言葉で指示するとアプリやサイトを作り、そのまま公開までできるReplitのAIです。プラン(Starter・Core月20ドル・Pro月100ドル)の違い、Free Modeと有料モード(Power・Max)、作業の手間に応じた課金とチェックポイント、公開(Autoscale・Static・Reserved VM)の費用、無料のStarterの制限を、Replitの公式ドキュメントと料金ページで整理しました(2026年11月3日確認)。"
+description: "Replit Agent(現Agent 4)は、言葉の指示でアプリやサイトを作り公開までできるAI。無料のStarterとCore(月20ドル)・Pro(月100ドル)の違い、Free Modeと有料モード、作業量に応じた課金、公開の費用を公式ドキュメントと料金ページで整理(2026年11月3日確認)。"
 pubDate: 2026-07-05
-updatedDate: 2026-11-03
+updatedDate: 2026-11-12
 category: "開発ツール"
 tags: ["Replit Agent", "Replit", "AIコーディング", "ノーコード", "プロトタイピング", "Web開発"]
 ---

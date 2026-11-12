@@ -1,8 +1,9 @@
 ---
 title: "買い切りの動画編集ソフト6本を比較:価格・無料版の透かし・AI機能・対応OS"
 seoTitle: "動画編集ソフト 買い切り比較:価格と無料版の制限"
-description: "動画編集ソフト買い切り比較。VideoProc(7,880円)・Filmora(8,980円)・PowerDirector(16,980円)・Movavi(18,200円)・DaVinci Resolve Studio(40,980円)の価格、サブスクとの違い、無料版の透かし、対応OSを2026年11月6日に公式で確認"
+description: "買い切り動画編集ソフト比較:VideoProc 7,880円・Filmora 8,980円・PowerDirector 16,980円・Movavi 18,200円・DaVinci Resolve Studio 40,980円。サブスクとの違い、無料版の透かし、対応OSも公式で確認(2026年11月6日)。"
 pubDate: 2026-11-06
+updatedDate: 2026-11-12
 category: "動画編集AI"
 tags: ["動画編集ソフト", "買い切り", "永久ライセンス", "VideoProc", "Movavi", "PowerDirector", "Filmora", "DaVinci Resolve"]
 ---

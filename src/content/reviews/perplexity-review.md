@@ -1,8 +1,9 @@
 ---
 title: "Perplexityは「調べ物」をどこまで楽にするか:出典つきで答える検索AI"
+seoTitle: "Perplexityとは:料金・無料版の上限・注意点"
 description: "情報源付きで回答してくれる検索特化型AI、Perplexityの特徴・料金・無料版の上限・注意点を公式情報(2026年11月3日確認)から整理します。"
 pubDate: 2026-07-02
-updatedDate: 2026-11-03
+updatedDate: 2026-11-12
 category: "リサーチ"
 tags: ["Perplexity", "検索AI", "リサーチ"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Motion・Reclaim.ai・Todoistの違い:タスク管理AIをAIに任せる範囲と料金で比較"
-seoTitle: "タスク管理AIを比較:Motion・Reclaim・Todoistの料金と違い"
-description: "タスク管理AIのMotion・Reclaim.ai・Todoistを、AIに任せられる範囲・無料プランの有無・料金(2026年11月12日に公式ページで確認)で比較。カレンダーを丸ごと任せるか、今のカレンダーに後付けするか、ToDoリストの補助にとどめるかで選び方を整理しました。チームで使うClickUp・Notionにも触れます。"
+seoTitle: "タスク管理AIの比較:Motion・Todoistほか"
+description: "タスク管理AIのMotion・Reclaim.ai・Todoistを、AIに任せる範囲・無料プランの有無・料金で比較。カレンダーを丸ごと任せるか、今のカレンダーに後付けするか、ToDoの補助にとどめるかで選び方を整理し、ClickUp・Notionにも触れます(2026年11月12日に公式で確認)。"
 pubDate: 2026-07-05
 updatedDate: 2026-11-12
 category: "タスク管理AI"
@@ -61,7 +61,7 @@ Motionのように独自のカレンダー環境を新しく作るのではな�
 個人の予定を自動で組むことより、チームのタスクや資料をまとめて管理したい場合は、プロジェクト管理ツールに組み込まれたAIも候補になります。
 
 - **ClickUp(ClickUp Brain²)**:タスクやコメントの要約、サブタスクの作成、スタンドアップや進捗報告の下書きなど。各プランに一定量のAIクレジットが含まれ、無料の Free Forever はワークスペースあたり500クレジットの試用です(公式料金ページ)。詳しくは[ClickUp AIレビュー](/reviews/clickup-ai-review/)
-- **Notion AI**:Notion 内のページの要約・整形、AIミーティングノートなど。公式料金ページでは、AI機能をフルに使えるのはビジネス(1シートあたり年払いで月¥3,150)以上で、フリー・プラスは「Notion AIの体験版」の扱いです。詳しくは[Notion AIレビュー](/reviews/notion-ai-review/)
+- **Notion AI**:Notion 内のページの要約・整形、AIミーティングノートなど。公式料金ページでは、AI機能をフルに使えるのはビジネス(1シートあたり年払いで月¥3,150)以上で、フリー・プラスは「Notion AIの体験版」の扱いです。詳しくは[Notion AIレビュー](/reviews/notion-ai-review/)。Microsoft 365 Copilot・Slack・Zoom の内蔵AIと必要なプランを並べた比較は[業務ツール内蔵AIの比較](/reviews/ai-office-productivity-comparison/)にあります
 
 どちらも、ツールにタスクや資料が入っていることが前提のAIです。AI機能だけを目的に導入しても、材料がなければ使い道は限られます。
 
