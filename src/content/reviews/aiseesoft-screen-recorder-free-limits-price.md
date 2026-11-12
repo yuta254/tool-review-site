@@ -75,13 +75,6 @@ Windows版の購入ページと公式ストアの注文画面(決済の前)の�
 - 購入ページの各ライセンスの近くに、**ブルーレイプレーヤーの7日間無料体験**の案内があります。注文画面には、スクリーンレコーダーとあわせて「ブルーレイ プレーヤー(7日間無料ライセンス)0円」が入った形のものもあります。購入ページでは、無料期間の後は**月額4,100円で自動更新**(更新前ならいつでも解約可)と案内されています。不要なら、カートの中身を確かめてから進めてください。
 - 割引の額はクーポンで決まっていて、時期によって変わります。
 
-<div class="affiliate-box" data-pr="aiseesoft">
-  <p><strong>PR</strong>｜まず体験版で、手持ちのパソコンに合うかを確かめられます</p>
-  <p>Aiseesoft スクリーンレコーダーの体験版は、録画を最大3分まで保存できると案内されています(2026年11月8日確認)。最新の料金と割引は公式サイト(<a data-pr="aiseesoft" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6TW1MA+38W2+5YJRM" rel="sponsored nofollow">【Aiseesoft】</a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4BGERH+6TW1MA+38W2+5YJRM" alt="" data-pr="aiseesoft">)で確かめてください。</p>
-  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="aiseesoft" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6TW1MA+38W2+5YJRM" rel="sponsored nofollow">【Aiseesoft】</a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4BGERH+6TW1MA+38W2+5YJRM" alt="" data-pr="aiseesoft">
-</div>
-
 ## 販売元・支払い方法・返金条件
 
 ### 販売元と注文の処理
@@ -134,13 +127,6 @@ FAQセンターでは、Visa・Mastercard・American Express・JCB・PayPalの�
 - **お金をかけずに長く録りたい**:OBS Studioや、Windows・Macに付いている録画機能の方が合います。違いは[画面録画ソフトの比較](/reviews/screen-recording-software-comparison/)で整理しています。録画のあとに変換や圧縮もまとめてしたい場合は、[VideoProc Converter AIの無料版と料金](/reviews/videoproc-converter-ai-review/)も参考になります。
 
 会議やWebセミナーを録るときは、参加者の了解と配信元の規約を先に確かめてください。伝え方は[AI議事録を入れる前に決めておくこと](/reviews/ai-meeting-recording-consent-guide/)にまとめています。
-
-<div class="affiliate-box" data-pr="aiseesoft">
-  <p><strong>PR</strong>｜1か月・永久1台・永久3台から選べます</p>
-  <p>料金は1か月2,460円・永久1台6,580円・永久3台10,980円の表示で、注文画面で消費税10%が足されます(2026年11月8日確認)。割引は時期で変わるので、公式サイト(<a data-pr="aiseesoft" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6TW1MA+38W2+5YJRM" rel="sponsored nofollow">【Aiseesoft】</a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4BGERH+6TW1MA+38W2+5YJRM" alt="" data-pr="aiseesoft">)で最新の価格を確かめてください。</p>
-  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="aiseesoft" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6TW1MA+38W2+5YJRM" rel="sponsored nofollow">【Aiseesoft】</a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4BGERH+6TW1MA+38W2+5YJRM" alt="" data-pr="aiseesoft">
-</div>
 
 ## よくある質問
 

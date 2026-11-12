@@ -70,13 +70,6 @@ tags: ["画面録画", "OBS Studio", "Snipping Tool", "VideoProc", "Aiseesoft", 
 - 購入ページには、**別製品(ブルーレイプレーヤー)の「7日間無料、その後は月額4,100円で自動更新」という案内**も並んでいます。注文する前に、選んだ内容を確かめてください。
 - 体験版の制限・消費税を含めた料金・返金の条件は、[Aiseesoft スクリーンレコーダーの体験版の制限と料金](/reviews/aiseesoft-screen-recorder-free-limits-price/)で詳しく整理しています。
 
-<div class="affiliate-box" data-pr="aiseesoft">
-  <p><strong>PR</strong>｜体験版で手持ちのPCに合うか確かめられます</p>
-  <p>Aiseesoft スクリーンレコーダーの体験版は、録画を最大3分まで保存できます(2026年11月6日確認)。自分のPCでPCの音とマイクが録れるかを先に確かめてから、月間か永久ライセンスかを選べます。最新の価格と条件は公式サイト(<a data-pr="aiseesoft" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6TW1MA+38W2+5YJRM" rel="sponsored nofollow">【Aiseesoft】</a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4BGERH+6TW1MA+38W2+5YJRM" alt="" data-pr="aiseesoft">)で確かめてください。</p>
-  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="aiseesoft" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6TW1MA+38W2+5YJRM" rel="sponsored nofollow">【Aiseesoft】</a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4BGERH+6TW1MA+38W2+5YJRM" alt="" data-pr="aiseesoft">
-</div>
-
 ### Bandicam
 
 - 公式FAQでは、**Bandicam 2027の無料版は録画に透かしが入らない**一方、**動画の録画も音声だけの録音も1回5分まで**と書かれています。編集して書き出した動画には透かしが入ります。使用期限はありません。
