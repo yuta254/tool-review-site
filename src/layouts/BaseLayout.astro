@@ -9,11 +9,17 @@ interface Props {
   jsonLd?: Record<string, unknown>;
   /** 一覧ページなど、カードを横に並べるページは幅を広げる */
   wide?: boolean;
+  /** 404 など検索結果に出したくないページ。canonical も出さない */
+  noindex?: boolean;
+  /** 記事ページは article にして公開日・更新日を添える */
+  article?: { publishedTime: string; modifiedTime?: string };
 }
 
-const { title, description = 'AIツール・ソフトウェアの料金・機能・違いを公式情報で整理する比較サイト', jsonLd, wide = false } = Astro.props;
+const { title, description = 'AIツール・ソフトウェアの料金・機能・違いを公式情報で整理する比較サイト', jsonLd, wide = false, noindex = false, article } = Astro.props;
 const pageTitle = title === 'AI Tool Lab' ? title : `${title} | AI Tool Lab`;
 const canonical = new URL(Astro.url.pathname, Astro.site);
+// SNSで共有されたときの画像(全ページ共通。public/og-default.png、1200x630)
+const ogImage = new URL('/og-default.png', Astro.site);
 ---
 <!doctype html>
 <html lang="ja">
@@ -25,7 +31,7 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
     <meta name="theme-color" content="#0f766e" />
     <title>{pageTitle}</title>
     <meta name="description" content={description} />
-    <link rel="canonical" href={canonical} />
+    {noindex ? <meta name="robots" content="noindex" /> : <link rel="canonical" href={canonical} />}
     <meta name="generator" content={Astro.generator} />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="alternate" type="application/rss+xml" title="AI Tool Lab" href="/rss.xml" />
@@ -33,10 +39,16 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
     <meta property="og:title" content={pageTitle} />
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonical} />
-    <meta property="og:type" content="website" />
+    <meta property="og:type" content={article ? 'article' : 'website'} />
+    {article && <meta property="article:published_time" content={article.publishedTime} />}
+    {article?.modifiedTime && <meta property="article:modified_time" content={article.modifiedTime} />}
     <meta property="og:site_name" content="AI Tool Lab" />
     <meta property="og:locale" content="ja_JP" />
-    <meta name="twitter:card" content="summary" />
+    <meta property="og:image" content={ogImage} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="AI Tool Lab" />
+    <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={pageTitle} />
     <meta name="twitter:description" content={description} />
     {jsonLd && <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />}

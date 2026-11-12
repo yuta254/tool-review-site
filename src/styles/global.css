@@ -777,7 +777,9 @@ th { background: var(--c-bg-sub); }
 }
 
 /* AdSenseの広告枠。審査通過前は AdSlot が何も描画しないので、この指定も使われない */
-.ad-slot { display: block; margin: 1.5rem 0; }
+/* 広告の高さを先に確保して、読み込み後に本文が下へずれる(CLS)のを防ぐ。枠が空の間は何も描画されないので影響なし */
+.ad-slot { display: block; margin: 1.5rem 0; min-height: 250px; }
+.ad-slot[data-ad-status="unfilled"] { display: none !important; }
 
 /* ---------- 関連記事 ---------- */
 .related-reviews {

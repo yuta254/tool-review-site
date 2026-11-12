@@ -1,0 +1,8 @@
+# Cloudflare Pages の応答ヘッダー(2026-11-12)
+# /_astro/ のファイル名には中身のハッシュが入っていて、中身が変わると名前も変わる。
+# そのため1年キャッシュしてよい(既定の max-age=0 だと毎回の再検証で表示が遅れる)
+/_astro/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/og-default.png
+  Cache-Control: public, max-age=604800

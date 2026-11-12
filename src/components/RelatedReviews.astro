@@ -1,4 +1,14 @@
 ---
+// 記事下の関連記事(4本)。
+//
+// 選び方(2026-11-12):
+//   1. 関連の強さで点を付ける。同じカテゴリ +3、近いカテゴリ +1、共通のタグ1つごとに +2
+//      (「比較」「料金」のような、どの記事にも付く語は数えない)、
+//      相手の本文がこの記事へリンクしている +2、この記事の本文が相手へリンクしている +2
+//   2. 広告の無い記事では、関連のある(点が1以上の)広告つき記事を最大2本、先に入れる。
+//      タスク管理AIのようにカテゴリ内に広告つき記事が無い分野でも、近い分野の記事へ案内できる
+//   3. 残りは点の高い順、同点なら広告つき → 新しい順
+//   以前は「同じカテゴリの新しい順4本」だけだったため、広告の無いカテゴリでは行き止まりになっていた。
 import type { CollectionEntry } from 'astro:content';
 import ReviewCard from './ReviewCard.astro';
 
@@ -9,10 +19,84 @@ interface Props {
 
 const { current, allReviews } = Astro.props;
 
-const related = allReviews
-  .filter((r) => r.id !== current.id && r.data.category === current.data.category)
-  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
-  .slice(0, 4);
+const LIMIT = 4;
+const AD_SLOTS = 2;
+
+// 内容の近いカテゴリ(片方向。足りなければ1行足す)
+const NEAR: Record<string, string[]> = {
+  'タスク管理AI': ['業務効率化', 'プロジェクト管理AI'],
+  'プロジェクト管理AI': ['タスク管理AI', '業務効率化'],
+  '業務効率化': ['議事録AI', 'タスク管理AI', 'メール効率化'],
+  '議事録AI': ['業務効率化', '音声AI'],
+  '音声AI': ['議事録AI', '音声読み上げAI'],
+  '音声読み上げAI': ['音声AI'],
+  '開発ツール': ['サイト制作AI', 'UI生成AI', 'AIエージェント'],
+  'AIエージェント': ['開発ツール', '業務自動化'],
+  '業務自動化': ['AIエージェント', '業務効率化'],
+  'サイト制作AI': ['UI生成AI', '開発ツール'],
+  'UI生成AI': ['サイト制作AI', '開発ツール'],
+  '動画生成AI': ['動画編集AI', 'AIアバター動画'],
+  '動画編集AI': ['動画生成AI'],
+  'AIアバター動画': ['動画生成AI', '音声AI'],
+  '画像生成AI': ['画像編集AI', 'デザインツール'],
+  '画像編集AI': ['画像生成AI', 'デザインツール'],
+  'デザインツール': ['画像生成AI', '資料作成AI'],
+  '資料作成AI': ['デザインツール'],
+  'ライティング支援': ['翻訳AI', 'マーケティング'],
+  '翻訳AI': ['ライティング支援'],
+  'マーケティング': ['ライティング支援'],
+  'リサーチ': ['論文検索AI', 'AIチャット', 'AIブラウザ'],
+  '論文検索AI': ['リサーチ', 'ライティング支援'],
+  'AIチャット': ['リサーチ', 'AIエージェント'],
+  'AIブラウザ': ['リサーチ', 'AIチャット'],
+  'メール効率化': ['業務効率化', 'ライティング支援'],
+  '音楽生成AI': ['動画編集AI'],
+};
+
+// どの記事にも付きやすく、関連の手がかりにならないタグ
+const GENERIC_TAGS = new Set(
+  ['比較', '料金', 'AI', '評価', '無料', '選び方', '使い分け', 'コスト', '日本語', '日本語対応', 'AIツール', '生産性', '生産性ツール', '無料版', '無料プラン', '買い切り']
+    .map((t) => t.toLowerCase()),
+);
+const tagSet = (r: CollectionEntry<'reviews'>) =>
+  new Set(r.data.tags.map((t) => t.toLowerCase()).filter((t) => !GENERIC_TAGS.has(t)));
+
+const hasAds = (r: CollectionEntry<'reviews'>) => (r.body ?? '').includes('class="affiliate-box"');
+
+const myTags = tagSet(current);
+const myBody = current.body ?? '';
+const near = new Set(NEAR[current.data.category] ?? []);
+
+const scored = allReviews
+  .filter((r) => r.id !== current.id)
+  .map((r) => {
+    let score = 0;
+    if (r.data.category === current.data.category) score += 3;
+    else if (near.has(r.data.category)) score += 1;
+    for (const t of tagSet(r)) if (myTags.has(t)) score += 2;
+    // 本文で互いにリンクしている記事は、書き手が関連ありと判断したもの
+    if ((r.body ?? '').includes(`/reviews/${current.id}/`)) score += 2;
+    if (myBody.includes(`/reviews/${r.id}/`)) score += 2;
+    return { r, score, ads: hasAds(r) };
+  })
+  .filter((x) => x.score > 0)
+  .sort(
+    (a, b) =>
+      b.score - a.score ||
+      Number(b.ads) - Number(a.ads) ||
+      b.r.data.pubDate.valueOf() - a.r.data.pubDate.valueOf(),
+  );
+
+const picked: typeof scored = [];
+if (!hasAds(current)) picked.push(...scored.filter((x) => x.ads).slice(0, AD_SLOTS));
+for (const x of scored) {
+  if (picked.length >= LIMIT) break;
+  if (!picked.includes(x)) picked.push(x);
+}
+// 表示は関連の強い順に並べ直す(広告つきを先に入れたことで順番が崩れないように)
+const related = picked
+  .sort((a, b) => scored.indexOf(a) - scored.indexOf(b))
+  .map((x) => x.r);
 ---
 
 {related.length > 0 && (

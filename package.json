@@ -12,7 +12,8 @@
     "astro": "astro",
     "affiliates:sync": "node scripts/sync-affiliates.mjs",
     "affiliates:check": "node scripts/sync-affiliates.mjs --check",
-    "prebuild": "node scripts/sync-affiliates.mjs --check"
+    "prebuild": "node scripts/sync-affiliates.mjs --check",
+    "check:dist": "node scripts/check-dist.mjs"
   },
   "dependencies": {
     "@astrojs/rss": "^4.0.19",

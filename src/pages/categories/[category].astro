@@ -27,6 +27,13 @@ const { name, list } = Astro.props;
 const st = categoryStyle(name);
 const intro = CATEGORY_INTROS[name] ?? `${name}に分類しているAIツールのレビュー一覧です。`;
 
+// 検索結果の説明文。紹介文だけだと20〜30字と短いカテゴリが多いので、
+// 載っているツール名(各記事の先頭タグ)と件数を足す。画面の紹介文はそのまま
+const toolNames = [...new Set(list.map((r) => r.data.tags[0]).filter(Boolean))].slice(0, 4);
+const metaDescription = toolNames.length > 0
+  ? `${intro}${toolNames.join('・')}など${list.length}件の記事で、料金・機能・違いを公式情報で整理しています。`
+  : intro;
+
 const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'CollectionPage',
@@ -44,7 +51,7 @@ const jsonLd = {
   },
 };
 ---
-<BaseLayout title={`${name}のAIツールレビュー(${list.length}件)`} description={intro} jsonLd={jsonLd} wide>
+<BaseLayout title={`${name}のAIツールレビュー(${list.length}件)`} description={metaDescription} jsonLd={jsonLd} wide>
   <nav class="breadcrumb" aria-label="パンくずリスト">
     <ol>
       <li><a href="/">ホーム</a></li>

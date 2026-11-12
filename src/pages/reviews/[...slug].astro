@@ -27,6 +27,7 @@ const minutes = readingMinutes(review.body ?? '');
 // 本文に広告ボックスがある記事は、冒頭の広告表記を「含みます」と言い切る形にする
 const hasAds = (review.body ?? '').includes('class="affiliate-box"');
 
+const jstIso = (d: Date) => `${isoDate(d)}T00:00:00+09:00`;
 const pageUrl = new URL(`/reviews/${review.id}/`, Astro.site).toString();
 const publisher = {
   '@type': 'Organization',
@@ -41,8 +42,10 @@ const articleLd = {
   url: pageUrl,
   mainEntityOfPage: { '@type': 'WebPage', '@id': pageUrl },
   inLanguage: 'ja',
-  datePublished: review.data.pubDate.toISOString(),
-  ...(review.data.updatedDate && { dateModified: review.data.updatedDate.toISOString() }),
+  image: new URL('/og-default.png', Astro.site).toString(),
+  // 日付は日本時間の0時として出す(サイトマップの lastmod と同じ基準)
+  datePublished: jstIso(review.data.pubDate),
+  ...(review.data.updatedDate && { dateModified: jstIso(review.data.updatedDate) }),
   articleSection: review.data.category,
   keywords: review.data.tags.join(', '),
   author: publisher,
@@ -77,7 +80,15 @@ const jsonLd = {
   '@graph': faqLd ? [articleLd, breadcrumbLd, faqLd] : [articleLd, breadcrumbLd],
 };
 ---
-<BaseLayout title={review.data.seoTitle ?? review.data.title} description={review.data.description} jsonLd={jsonLd}>
+<BaseLayout
+  title={review.data.seoTitle ?? review.data.title}
+  description={review.data.description}
+  jsonLd={jsonLd}
+  article={{
+    publishedTime: jstIso(review.data.pubDate),
+    modifiedTime: review.data.updatedDate && jstIso(review.data.updatedDate),
+  }}
+>
   <nav class="breadcrumb" aria-label="パンくずリスト">
     <ol>
       <li><a href="/">ホーム</a></li>

@@ -8,7 +8,7 @@ export async function GET(context) {
   );
   return rss({
     title: 'AI Tool Lab',
-    description: 'AIツール・ソフトウェアの実践レビューと比較サイト',
+    description: 'AIツール・ソフトウェアの料金・機能・違いを公式情報で整理する比較サイト',
     site: context.site,
     items: reviews.map((review) => ({
       title: review.data.title,

@@ -21,8 +21,23 @@ for (const r of reviews) {
 }
 const categoryTotal = new Set(all.map((r) => r.data.category)).size;
 const categories = [...counts.entries()].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0], 'ja'));
+
+// 複数のツールを並べた比較記事を、分野ごとに1本ずつ先に見せる(最大6本・更新の新しい順)。
+// 一覧の100本近いカードの中に埋もれると、迷っている人が比較記事にたどり着きにくいため。
+// ここに出した記事は下の一覧からは外す(同じカードが2回出ないように)
+const isComparison = (r: (typeof all)[number]) => /comparison|-vs-/.test(r.id);
+const hasAds = (r: (typeof all)[number]) => (r.body ?? '').includes('class="affiliate-box"');
+const lastUpdated = (r: (typeof all)[number]) => (r.data.updatedDate ?? r.data.pubDate).valueOf();
+const featured: typeof all = [];
+for (const r of [...reviews].filter((r) => isComparison(r) && hasAds(r)).sort((a, b) => lastUpdated(b) - lastUpdated(a))) {
+  if (featured.length >= 6) break;
+  if (!featured.some((f) => f.data.category === r.data.category)) featured.push(r);
+}
+const restReviews = reviews.filter((r) => !featured.includes(r));
+
+const homeDescription = `AIツール・ソフトウェアの料金・機能・違いを公式情報で整理する比較サイト。議事録AI・動画編集・文章校正・画像生成など${all.length}本の記事で、無料版の範囲や選び方をまとめています。`;
 ---
-<BaseLayout title="AI Tool Lab" description="AIツール・ソフトウェアの料金・機能・違いを公式情報で整理する比較サイト" wide>
+<BaseLayout title="AI Tool Lab" description={homeDescription} wide>
   <section class="hero">
     <svg class="hero-deco" viewBox="0 0 400 200" aria-hidden="true" focusable="false">
       <circle cx="330" cy="40" r="90" fill="currentColor" opacity=".08"/>
@@ -68,10 +83,19 @@ const categories = [...counts.entries()].sort((a, b) => b[1] - a[1] || a[0].loca
     </section>
   )}
 
+  {featured.length > 0 && (
+    <section class="home-section">
+      <h2 class="section-title">分野別の比較記事</h2>
+      <div class="card-grid">
+        {featured.map((r) => <ReviewCard review={r} />)}
+      </div>
+    </section>
+  )}
+
   <section class="home-section">
     <h2 class="section-title">レビュー・比較記事</h2>
     <div class="card-grid">
-      {reviews.map((review) => <ReviewCard review={review} />)}
+      {restReviews.map((review) => <ReviewCard review={review} />)}
     </div>
   </section>
 </BaseLayout>

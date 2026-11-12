@@ -12,7 +12,7 @@ const latest = [...reviews]
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
   .slice(0, 5);
 ---
-<BaseLayout title="ページが見つかりません" description="お探しのページは見つかりませんでした。">
+<BaseLayout title="ページが見つかりません" description="お探しのページは見つかりませんでした。" noindex>
   <h1>ページが見つかりません</h1>
   <p>
     お探しのページは、移動したか削除された可能性があります。
