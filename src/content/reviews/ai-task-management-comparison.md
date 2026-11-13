@@ -20,7 +20,7 @@ tags: ["Motion", "Reclaim.ai", "Todoist", "Todoist Assist", "ClickUp", "Notion A
 
 ## 料金と無料プランの比較
 
-各社の公式料金ページの表示です。Motion と Reclaim.ai はドル建て、Todoist は日本円の表示です。
+各社の公式料金ページ([Motion](https://www.usemotion.com/pricing)・[Reclaim.ai](https://reclaim.ai/pricing)・[Todoist](https://www.todoist.com/ja/pricing))の表示です。Motion と Reclaim.ai はドル建て、Todoist は日本円の表示です。
 
 | | 無料プラン | 有料プランの入口 | AIに任せられる範囲 |
 | --- | --- | --- | --- |
@@ -60,8 +60,8 @@ Motionのように独自のカレンダー環境を新しく作るのではな�
 
 個人の予定を自動で組むことより、チームのタスクや資料をまとめて管理したい場合は、プロジェクト管理ツールに組み込まれたAIも候補になります。
 
-- **ClickUp(ClickUp Brain²)**:タスクやコメントの要約、サブタスクの作成、スタンドアップや進捗報告の下書きなど。各プランに一定量のAIクレジットが含まれ、無料の Free Forever はワークスペースあたり500クレジットの試用です(公式料金ページ)。詳しくは[ClickUp AIレビュー](/reviews/clickup-ai-review/)
-- **Notion AI**:Notion 内のページの要約・整形、AIミーティングノートなど。公式料金ページでは、AI機能をフルに使えるのはビジネス(1シートあたり年払いで月¥3,150)以上で、フリー・プラスは「Notion AIの体験版」の扱いです。詳しくは[Notion AIレビュー](/reviews/notion-ai-review/)。Microsoft 365 Copilot・Slack・Zoom の内蔵AIと必要なプランを並べた比較は[業務ツール内蔵AIの比較](/reviews/ai-office-productivity-comparison/)にあります
+- **ClickUp(ClickUp Brain²)**:タスクやコメントの要約、サブタスクの作成、スタンドアップや進捗報告の下書きなど。各プランに一定量のAIクレジットが含まれ、無料の Free Forever はワークスペースあたり500クレジットの試用です([公式料金ページ](https://clickup.com/pricing))。詳しくは[ClickUp AIレビュー](/reviews/clickup-ai-review/)
+- **Notion AI**:Notion 内のページの要約・整形、AIミーティングノートなど。[公式料金ページ](https://www.notion.com/ja/pricing)では、AI機能をフルに使えるのはビジネス(1シートあたり年払いで月¥3,150)以上で、フリー・プラスは「Notion AIの体験版」の扱いです。詳しくは[Notion AIレビュー](/reviews/notion-ai-review/)。Microsoft 365 Copilot・Slack・Zoom の内蔵AIと必要なプランを並べた比較は[業務ツール内蔵AIの比較](/reviews/ai-office-productivity-comparison/)にあります
 
 どちらも、ツールにタスクや資料が入っていることが前提のAIです。AI機能だけを目的に導入しても、材料がなければ使い道は限られます。
 

@@ -14,7 +14,7 @@ tags: ["Todoist", "Todoist Assist", "タスク管理", "AIアシスタント", "
 
 このほか、**ClaudeやChatGPTなどのAIアシスタントから、自分の Todoist のタスクを読み書きできる公式の連携**もあります(下の「[AIアシスタントとつなぐ](#claudechatgpt-などの-aiアシスタントとつなぐ)」を参照)。
 
-この記事の機能・料金は、Todoist の公式料金ページとヘルプセンター、AI機能の紹介ページ(todoist.com/ai-tools。以前の todoist.com/todoist-assist から転送されます)を2026年11月12日に確認したものです。当サイトは公式の公開情報を整理しており、実際に使った検証はしていません。
+この記事の機能・料金は、Todoist の[公式料金ページ](https://www.todoist.com/ja/pricing)とヘルプセンター、AI機能の紹介ページ([todoist.com/ai-tools](https://www.todoist.com/ai-tools)。以前の todoist.com/todoist-assist から転送されます)を2026年11月12日に確認したものです。当サイトは公式の公開情報を整理しており、実際に使った検証はしていません。
 
 ## Todoist Assist でできること
 
@@ -77,7 +77,7 @@ Todoist の日本語の料金ページの表示です(Task Capture Assist の回
 | プロ | 年払いで8,064円(月あたり672円) | Task Assist、Email Assist、Filter Assist、音声入力(無制限)、Task Capture Assist |
 | ビジネス | 年払いで1ユーザー11,520円(月あたり960円)+地方税 | プロの機能をメンバー全員に+チーム機能 |
 
-月払いを選ぶと、プロは月894円、ビジネスは1ユーザー月1,280円の表示になります(年払いは約20%オフと表示)。最新の料金と請求方法は公式の料金ページで確認してください。
+月払いを選ぶと、プロは月894円、ビジネスは1ユーザー月1,280円の表示になります(年払いは約20%オフと表示)。最新の料金と請求方法は[公式の料金ページ](https://www.todoist.com/ja/pricing)で確認してください。
 
 ## 得意なこと
 
