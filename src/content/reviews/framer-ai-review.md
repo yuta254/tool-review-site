@@ -1,6 +1,6 @@
 ---
 title: "Framer AIレビュー：プロンプトからサイトの土台を作り、エディタで仕上げるサイト制作AI"
-seoTitle: "Framer AIレビュー:デザインサイト生成"
+seoTitle: "Framer AIとは:サイト生成の特徴と料金"
 description: "プロンプトからサイトの土台を生成し、ビジュアルエディタで仕上げるFramer AIの特徴・注意点・料金(Free・Basic・Pro)を、公式サイトの記載をもとに整理します(2026年11月3日確認)。"
 pubDate: 2026-07-05
 updatedDate: 2026-11-03

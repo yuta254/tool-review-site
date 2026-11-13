@@ -1,6 +1,6 @@
 ---
 title: "GitHub Copilotのレビュー・評価:料金プラン(Free〜Enterprise)と向いている人、導入前に確認すること"
-seoTitle: "GitHub Copilotのレビュー・評価:料金と注意点"
+seoTitle: "GitHub Copilotの料金プランと導入前の注意点"
 description: "GitHub Copilotの評価を、得意な作業・向いている人・料金プラン(Free/Pro/Pro+/Max/Business/Enterprise)・2026年6月からのAIクレジット制・入力データの学習の扱いから整理しました。料金と条件は2026年11月12日に公式サイトで確認。"
 pubDate: 2026-07-01
 updatedDate: 2026-11-12

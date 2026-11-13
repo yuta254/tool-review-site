@@ -1,6 +1,6 @@
 ---
 title: "NotebookLMは資料の「読み込み」作業をどれだけ肩代わりしてくれるか"
-seoTitle: "NotebookLMレビュー:資料の読み込みを任せる"
+seoTitle: "NotebookLMとは:できることとプランごとの上限"
 description: "大量の資料・議事録・論文を扱う人向けに、Googleの NotebookLM(2026年7月から Gemini Notebook)でできること、プランごとの上限、注意点を公式情報(2026年11月3日確認)から整理します。"
 pubDate: 2026-07-03
 updatedDate: 2026-11-03

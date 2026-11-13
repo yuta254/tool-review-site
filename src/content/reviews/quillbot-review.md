@@ -1,6 +1,6 @@
 ---
 title: "QuillBotレビュー:言い換え(パラフレーズ)は英語論文・レポートでどこまで使えるか"
-seoTitle: "QuillBotレビュー:英語の言い換えの実力"
+seoTitle: "QuillBotとは:言い換えの無料版と有料版・料金"
 description: "言い換え(パラフレーズ)機能が中心のQuillBotについて、無料版と有料版の違い・料金・英語論文やレポートでの使いどころを公式情報で整理します。"
 pubDate: 2026-07-06
 updatedDate: 2026-11-12

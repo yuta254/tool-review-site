@@ -1,6 +1,6 @@
 ---
 title: "Google Geminiレビュー:Google連携と検索の強さで選ぶAIチャット"
-seoTitle: "Google Geminiレビュー:Google連携の強み"
+seoTitle: "Google Geminiとは:料金とGoogle連携の範囲"
 description: "GmailやDocsとの連携、Google検索に基づく回答が特徴のGoogle Geminiを、料金プラン(無料/Google AI Plus/Pro/Ultra)と連携できる範囲・できないことを含めて公式情報から整理します(2026年11月3日確認)。"
 pubDate: 2026-07-05
 updatedDate: 2026-11-03

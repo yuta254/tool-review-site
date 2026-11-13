@@ -1,6 +1,6 @@
 ---
 title: "Claude(Anthropic)レビュー:長文読解とコーディングに強いAIチャット"
-seoTitle: "Claudeレビュー:長文とコードに強いAI"
+seoTitle: "Claudeとは:料金・得意なことと注意点"
 description: "AnthropicのAIチャット「Claude」を紹介。長文処理や精度の高いコーディング、Artifacts機能などの実用性に加え、導入前に知っておきたい弱点や向いている人まで整理しました。"
 pubDate: 2026-07-03
 updatedDate: 2026-11-03

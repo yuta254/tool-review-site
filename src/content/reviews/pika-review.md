@@ -1,6 +1,6 @@
 ---
 title: "Pikaレビュー:テキスト・画像からユニークな短編動画を作れるAI動画生成ツール"
-seoTitle: "Pikaレビュー:短編動画を作るAI"
+seoTitle: "Pikaとは:AI動画生成の料金と商用利用の条件"
 description: "Pikaはテキストや画像から短い動画を作れるAI動画生成サービスです。自社モデルに加えて他社の動画モデルも選べる現在の形、料金プラン(Free/Starter/Creator/Fancy)と商用利用の条件、注意点を公式サイトの記載から整理します(2026年11月3日確認)。"
 pubDate: 2026-07-03
 updatedDate: 2026-11-03

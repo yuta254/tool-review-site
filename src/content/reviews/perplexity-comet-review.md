@@ -1,6 +1,6 @@
 ---
 title: "Cometレビュー:Perplexityの『エージェント型AIブラウザ』でできることと注意点"
-seoTitle: "Cometレビュー:PerplexityのAIブラウザ"
+seoTitle: "Cometとは:PerplexityのAIブラウザと対応OS"
 description: "Perplexityのブラウザ「Comet」でできること、対応OS(Windows・Mac)、アカウントなしで使える範囲、データの扱いとエージェント機能の注意点を公式ヘルプで整理します(2026年11月3日確認)。"
 pubDate: 2026-07-05
 updatedDate: 2026-11-03

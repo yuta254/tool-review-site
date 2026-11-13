@@ -1,6 +1,6 @@
 ---
 title: "CapCutレビュー:AI機能で動画編集とSNSコンテンツ制作を効率化するアプリ"
-seoTitle: "CapCutレビュー:AIで動画編集を効率化"
+seoTitle: "CapCutの料金とAI機能:無料版・Pro・Ultra"
 description: "ByteDanceグループの動画編集アプリCapCutについて、字幕の自動生成(日本語に対応)や背景除去、自動リフレーム(2026年4月からPro限定)などのAI機能と、無料版・Pro・Ultraの料金、過信できない点を公式情報で整理して解説します(2026年11月3日確認)。"
 pubDate: 2026-07-03
 updatedDate: 2026-11-03

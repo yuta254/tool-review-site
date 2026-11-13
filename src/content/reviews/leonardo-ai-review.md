@@ -1,6 +1,6 @@
 ---
 title: "Leonardo AIレビュー:ゲーム素材制作に強い画像生成AIの特徴と料金"
-seoTitle: "Leonardo AIレビュー:ゲーム素材に強い"
+seoTitle: "Leonardo AIとは:料金・無料枠・商用利用"
 description: "Canva傘下の画像生成AI「Leonardo AI」を、ゲームアセット制作やモデルの使い分けを中心に業務利用の観点から解説します。料金(Free・Essential・Premium・Ultimate)、無料プランの1日150トークン、商用利用と生成物の公開の扱いも公式情報で整理しました(2026年11月3日確認)。"
 pubDate: 2026-07-03
 updatedDate: 2026-11-03
