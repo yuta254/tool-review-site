@@ -121,11 +121,3 @@ IDEプラグインでは始められません。2026年5月15日から、無料�
 
 **Q. 会社のコードを扱う場合の注意点は。**
 入力データを学習に使わない設定があるか、その既定値は何か、を導入時に確認してください。個人プランと法人プランで条件が異なるツールが多く、個人プランを業務で使うのは避けるべきです。
-
-<div class="affiliate-box" data-pr="xserver">
-  <p><strong>PR</strong>｜書いたものを動かす場所</p>
-  <p>コーディング支援AIは書く速度を上げますが、できたものを人に見てもらう段階では公開先が要ります。国内のレンタルサーバーの選択肢として <a data-pr="xserver" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6F07HU+CO4+6AZAQ" rel="sponsored nofollow">エックスサーバー</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGERH+6F07HU+CO4+6AZAQ" alt="" data-pr="xserver"> があります。公式サイトの表示では、スタンダードプランは36か月契約で月990円(税込)から、初期費用0円、10日間の無料お試し付きで、12か月以上の契約で独自ドメインが1つ無料になります(2026年11月6日確認)。</p>
-  <p>公式の機能一覧では、PHP、自作のCGI(Perl・Ruby・Pythonなど)、Cron、SSHが全プラン共通の仕様として挙げられています。</p>
-  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="xserver" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6F07HU+CO4+6AZAQ" rel="sponsored nofollow">エックスサーバー</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGERH+6F07HU+CO4+6AZAQ" alt="" data-pr="xserver">
-</div>

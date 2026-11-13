@@ -75,6 +75,13 @@ Basic は「Free forever(ずっと無料)」とされ、Zoom・Teams・Meet へ�
 
 なお、日本語の文字起こしの正確さについて、確認した公式ページに数字や比較は見当たりませんでした。当サイトも測っていないので、ここでは精度の良し悪しは書きません。自分の会議で使えるかは、無料の Basic で30分以内の会議を1本録って確かめるのが確実です。
 
+<div class="affiliate-box" data-pr="notta">
+  <p><strong>PR</strong>｜日本語の料金表とヘルプで契約したいとき</p>
+  <p>Notta は料金が円建て(税込)で、フリープラン(月120分・1回3分まで)から始められ、プレミアムは月払い1,980円・年払い14,220円です(2026年11月3日に公式で確認)。有料プランを申し込むときは、パソコンのブラウザから公式サイト(<a data-pr="notta" href="https://px.a8.net/svt/ejp?a8mat=4BGCF5+64AELU+5988+5YRHE" rel="sponsored nofollow">【Notta】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGCF5+64AELU+5988+5YRHE" alt="" data-pr="notta">)を開き、最新の料金を確かめてください。</p>
+  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
+  <a class="cta" data-pr="notta" href="https://px.a8.net/svt/ejp?a8mat=4BGCF5+64AELU+5988+5YRHE" rel="sponsored nofollow">【Notta】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGCF5+64AELU+5988+5YRHE" alt="" data-pr="notta">
+</div>
+
 ## 評判で気にされる点:公式に書いてあること/書いていないこと
 
 「Otter.ai 評判」と調べる人が気にするのは、だいたい次の3つです。**勝手に会議に入って録音されないか、録音データがどう扱われるか、解約や返金はどうなるか。** 当サイトは使った検証をしていないので、良い・悪いの評価はしません。ここでは公式ページに書いてあることと、書いていないことを分けて整理します(2026年11月3日確認)。

@@ -72,10 +72,3 @@ Chatプランには、OpenAI・Anthropic・Geminiのモデルが含まれると�
 
 **Q. Jasperとどちらを選ぶべきですか。**
 ブランドのトーン管理とマーケティング向けのエージェントを重視するならJasper、生成から後続処理までを外部ツールと連携して自動化したいならCopy.aiです。どちらも汎用AIチャットで代替できないかを先に確認すると無駄が減ります。詳しくは[ライティング・校正ツールの比較](/reviews/ai-writing-proofreading-comparison/)を参照してください。
-
-<div class="affiliate-box" data-pr="idbusiness">
-  <p><strong>PR</strong>｜英文のまま公開する前の最終確認</p>
-  <p>自動化したワークフローの中で英語のコピーを量産すると、人の目を通らないまま公開まで進みがちです。要所だけでもネイティブチェックを挟む選択肢として <a data-pr="idbusiness" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+61WO6Q+2KSK+BWVTE" rel="sponsored nofollow">アイディービジネス</a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4BC0UI+61WO6Q+2KSK+BWVTE" alt="" data-pr="idbusiness"> のような校正サービスがあります。</p>
-  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="idbusiness" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+61WO6Q+2KSK+BWVTE" rel="sponsored nofollow">アイディービジネス</a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4BC0UI+61WO6Q+2KSK+BWVTE" alt="" data-pr="idbusiness">
-</div>

@@ -192,10 +192,3 @@ Descript の動画編集は、**素材を入れると自動で文字起こしさ
 
 **Q. Windows 10 で使えますか。**
 ヘルプセンターのシステム要件では、Windows のデスクトップアプリは64ビット版の Windows 11 以降です。ブラウザ版は Chrome・Edge・Opera が公式のサポート対象です。
-
-<div class="affiliate-box" data-pr="creatorsjapan">
-  <p><strong>PR</strong>｜編集の基礎を体系的に身につけたいとき</p>
-  <p>Descriptは文字起こしベースで編集できるため入口は入りやすい一方で、カット割りやテロップ設計といった「編集の考え方」そのものはツールが教えてくれません。体系的に学ぶ選択肢として、<a data-pr="creatorsjapan" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+633JEA+4LJQ+614CY" rel="sponsored nofollow">動画編集スクール【クリエイターズジャパン】</a><img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4BC0UI+633JEA+4LJQ+614CY" alt="" data-pr="creatorsjapan"> のような講座があります。</p>
-  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="creatorsjapan" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+633JEA+4LJQ+614CY" rel="sponsored nofollow">動画編集スクール【クリエイターズジャパン】</a><img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4BC0UI+633JEA+4LJQ+614CY" alt="" data-pr="creatorsjapan">
-</div>

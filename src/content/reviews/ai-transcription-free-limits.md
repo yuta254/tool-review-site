@@ -19,6 +19,8 @@ tags: ["文字起こし", "無料", "議事録", "Notta", "Otter.ai", "tl;dv", "
 
 各サービスの条件は、それぞれの公式の料金ページ・ヘルプセンターを**2026年11月5日**に確認したものです。他社どうしの比較は、各社が公式に表示している無料プランの条件を並べたもので、当サイトでは実サービスを検証していません。無料プランの条件は変わりやすいため、使い始める前に公式の最新の表示を確かめてください。
 
+**条件別の行き先(PR)** 無料枠では足りず、会議1本を記録できる有料プランをパソコンのブラウザから申し込む人は → <a data-pr="notta" href="https://px.a8.net/svt/ejp?a8mat=4BGCF5+64AELU+5988+5YRHE" rel="sponsored nofollow">【Notta】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGCF5+64AELU+5988+5YRHE" alt="" data-pr="notta">(公式サイト)。対面の打ち合わせや通話を録音機で記録したい人は → <a data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="" data-pr="plaud">(公式ストア。本体の購入が前提です)。
+
 ## 無料プランの上限の比較表
 
 | サービス(無料プラン) | 月の文字起こし | 1回の上限 | AI要約などの回数 | その他の上限・前提 |
@@ -43,6 +45,13 @@ tags: ["文字起こし", "無料", "議事録", "Notta", "Otter.ai", "tl;dv", "
 | tl;dv(無料) | 可(3時間まで) | 本数の上限の表示なし。ただし全体のAIメモは通算10会議まで |
 | PLAUD(Starter) | 可(1回の上限の記載なし) | 5本(300分÷60分) |
 | Zoom(ベーシック) | 会議自体が40分まで | 要約・My Notesは月3回 |
+
+<div class="affiliate-box" data-pr="notta">
+  <p><strong>PR</strong>｜1回3分の上限を外して会議を記録したいとき</p>
+  <p>Notta のフリーは精度や画面を確かめる枠で、会議1本を記録するにはプレミアム(月1,800分・1回5時間まで。月払い1,980円・年払い14,220円、税込)以上が前提です(2026年11月3日に公式で確認)。有料プランを申し込むときは、パソコンのブラウザから公式サイト(<a data-pr="notta" href="https://px.a8.net/svt/ejp?a8mat=4BGCF5+64AELU+5988+5YRHE" rel="sponsored nofollow">【Notta】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGCF5+64AELU+5988+5YRHE" alt="" data-pr="notta">)を開き、最新の料金を確かめてください。</p>
+  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
+  <a class="cta" data-pr="notta" href="https://px.a8.net/svt/ejp?a8mat=4BGCF5+64AELU+5988+5YRHE" rel="sponsored nofollow">【Notta】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGCF5+64AELU+5988+5YRHE" alt="" data-pr="notta">
+</div>
 
 ## サービスごとの無料枠の中身
 

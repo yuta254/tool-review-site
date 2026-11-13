@@ -76,11 +76,3 @@ StackBlitz が提供するAIアプリビルダーで、ブラウザの中でNode
 
 **Q. コーディング支援AIとは何が違いますか。**
 ここで挙げた4つは「アプリやサイトそのものを生成する」方向、CursorやGitHub Copilotは「書いている人を支援する」方向です。既存コードを触るなら後者が適します。[コーディング支援AIの比較](/reviews/ai-coding-tools-comparison/)も参照してください。
-
-<div class="affiliate-box" data-pr="xserver">
-  <p><strong>PR</strong>｜作ったものを自分の環境で公開するとき</p>
-  <p>生成ツール上での動作確認から先に進めて、独自ドメインのサイトやWordPressのブログとして公開したくなる場面があります。国内のレンタルサーバーの選択肢として <a data-pr="xserver" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6F07HU+CO4+6AZAQ" rel="sponsored nofollow">エックスサーバー</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGERH+6F07HU+CO4+6AZAQ" alt="" data-pr="xserver"> があります。公式サイトの表示では、スタンダードプランは36か月契約で月990円(税込)から、初期費用0円、10日間の無料お試し付きで、12か月以上の契約で独自ドメインが1つ無料になります(2026年11月6日確認)。</p>
-  <p>ビルドしたHTML・CSS・JavaScriptだけで動く静的なサイトなら、ファイルを置いて公開できます。データベースやログインを使うアプリは、そのままでは動かないことがあります。</p>
-  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="xserver" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6F07HU+CO4+6AZAQ" rel="sponsored nofollow">エックスサーバー</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGERH+6F07HU+CO4+6AZAQ" alt="" data-pr="xserver">
-</div>
