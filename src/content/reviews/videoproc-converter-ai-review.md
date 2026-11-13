@@ -19,6 +19,8 @@ VideoProc Converter AI(旧名:VideoProc)は、**動画の変換・圧縮・簡�
 
 この記事は公式サイト(jp.videoproc.com)の記載を2026年10月21日に確認して整理し、返金条件・販売元の情報は2026年11月3日に、料金・無料版の制限(日本語版の比較表)・動作環境は2026年11月12日に再確認したものです。当サイトでソフトを使った検証はしていません。
 
+**条件別の行き先(PR)** 無料版(変換・圧縮は5分未満の動画まで)で、手持ちの動画から確かめる人は → <a data-pr="videoproc" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="sponsored nofollow">【VideoProc】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BC0UI+5I9D82+428G+C0YF6" alt="" data-pr="videoproc">(公式サイト)。
+
 ## できること
 
 公式サイトで紹介されている主な機能です。
@@ -88,6 +90,13 @@ VideoProc Converter AI(旧名:VideoProc)は、**動画の変換・圧縮・簡�
 | 技術サポート | 1年間 | 「優先の技術サポート」と表記 |
 | 返金保証 | 30日間(条件付き。次の節で説明) | 30日間(同じ) |
 
+<div class="affiliate-box" data-pr="videoproc">
+  <p><strong>PR</strong>｜無料版で手持ちの動画を試せます</p>
+  <p>無料版でも主な機能を試せます。手持ちの動画で仕上がりと処理時間を確かめてから、年間プランか永久ライセンスかを選べます。 <a data-pr="videoproc" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="sponsored nofollow">【VideoProc】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BC0UI+5I9D82+428G+C0YF6" alt="" data-pr="videoproc"> の公式サイトから無料版をダウンロードできます。</p>
+  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
+  <a class="cta" data-pr="videoproc" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="sponsored nofollow">【VideoProc】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BC0UI+5I9D82+428G+C0YF6" alt="" data-pr="videoproc">
+</div>
+
 - **2年以上使うつもりで、パソコンが1台なら永久ライセンス**の方が合計は安くなります(年間プランは2年で10,760円)。
 - **パソコンを2〜3台で使う、または1年だけ使う**なら年間プランが合います。
 - **年間プランは自動更新**です。購入ページには、購入から1年(365日)後に自動で契約が更新され、続けない場合は決済代行会社(2Checkout)の「自動購入停止」の案内ページから手続きできると書かれています。
@@ -131,13 +140,6 @@ VideoProc Converter AI(旧名:VideoProc)は、**動画の変換・圧縮・簡�
 - **書いてあること**:購入ページのFAQでは、公式サイトでの購入の安全性について「100%安全」と答え、理由としてHTTPS・SSLによる暗号化と、決済代行会社(Verifone)の利用を挙げています。セット販売の欄には「マルウェア&広告なし」とも表示されています。これらは販売元自身の説明です。
 - **プライバシーポリシー**には、サービスの利用時にIPアドレス、クラッシュ情報、システムの動作状況、ハードウェアの設定などを自動で取得し、サーバーに保存することがある、と書かれています。
 - **確認したページに見当たらなかったこと**:第三者機関による安全性の検査結果、AI機能の処理で動画が外部のサーバーに送られるかどうか、の2点は、今回確認した公式ページ(購入ページ・FAQ・返金ポリシー・会社概要・プライバシーポリシー)には記載が見当たりませんでした。仕事の動画など外に出せない素材を扱う場合は、公式の窓口に確認してから使うと安心です。
-
-<div class="affiliate-box" data-pr="videoproc">
-  <p><strong>PR</strong>｜無料版で手持ちの動画を試せます</p>
-  <p>無料版でも主な機能を試せます。手持ちの動画で仕上がりと処理時間を確かめてから、年間プランか永久ライセンスかを選べます。 <a data-pr="videoproc" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="sponsored nofollow">【VideoProc】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BC0UI+5I9D82+428G+C0YF6" alt="" data-pr="videoproc"> の公式サイトから無料版をダウンロードできます。</p>
-  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="videoproc" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="sponsored nofollow">【VideoProc】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BC0UI+5I9D82+428G+C0YF6" alt="" data-pr="videoproc">
-</div>
 
 ## 動作環境
 

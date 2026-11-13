@@ -21,6 +21,8 @@ tags: ["英文校正", "料金", "ネイティブチェック", "英文翻訳", 
 
 AIの校正ツールと人の校正のどちらを使うかを決めたい場合は、先に[AI英文校正と人の英文校正の違いと使い分け](/reviews/ai-vs-human-english-proofreading/)を読むと整理しやすくなります。この記事は「人に頼むと決めた後、いくらかかるか」に絞っています。
 
+**条件別の行き先(PR)** 100単語前後の短い英文を早く返してほしい人は → <a data-pr="idbusiness" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+61WO6Q+2KSK+BWVTE" rel="sponsored nofollow">アイディービジネス</a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4BC0UI+61WO6Q+2KSK+BWVTE" alt="" data-pr="idbusiness">(公式サイト)。
+
 ## 料金を決める4つの要素
 
 1. **単語数。** 英文校正は英単語の数で数えます。アイディービジネスの公式サイトでは、「This is a pen.」を4単語と数える例が示されています。日本語から英語への翻訳は、日本語の文字数で数える会社が多くなっています(アイディービジネス・ワードバイス・エディテージの翻訳の料金表は、いずれも1文字あたりの単価です)。
@@ -53,6 +55,13 @@ AIの校正ツールと人の校正のどちらを使うかを決めたい場合
 | 1,000pt以上 | 9.79円 | 約14.7円 |
 
 50単語未満の原稿も50単語分のポイントがかかり、1回に出せるのは2,000単語までです。ポイントの有効期限は購入日・利用日から180日です。担当者をネイティブにするか英語専門家にするかで料金は変わらないと公式サイトに書かれています。
+
+<div class="affiliate-box" data-pr="idbusiness">
+  <p><strong>PR</strong>｜短い英文を早く直してほしいとき</p>
+  <p>1単語1.5ポイントの一律料金で、100単語なら3時間以内が目安とされている英文校正サービスに <a data-pr="idbusiness" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+61WO6Q+2KSK+BWVTE" rel="sponsored nofollow">アイディービジネス</a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4BC0UI+61WO6Q+2KSK+BWVTE" alt="" data-pr="idbusiness"> があります。無料のメンバー登録で100ポイントがもらえると案内されています(条件は公式サイトで確認してください)。</p>
+  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
+  <a class="cta" data-pr="idbusiness" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+61WO6Q+2KSK+BWVTE" rel="sponsored nofollow">アイディービジネス</a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4BC0UI+61WO6Q+2KSK+BWVTE" alt="" data-pr="idbusiness">
+</div>
 
 ## 納期による単価の違い
 
@@ -135,13 +144,6 @@ AIの校正ツールと人の校正のどちらを使うかを決めたい場合
 - **投稿の前に流れまで見てほしい、何度も直す予定がある** → プレミアムのプラン。エディテージ・ワードバイスとも、365日間の無料の再校正が付きます。
 - **英語に自信がなく、元の日本語の意図どおりか確かめたい** → アイディービジネスの英語専門家担当。日本語の原稿を一緒に渡せます。
 - **2,000単語を超える原稿や書籍** → エディテージかワードバイス。アイディービジネスは1回2,000単語までで、それ以上は個別の相談になります。
-
-<div class="affiliate-box" data-pr="idbusiness">
-  <p><strong>PR</strong>｜短い英文を早く直してほしいとき</p>
-  <p>1単語1.5ポイントの一律料金で、100単語なら3時間以内が目安とされている英文校正サービスに <a data-pr="idbusiness" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+61WO6Q+2KSK+BWVTE" rel="sponsored nofollow">アイディービジネス</a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4BC0UI+61WO6Q+2KSK+BWVTE" alt="" data-pr="idbusiness"> があります。無料のメンバー登録で100ポイントがもらえると案内されています(条件は公式サイトで確認してください)。</p>
-  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="idbusiness" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+61WO6Q+2KSK+BWVTE" rel="sponsored nofollow">アイディービジネス</a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4BC0UI+61WO6Q+2KSK+BWVTE" alt="" data-pr="idbusiness">
-</div>
 
 ## 見積もりの取り方
 

@@ -20,6 +20,8 @@ tags: ["MiriCanvas", "ミリキャンバス", "Canva", "デザイン", "無料�
 
 この記事は、MiriCanvas の日本語の料金ページ・機能ページ・ヘルプセンターと、Canva の日本語の料金ページを**2026年11月10日**に確認して整理したものです。当サイトでは実際にサービスを使った検証はしていません。公式の公開情報を整理した記事です。
 
+**条件別の行き先(PR)** 無料プラン(会員登録は無料)から始める人は → <a data-pr="miricanvas" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6W9S1E+5EX8+5YZ76" rel="sponsored nofollow">MiriCanvas</a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4BGERH+6W9S1E+5EX8+5YZ76" alt="" data-pr="miricanvas">(公式サイト)。
+
 ## MiriCanvas の料金プラン
 
 [MiriCanvas の料金ページ](https://www.miricanvas.com/ja/pricing)の表示と比較表をまとめました。料金ページには「※税込み価格です。」と注記されています。
@@ -37,6 +39,13 @@ tags: ["MiriCanvas", "ミリキャンバス", "Canva", "デザイン", "無料�
 | バージョン履歴 | 7日間の履歴を確認できる | 7日間の履歴を確認・復元できる | すべての履歴を確認・復元できる |
 | チームドライブ | 1個(容量100MB) | 10個(10GB×メンバー数) | 100個(100GB×メンバー数) |
 | ブランドキット(ロゴ・カラー・フォント) | なし | 10個 | 100個 |
+
+<div class="affiliate-box" data-pr="miricanvas">
+  <p><strong>PR</strong>｜無料プランは会員登録(無料)から始められます</p>
+  <p>MiriCanvas の無料プランは「永久無料」と表示され、テンプレート5万種以上と個人ストレージ1GBが使えます(2026年11月10日に公式で確認)。プランの内容は変わることがあるので、最新の条件は公式サイト(<a data-pr="miricanvas" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6W9S1E+5EX8+5YZ76" rel="sponsored nofollow">MiriCanvas</a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4BGERH+6W9S1E+5EX8+5YZ76" alt="" data-pr="miricanvas">)で確かめてください。</p>
+  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
+  <a class="cta" data-pr="miricanvas" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6W9S1E+5EX8+5YZ76" rel="sponsored nofollow">MiriCanvas</a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4BGERH+6W9S1E+5EX8+5YZ76" alt="" data-pr="miricanvas">
+</div>
 
 - 年払いの総額は料金ページに書かれていません。月あたり790円で12か月なら9,480円、月払いを12か月続けると11,760円で、差は2,280円です(当サイトの計算)。
 - 法人向けは、よくある質問で「Proプランより多くのストレージ容量、チームドライブ、ブランドキット」に加えて、SSO(シングルサインオン)やAPI連携が使えると説明されています。
@@ -60,13 +69,6 @@ tags: ["MiriCanvas", "ミリキャンバス", "Canva", "デザイン", "無料�
 [AIプレゼンテーションのページ](https://www.miricanvas.com/ja/features/ai-presentation-maker)では、無料プランでは**毎月5回・最大30枚まで**AIスライドを生成でき、生成から編集、PPTX のダウンロードまで一通り使えると説明されています。入力したテキストやアップロードしたデータは AI モデルの学習に使わないとも書かれています。この機能は PC(デスクトップ)での利用が推奨されています。
 
 画像生成・背景削除などのほかの AI 機能について、無料プランで何回使えるかは、確認したページでは確かめられませんでした。料金ページでは、Pro は「生産性を上げる各種AIツールを幅広くご提供」と書かれていますが、回数の記載はありません。AIでスライドを作るほかのツールは、[Gammaの料金と機能](/reviews/gamma-review/)で整理しています。
-
-<div class="affiliate-box" data-pr="miricanvas">
-  <p><strong>PR</strong>｜無料プランは会員登録(無料)から始められます</p>
-  <p>MiriCanvas の無料プランは「永久無料」と表示され、テンプレート5万種以上と個人ストレージ1GBが使えます(2026年11月10日に公式で確認)。プランの内容は変わることがあるので、最新の条件は公式サイト(<a data-pr="miricanvas" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6W9S1E+5EX8+5YZ76" rel="sponsored nofollow">MiriCanvas</a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4BGERH+6W9S1E+5EX8+5YZ76" alt="" data-pr="miricanvas">)で確かめてください。</p>
-  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="miricanvas" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6W9S1E+5EX8+5YZ76" rel="sponsored nofollow">MiriCanvas</a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4BGERH+6W9S1E+5EX8+5YZ76" alt="" data-pr="miricanvas">
-</div>
 
 ## 無料トライアルと解約・返金
 
@@ -109,6 +111,13 @@ Canva は [Canva の日本語の料金ページ](https://www.canva.com/ja_jp/pri
 | ブランドキット(無料 / 有料) | なし / 10個 | 1個 / 5個 |
 | 無料トライアル | Pro に1か月(1回のみ) | 料金ページに「無料体験を開始」のボタン(日数の記載は料金ページになし) |
 
+<div class="affiliate-box" data-pr="miricanvas">
+  <p><strong>PR</strong>｜Pro は1か月の無料トライアル付き</p>
+  <p>MiriCanvas Pro の料金は月払い980円、年払いで月あたり790円(税込・メンバーあたり)で、1回だけ1か月の無料トライアルを使えると案内されています(2026年11月10日に公式で確認)。トライアルは終了日に自動で決済されるため、条件は公式サイト(<a data-pr="miricanvas" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6W9S1E+5EX8+5YZ76" rel="sponsored nofollow">MiriCanvas</a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4BGERH+6W9S1E+5EX8+5YZ76" alt="" data-pr="miricanvas">)で確かめてから申し込んでください。</p>
+  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
+  <a class="cta" data-pr="miricanvas" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6W9S1E+5EX8+5YZ76" rel="sponsored nofollow">MiriCanvas</a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4BGERH+6W9S1E+5EX8+5YZ76" alt="" data-pr="miricanvas">
+</div>
+
 - **料金は MiriCanvas の方が安い表示です。** 月払いで200円、年払いで12か月使うと2,320円の差になります(当サイトの計算。Canva は税の扱いが料金ページで分からないため、実際の請求額は申し込み画面で確かめてください)。
 - **テンプレートと素材の数は Canva が大きく上回ります。** 無料のテンプレートで比べると、Canva の160万点以上に対して MiriCanvas は5万種以上です。
 - **写真の背景を消す機能は、どちらも有料プランの機能です。** Canva の料金ページでは、背景透過はプロの AI 機能として挙がっています。
@@ -130,13 +139,6 @@ Canva プロの無料体験の日数、解約と返金、大学生向けのプ�
 | 学校や非営利団体で使う | Canva の教育機関・非営利団体向けの案内を先に確かめる |
 
 どちらも無料で始められるので、作りたいもの(SNSの画像、チラシ、プレゼン資料など)のテンプレートが両方にあるかを見比べてから、有料にするかを決めると無駄がありません。無料で使えるAIツールの範囲は[AIツールの無料枠ガイド](/reviews/ai-tools-free-tier-guide/)にもまとめています。
-
-<div class="affiliate-box" data-pr="miricanvas">
-  <p><strong>PR</strong>｜Pro は1か月の無料トライアル付き</p>
-  <p>MiriCanvas Pro の料金は月払い980円、年払いで月あたり790円(税込・メンバーあたり)で、1回だけ1か月の無料トライアルを使えると案内されています(2026年11月10日に公式で確認)。トライアルは終了日に自動で決済されるため、条件は公式サイト(<a data-pr="miricanvas" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6W9S1E+5EX8+5YZ76" rel="sponsored nofollow">MiriCanvas</a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4BGERH+6W9S1E+5EX8+5YZ76" alt="" data-pr="miricanvas">)で確かめてから申し込んでください。</p>
-  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="miricanvas" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6W9S1E+5EX8+5YZ76" rel="sponsored nofollow">MiriCanvas</a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4BGERH+6W9S1E+5EX8+5YZ76" alt="" data-pr="miricanvas">
-</div>
 
 ## よくある質問
 

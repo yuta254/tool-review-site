@@ -18,6 +18,8 @@ tags: ["PLAUD", "PLAUD NOTE", "セキュリティ", "データ保存先", "法�
 
 この記事は、PLAUDの日本公式サイト(jp.plaud.ai)の[トラストページ](https://jp.plaud.ai/pages/trust)、[プライバシー保護とデータ安全性への取り組み](https://jp.plaud.ai/pages/japan-privacy-security)、[プライバシーポリシー](https://jp.plaud.ai/policies/privacy-policy)、[Plaud Team](https://jp.plaud.ai/pages/plaud-team)のページの記載を**2026年11月5日**に確認して整理したものです。当サイトでは実機・実サービスを検証していません。暗号化や保存先が実際にそのとおりかを当サイトで確かめたものではなく、PLAUDがどう説明しているかをまとめた記事です。
 
+**条件別の行き先(PR)** まず1台を買い、30日間の返品保証の間に社内のルールに合うかを確かめる人は → <a data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="" data-pr="plaud">(公式ストア)。
+
 ## 公式に書かれているセキュリティの要点
 
 | 項目 | 公式の記載(2026年11月5日確認) | 書かれているページ |
@@ -33,6 +35,13 @@ tags: ["PLAUD", "PLAUD NOTE", "セキュリティ", "データ保存先", "法�
 | DPA(データ処理契約) | ビジネスサービス契約に含まれる。公開の「データ処理補則規約」は「Plaudビジネスサービス契約」の一部を構成する | Plaud Team・データ処理補則規約 |
 | プライベートクラウド | 顧客専用のプライベートクラウドへの保存には現時点で対応していない | トラストページ |
 | SSO(Plaud Team) | Google・Appleのアカウントでのログインのみ。SAML・Okta・Microsoft Entra IDなどには対応していない | Plaud Team |
+
+<div class="affiliate-box" data-pr="plaud">
+  <p><strong>PR</strong>｜本体の価格と在庫は公式ストアで確認できます</p>
+  <p>会社で使う前に、まず1台を公式ストアで買い、30日間の返品保証の間に社内のルールに合うかを確かめる方法もあります。購入前に公式ストア(<a data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="" data-pr="plaud">)で最新の価格と条件を確かめてください。</p>
+  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
+  <a class="cta" data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="" data-pr="plaud">
+</div>
 
 ## データはどこに保存され、どこで処理されるか
 
@@ -105,13 +114,6 @@ Plaud Team は、複数の人が PLAUD を使う組織向けのプランです�
 - **問い合わせの窓口**:個人のお客様向けとは別に、[法人様向けお問い合わせ](https://jp.plaud.ai/pages/business-inquiry)のページがあります。
 - **請求書と適格請求書**:Plaud Team のページには「現時点では、請求書払い(後払い)には対応しておりません」とあります。本体については、公式ストアの商品ページに、銀行振込・コンビニ決済を選ぶと請求書と支払い方法の案内がメールで届き、購入後に**インボイス制度に対応した電子領収書・請求書をダウンロードできる**と書かれています。本体を後払い(掛け払い)で買えるかどうかは、確認したページには書かれていませんでした。
 - **購入先と返品**:公式ストアの30日間の返品保証と、Amazon・楽天で買った場合との違いは、料金まとめの「どこで買う?」の章にまとめています。
-
-<div class="affiliate-box" data-pr="plaud">
-  <p><strong>PR</strong>｜本体の価格と在庫は公式ストアで確認できます</p>
-  <p>会社で使う前に、まず1台を公式ストアで買い、30日間の返品保証の間に社内のルールに合うかを確かめる方法もあります。購入前に公式ストア(<a data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="" data-pr="plaud">)で最新の価格と条件を確かめてください。</p>
-  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="" data-pr="plaud">
-</div>
 
 ## 社内の要件ごとの判断
 

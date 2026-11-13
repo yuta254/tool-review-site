@@ -19,6 +19,8 @@ tags: ["動画編集ソフト", "買い切り", "永久ライセンス", "VideoP
 
 価格・条件は各社の公式サイトの表示を**2026年11月6日に確認**したものです。セールで金額が変わることが多いので、購入前に公式の最新の表示を確かめてください。当サイトでは実機・実サービスを検証していません。各社の公式の表示どうしを並べて比べた記事です。
 
+**条件別の行き先(PR)** 0円の編集ソフト(Vlogger)か、変換・圧縮の無料版から始める人は → <a data-pr="videoproc" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="sponsored nofollow">【VideoProc】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BC0UI+5I9D82+428G+C0YF6" alt="" data-pr="videoproc">(公式サイト)。永久ライセンスを、体験版(透かし入り・60秒まで)で確かめてから買う人は → <a data-pr="movavi" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6NXPKI+3YWG+614CY" rel="sponsored nofollow">動画編集が素早く出来るMovavi Video Editor</a><img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4BGERH+6NXPKI+3YWG+614CY" alt="" data-pr="movavi">(公式サイト)。
+
 ## 買い切り価格と無料版の比較表
 
 | ソフト | 買い切りの価格(税込) | サブスクの価格(参考) | 無料で使える範囲 | 対応OS |
@@ -33,6 +35,13 @@ tags: ["動画編集ソフト", "買い切り", "永久ライセンス", "VideoP
 - PowerDirector 2027 の Ultra(パッケージ)は、公式ストアでは売っておらず、家電量販店や Amazon などで扱うと公式ページに書かれています。表の16,980円は公式ストアの「PowerDirector 2027(買い切り版)通常版」の表示です。
 - DaVinci Resolve Studio は「旧価格51,980円 → 新価格40,980円」の20%オフとして表示されていました。
 - VideoProc Converter AI の購入ページには、時期によってクーポン適用後の別の金額(確認時は6,980円)も並びます。
+
+<div class="affiliate-box" data-pr="videoproc">
+  <p><strong>PR</strong>｜VideoProc は無料版から試せます</p>
+  <p>編集用の Vlogger は無料、変換・圧縮・AI高画質化の Converter AI は無料版で5分未満の動画から確かめられます。どちらも <a data-pr="videoproc" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="sponsored nofollow">【VideoProc】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BC0UI+5I9D82+428G+C0YF6" alt="" data-pr="videoproc"> の公式サイトからダウンロードできます。</p>
+  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
+  <a class="cta" data-pr="videoproc" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="sponsored nofollow">【VideoProc】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BC0UI+5I9D82+428G+C0YF6" alt="" data-pr="videoproc">
+</div>
 
 ## 「買い切り」で何が手に入り、何が手に入らないか
 
@@ -66,11 +75,11 @@ tags: ["動画編集ソフト", "買い切り", "永久ライセンス", "VideoP
 
 VideoProc の2製品の役割の違いは[VideoProc Vlogger と Converter AI の違い](/reviews/videoproc-vlogger-vs-converter-ai/)、Converter AI の無料版の制限と返金条件は[VideoProc Converter AI の記事](/reviews/videoproc-converter-ai-review/)で詳しく整理しています。
 
-<div class="affiliate-box" data-pr="videoproc">
-  <p><strong>PR</strong>｜VideoProc は無料版から試せます</p>
-  <p>編集用の Vlogger は無料、変換・圧縮・AI高画質化の Converter AI は無料版で5分未満の動画から確かめられます。どちらも <a data-pr="videoproc" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="sponsored nofollow">【VideoProc】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BC0UI+5I9D82+428G+C0YF6" alt="" data-pr="videoproc"> の公式サイトからダウンロードできます。</p>
+<div class="affiliate-box" data-pr="movavi">
+  <p><strong>PR</strong>｜Movavi は永久ライセンスと1年を選べます</p>
+  <p>無料版は透かし入りで60秒までの書き出しなので、操作の流れを確かめてから選べます。 <a data-pr="movavi" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6NXPKI+3YWG+614CY" rel="sponsored nofollow">動画編集が素早く出来るMovavi Video Editor</a><img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4BGERH+6NXPKI+3YWG+614CY" alt="" data-pr="movavi"> の公式サイトで最新の料金を確かめてください。</p>
   <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="videoproc" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="sponsored nofollow">【VideoProc】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BC0UI+5I9D82+428G+C0YF6" alt="" data-pr="videoproc">
+  <a class="cta" data-pr="movavi" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6NXPKI+3YWG+614CY" rel="sponsored nofollow">動画編集が素早く出来るMovavi Video Editor</a><img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4BGERH+6NXPKI+3YWG+614CY" alt="" data-pr="movavi">
 </div>
 
 ## 各ソフトの要点
@@ -94,13 +103,6 @@ Wondershare の製品です。永続ライセンスは「買い切りタイプ�
 ### DaVinci Resolve
 
 Blackmagic Design の製品です。無償版でも編集・カラー・VFX・オーディオの機能がそろい、Studio は AI機能(DaVinci AI Neural Engine)、120fps までの10-bit、4Kを超える解像度などに対応すると公式ページに書かれています。Studio のライセンスで何台のパソコンに入れられるか、新しい版が無料かどうかは、確認した公式ページには書かれていませんでした。
-
-<div class="affiliate-box" data-pr="movavi">
-  <p><strong>PR</strong>｜Movavi は永久ライセンスと1年を選べます</p>
-  <p>無料版は透かし入りで60秒までの書き出しなので、操作の流れを確かめてから選べます。 <a data-pr="movavi" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6NXPKI+3YWG+614CY" rel="sponsored nofollow">動画編集が素早く出来るMovavi Video Editor</a><img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4BGERH+6NXPKI+3YWG+614CY" alt="" data-pr="movavi"> の公式サイトで最新の料金を確かめてください。</p>
-  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="movavi" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6NXPKI+3YWG+614CY" rel="sponsored nofollow">動画編集が素早く出来るMovavi Video Editor</a><img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4BGERH+6NXPKI+3YWG+614CY" alt="" data-pr="movavi">
-</div>
 
 ## よくある質問
 

@@ -21,6 +21,8 @@ Notta Memo と PLAUD Note は、どちらも**カード型の本体で録音し�
 
 この記事の価格・仕様・条件は、Notta の公式ストア(shop.notta.ai/ja-jp)と公式ヘルプ(support.notta.ai)、PLAUD の日本公式ストア(jp.plaud.ai)の表示を**2026年11月3日**に確認したものです。当サイトで実機を使った検証はしていません。録音の聞き取りやすさや文字起こしの精度は比べておらず、公式に書かれている数値と条件だけを並べています。
 
+**条件別の行き先(PR)** 本体価格と無料枠(月600分)を重く見る人は → <a data-pr="nottamemo" href="https://px.a8.net/svt/ejp?a8mat=4BGCF7+FKUCMQ+5988+BX3J6" rel="sponsored nofollow">【Notta Memo】</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BGCF7+FKUCMQ+5988+BX3J6" alt="" data-pr="nottamemo">(公式ストア)。保存容量・対応言語数・開封後の返品を重く見る人は → <a data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="" data-pr="plaud">(公式ストア)。
+
 ## 比較表(本体)
 
 | | Notta Memo | PLAUD Note |

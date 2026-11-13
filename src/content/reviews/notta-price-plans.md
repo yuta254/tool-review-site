@@ -20,6 +20,8 @@ tags: ["Notta", "文字起こし", "議事録", "料金", "学割", "AI議事録
 
 この記事の価格と条件は、Notta公式の[料金プランページ](https://www.notta.ai/pricing)、[学生・教職員向け割引ページ](https://www.notta.ai/education-plan)、[特定商取引法に基づく表示](https://www.notta.ai/tokushoho)、[ヘルプセンター](https://support.notta.ai/hc/ja)の記載を**2026年11月3日**に確認したものです(Notta Brain の節は2026年11月10日に確認)。料金は改定されることがあるため、申し込む前に公式ページで最新の表示を確かめてください。当サイトでサービスを使った検証はしていません。公式の公開情報を整理した記事です。
 
+**条件別の行き先(PR)** 文字起こしのプランをパソコンのブラウザから申し込む人は → <a data-pr="notta" href="https://px.a8.net/svt/ejp?a8mat=4BGCF5+64AELU+5988+5YRHE" rel="sponsored nofollow">【Notta】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGCF5+64AELU+5988+5YRHE" alt="" data-pr="notta">(公式サイト)。資料作成のAIをフリー(月1,000クレジット)から始める人は → <a data-pr="nottabrain" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+39VUK2+5988+HVFKY" rel="sponsored nofollow">【Notta Brain】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGERH+39VUK2+5988+HVFKY" alt="" data-pr="nottabrain">(公式サイト)。
+
 ## プラン別の料金表
 
 | | フリー | プレミアム | ビジネス | エンタープライズ |
@@ -35,6 +37,13 @@ tags: ["Notta", "文字起こし", "議事録", "料金", "学割", "AI議事録
 | カスタムテンプレート | 利用不可 | 5個 | 無制限 | 無制限 |
 
 料金ページと[ヘルプ「Notta料金プランの選び方」](https://support.notta.ai/hc/ja/articles/55447618158491)の記載をもとにしています。単語登録の数は日本語の上限で、英語はプレミアム50単語・ビジネス200単語と別に定められています。
+
+<div class="affiliate-box" data-pr="notta">
+  <p><strong>PR</strong>｜Notta の料金とプランは公式サイトで確認できます</p>
+  <p>Notta はフリープラン(月120分・1回3分まで)から始められ、プレミアムは月払い1,980円・年払い14,220円です(2026年11月3日確認)。価格やキャンペーンは変わることがあるので、申し込む前に公式サイト(<a data-pr="notta" href="https://px.a8.net/svt/ejp?a8mat=4BGCF5+64AELU+5988+5YRHE" rel="sponsored nofollow">【Notta】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGCF5+64AELU+5988+5YRHE" alt="" data-pr="notta">)で最新の表示を確かめてください。</p>
+  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
+  <a class="cta" data-pr="notta" href="https://px.a8.net/svt/ejp?a8mat=4BGCF5+64AELU+5988+5YRHE" rel="sponsored nofollow">【Notta】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGCF5+64AELU+5988+5YRHE" alt="" data-pr="notta">
+</div>
 
 各プランに含まれる主な機能は、料金ページで次のように整理されています。
 
@@ -220,13 +229,6 @@ Notta の料金プランページの比較表では、文字起こしのプラ�
 会議の大半がZoomなら、会議ツールに付いているAI機能で足りる場合もあります。Zoom側の機能は[Zoom AI Companionの解説](/reviews/zoom-ai-companion-review/)を、他の文字起こしサービスとの比較は[AI文字起こしツールの比較](/reviews/ai-transcription-tools-comparison/)を見てください。録音機を本体ごと買う形のPLAUDの料金は、[PLAUDの料金まとめ](/reviews/plaud-note-price-plans/)で整理しています。
 
 会議を録音・文字起こしする前には、参加者に伝えて同意を得ておくことも大切です。考え方は[AI議事録の録音同意ガイド](/reviews/ai-meeting-recording-consent-guide/)にまとめました。
-
-<div class="affiliate-box" data-pr="notta">
-  <p><strong>PR</strong>｜Notta の料金とプランは公式サイトで確認できます</p>
-  <p>Notta はフリープラン(月120分・1回3分まで)から始められ、プレミアムは月払い1,980円・年払い14,220円です(2026年11月3日確認)。価格やキャンペーンは変わることがあるので、申し込む前に公式サイト(<a data-pr="notta" href="https://px.a8.net/svt/ejp?a8mat=4BGCF5+64AELU+5988+5YRHE" rel="sponsored nofollow">【Notta】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGCF5+64AELU+5988+5YRHE" alt="" data-pr="notta">)で最新の表示を確かめてください。</p>
-  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="notta" href="https://px.a8.net/svt/ejp?a8mat=4BGCF5+64AELU+5988+5YRHE" rel="sponsored nofollow">【Notta】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGCF5+64AELU+5988+5YRHE" alt="" data-pr="notta">
-</div>
 
 ## よくある質問
 

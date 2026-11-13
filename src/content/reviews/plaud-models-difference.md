@@ -18,6 +18,8 @@ tags: ["PLAUD", "PLAUD NOTE", "Plaud Note Pro", "Plaud NotePin", "AIボイスレ
 
 この記事の仕様と価格は、PLAUD の日本公式サイト(jp.plaud.ai)の[機種の比較ページ](https://jp.plaud.ai/pages/plaud-device-comparison)・[シリーズ比較ページ](https://jp.plaud.ai/pages/plaud-series-comparison)と、各機種の商品ページ([Note Pro](https://jp.plaud.ai/products/plaud-note-pro)・[Note](https://jp.plaud.ai/products/plaud-note-ai-voice-recorder)・[NotePin S](https://jp.plaud.ai/products/plaud-notepin-s)・[NotePin](https://jp.plaud.ai/products/notepin)・[Plaud One](https://jp.plaud.ai/products/plaud-one))の表示を**2026年11月5日**に確認したものです。価格はセールで変わることがあります。当サイトでは実機を検証していません。録音の聞き取りやすさや文字起こしの精度は測っておらず、公式に書かれている仕様だけで比べています。
 
+**条件別の行き先(PR)** 4機種の価格と在庫を確かめる人は → <a data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="" data-pr="plaud">(公式ストア)。
+
 ## 4機種の比較表
 
 | | Plaud Note Pro | Plaud Note | Plaud NotePin S | Plaud NotePin |
@@ -44,6 +46,13 @@ tags: ["PLAUD", "PLAUD NOTE", "Plaud Note Pro", "Plaud NotePin", "AIボイスレ
 | カラー | ブラック、シルバー(Flow Edition もブラック・シルバー) | ブラック、シルバー、スターライト | ブラック、シルバー、パープル | パープル、グレー |
 
 「--」は、公式の比較表でその欄が「--」になっているものです。保存容量とフル充電の時間は比較表に載っていないため、各機種の商品ページの仕様から取りました。
+
+<div class="affiliate-box" data-pr="plaud">
+  <p><strong>PR</strong>｜4機種の価格と在庫は公式ストアで確認できます</p>
+  <p>本体と年間プランのセット販売もあります。セール中は機種ごとの価格差が変わることがあるので、購入前に公式ストア(<a data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="" data-pr="plaud">)で最新の表示を確かめてください。</p>
+  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
+  <a class="cta" data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="" data-pr="plaud">
+</div>
 
 ## まず「通話を録るか」で分ける
 
@@ -121,13 +130,6 @@ tags: ["PLAUD", "PLAUD NOTE", "Plaud Note Pro", "Plaud NotePin", "AIボイスレ
 | 立ち話や現場の巡回で、身につけたまま録りたい | NotePin S | ピン型で、リストバンドとネックストラップも同梱。物理ボタンの短押しでハイライト |
 | 身につけて録れれば十分で、いちばん安くしたい | NotePin | 27,500円。録音時間は NotePin S と同じ最長20時間 |
 | iPhone で、録音を自動でアプリに送りたい | Note Pro Flow Edition | 自動転送の対応は現時点で iPhone のみ。本体の保存は一時保存用の512MB |
-
-<div class="affiliate-box" data-pr="plaud">
-  <p><strong>PR</strong>｜4機種の価格と在庫は公式ストアで確認できます</p>
-  <p>本体と年間プランのセット販売もあります。セール中は機種ごとの価格差が変わることがあるので、購入前に公式ストア(<a data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="" data-pr="plaud">)で最新の表示を確かめてください。</p>
-  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="" data-pr="plaud">
-</div>
 
 ほかの会社の録音機も候補なら、同じカード型の[Notta MemoとPLAUD Noteの違い](/reviews/notta-memo-vs-plaud-note/)や、HiDock・Anker Soundcore Work・オートメモまで並べた[AIボイスレコーダーの比較](/reviews/ai-voice-recorder-comparison/)も参考にしてください。
 

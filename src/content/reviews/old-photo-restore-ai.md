@@ -18,6 +18,8 @@ tags: ["古い写真", "写真修復", "画像高画質化", "AI画像拡大", "
 
 この記事の製品の機能・条件は、各社の公式サイトの説明を **2026年11月5日に公式で確認** した範囲で書いています。当サイトでは実機・実サービスを検証していません。仕上がりは元の写真の状態で大きく変わるため、ここに書いた手順で必ずきれいになるとは言えません。
 
+**条件別の行き先(PR)** 人物写真をパソコンの中だけで処理し、無料版(書き出しに透かし入り)から確かめる人は → <a data-pr="aiarty" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="sponsored nofollow">【Aiarty Image Enhancer】</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+EVUWI+428G+HVFKY" alt="" data-pr="aiarty">(公式サイト)。
+
 ## 手順の全体像
 
 | 段階 | やること | 目安・注意 |

@@ -19,6 +19,8 @@ tags: ["Notta", "Zoom", "Microsoft Teams", "Google Meet", "文字起こし", "�
 
 この記事の内容は、Notta公式の[ヘルプセンター](https://support.notta.ai/hc/ja)と[料金プランページ](https://www.notta.ai/pricing)の記載を**2026年11月5日**に確認したものです。当サイトでは実サービスを検証していません。公式の公開情報を整理した記事です。
 
+**条件別の行き先(PR)** 会議1本を記録するために、プレミアム以上をパソコンのブラウザから申し込む人は → <a data-pr="notta" href="https://px.a8.net/svt/ejp?a8mat=4BGCF5+64AELU+5988+5YRHE" rel="sponsored nofollow">【Notta】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGCF5+64AELU+5988+5YRHE" alt="" data-pr="notta">(公式サイト)。
+
 ## 会議につなぐ4つの方法(比較表)
 
 | 方法 | 使えるプラン | 対応する会議 | 向いている場面 |
@@ -48,6 +50,13 @@ Google Meetの場合は、NottaのChrome拡張機能を入れると、Meetの会
 | 同時に記録できる会議 | 契約アカウント数と同じ件数 | 同左 | 同左(アカウントを足すと増える) |
 
 料金と時間の上限は[ヘルプ「Notta料金プランの選び方」](https://support.notta.ai/hc/ja/articles/55447618158491)と料金ページ、ボット名とバナーの条件は「Web会議の文字起こし」の注記によります。
+
+<div class="affiliate-box" data-pr="notta">
+  <p><strong>PR</strong>｜Notta の料金とプランは公式サイトで確認できます</p>
+  <p>会議ツールとの連携は、プランによって使える範囲が変わります。申し込む前に公式サイト(<a data-pr="notta" href="https://px.a8.net/svt/ejp?a8mat=4BGCF5+64AELU+5988+5YRHE" rel="sponsored nofollow">【Notta】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGCF5+64AELU+5988+5YRHE" alt="" data-pr="notta">)で最新のプランと条件を確かめてください。</p>
+  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
+  <a class="cta" data-pr="notta" href="https://px.a8.net/svt/ejp?a8mat=4BGCF5+64AELU+5988+5YRHE" rel="sponsored nofollow">【Notta】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGCF5+64AELU+5988+5YRHE" alt="" data-pr="notta">
+</div>
 
 いくつか補足します。
 
@@ -135,13 +144,6 @@ Nottaデスクトップ版では、会議にボットを入れずに、PCのマ�
 | 画面共有の資料も録画したい | ビジネス(Web会議の録画)、またはデスクトップ版の「画面と音声」 |
 
 会議の大半がZoomで、要約だけで足りるなら、Zoomに付いているAI機能で済む場合もあります。違いは[Zoom AI Companion(ZoomMate)の解説](/reviews/zoom-ai-companion-review/)を見てください。他社の無料プランの上限と比べたい場合は、[無料で使えるAI文字起こしの上限比較](/reviews/ai-transcription-free-limits/)にまとめています。
-
-<div class="affiliate-box" data-pr="notta">
-  <p><strong>PR</strong>｜Notta の料金とプランは公式サイトで確認できます</p>
-  <p>会議ツールとの連携は、プランによって使える範囲が変わります。申し込む前に公式サイト(<a data-pr="notta" href="https://px.a8.net/svt/ejp?a8mat=4BGCF5+64AELU+5988+5YRHE" rel="sponsored nofollow">【Notta】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGCF5+64AELU+5988+5YRHE" alt="" data-pr="notta">)で最新のプランと条件を確かめてください。</p>
-  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="notta" href="https://px.a8.net/svt/ejp?a8mat=4BGCF5+64AELU+5988+5YRHE" rel="sponsored nofollow">【Notta】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGCF5+64AELU+5988+5YRHE" alt="" data-pr="notta">
-</div>
 
 ## よくある質問
 

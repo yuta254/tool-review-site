@@ -19,6 +19,8 @@ Aiarty Image Enhancer は、**パソコンにインストールして使う画�
 
 この記事は公式サイト(jp.aiarty.com)の記載を2026年10月21日に確認して整理したもので(販売元・返金条件・割引の扱いは2026年11月3日、料金と動作環境は2026年11月12日に再確認)、当サイトでソフトを使った検証はしていません。
 
+**条件別の行き先(PR)** 手持ちの画像を無料版(書き出しに透かし入り)から確かめる人は → <a data-pr="aiarty" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="sponsored nofollow">【Aiarty Image Enhancer】</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+EVUWI+428G+HVFKY" alt="" data-pr="aiarty">(公式サイト)。
+
 ## できること
 
 公式サイトでは、主に次の機能が紹介されています。

@@ -26,6 +26,8 @@ AIの英文校正と人の英文校正は、どちらが上というより**向�
 
 この記事の料金・条件は、各社の公式サイトを**2026年11月12日**に確認したものです。当サイトは実際に使った検証はしていません。公式の公開情報を整理した記事です。料金は変わることがあるため、申し込む前に公式サイトで最新の表示を確かめてください。
 
+**条件別の行き先(PR)** 契約書や対外的な提案書など、誤解されると困る英文を人に見てもらう人は → <a data-pr="idbusiness" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+61WO6Q+2KSK+BWVTE" rel="sponsored nofollow">アイディービジネス</a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4BC0UI+61WO6Q+2KSK+BWVTE" alt="" data-pr="idbusiness">(公式サイト)。料金の決まり方は下の表にまとめています。
+
 ## AIの英文校正:代表的な2つ
 
 ### Grammarly

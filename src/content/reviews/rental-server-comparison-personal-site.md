@@ -20,6 +20,8 @@ tags: ["レンタルサーバー", "エックスサーバー", "シンレンタ�
 
 AIツールの公開ボタンや独自ドメインの接続手順は [AIで作ったサイトを公開する方法と独自ドメイン](/reviews/ai-site-publish-custom-domain/) にまとめたので、この記事では **サーバー選び** だけを扱います。
 
+**条件別の行き先(PR)** ドメイン代もまとめて12か月以上使う人は → <a data-pr="xserver" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6F07HU+CO4+6AZAQ" rel="sponsored nofollow">エックスサーバー</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGERH+6F07HU+CO4+6AZAQ" alt="" data-pr="xserver">(公式サイト)。容量を重く見る人は → <a data-pr="shinserver" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6JROC2+5GDG+5YRHE" rel="sponsored nofollow">シンレンタルサーバー</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGERH+6JROC2+5GDG+5YRHE" alt="" data-pr="shinserver">(公式サイト)。
+
 ## 5社の比較表(個人向けの入門プラン)
 
 | | エックスサーバー | シンレンタルサーバー | ConoHa WING | さくらのレンタルサーバ | お名前.com レンタルサーバー |
@@ -34,6 +36,20 @@ AIツールの公開ボタンや独自ドメインの接続手順は [AIで作�
 | WordPressの簡単インストール | あり | あり | あり(かんたんセットアップ) | あり(クイックインストール) | あり(かんたんインストール) |
 | 無料お試し | 10日間 | 10日間 | 料金ページに記載なし | 2週間 | 記載なし(申込月の料金が無料) |
 | 独自ドメインの無料特典 | 12か月以上で1つ・24か月以上で2つ | 1つ | WINGパックで最大2つ | 記載なし | 同時申込で対象ドメインの更新料が無料 |
+
+<div class="affiliate-box" data-pr="xserver">
+  <p><strong>PR</strong>｜ドメイン代もまとめて1年以上使うなら</p>
+  <p>スタンダードは12か月以上の契約で独自ドメインが1つ無料(24か月以上で2つ)、初期費用0円で10日間の無料お試しがあります。最新の料金と特典の条件は、公式サイト(<a data-pr="xserver" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6F07HU+CO4+6AZAQ" rel="sponsored nofollow">エックスサーバー</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGERH+6F07HU+CO4+6AZAQ" alt="" data-pr="xserver">)で確かめてください。</p>
+  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
+  <a class="cta" data-pr="xserver" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6F07HU+CO4+6AZAQ" rel="sponsored nofollow">エックスサーバー</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGERH+6F07HU+CO4+6AZAQ" alt="" data-pr="xserver">
+</div>
+
+<div class="affiliate-box" data-pr="shinserver">
+  <p><strong>PR</strong>｜容量を重視するなら</p>
+  <p>ベーシックは容量700GB(NVMe SSD)で、初期費用0円、10日間の無料お試しと独自ドメイン1つの無料特典があります。契約期間ごとの料金は、公式サイト(<a data-pr="shinserver" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6JROC2+5GDG+5YRHE" rel="sponsored nofollow">シンレンタルサーバー</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGERH+6JROC2+5GDG+5YRHE" alt="" data-pr="shinserver">)の料金ページで確かめてください。</p>
+  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
+  <a class="cta" data-pr="shinserver" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6JROC2+5GDG+5YRHE" rel="sponsored nofollow">シンレンタルサーバー</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGERH+6JROC2+5GDG+5YRHE" alt="" data-pr="shinserver">
+</div>
 
 ## 契約期間ごとの月額(税込)
 
@@ -85,20 +101,6 @@ AIツールの公開ボタンや独自ドメインの接続手順は [AIで作�
 - **容量が欲しい・契約期間の長さに関係なくドメインを1つ付けたい** → シンレンタルサーバー ベーシック(700GB)。
 - **申し込む前に試したい** → さくら(2週間・カード登録なし)か、エックスサーバー・シン(10日間)。
 - **ConoHa WING・お名前.com を考えている** → 2026年11月6日時点では新規申込が止まっています。申し込む前に、公式サイトで受付が再開しているかを確かめてください。
-
-<div class="affiliate-box" data-pr="xserver">
-  <p><strong>PR</strong>｜ドメイン代もまとめて1年以上使うなら</p>
-  <p>スタンダードは12か月以上の契約で独自ドメインが1つ無料(24か月以上で2つ)、初期費用0円で10日間の無料お試しがあります。最新の料金と特典の条件は、公式サイト(<a data-pr="xserver" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6F07HU+CO4+6AZAQ" rel="sponsored nofollow">エックスサーバー</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGERH+6F07HU+CO4+6AZAQ" alt="" data-pr="xserver">)で確かめてください。</p>
-  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="xserver" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6F07HU+CO4+6AZAQ" rel="sponsored nofollow">エックスサーバー</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGERH+6F07HU+CO4+6AZAQ" alt="" data-pr="xserver">
-</div>
-
-<div class="affiliate-box" data-pr="shinserver">
-  <p><strong>PR</strong>｜容量を重視するなら</p>
-  <p>ベーシックは容量700GB(NVMe SSD)で、初期費用0円、10日間の無料お試しと独自ドメイン1つの無料特典があります。契約期間ごとの料金は、公式サイト(<a data-pr="shinserver" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6JROC2+5GDG+5YRHE" rel="sponsored nofollow">シンレンタルサーバー</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGERH+6JROC2+5GDG+5YRHE" alt="" data-pr="shinserver">)の料金ページで確かめてください。</p>
-  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="shinserver" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6JROC2+5GDG+5YRHE" rel="sponsored nofollow">シンレンタルサーバー</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGERH+6JROC2+5GDG+5YRHE" alt="" data-pr="shinserver">
-</div>
 
 ## よくある質問
 

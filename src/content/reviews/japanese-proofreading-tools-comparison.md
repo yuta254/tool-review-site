@@ -18,6 +18,8 @@ tags: ["文章校正", "日本語", "文賢", "Shodo", "Word", "Googleドキュ�
 
 この記事の料金と条件は、各社の公式サイト・公式ヘルプの記載を**2026年11月6日**に確認したものです。当サイトでは実機・実サービスを検証していません。公式の公開情報どうしを並べた記事です。
 
+**条件別の行き先(PR)** 日本語のルール校正とチームの表記統一を、14日間の無料トライアルから確かめる人は → <a data-pr="bunken" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6XGN8Y+3Q2O+HVFKY" rel="sponsored nofollow">文章作成アドバイスツール【文賢】</a><img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BGERH+6XGN8Y+3Q2O+HVFKY" alt="" data-pr="bunken">(公式サイト)。
+
 ## 5つの比較表
 
 | | 文賢 | Shodo | Word のエディター | Google ドキュメント | ChatGPT など生成AI |
@@ -29,6 +31,13 @@ tags: ["文章校正", "日本語", "文賢", "Shodo", "Word", "Googleドキュ�
 | 出典 | [文賢の公式サイト](https://rider-store.jp/bun-ken/) | [Shodoの料金ページ](https://shodo.ink/pricing/) | [言語別の対応表](https://support.microsoft.com/ja-jp/word/editor-s-spelling-grammar-and-refinement-availability-by-language) | [公式ヘルプ](https://support.google.com/docs/answer/57859?hl=ja) | [ChatGPTの料金ページ](https://chatgpt.com/ja-JP/pricing/) |
 
 Microsoft 365の金額は、公式の[製品比較ページ](https://www.microsoft.com/ja-jp/microsoft-365/buy/compare-all-microsoft-365-products)の表示です(税込かどうかの表記は、確認したページにはありませんでした)。ChatGPTの料金ページは、確認した時点で金額の数字が表示されなかったため、表には載せていません。各プランの金額は料金ページで確かめてください。
+
+<div class="affiliate-box" data-pr="bunken">
+  <p><strong>PR</strong>｜文賢は14日間の無料トライアルから始められます</p>
+  <p>文賢はパーソナルが月1,980円(1年更新なら月あたり1,650円)、ビジネスチームが1ユーザー月3,300円(同2,750円)で、どちらも14日間の無料トライアルが付きます(2026年11月6日に公式で確認・税込)。トライアル中に解約すれば費用はかからないと案内されています。最新の料金は公式サイト(<a data-pr="bunken" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6XGN8Y+3Q2O+HVFKY" rel="sponsored nofollow">文章作成アドバイスツール【文賢】</a><img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BGERH+6XGN8Y+3Q2O+HVFKY" alt="" data-pr="bunken">)で確かめてください。</p>
+  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
+  <a class="cta" data-pr="bunken" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6XGN8Y+3Q2O+HVFKY" rel="sponsored nofollow">文章作成アドバイスツール【文賢】</a><img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BGERH+6XGN8Y+3Q2O+HVFKY" alt="" data-pr="bunken">
+</div>
 
 ## それぞれの位置づけ
 
@@ -79,13 +88,6 @@ Wordでは[ホーム]タブの[エディター]から使うと公式に案内さ
 | 英文の校正が中心 | [AIライティング・英文校正ツールの比較](/reviews/ai-writing-proofreading-comparison/)へ |
 
 どのツールも、すべての誤りを拾うとは書いていません。文賢の公式サイトには、校閲機能はあくまで支援であり、文章中の誤りをもれなく指摘するものではないと明記されています。社外に出す文書は、ツールの指摘の後に人の目で読む前提で選んでください。
-
-<div class="affiliate-box" data-pr="bunken">
-  <p><strong>PR</strong>｜文賢は14日間の無料トライアルから始められます</p>
-  <p>文賢はパーソナルが月1,980円(1年更新なら月あたり1,650円)、ビジネスチームが1ユーザー月3,300円(同2,750円)で、どちらも14日間の無料トライアルが付きます(2026年11月6日に公式で確認・税込)。トライアル中に解約すれば費用はかからないと案内されています。最新の料金は公式サイト(<a data-pr="bunken" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6XGN8Y+3Q2O+HVFKY" rel="sponsored nofollow">文章作成アドバイスツール【文賢】</a><img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BGERH+6XGN8Y+3Q2O+HVFKY" alt="" data-pr="bunken">)で確かめてください。</p>
-  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="bunken" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6XGN8Y+3Q2O+HVFKY" rel="sponsored nofollow">文章作成アドバイスツール【文賢】</a><img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BGERH+6XGN8Y+3Q2O+HVFKY" alt="" data-pr="bunken">
-</div>
 
 ## よくある質問
 

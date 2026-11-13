@@ -25,6 +25,8 @@ tags: ["PLAUD", "Comu", "AIボイスレコーダー", "Zoom", "Otter.ai", "文�
 
 この記事は各社の公式サイトの公開情報(2026年10月21日に確認し、Zoom・Otter.ai・PLAUD・Comu の料金と無料枠は2026年11月12日に確認し直しました)を整理したもので、当サイトで実機・実サービスを使った検証はしていません。
 
+**条件別の行き先(PR)** 対面の打ち合わせや電話を録音機で記録したい人は → <a data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="" data-pr="plaud">(公式ストア)。文字起こしの時間を気にせず録りたい人は → <a data-pr="comu" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6VOCFM+5YZG+5YRHE" rel="sponsored nofollow">【Comu】</a><img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BGERH+6VOCFM+5YZG+5YRHE" alt="" data-pr="comu">(公式ストア)。
+
 ## 1. 会議ツールに組み込まれたAI
 
 Zoom や Microsoft Teams などの会議ツールには、会議の要約や文字起こしを行うAI機能が組み込まれています。追加の道具を入れずに使えるのが利点で、会議が終わると要約がそのツールの中に残ります。

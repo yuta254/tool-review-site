@@ -24,6 +24,8 @@ AIボイスレコーダーは、どれも**本体で録音し、アプリ経由�
 
 この記事の価格・仕様・条件は、各社の日本の公式ストア・製品ページ・料金ページ・ヘルプの表示を**2026年11月3日**に確認したものです。PLAUD は jp.plaud.ai、Notta は shop.notta.ai/ja-jp と support.notta.ai、HiDock は jp.hidock.com、Soundcore Work は ankerjapan.com、オートメモは automemo.com を見ています。Comu は jp.comu.com(商品ページ・返品返金ポリシー・特定商取引法に基づく表示・よくある質問)を**2026年11月10日**に確認して追加しました。当サイトで実機を使った検証はしていません。録音の聞き取りやすさや文字起こしの精度は測っていないため、音質や精度で順位は付けていません。
 
+**条件別の行き先(PR)** 無料の文字起こし枠(月600分)を重く見る人は → <a data-pr="nottamemo" href="https://px.a8.net/svt/ejp?a8mat=4BGCF7+FKUCMQ+5988+BX3J6" rel="sponsored nofollow">【Notta Memo】</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BGCF7+FKUCMQ+5988+BX3J6" alt="" data-pr="nottamemo">(公式ストア)。機種の幅と、開封した後でも受け取りから30日以内なら返品できる点を重く見る人は → <a data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="" data-pr="plaud">(公式ストア)。月額0円のまま文字起こしの時間を気にせず使いたい人は → <a data-pr="comu" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6VOCFM+5YZG+5YRHE" rel="sponsored nofollow">【Comu】</a><img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BGERH+6VOCFM+5YZG+5YRHE" alt="" data-pr="comu">(公式ストア)。
+
 ## 比較表(本体)
 
 価格は各社の公式ストアの表示(税込)です。セールで変わることがあります。
@@ -42,6 +44,13 @@ AIボイスレコーダーは、どれも**本体で録音し、アプリ経由�
 | Comulytic Note Pro(Comu) | 30,000円(11月10日の確認時はセール価格19,980円) | カード型(8.6×5.2×0.3cm) | 27.6g | 最大45時間 | 確認したページに記載なし | スマートフォンに付けたときの通話と対面を自動で判別 | 113言語 |
 | Anker Soundcore Work | 64GB 26,990円 / 8GB 24,990円(8GBは確認日に売り切れ表示) | 身につけるマイク+カード型の充電ケース | マイク約10g、ケース込み約48g | マイク単体で最大8時間、ケース込みで最大32時間 | 8GB / 64GB | 対応していない | 150以上 |
 | オートメモ S(ソースネクスト) | 19,800円 | 画面付きの縦長(92×54×12mm) | 約88g | 録音時約16時間 | 16GB | 確認したページに通話用モードの記載なし | 72言語 |
+
+<div class="affiliate-box" data-pr="plaud">
+  <p><strong>PR</strong>｜価格と在庫は公式ストアで確認できます</p>
+  <p>PLAUD はカード型2機種とピン型2機種があり、本体と年間プランのセット販売もあります。セール中は価格が変わることがあるので、購入前に公式ストア(<a data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="" data-pr="plaud">)で最新の表示を確かめてください。</p>
+  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
+  <a class="cta" data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="" data-pr="plaud">
+</div>
 
 - **Notta Memo の対応言語**:「58言語」は Notta の公式ストアの製品ページの表記です(2026年11月12日確認)。Notta の公式ヘルプ「Nottaの音声認識・翻訳に対応している言語は?」(2026年11月11日更新)では、Notta のサービス全体の「単一言語文字起こし」が65言語と書かれていますが、この記事は Notta Memo に限った記載ではないため、数え方が同じとは確かめられませんでした。表は製品ページの58言語に合わせています。
 - **PLAUD の通話の録り方**:公式ストアの説明では、通話録音は本体の VPU センサーでスマートフォンからの音声を拾うため、カード型の本体をマグネットケースでスマートフォンの背面に付けて使います。比較ページでは、NotePin S と NotePin は「対面録音モードのみ」です。
@@ -62,6 +71,13 @@ HiDock には、パソコンの横に置くドッキングステーション型�
 | Soundcore Work | Starter:毎月300分 | Pro:月額都度払い2,680円 / 年額15,980円(月1,200分)、Unlimited:年額38,980円(無制限・1日最大24時間) | 文字起こしパッケージ:120分480円、600分1,480円、3,000分7,980円、6,000分13,980円 |
 | Comu | スタータープラン(0円):文字起こし・基本要約は無制限。リアルタイム翻訳は月1回、高度な分析ツールは月3回、エージェントクレジットは月500 | プレミアム:年払いで月あたり1,733円 / 月払い2,980円(月5,000クレジット)、エリート:年払いで月あたり4,983円 / 月払い6,800円(月40,000クレジット) | 文字起こしは全プラン無制限 |
 | オートメモ | お試しプラン:毎月1時間 | プレミアム:月1,480円(初月無料) / 年14,800円(月30時間) | 文字起こし10時間1,980円、50時間9,900円(有効期限180日) |
+
+<div class="affiliate-box" data-pr="nottamemo">
+  <p><strong>PR</strong>｜Notta Memo の価格と在庫は公式ストアで確認できます</p>
+  <p>Notta Memo の通常価格は23,500円(税込)で、本体を登録すると無料で月600分の文字起こし枠が付きます(2026年11月3日確認)。セール中は価格が変わることがあるので、購入前に公式ストア(<a data-pr="nottamemo" href="https://px.a8.net/svt/ejp?a8mat=4BGCF7+FKUCMQ+5988+BX3J6" rel="sponsored nofollow">【Notta Memo】</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BGCF7+FKUCMQ+5988+BX3J6" alt="" data-pr="nottamemo">)で最新の表示を確かめてください。</p>
+  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
+  <a class="cta" data-pr="nottamemo" href="https://px.a8.net/svt/ejp?a8mat=4BGCF7+FKUCMQ+5988+BX3J6" rel="sponsored nofollow">【Notta Memo】</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BGCF7+FKUCMQ+5988+BX3J6" alt="" data-pr="nottamemo">
+</div>
 
 - **HiDock の無料枠**:HiNotes のページには「HiDockデバイスの所有者は生涯無料の文字起こしサービスをご利用いただけます」とあり、比較表では無料のメンバーシップでも文字起こし時間は「無制限」です。一方で、話者識別・要約テンプレートのカスタマイズ・要約の翻訳・Word や PDF での書き出しはプロメンバーシップの機能です。P1 と P1 mini の商品ページには、リアルタイム翻訳を含む「アドバンスト機能」を毎月300分無料で使えるとも書かれています。なお、プロメンバーシップの12,000分は公式ページで「1,2000分」と表記されていました。
 - **Comu の無料枠**:Comu Action Pro の商品ページには「基本的な文字起こしとAI要約を追加料金なしで何度でもご利用いただけます」とあり、同じページの料金プランの表(税込)でも、文字起こし・基本要約はスターター(0円)から「無制限」です。一方で、リアルタイム翻訳や高度なAI分析など一部の機能は無料の利用回数に上限があり、続けて使うには有料プランかクレジットが必要と注記されています。録音内容から資料・メール・文書を作る「エージェントワークフロー」はクレジットを使う仕組みです。よくある質問では、最新の料金とプラン内容はアプリ内の「メンバーシップ詳細」で確かめるよう案内され、年間プランは契約期間の途中で解約できないとされています。
@@ -131,20 +147,6 @@ HiDock P1 は、確認日の価格(29,800円)で計算しています。Comu の
 | HiDock | SUGR TECHNOLOGY HONG KONG LIMITED(香港) |
 
 オートメモは、ソースネクストが自社の文字起こしAI「AutoMemo(オートメモ)」の専用端末として販売している製品です。PLAUD・Notta・Anker・Comu は日本法人が販売していますが、販売している会社が日本法人であることと、製品が日本で作られていることは別の話です。日本の会社の製品にこだわる理由が「データの保存先」なら、そちらを直接確かめる方が確実です。公式ページの記載では、Notta Memo Pro は録音と文字起こしを日本(東京リージョン)のサーバーに保存するとされ、Soundcore Work は「現在、すべてのSoundcoreユーザーのデータは米国を拠点とするデータセンターに保存されています」と書かれています。
-
-<div class="affiliate-box" data-pr="plaud">
-  <p><strong>PR</strong>｜価格と在庫は公式ストアで確認できます</p>
-  <p>PLAUD はカード型2機種とピン型2機種があり、本体と年間プランのセット販売もあります。セール中は価格が変わることがあるので、購入前に公式ストア(<a data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="" data-pr="plaud">)で最新の表示を確かめてください。</p>
-  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="" data-pr="plaud">
-</div>
-
-<div class="affiliate-box" data-pr="nottamemo">
-  <p><strong>PR</strong>｜Notta Memo の価格と在庫は公式ストアで確認できます</p>
-  <p>Notta Memo の通常価格は23,500円(税込)で、本体を登録すると無料で月600分の文字起こし枠が付きます(2026年11月3日確認)。セール中は価格が変わることがあるので、購入前に公式ストア(<a data-pr="nottamemo" href="https://px.a8.net/svt/ejp?a8mat=4BGCF7+FKUCMQ+5988+BX3J6" rel="sponsored nofollow">【Notta Memo】</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BGCF7+FKUCMQ+5988+BX3J6" alt="" data-pr="nottamemo">)で最新の表示を確かめてください。</p>
-  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="nottamemo" href="https://px.a8.net/svt/ejp?a8mat=4BGCF7+FKUCMQ+5988+BX3J6" rel="sponsored nofollow">【Notta Memo】</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BGCF7+FKUCMQ+5988+BX3J6" alt="" data-pr="nottamemo">
-</div>
 
 ## 機種ごとの特徴
 

@@ -19,6 +19,8 @@ tags: ["文賢", "文章校正", "推敲", "日本語", "料金", "無料トラ�
 
 この記事の料金と条件は、文賢の[公式サイト](https://rider-store.jp/bun-ken/)と[ヘルプセンター](https://help.bun-ken.net/)、[特定商取引法に基づく表示](https://help.bun-ken.net/law/)、[利用規約[新プラン]](https://help.bun-ken.net/terms_np/)を**2026年11月6日**に確認したものです。当サイトでは実機・実サービスを検証していません。公式の公開情報を整理した記事です。
 
+**条件別の行き先(PR)** 14日間の無料トライアルから始める人は → <a data-pr="bunken" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6XGN8Y+3Q2O+HVFKY" rel="sponsored nofollow">文章作成アドバイスツール【文賢】</a><img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BGERH+6XGN8Y+3Q2O+HVFKY" alt="" data-pr="bunken">(公式サイト)。
+
 ## 料金表(新プラン)
 
 | | パーソナル | ビジネスチーム |
@@ -34,6 +36,13 @@ tags: ["文賢", "文章校正", "推敲", "日本語", "料金", "無料トラ�
 | 無料トライアル | 14日間 | 14日間 |
 
 価格はすべて税込です([ヘルプ「料金プランの違いを知りたい」](https://help.bun-ken.net/plans_np/))。AIアシスト、手動のマスキング、ルール校正・ルール推敲、チェックリスト、文章表現、二段階認証、メールサポートは両方のプランに含まれます。
+
+<div class="affiliate-box" data-pr="bunken">
+  <p><strong>PR</strong>｜申し込みは公式サイトから、14日間の無料トライアル付き</p>
+  <p>新規の契約には、パーソナル・ビジネスチームのどちらにも14日間の無料トライアルが付き、期間中に解約すれば費用はかからないと案内されています(2026年11月6日に公式で確認)。最新の料金とトライアルの条件は公式サイト(<a data-pr="bunken" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6XGN8Y+3Q2O+HVFKY" rel="sponsored nofollow">文章作成アドバイスツール【文賢】</a><img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BGERH+6XGN8Y+3Q2O+HVFKY" alt="" data-pr="bunken">)で確かめてください。</p>
+  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
+  <a class="cta" data-pr="bunken" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6XGN8Y+3Q2O+HVFKY" rel="sponsored nofollow">文章作成アドバイスツール【文賢】</a><img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BGERH+6XGN8Y+3Q2O+HVFKY" alt="" data-pr="bunken">
+</div>
 
 ### 初期費用について
 
@@ -116,13 +125,6 @@ WordやGoogleドキュメントの中で直接動く追加機能の案内は、�
 | まず無料のツールで日本語の校正を始めたい、WordやGmailの中で直したい | 他のツールも候補。[日本語の文章校正ツール比較](/reviews/japanese-proofreading-tools-comparison/)へ |
 
 生成AIのチャットに直接頼む方法との違いを知りたい場合は、[ChatGPT・Claude・Geminiの比較](/reviews/chatgpt-claude-gemini-comparison/)も参考になります。英文の校正が中心なら[AIライティング・英文校正ツールの比較](/reviews/ai-writing-proofreading-comparison/)を見てください。
-
-<div class="affiliate-box" data-pr="bunken">
-  <p><strong>PR</strong>｜申し込みは公式サイトから、14日間の無料トライアル付き</p>
-  <p>新規の契約には、パーソナル・ビジネスチームのどちらにも14日間の無料トライアルが付き、期間中に解約すれば費用はかからないと案内されています(2026年11月6日に公式で確認)。最新の料金とトライアルの条件は公式サイト(<a data-pr="bunken" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6XGN8Y+3Q2O+HVFKY" rel="sponsored nofollow">文章作成アドバイスツール【文賢】</a><img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BGERH+6XGN8Y+3Q2O+HVFKY" alt="" data-pr="bunken">)で確かめてください。</p>
-  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="bunken" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6XGN8Y+3Q2O+HVFKY" rel="sponsored nofollow">文章作成アドバイスツール【文賢】</a><img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BGERH+6XGN8Y+3Q2O+HVFKY" alt="" data-pr="bunken">
-</div>
 
 ## よくある質問
 

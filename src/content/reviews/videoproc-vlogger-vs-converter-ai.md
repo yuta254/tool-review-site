@@ -20,6 +20,8 @@ tags: ["VideoProc", "VideoProc Vlogger", "VideoProc Converter AI", "動画編集
 
 料金・機能・動作環境は、公式サイト(jp.videoproc.com)の各ページを**2026年11月5日に確認**して整理したものです。当サイトでは実機・実サービスを検証していません。
 
+**条件別の行き先(PR)** 編集が目的で Vlogger(0円)を入手する人も、Converter AI を無料版から確かめる人も → <a data-pr="videoproc" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="sponsored nofollow">【VideoProc】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BC0UI+5I9D82+428G+C0YF6" alt="" data-pr="videoproc">(公式サイト)。
+
 ## 2製品の比較表
 
 公式の製品ページ・FAQ・動作環境・購入ページの記載をまとめました(2026年11月5日確認)。
@@ -37,6 +39,13 @@ tags: ["VideoProc", "VideoProc Vlogger", "VideoProc Converter AI", "動画編集
 | 1つのライセンスで使える台数 | 最大2台(公式FAQ。後述の注意あり) | 年間プラン3台/永久ライセンス1台(購入ページ) |
 
 表の「AI機能」の欄で、Vlogger を「記載なし」としたのは、公式の機能紹介ページとFAQに AI による高画質化などの説明が見当たらなかったためです。
+
+<div class="affiliate-box" data-pr="videoproc">
+  <p><strong>PR</strong>｜Vlogger も Converter AI も公式サイトから無料で入手できます</p>
+  <p>編集が目的なら Vlogger、変換・圧縮・高画質化が目的なら Converter AI の無料版から始められます。どちらも <a data-pr="videoproc" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="sponsored nofollow">【VideoProc】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BC0UI+5I9D82+428G+C0YF6" alt="" data-pr="videoproc"> の公式サイトからダウンロードできます。</p>
+  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
+  <a class="cta" data-pr="videoproc" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="sponsored nofollow">【VideoProc】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BC0UI+5I9D82+428G+C0YF6" alt="" data-pr="videoproc">
+</div>
 
 ## VideoProc Vlogger でできること
 
@@ -81,13 +90,6 @@ Converter AI は、公式サイトで「動画処理」の製品として紹介�
 **両方を使い分ける**こともできます。たとえば、Vlogger で編集して書き出した動画がメールやチャットで送るには大きすぎるとき、Converter AI で容量を小さくする、という分け方です。容量を小さくする設定の考え方は[動画の容量を小さくする方法の記事](/reviews/video-compress-file-size/)にまとめました。
 
 ほかの編集ソフトと比べたい場合は、[CapCutの記事](/reviews/capcut-review/)や[AI動画ツール5種の比較](/reviews/ai-video-tools-comparison/)も参考にしてください。
-
-<div class="affiliate-box" data-pr="videoproc">
-  <p><strong>PR</strong>｜Vlogger も Converter AI も公式サイトから無料で入手できます</p>
-  <p>編集が目的なら Vlogger、変換・圧縮・高画質化が目的なら Converter AI の無料版から始められます。どちらも <a data-pr="videoproc" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="sponsored nofollow">【VideoProc】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BC0UI+5I9D82+428G+C0YF6" alt="" data-pr="videoproc"> の公式サイトからダウンロードできます。</p>
-  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="videoproc" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="sponsored nofollow">【VideoProc】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BC0UI+5I9D82+428G+C0YF6" alt="" data-pr="videoproc">
-</div>
 
 ## 動作環境の違い
 

@@ -18,6 +18,8 @@ tags: ["動画圧縮", "動画 容量", "HandBrake", "Clipchamp", "QuickTime Pla
 
 各ソフトの機能・料金は、それぞれの公式サイト・公式ヘルプを**2026年11月5日に確認**して整理したものです。当サイトでは実機・実サービスを検証していません。計算の数値は式から出した概算で、実際のファイルサイズは動画の中身によって変わります。
 
+**条件別の行き先(PR)** 目標のサイズを指定して圧縮したい人は → <a data-pr="videoproc" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="sponsored nofollow">【VideoProc】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BC0UI+5I9D82+428G+C0YF6" alt="" data-pr="videoproc">(公式サイト)。無料版は5分未満の動画までです。
+
 ## 容量を決める要素と、小さくする方法
 
 | 要素 | 何を表すか | 小さくするには | 気をつけること |
@@ -98,6 +100,13 @@ HandBrake の固定品質は「RF」という数値で指定し、**数値が小
 | 無料での制限 | なし | 無料プランは1080pまで透かしなし | なし | 変換・圧縮は5分未満の動画まで |
 | できないこと | 複数の動画の結合はできない(公式ドキュメント) | 4Kの書き出しは無料プランではできない | MP4への書き出し | 無料版で5分以上の動画の圧縮 |
 
+<div class="affiliate-box" data-pr="videoproc">
+  <p><strong>PR</strong>｜目標サイズを指定して動画を圧縮できます</p>
+  <p>VideoProc Converter AI は、希望のサイズの直接指定やビットレート・解像度の調整ができる圧縮機能を持つソフトです。無料版では5分未満の動画を圧縮できます。 <a data-pr="videoproc" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="sponsored nofollow">【VideoProc】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BC0UI+5I9D82+428G+C0YF6" alt="" data-pr="videoproc"> の公式サイトから無料版をダウンロードできます。</p>
+  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
+  <a class="cta" data-pr="videoproc" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="sponsored nofollow">【VideoProc】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BC0UI+5I9D82+428G+C0YF6" alt="" data-pr="videoproc">
+</div>
+
 補足です。
 
 - **HandBrake**:公式サイトでは、ボランティアが作るオープンソースのソフトで、ほぼどんな形式の動画も新しいコーデックに変換できる、と紹介されています。確認時点の最新版は1.11.2でした。公式ドキュメントには、映像は**必ず変換し直される**(そのままコピーする機能はない)とも書かれています。設定項目が多いので、まずは初期設定のプリセット「Fast 1080p30」から始めるとよい、と公式に案内されています
@@ -116,13 +125,6 @@ HandBrake の固定品質は「RF」という数値で指定し、**数値が小
 | たくさんの動画をまとめて小さくしたい/AIで画質も整えたい | VideoProc Converter AI(無料版は5分未満の動画まで) |
 | 編集してから書き出す動画の容量も抑えたい | 編集ソフトの書き出し設定で解像度・コーデックを選ぶ。無料の VideoProc Vlogger との違いは[VideoProc VloggerとConverter AIの違い](/reviews/videoproc-vlogger-vs-converter-ai/)で整理 |
 | これから撮る動画の容量を抑えたい | iPhone なら「設定」→「カメラ」→「フォーマット」を「高効率」にする。解像度・フレームレートの変え方は Apple のiPhoneユーザガイド「ビデオ撮影フォーマットを変更する」で案内されている |
-
-<div class="affiliate-box" data-pr="videoproc">
-  <p><strong>PR</strong>｜目標サイズを指定して動画を圧縮できます</p>
-  <p>VideoProc Converter AI は、希望のサイズの直接指定やビットレート・解像度の調整ができる圧縮機能を持つソフトです。無料版では5分未満の動画を圧縮できます。 <a data-pr="videoproc" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="sponsored nofollow">【VideoProc】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BC0UI+5I9D82+428G+C0YF6" alt="" data-pr="videoproc"> の公式サイトから無料版をダウンロードできます。</p>
-  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="videoproc" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="sponsored nofollow">【VideoProc】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BC0UI+5I9D82+428G+C0YF6" alt="" data-pr="videoproc">
-</div>
 
 ## 圧縮する前に気をつけること
 

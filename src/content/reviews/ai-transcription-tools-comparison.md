@@ -20,6 +20,8 @@ tags: ["Notta", "Otter.ai", "Fireflies.ai", "Zoom AI Companion", "Krisp", "文�
 | ツールを問わず個人で幅広く記録したい | Otter.ai |
 | 記録より先に「音が聞き取れない」問題がある | Krisp |
 
+**条件別の行き先(PR)** 日本語の料金表とヘルプで契約したい人は、パソコンのブラウザから → <a data-pr="notta" href="https://px.a8.net/svt/ejp?a8mat=4BGCF5+64AELU+5988+5YRHE" rel="sponsored nofollow">【Notta】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGCF5+64AELU+5988+5YRHE" alt="" data-pr="notta">(公式サイト)。対面の打ち合わせも記録したい人は → <a data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="" data-pr="plaud">(公式ストア)。
+
 ## 比較表
 
 | | 主な守備範囲 | 強み | つまずきやすい点 |
@@ -29,6 +31,13 @@ tags: ["Notta", "Otter.ai", "Fireflies.ai", "Zoom AI Companion", "Krisp", "文�
 | Fireflies.ai | オンライン会議(営業通話) | CRM連携を前提とした記録の残し方ができる | チーム運用が前提で、個人単発だと機能が過剰 |
 | Zoom AI Companion(現在は「AI機能」とZoomMate) | Zoom会議(My Notesは他社の会議・対面にも対応) | 有料プランに追加料金なしで含まれる | 他社の会議はMy Notes経由で、無料プランは月3回まで |
 | Krisp | 音声の前処理 | 入力ノイズを消して、他ツールの精度を底上げできる | それ自体は議事録を作らない |
+
+<div class="affiliate-box" data-pr="notta">
+  <p><strong>PR</strong>｜Notta の料金とプランは公式サイトで確認できます</p>
+  <p>Notta はフリープラン(月120分・1回3分まで)から始められ、プレミアムは月払い1,980円・年払い14,220円です(2026年11月3日確認)。価格やキャンペーンは変わることがあるので、申し込む前に公式サイト(<a data-pr="notta" href="https://px.a8.net/svt/ejp?a8mat=4BGCF5+64AELU+5988+5YRHE" rel="sponsored nofollow">【Notta】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGCF5+64AELU+5988+5YRHE" alt="" data-pr="notta">)で最新の表示を確かめてください。</p>
+  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
+  <a class="cta" data-pr="notta" href="https://px.a8.net/svt/ejp?a8mat=4BGCF5+64AELU+5988+5YRHE" rel="sponsored nofollow">【Notta】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGCF5+64AELU+5988+5YRHE" alt="" data-pr="notta">
+</div>
 
 ## それぞれの位置づけ
 
@@ -56,11 +65,11 @@ Zoomの中で完結する点が最大の利点です。既に有料プランを�
 
 他のツールとは層が違い、音声そのものを整えるツールです。「文字起こしの精度が出ない」という悩みの原因が、実はツールではなく入力音声の品質にある場合、ここを直すほうが効きます。詳しくは[Krispレビュー](/reviews/krisp-review/)を参照してください。
 
-<div class="affiliate-box" data-pr="notta">
-  <p><strong>PR</strong>｜Notta の料金とプランは公式サイトで確認できます</p>
-  <p>Notta はフリープラン(月120分・1回3分まで)から始められ、プレミアムは月払い1,980円・年払い14,220円です(2026年11月3日確認)。価格やキャンペーンは変わることがあるので、申し込む前に公式サイト(<a data-pr="notta" href="https://px.a8.net/svt/ejp?a8mat=4BGCF5+64AELU+5988+5YRHE" rel="sponsored nofollow">【Notta】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGCF5+64AELU+5988+5YRHE" alt="" data-pr="notta">)で最新の表示を確かめてください。</p>
+<div class="affiliate-box" data-pr="plaud">
+  <p><strong>PR</strong>｜オンライン以外の会議も記録したいとき</p>
+  <p>ここで挙げたツールはオンライン会議の記録が中心で、対面の打ち合わせや外出先での会話は守備範囲の外にあります。録音と文字起こしを端末側で完結させる選択肢として <a data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="" data-pr="plaud"> のようなAIボイスレコーダーがあります。</p>
   <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="notta" href="https://px.a8.net/svt/ejp?a8mat=4BGCF5+64AELU+5988+5YRHE" rel="sponsored nofollow">【Notta】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGCF5+64AELU+5988+5YRHE" alt="" data-pr="notta">
+  <a class="cta" data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="" data-pr="plaud">
 </div>
 
 ## 選ぶ前に確認したいこと
@@ -80,10 +89,3 @@ Zoomの中で完結する点が最大の利点です。既に有料プランを�
 
 **Q. 議事録の清書までAIに任せられますか。**
 要約と論点抽出までは任せられますが、「決まったこと」と「決まっていないこと」の線引きは人が確認する必要があります。ここを機械の出力のまま配布すると、後から認識のずれが表面化します。
-
-<div class="affiliate-box" data-pr="plaud">
-  <p><strong>PR</strong>｜オンライン以外の会議も記録したいとき</p>
-  <p>ここで挙げたツールはオンライン会議の記録が中心で、対面の打ち合わせや外出先での会話は守備範囲の外にあります。録音と文字起こしを端末側で完結させる選択肢として <a data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="" data-pr="plaud"> のようなAIボイスレコーダーがあります。</p>
-  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="" data-pr="plaud">
-</div>

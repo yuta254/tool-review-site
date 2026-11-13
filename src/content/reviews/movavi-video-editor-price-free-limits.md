@@ -18,6 +18,8 @@ tags: ["Movavi", "Movavi Video Editor", "動画編集ソフト", "料金", "無�
 
 この記事は、Movavi の日本語公式サイト(movavi.com/jp)の購入ページ・体験版の制約・返金ポリシー・動作環境・会社情報・プライバシーポリシーを**2026年11月6日に確認**して整理したものです。当サイトでは実機・実サービスを検証していません。
 
+**条件別の行き先(PR)** 体験版(透かし入り・書き出しは60秒まで)で、手持ちのパソコンで動くかを確かめる人は → <a data-pr="movavi" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6NXPKI+3YWG+614CY" rel="sponsored nofollow">動画編集が素早く出来るMovavi Video Editor</a><img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4BGERH+6NXPKI+3YWG+614CY" alt="" data-pr="movavi">(公式サイト)。
+
 ## 料金プランの一覧
 
 購入ページ(Movavi Video Editor を購入)に並んでいるプランです(2026年11月6日確認・税込)。
@@ -28,6 +30,13 @@ tags: ["Movavi", "Movavi Video Editor", "動画編集ソフト", "料金", "無�
 | Video Editor Plus 1年 | 9,100円 | 1年 | 同上 | 上記+効果パック3種 |
 | Video Editor Plus 永久ライセンス | 18,200円 | 期限なし(買い切り) | 更新なしで現在のバージョンに永久アクセス | 上記+効果パック3種 |
 | Video Suite Plus 1年ライセンス | 13,900円 | 1年 | サブスクリプション期間中は無料 | 上記に加え、メディアファイルの変換・画面録画 |
+
+<div class="affiliate-box" data-pr="movavi">
+  <p><strong>PR</strong>｜まず体験版で手持ちの動画を試せます</p>
+  <p>体験版は透かし入りで60秒までの書き出しです。手持ちのパソコンで動くかを確かめてから、1年・永久ライセンス・1か月を選べます。 <a data-pr="movavi" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6NXPKI+3YWG+614CY" rel="sponsored nofollow">動画編集が素早く出来るMovavi Video Editor</a><img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4BGERH+6NXPKI+3YWG+614CY" alt="" data-pr="movavi"> の公式サイトで最新の料金を確かめてください。</p>
+  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
+  <a class="cta" data-pr="movavi" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6NXPKI+3YWG+614CY" rel="sponsored nofollow">動画編集が素早く出来るMovavi Video Editor</a><img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4BGERH+6NXPKI+3YWG+614CY" alt="" data-pr="movavi">
+</div>
 
 - **効果パック3種**は「グラデーション」「映画風の効果とLUT」「ビンテージVHS効果」と書かれています。
 - **ワンクリックAIツール**は、ほぼ全言語での自動字幕、背景除去、ノイズ除去、モーショントラッキングと案内されています。「新着・更新済み」の機能として、自動追跡クロップ(被写体を中央に保ったまま縦長に切り出す)、単語単位の字幕ハイライト、AIによる高速ビデオノイズ除去も載っています。
@@ -122,13 +131,6 @@ tags: ["Movavi", "Movavi Video Editor", "動画編集ソフト", "料金", "無�
 ## 他の買い切りソフトと比べるなら
 
 買い切りで使える動画編集ソフト(VideoProc・PowerDirector・Filmora・DaVinci Resolve など)との価格・無料版の制限の比較は、[買い切りで使える動画編集ソフトの比較](/reviews/video-editor-one-time-purchase-comparison/)にまとめました。同じく買い切りと年間を選べるソフトの返金条件は、[VideoProc Converter AI の記事](/reviews/videoproc-converter-ai-review/)で整理しています。スマホで手軽に編集したい場合は[CapCut の記事](/reviews/capcut-review/)も参考にしてください。
-
-<div class="affiliate-box" data-pr="movavi">
-  <p><strong>PR</strong>｜まず体験版で手持ちの動画を試せます</p>
-  <p>体験版は透かし入りで60秒までの書き出しです。手持ちのパソコンで動くかを確かめてから、1年・永久ライセンス・1か月を選べます。 <a data-pr="movavi" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6NXPKI+3YWG+614CY" rel="sponsored nofollow">動画編集が素早く出来るMovavi Video Editor</a><img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4BGERH+6NXPKI+3YWG+614CY" alt="" data-pr="movavi"> の公式サイトで最新の料金を確かめてください。</p>
-  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="movavi" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6NXPKI+3YWG+614CY" rel="sponsored nofollow">動画編集が素早く出来るMovavi Video Editor</a><img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4BGERH+6NXPKI+3YWG+614CY" alt="" data-pr="movavi">
-</div>
 
 ## よくある質問
 

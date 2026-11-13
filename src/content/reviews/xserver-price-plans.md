@@ -18,6 +18,8 @@ tags: ["エックスサーバー", "Xserver", "レンタルサーバー", "料�
 
 この記事の料金・条件は、エックスサーバーの公式サイト(料金ページ・機能一覧・マニュアル)の表示を **2026年11月6日に公式で確認** したものです。表示価格はすべて税込みです。当サイトでは実機・実サービスを検証していません。公式の公開情報を整理した記事です。
 
+**条件別の行き先(PR)** 10日間の無料お試しで動作を確かめてから契約する人は → <a data-pr="xserver" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6F07HU+CO4+6AZAQ" rel="sponsored nofollow">エックスサーバー</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGERH+6F07HU+CO4+6AZAQ" alt="" data-pr="xserver">(公式サイト)。
+
 ## 契約期間ごとの月額(税込)
 
 月額は、契約期間分の料金を1か月あたりに換算した金額です。
@@ -41,6 +43,13 @@ tags: ["エックスサーバー", "Xserver", "レンタルサーバー", "料�
 | 36か月 | 35,640円 | 71,280円 | 142,560円 |
 
 公式の料金シミュレーションの「契約更新の方」でも、新規と同じ金額が使われています(2026年11月6日確認)。
+
+<div class="affiliate-box" data-pr="xserver">
+  <p><strong>PR</strong>｜申し込む前に10日間試せます</p>
+  <p>通常の申込みなら10日間の無料お試しがあり、その間にWordPressなどの動作を確かめてから本契約に進めます。最新の料金と特典の条件は、公式サイト(<a data-pr="xserver" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6F07HU+CO4+6AZAQ" rel="sponsored nofollow">エックスサーバー</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGERH+6F07HU+CO4+6AZAQ" alt="" data-pr="xserver">)で確かめてください。</p>
+  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
+  <a class="cta" data-pr="xserver" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6F07HU+CO4+6AZAQ" rel="sponsored nofollow">エックスサーバー</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGERH+6F07HU+CO4+6AZAQ" alt="" data-pr="xserver">
+</div>
 
 ## 3プランの違い
 
@@ -124,13 +133,6 @@ tags: ["エックスサーバー", "Xserver", "レンタルサーバー", "料�
 - **続くかどうか分からない** → 3か月(3,960円)で始める手もあります。ただしスタンダードの3か月・6か月はドメイン無料特典の対象外です。
 
 ほかの会社と料金や特典を比べたい場合は [レンタルサーバー5社の比較](/reviews/rental-server-comparison-personal-site/) を、AIツールで作ったサイトに独自ドメインを付ける流れは [AIで作ったサイトを公開する方法と独自ドメイン](/reviews/ai-site-publish-custom-domain/) を参照してください。
-
-<div class="affiliate-box" data-pr="xserver">
-  <p><strong>PR</strong>｜申し込む前に10日間試せます</p>
-  <p>通常の申込みなら10日間の無料お試しがあり、その間にWordPressなどの動作を確かめてから本契約に進めます。最新の料金と特典の条件は、公式サイト(<a data-pr="xserver" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6F07HU+CO4+6AZAQ" rel="sponsored nofollow">エックスサーバー</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGERH+6F07HU+CO4+6AZAQ" alt="" data-pr="xserver">)で確かめてください。</p>
-  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="xserver" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6F07HU+CO4+6AZAQ" rel="sponsored nofollow">エックスサーバー</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGERH+6F07HU+CO4+6AZAQ" alt="" data-pr="xserver">
-</div>
 
 ## よくある質問
 
