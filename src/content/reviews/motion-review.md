@@ -83,7 +83,7 @@ ToDo アプリのように「やることを並べておく」使い方より、
 | 無料プラン | なし(無料トライアルあり) | あり(Lite・予定を組む範囲は1週間先まで) |
 | 有料の最安 | 1人あたり月19ドル(Pro AI・チーム向けの年払い。1人で使う個人向けは年払いで月29ドル) | 1人あたり月10ドル(Starter・年払い) |
 
-Motion の料金は2026年11月22日、Reclaim.ai の料金は2026年11月3日、Reclaim.ai のタスクの置き方は2026年11月6日に、それぞれの公式ページで確認したものです。Reclaim.ai の仕組みは[Reclaim.aiの記事](/reviews/reclaim-ai-review/)、ほかのツールも含めた比較は[タスク管理AIの比較](/reviews/ai-task-management-comparison/)にまとめています。
+Motion の料金は2026年11月22日、Reclaim.ai の料金は2026年11月22日、Reclaim.ai のタスクの置き方は2026年11月6日に、それぞれの公式ページで確認したものです。Reclaim.ai の仕組みは[Reclaim.aiの記事](/reviews/reclaim-ai-review/)、ほかのツールも含めた比較は[タスク管理AIの比較](/reviews/ai-task-management-comparison/)にまとめています。
 
 ## 料金
 
