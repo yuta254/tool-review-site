@@ -3,7 +3,7 @@ title: "AIツールの無料版・無料お試しの見極め方:どこまで無
 seoTitle: "AIツールの無料版・お試しはどこまで使える?無料枠の一覧と見極め方"
 description: "AIツールの無料枠は、無料のまま実務で使えるものとお試し止まりのものに分かれます。見極め方と、Notta・PLAUD・GitHub Copilot・Todoist・Motion・Zoom・VideoProc・Aiartyの無料版と無料お試しの中身を一覧にしました(各公式情報を2026年10〜11月に確認)。"
 pubDate: 2026-09-01
-updatedDate: 2026-11-12
+updatedDate: 2026-11-22
 category: "ガイド"
 tags: ["無料", "料金", "AIツール", "使い分け", "コスト"]
 ---
@@ -48,7 +48,7 @@ tags: ["無料", "料金", "AIツール", "使い分け", "コスト"]
 | PLAUD(AIボイスレコーダー) | 本体を買うと Starter で毎月300分の文字起こし。本体は有料 | 従量枠型 | 11/3・[PLAUDの料金](/reviews/plaud-note-price-plans/) |
 | Notta Memo(AIボイスレコーダー) | 本体を登録すると Nottaハードウェアプランで毎月600分。本体は有料 | 従量枠型 | 11/3・[Notta MemoとPLAUD Noteの違い](/reviews/notta-memo-vs-plaud-note/) |
 | GitHub Copilot | Free はコード補完が月2,000回まで、チャットやエージェントは少量。Pro の無料トライアルは2026年4月から停止中 | 従量枠型 | 10/27・[GitHub Copilotのレビュー](/reviews/github-copilot-review/) |
-| Todoist | タスク管理は無料から使える。AI機能のうち無料で使えるのは Filter Assist だけで、日本語には未対応 | 恒久無料型(AIは一部) | 10/31・[Todoist AI](/reviews/todoist-ai-review/) |
+| Todoist | タスク管理は無料から使える。無料の初心者プランのAIは、Filter Assist(英語とスペイン語のみ)と、音声入力・Task Capture Assist の合計で月10回まで | 恒久無料型(AIは一部) | 11/12・[Todoist AI](/reviews/todoist-ai-review/) |
 | Motion | 無料で使い続けられるプランはなく、有料プランの無料トライアルのみ | 試用型 | 10/31・[Motion](/reviews/motion-review/) |
 | Zoom(AI機能・My Notes) | 無料のベーシックでは My Notes が月3回まで | 従量枠型 | 10/22・[Zoom AI Companion](/reviews/zoom-ai-companion-review/) |
 | VideoProc Converter AI | 変換・圧縮は5分未満の動画まで、AI機能は透かしなしで5本まで、画面録画は透かし入り | 試用型 | 11/3・[VideoProc Converter AI](/reviews/videoproc-converter-ai-review/) |
