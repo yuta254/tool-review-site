@@ -4,7 +4,7 @@ seoTitle: "画像生成AI 4種を比較:料金・商用利用・公開設定"
 description: "Adobe Firefly・Ideogram・Leonardo AI・Midjourneyを、商用利用の条件、生成画像の公開設定、画像内の文字、料金で比較します。各社の公式ページ・規約の記載(2026年11月3日確認)をもとに整理しました。"
 pubDate: 2026-07-05
 updatedDate: 2026-11-12
-category: "画像生成AI"
+category: "画像生成・編集"
 tags: ["Adobe Firefly", "Ideogram", "Leonardo AI", "Midjourney", "画像生成AI", "比較", "商用利用"]
 ---
 

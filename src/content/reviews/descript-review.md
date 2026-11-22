@@ -4,7 +4,7 @@ seoTitle: "Descriptの動画編集:文字で編集する仕組みと料金・日
 description: "Descriptの動画編集は、自動の文字起こしの文章を消す・動かすと映像も同じように編集される仕組みです。編集の流れ、料金(Free〜Business)、日本語の自動文字起こしは対応言語に入っていない点を公式サイトとヘルプで整理しました(料金は2026年11月3日、編集の流れは11月6日確認)。"
 pubDate: 2026-07-04
 updatedDate: 2026-11-06
-category: "動画編集AI"
+category: "動画編集・生成"
 tags: ["Descript", "動画編集", "文字起こし", "Underlord", "字幕", "AI動画編集"]
 ---
 

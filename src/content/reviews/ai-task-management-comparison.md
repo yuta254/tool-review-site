@@ -4,7 +4,7 @@ seoTitle: "タスク管理AIの比較:Motion・Todoistほか"
 description: "タスク管理AIのMotion・Reclaim.ai・Todoistを、AIに任せる範囲・無料プランの有無・料金で比較。カレンダーを丸ごと任せるか、今のカレンダーに後付けするか、ToDoの補助にとどめるかで選び方を整理し、ClickUp・Notionにも触れます(2026年11月12日に公式で確認)。"
 pubDate: 2026-07-05
 updatedDate: 2026-11-12
-category: "タスク管理AI"
+category: "業務効率化・タスク管理"
 tags: ["Motion", "Reclaim.ai", "Todoist", "Todoist Assist", "ClickUp", "Notion AI", "タスク管理AI", "料金", "比較"]
 ---
 

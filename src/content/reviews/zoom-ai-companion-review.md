@@ -4,7 +4,7 @@ seoTitle: "Zoom AI Companionの料金・無料版と相手への通知"
 description: "Zoom AI Companionの名前は廃止され、会議の要約などは有料プランのAI機能に、上位版は有料アドオン「ZoomMate」になりました。無料版の回数制限、プロ・ビジネスで使える範囲、ZoomMateの料金、Teams・Meet・対面で使えるMy Notesを公式で整理(2026年11月12日確認)。"
 pubDate: 2026-07-02
 updatedDate: 2026-11-12
-category: "業務効率化"
+category: "議事録・文字起こし"
 tags: ["Zoom", "Zoom AI Companion", "ZoomMate", "My Notes", "議事録", "会議効率化"]
 ---
 

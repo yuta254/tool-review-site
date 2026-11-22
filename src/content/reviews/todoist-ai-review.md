@@ -4,7 +4,7 @@ seoTitle: "Todoist AIとは:無料の範囲・料金・ChatGPT連携"
 description: "Todoist AI(Todoist Assist)は、話した内容やメモ・画像からタスクを作る機能、タスク分解、メールの取り込みなどの総称です。無料プランでも音声とタスク抽出は合わせて月10回まで、タスク分解はプロ以上。ClaudeやChatGPTとの公式連携も公式情報で整理しました(2026年11月12日確認)。"
 pubDate: 2026-07-05
 updatedDate: 2026-11-12
-category: "タスク管理AI"
+category: "業務効率化・タスク管理"
 tags: ["Todoist", "Todoist Assist", "タスク管理", "AIアシスタント", "ToDoリスト", "生産性"]
 ---
 

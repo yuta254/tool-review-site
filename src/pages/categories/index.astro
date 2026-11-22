@@ -2,40 +2,51 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import CategoryIcon from '../../components/CategoryIcon.astro';
-import { categoryPath } from '../../lib/categories';
+import { categoryPath, categorySlug } from '../../lib/categories';
 import { categoryStyle } from '../../lib/categoryStyle';
 
 const reviews = await getCollection('reviews');
+const guides = new Map((await getCollection('categories')).map((g) => [g.id, g.data]));
 
-const counts = new Map<string, number>();
+const byCategory = new Map<string, typeof reviews>();
 for (const r of reviews) {
-  counts.set(r.data.category, (counts.get(r.data.category) ?? 0) + 1);
+  byCategory.set(r.data.category, [...(byCategory.get(r.data.category) ?? []), r]);
 }
-const categories = [...counts.entries()].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0], 'ja'));
+// 代表の記事: 題に「比較」「違い」を含む記事のうち新しいもの。無ければ最新の記事
+const pick = (list: typeof reviews) =>
+  [...list].sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+    .find((r) => /比較|違い/.test(r.data.title)) ?? list[0];
+const categories = [...byCategory.entries()].sort((a, b) => b[1].length - a[1].length || a[0].localeCompare(b[0], 'ja'));
 
 const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'CollectionPage',
   name: 'カテゴリ一覧',
-  description: `AI Tool Labで扱っている${categories.length}カテゴリ・${reviews.length}本のレビュー記事の一覧です。`,
+  description: `AI Tool Labで扱っている${categories.length}カテゴリ・${reviews.length}本の記事の一覧です。`,
 };
 ---
 <BaseLayout
   title="カテゴリ一覧"
-  description={`AIツールのレビューを${categories.length}カテゴリに分けて整理しています。用途から探せます。`}
+  description={`AIツールの記事${reviews.length}本を${categories.length}カテゴリに分け、各カテゴリに選び方の手引きと料金・無料枠・日本語対応の比較表を置いています。`}
   jsonLd={jsonLd}
 >
   <h1>カテゴリ一覧</h1>
-  <p>{reviews.length}本のレビューを{categories.length}カテゴリに分けています。用途から探してください。</p>
+  <p>{reviews.length}本の記事を{categories.length}のカテゴリに分けています。各カテゴリのページには、製品を決めるときの分かれ目をまとめた「選び方の手引き」と、記事で公式ページを確認した値を並べた比較表(無料枠・最安の有料プラン・日本語・確認日)があります。</p>
 
-  <ul class="category-list">
-    {categories.map(([name, count]) => {
+  <ul class="category-guide-list">
+    {categories.map(([name, list]) => {
       const st = categoryStyle(name);
+      const g = guides.get(categorySlug(name));
+      const rep = pick(list);
       return (
         <li style={`--cat: ${st.color}`}>
-          <span class="cat-icon"><CategoryIcon name={st.icon} size={20} /></span>
-          <a href={categoryPath(name)}>{name}</a>
-          <span class="count">{count}件</span>
+          <p class="cat-name">
+            <span class="cat-icon"><CategoryIcon name={st.icon} size={20} /></span>
+            <a href={categoryPath(name)}>{name}</a>
+            <span class="count">{list.length}件</span>
+          </p>
+          {g && <p>{g.summary}</p>}
+          {rep && <p class="cat-pick">代表の記事: <a href={`/reviews/${rep.id}/`}>{rep.data.title}</a></p>}
         </li>
       );
     })}

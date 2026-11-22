@@ -4,7 +4,7 @@ seoTitle: "Genspark・Perplexity・NotebookLM比較"
 description: "Perplexityは出典つきで答え、Gensparkは調べた結果を資料にし、NotebookLM(現Gemini Notebook)は入れた資料だけで答えます。料金・無料版の回数・得意なことと、論文検索のConsensusを公式情報で比較(2026年10月23日・11月3日確認)。"
 pubDate: 2026-10-23
 updatedDate: 2026-11-22
-category: "リサーチ"
+category: "リサーチ・論文検索"
 tags: ["Genspark", "Perplexity", "NotebookLM", "Gemini Notebook", "Consensus", "AI検索", "リサーチ", "比較", "料金"]
 ---
 

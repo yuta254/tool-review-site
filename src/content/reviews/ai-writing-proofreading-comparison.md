@@ -4,7 +4,7 @@ seoTitle: "AIライティング・英文校正 5種の比較:料金と日本語�
 description: "書く・訳す・言い換える・誤りを直すという工程ごとに、Grammarly・QuillBot・DeepL・Jasper・Copy.aiの役割を整理し、料金、日本語への対応、入力した文章の学習への利用、運営会社の現状を公式情報で比べます(料金は2026年11月12日、ほかは11月3日確認)。"
 pubDate: 2026-09-01
 updatedDate: 2026-11-12
-category: "ライティング支援"
+category: "ライティング・翻訳"
 tags: ["Grammarly", "QuillBot", "DeepL", "Jasper", "Copy.ai", "英文校正", "ライティング", "比較"]
 ---
 

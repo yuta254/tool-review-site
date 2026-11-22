@@ -4,7 +4,7 @@ seoTitle: "AI動画ツール5種を比較:守備範囲と料金"
 description: "Runway・Pika・CapCut・Descript・Opus Clipを「生成・編集・切り出し」の工程別に整理し、料金・無料版の制限・日本語対応・商用利用を比較。RunwayとPikaはプラン別のクレジットと料金表も公式情報で整理(2026年11月3日確認)。"
 pubDate: 2026-09-01
 updatedDate: 2026-11-22
-category: "動画編集AI"
+category: "動画編集・生成"
 tags: ["Runway", "Pika", "CapCut", "Descript", "Opus Clip", "動画生成", "動画編集", "比較"]
 ---
 

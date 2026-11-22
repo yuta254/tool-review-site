@@ -4,7 +4,7 @@ seoTitle: "Bolt.newとは:料金とブラウザでのアプリ生成"
 description: "StackBlitzのBolt.newで、フルスタックアプリをブラウザ完結でどこまで作れるかを、公開情報をもとに整理します。"
 pubDate: 2026-07-06
 updatedDate: 2026-11-12
-category: "UI生成AI"
+category: "サイト・アプリ制作"
 tags: ["Bolt.new", "StackBlitz", "AIアプリ開発", "ノーコード", "Web開発"]
 ---
 

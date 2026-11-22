@@ -4,7 +4,7 @@ seoTitle: "議事録AI・文字起こしツールの比較:料金・無料版・
 description: "会議の文字起こし・要約を担うAIツール5種(国内のNottaと、Otter.ai・Fireflies.ai・Zoom AI Companion・Krisp)を、対応する会議形態・無料版の範囲・料金の考え方から比較し、用途別の選び方を整理します(NottaとOtter.aiの料金は2026年11月12日確認)。"
 pubDate: 2026-09-01
 updatedDate: 2026-11-12
-category: "議事録AI"
+category: "議事録・文字起こし"
 tags: ["Notta", "Otter.ai", "Fireflies.ai", "Zoom AI Companion", "Krisp", "文字起こし", "議事録", "比較"]
 ---
 

@@ -4,7 +4,7 @@ seoTitle: "AIボイスレコーダーと会議の文字起こしAIの違い"
 description: "PLAUDのようなAIボイスレコーダーと、Zoomなどの会議ツールのAI機能、Otter.aiのような文字起こしサービスは、記録できる会話の範囲が違います。対面・通話・オンライン会議のどれを記録したいかで選び方を整理しました(2026年11月12日確認)。"
 pubDate: 2026-10-21
 updatedDate: 2026-11-12
-category: "議事録AI"
+category: "議事録・文字起こし"
 tags: ["PLAUD", "Comu", "AIボイスレコーダー", "Zoom", "Otter.ai", "文字起こし", "議事録", "比較"]
 ---
 

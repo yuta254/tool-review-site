@@ -4,7 +4,7 @@ seoTitle: "QuillBotとは:言い換えの無料版と有料版・料金"
 description: "言い換え(パラフレーズ)機能が中心のQuillBotについて、無料版と有料版の違い・料金・英語論文やレポートでの使いどころを公式情報で整理します。"
 pubDate: 2026-07-06
 updatedDate: 2026-11-12
-category: "ライティング支援"
+category: "ライティング・翻訳"
 tags: ["QuillBot", "パラフレーズ", "文章校正", "英語ライティング", "要約AI"]
 ---
 

@@ -4,7 +4,7 @@ seoTitle: "Reclaim.ai:自動スケジューリングの仕組みと料金"
 description: "Reclaim.aiは、GoogleカレンダーやOutlookに後付けし、タスク・習慣・集中時間を空き時間に自動で入れる自動スケジューリングツールです。2026年5月以降の登録者はタスクを集中時間の中で示す新方式(2.0)な点、Motionとの違い、無料のLiteと料金を公式情報で整理(2026年11月6日確認)。"
 pubDate: 2026-07-06
 updatedDate: 2026-11-12
-category: "タスク管理AI"
+category: "業務効率化・タスク管理"
 tags: ["Reclaim.ai", "AIカレンダー", "スケジュール自動化", "タスク管理AI", "Dropbox"]
 ---
 

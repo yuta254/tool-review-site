@@ -4,7 +4,7 @@ seoTitle: "AIボイスレコーダー比較:6社の価格・無料枠・返品"
 description: "AIボイスレコーダー6社(PLAUD・Notta Memo・HiDock・Comu・Soundcore Work・オートメモ)を、価格・重さ・録音時間・通話録音・無料の文字起こし枠・1〜2年目の総額・返品と保証で比較。買い切りで使えるか・日本製の有無も公式で整理(2026年11月3日・Comuは10日確認)。"
 pubDate: 2026-11-03
 updatedDate: 2026-11-12
-category: "議事録AI"
+category: "議事録・文字起こし"
 tags: ["AIボイスレコーダー", "PLAUD", "Notta Memo", "HiDock", "Comu", "Soundcore Work", "オートメモ", "文字起こし", "比較"]
 ---
 

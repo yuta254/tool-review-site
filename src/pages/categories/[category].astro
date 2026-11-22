@@ -1,9 +1,9 @@
 ---
-import { getCollection } from 'astro:content';
+import { getCollection, getEntry, render } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import ReviewCard from '../../components/ReviewCard.astro';
 import CategoryIcon from '../../components/CategoryIcon.astro';
-import { categorySlug, CATEGORY_INTROS } from '../../lib/categories';
+import { categorySlug } from '../../lib/categories';
 import { categoryStyle } from '../../lib/categoryStyle';
 
 export async function getStaticPaths() {
@@ -25,19 +25,16 @@ export async function getStaticPaths() {
 
 const { name, list } = Astro.props;
 const st = categoryStyle(name);
-const intro = CATEGORY_INTROS[name] ?? `${name}に分類しているAIツールのレビュー一覧です。`;
-
-// 検索結果の説明文。紹介文だけだと20〜30字と短いカテゴリが多いので、
-// 載っているツール名(各記事の先頭タグ)と件数を足す。画面の紹介文はそのまま
-const toolNames = [...new Set(list.map((r) => r.data.tags[0]).filter(Boolean))].slice(0, 4);
-const metaDescription = toolNames.length > 0
-  ? `${intro}${toolNames.join('・')}など${list.length}件の記事で、料金・機能・違いを公式情報で整理しています。`
-  : intro;
+// 選び方の手引きと比較表(src/content/categories/<slug>.md)。無いカテゴリはビルドで止める
+const guide = await getEntry('categories', categorySlug(name));
+if (!guide) throw new Error(`src/content/categories/${categorySlug(name)}.md がありません(カテゴリ「${name}」)`);
+const { Content } = await render(guide);
+const intro = guide.data.summary;
 
 const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'CollectionPage',
-  name: `${name}のAIツールレビュー`,
+  name: `${name}のAIツール`,
   description: intro,
   mainEntity: {
     '@type': 'ItemList',
@@ -51,7 +48,7 @@ const jsonLd = {
   },
 };
 ---
-<BaseLayout title={`${name}のAIツールレビュー(${list.length}件)`} description={metaDescription} jsonLd={jsonLd} wide>
+<BaseLayout title={`${name}のAIツールの選び方と比較(${list.length}件)`} description={`${intro}記事${list.length}件の要点を、選び方の手引きと比較表にまとめています。`} jsonLd={jsonLd} wide>
   <nav class="breadcrumb" aria-label="パンくずリスト">
     <ol>
       <li><a href="/">ホーム</a></li>
@@ -68,8 +65,13 @@ const jsonLd = {
     </div>
   </header>
 
+  <article class="prose cat-guide">
+    <Content />
+  </article>
+
+  <h2 class="section-title">{name}の記事({list.length}件)</h2>
   <div class="card-grid">
-    {list.map((r) => <ReviewCard review={r} headingLevel={2} showCategory={false} />)}
+    {list.map((r) => <ReviewCard review={r} headingLevel={3} showCategory={false} />)}
   </div>
 
   <p class="back-link"><a href="/">&larr; すべての記事を見る</a></p>

@@ -4,7 +4,7 @@ seoTitle: "VideoProc Converter AI 無料の制限と料金"
 description: "VideoProc Converter AI(旧VideoProc)の無料版は、変換・圧縮が5分未満、AI機能は透かしなし5本、録画は透かし入り、ダウンロードは1080p未満。買い切りと年間版の違い、販売元・返金条件・入手先、動作環境、法律上の注意も公式で整理(料金は2026年11月12日・返金は3日確認)。"
 pubDate: 2026-10-21
 updatedDate: 2026-11-12
-category: "動画編集AI"
+category: "動画編集・生成"
 tags: ["VideoProc", "VideoProc Converter AI", "動画変換", "動画圧縮", "AI高画質化", "動画編集AI"]
 ---
 

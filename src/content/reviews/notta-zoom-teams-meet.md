@@ -3,7 +3,7 @@ title: "NottaのZoom・Teams・Google Meet連携:ボットの参加方法とプ�
 seoTitle: "Notta Zoom連携の方法とTeams・Meetの条件"
 description: "NottaをZoom・Teams・Google Meetの会議につなぐ方法を公式ヘルプで整理しました。手動招待・カレンダー連携・Zoomの自動追加・ボットなし録音の違い、フリー(1回3分まで)と有料プランの条件、会議ツールごとの注意点をまとめています(2026年11月5日確認)。"
 pubDate: 2026-11-05
-category: "議事録AI"
+category: "議事録・文字起こし"
 tags: ["Notta", "Zoom", "Microsoft Teams", "Google Meet", "文字起こし", "議事録", "連携"]
 ---
 

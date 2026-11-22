@@ -4,7 +4,7 @@ seoTitle: "Murf AIの料金・日本語・商用利用の条件"
 description: "テキストからナレーション音声を作るMurf AI(Murf Studio)の料金(Free〜Enterprise)と条件を整理。無料版は10分まで・ダウンロードと商用利用は不可、PowerPoint・Googleスライド連携はBusiness以上です。日本語対応も公式で確認(2026年11月3日)。"
 pubDate: 2026-07-06
 updatedDate: 2026-11-12
-category: "音声AI"
+category: "音声・音楽"
 tags: ["Murf AI", "AI音声生成", "TTS", "ナレーション"]
 ---
 

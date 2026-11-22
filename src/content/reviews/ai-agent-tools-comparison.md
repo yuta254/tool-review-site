@@ -4,7 +4,7 @@ seoTitle: "Devin・Manus比較:料金と任せる仕事の線引き"
 description: "自律型AIエージェントDevin(Cognition)とManusを、料金プランの中身・利用枠とクレジット・データの学習利用・運営の現状、任せてはいけない操作の線引きで比較。Comet・Genspark・提供終了したChatGPT Atlasにも触れます(2026年11月3日に公式で確認)。"
 pubDate: 2026-09-01
 updatedDate: 2026-11-22
-category: "AIエージェント"
+category: "AIチャット・エージェント"
 tags: ["Devin AI", "Manus AI", "AIエージェント", "自動化", "比較", "Comet", "Genspark"]
 ---
 

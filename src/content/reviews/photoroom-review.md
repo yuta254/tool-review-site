@@ -4,7 +4,7 @@ seoTitle: "Photoroomの料金・無料版の制限・商用利用"
 description: "背景除去とAI背景生成で商品写真を仕上げるPhotoroomについて、料金(Pro・Max・Ultra)、無料アカウントの書き出し上限と商用利用できない点、バッチ編集の条件を公式の料金ページとヘルプセンターの記載で整理します(2026年11月3日確認)。"
 pubDate: 2026-07-05
 updatedDate: 2026-11-03
-category: "画像編集AI"
+category: "画像生成・編集"
 tags: ["Photoroom", "背景除去", "EC", "商品写真", "画像編集", "モバイルアプリ"]
 ---
 

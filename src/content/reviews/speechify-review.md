@@ -4,7 +4,7 @@ seoTitle: "Speechifyの料金・無料版の制限・対応環境"
 description: "記事やPDFを音声で読み上げるSpeechifyについて、無料版(1.5倍速・10種類の音声)とPremium(月29ドル/年139ドル・最大5倍速・1,000種類以上の音声)の違い、スキャンした文字の読み上げ、対応端末、日本語の扱いを公式サイトの記載で整理します(2026年11月3日確認)。"
 pubDate: 2026-07-05
 updatedDate: 2026-11-03
-category: "音声読み上げAI"
+category: "音声・音楽"
 tags: ["Speechify", "text-to-speech", "読み上げ", "アクセシビリティ", "多読"]
 ---
 

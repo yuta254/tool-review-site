@@ -3,7 +3,7 @@ title: "画像高画質化・拡大AIソフト4種の比較:料金・買い切�
 seoTitle: "画像高画質化ソフト比較:AI拡大4種の料金と無料版"
 description: "AIで画像を高画質化・拡大するソフト4種(Aiarty Image Enhancer、Topaz Gigapixel、無料のUpscayl、AdobeのFireflyとスーパー解像度)を、料金・買い切りかサブスクか・無料の範囲・処理する場所・動作環境で比べました(2026年11月5日に公式で確認)。"
 pubDate: 2026-11-05
-category: "画像編集AI"
+category: "画像生成・編集"
 tags: ["画像高画質化", "アップスケール", "AI画像拡大", "Aiarty Image Enhancer", "Topaz Gigapixel", "Upscayl", "Adobe Firefly", "比較"]
 ---
 

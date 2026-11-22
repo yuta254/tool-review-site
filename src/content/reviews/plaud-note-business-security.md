@@ -3,7 +3,7 @@ title: "PLAUDを会社で使うときのセキュリティ:データの保存先
 seoTitle: "PLAUD Noteのセキュリティ:データ保存先と法人利用"
 description: "PLAUD(プラウド)を会社で使う前に確かめたい点を、公式のトラストページ・プライバシーポリシー・Plaud Teamのページで整理。日本のデータはAWS東京リージョン、要約のLLMは米国、TLS 1.2以上とAES-256の暗号化、AI学習はオプトイン、SSOの対応状況まで(2026年11月5日確認)。"
 pubDate: 2026-11-05
-category: "議事録AI"
+category: "議事録・文字起こし"
 tags: ["PLAUD", "PLAUD NOTE", "セキュリティ", "データ保存先", "法人", "Plaud Team", "AIボイスレコーダー"]
 ---
 

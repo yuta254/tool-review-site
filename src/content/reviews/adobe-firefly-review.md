@@ -4,7 +4,7 @@ seoTitle: "Adobe Fireflyとは:料金・無料枠と商用利用"
 description: "Adobe Fireflyは、ライセンス取得済みコンテンツとパブリックドメインで学習した独自モデルで、商用利用しやすいAI画像生成ツールです。料金(Standard・Pro・Pro Plus・Premium)、無料での生成、他社のパートナーモデルの扱い、日本語入力を公式情報で整理(2026年11月3日確認)。"
 pubDate: 2026-07-05
 updatedDate: 2026-11-12
-category: "画像生成AI"
+category: "画像生成・編集"
 tags: ["Adobe Firefly", "画像生成AI", "Creative Cloud", "Photoshop", "商用利用"]
 ---
 

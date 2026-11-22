@@ -4,7 +4,7 @@ seoTitle: "Suno・Udio比較:ダウンロードと商用利用の違い"
 description: "テキストから楽曲を作るSunoとUdioを、料金・ダウンロードの可否・商用利用の条件から比較します。Sunoは2026年9月から新しい規約とダウンロード回数の上限、Udioは2025年10月のUMGとの提携以降ダウンロードが停止中です(2026年11月3日に公式情報を確認)。"
 pubDate: 2026-09-01
 updatedDate: 2026-11-22
-category: "音楽生成AI"
+category: "音声・音楽"
 tags: ["Suno", "Udio", "AI音楽", "BGM", "商用利用", "比較"]
 ---
 

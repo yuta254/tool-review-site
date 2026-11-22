@@ -4,7 +4,7 @@ seoTitle: "PLAUDの料金と機種の違い:4機種・プラン・返品保証"
 description: "PLAUDの費用は本体価格と文字起こしプランで決まります。Note Pro・Note・NotePin S・NotePinの違い(通話録音・マイク・録音時間)と選び方、Starter・Pro・Unlimitedの料金、1年目・2年目の総額、返品と保証を公式情報で整理(2026年11月確認)。"
 pubDate: 2026-10-21
 updatedDate: 2026-11-22
-category: "議事録AI"
+category: "議事録・文字起こし"
 tags: ["PLAUD", "PLAUD NOTE", "Plaud Note Pro", "Plaud NotePin", "AIボイスレコーダー", "文字起こし", "料金", "議事録", "選び方"]
 ---
 

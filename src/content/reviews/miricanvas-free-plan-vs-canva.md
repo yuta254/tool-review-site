@@ -4,7 +4,7 @@ seoTitle: "MiriCanvasの無料プランとCanvaとの違い・料金"
 description: "MiriCanvas(ミリキャンバス)の無料プランでできること(テンプレート5万種以上・容量1GB・PPTは1日3回まで)、Proの料金(月払い980円、年払いで月790円・税込)、1か月の無料体験、商用利用の範囲、Canvaとの料金・素材数・容量の違いを公式ページで整理(2026年11月10日確認)。"
 pubDate: 2026-11-10
 updatedDate: 2026-11-12
-category: "デザインツール"
+category: "デザイン・資料作成"
 tags: ["MiriCanvas", "ミリキャンバス", "Canva", "デザイン", "無料プラン", "料金", "比較"]
 ---
 

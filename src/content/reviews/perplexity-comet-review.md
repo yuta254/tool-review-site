@@ -4,7 +4,7 @@ seoTitle: "AIブラウザの現状:CometとAtlasの提供終了"
 description: "PerplexityのAIブラウザ「Comet」でできること・対応OS・データの扱いと、提供終了したChatGPT Atlasの現状、OpenAIが代わりに案内する内蔵ブラウザとChrome拡張機能を公式ヘルプで整理します(2026年11月3日確認)。"
 pubDate: 2026-07-05
 updatedDate: 2026-11-22
-category: "AIブラウザ"
+category: "AIチャット・エージェント"
 tags: ["Comet", "Perplexity", "ChatGPT Atlas", "OpenAI", "AIブラウザ", "エージェントAI", "ブラウザ拡張"]
 ---
 

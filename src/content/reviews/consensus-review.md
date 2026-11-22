@@ -4,7 +4,7 @@ seoTitle: "Consensusとは:論文検索AIの料金と日本語対応"
 description: "学術論文を情報源にするAI検索エンジンConsensusの強みと注意点、料金(Free・Pro・Deep)、日本語での質問への対応を公式情報で整理しました(2026年11月12日確認)。"
 pubDate: 2026-07-05
 updatedDate: 2026-11-12
-category: "論文検索AI"
+category: "リサーチ・論文検索"
 tags: ["Consensus", "論文検索", "学術AI", "研究ツール", "エビデンスベース"]
 ---
 

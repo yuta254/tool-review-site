@@ -4,7 +4,7 @@ seoTitle: "Fireflies.aiの料金・日本語対応・CRM連携"
 description: "Fireflies.aiは会議にBotが参加して文字起こし・要約するAI議事録ツールです。料金(Free・Pro・Business・Enterprise)、無料プランの保存容量とAIクレジット、日本語の対応状況、Salesforce・HubSpot連携を公式サイトとヘルプで整理(2026年11月3日確認)。"
 pubDate: 2026-07-05
 updatedDate: 2026-11-12
-category: "議事録AI"
+category: "議事録・文字起こし"
 tags: ["Fireflies.ai", "AI議事録", "CRM連携", "営業支援", "Salesforce", "HubSpot"]
 ---
 

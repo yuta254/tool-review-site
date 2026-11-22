@@ -4,7 +4,7 @@ seoTitle: "v0とは:料金とNext.jsのUI・アプリ生成"
 description: "VercelのAI「v0」の特徴・注意点・料金(Free・Plus・Business・Enterprise)と、入力したデータの学習への利用を、公式サイトとドキュメントの記載で整理します(2026年11月3日確認)。"
 pubDate: 2026-07-05
 updatedDate: 2026-11-03
-category: "UI生成AI"
+category: "サイト・アプリ制作"
 tags: ["v0", "Vercel", "React", "Next.js", "Tailwind", "UI生成"]
 ---
 

@@ -4,7 +4,7 @@ seoTitle: "Notta MemoとPLAUD Noteの違い:価格と無料枠"
 description: "カード型AIボイスレコーダーのNotta MemoとPLAUD Noteを、本体価格・大きさ・電池・保存容量・通話の録り方・無料の文字起こし時間(月600分と月300分)・有料プランの1年目と2年目の総額・返品と保証で比較。公式ストアとヘルプの記載だけで整理(2026年11月3日確認)。"
 pubDate: 2026-11-03
 updatedDate: 2026-11-12
-category: "議事録AI"
+category: "議事録・文字起こし"
 tags: ["Notta Memo", "PLAUD NOTE", "Notta", "PLAUD", "AIボイスレコーダー", "文字起こし", "比較"]
 ---
 

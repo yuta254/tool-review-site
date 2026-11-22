@@ -4,7 +4,7 @@ seoTitle: "ChatGPT・Claude・Gemini比較【2026年版】"
 description: "ChatGPT・Claude・Geminiの有料プランを、料金・使えるモデル・できることの違いで比較。各社の公式ページの記載を2026年11月3日に確認して整理しました。"
 pubDate: 2026-07-01
 updatedDate: 2026-11-03
-category: "AIチャット"
+category: "AIチャット・エージェント"
 tags: ["ChatGPT", "Claude", "Gemini", "比較"]
 ---
 

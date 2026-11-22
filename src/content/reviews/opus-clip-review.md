@@ -4,7 +4,7 @@ seoTitle: "Opus Clipの料金と日本語対応:切り抜き自動生成"
 description: "長尺動画からショート動画の切り抜きを自動生成するOpus Clip(OpusClip)の機能、日本語対応(ベータ)、料金と無料プランの透かし・3日の書き出し期限を公式情報で整理します(2026年11月3日確認)。"
 pubDate: 2026-07-06
 updatedDate: 2026-11-03
-category: "動画編集AI"
+category: "動画編集・生成"
 tags: ["Opus Clip", "ショート動画", "動画編集AI", "SNS運用"]
 ---
 

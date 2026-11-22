@@ -3,7 +3,7 @@ title: "無料で使えるAI文字起こしの上限比較:Notta・Otter・tl;dv
 seoTitle: "文字起こし無料AIの上限比較:月何分・1回何分"
 description: "無料のAI文字起こし・議事録の上限を、各社公式の無料プランの表示で比べました。Notta(月120分・1回3分)、Otter.ai(月300分・1回30分)、tl;dv(AIメモは通算10会議)、PLAUD Starter(月300分・本体が前提)、Zoom・Googleまで整理(2026年11月5日確認)。"
 pubDate: 2026-11-05
-category: "議事録AI"
+category: "議事録・文字起こし"
 tags: ["文字起こし", "無料", "議事録", "Notta", "Otter.ai", "tl;dv", "PLAUD", "比較"]
 ---
 

@@ -3,7 +3,7 @@ title: "Midjourneyを仕事で使えるか:得意と不得意を整理"
 description: "SNS投稿やプレゼン資料の画像素材として、Midjourneyがどこまで実務に使えるかを、規約と公開情報から整理します。"
 pubDate: 2026-07-02
 updatedDate: 2026-11-03
-category: "画像生成AI"
+category: "画像生成・編集"
 tags: ["Midjourney", "画像生成", "デザイン"]
 ---
 

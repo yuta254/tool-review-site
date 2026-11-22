@@ -4,7 +4,7 @@ seoTitle: "ClickUp AIとは:料金・AIクレジット・注意点"
 description: "ClickUpに組み込まれたAI機能(ClickUp Brain)でできること、料金プランごとのAIクレジット、注意点を公式の料金ページとヘルプの記載(2026年11月3日確認)から整理します。"
 pubDate: 2026-07-05
 updatedDate: 2026-11-03
-category: "プロジェクト管理AI"
+category: "業務効率化・タスク管理"
 tags: ["ClickUp", "ClickUp AI", "プロジェクト管理", "チームコラボレーション", "タスク管理"]
 ---
 

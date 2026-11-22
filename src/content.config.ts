@@ -18,4 +18,13 @@ const reviews = defineCollection({
   }),
 });
 
-export const collections = { reviews };
+// カテゴリのページの本文(1行の説明・選び方の手引き・比較表)。ファイル名がカテゴリのスラッグ(src/lib/categories.ts)。
+const categories = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/categories' }),
+  schema: z.object({
+    name: z.string(),
+    summary: z.string(),
+  }),
+});
+
+export const collections = { reviews, categories };

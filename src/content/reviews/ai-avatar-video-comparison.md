@@ -4,7 +4,7 @@ seoTitle: "HeyGen・Synthesia比較:料金と日本語対応"
 description: "台本を読み上げるAIアバター動画ツールHeyGenとSynthesiaを、料金(HeyGen Creator月29ドル・Synthesia Starter月19ドルなど)、対応言語と日本語、カスタムアバターの同意手続き、広告での利用の制限から比較します(2026年11月3日に公式情報を確認)。"
 pubDate: 2026-09-01
 updatedDate: 2026-11-22
-category: "AIアバター動画"
+category: "動画編集・生成"
 tags: ["HeyGen", "Synthesia", "AIアバター", "研修動画", "多言語", "比較"]
 ---
 

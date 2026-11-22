@@ -4,7 +4,7 @@ seoTitle: "画面録画ソフト比較:無料・透かしなしで選ぶ"
 description: "画面録画ソフトをOBS Studio(無料)・Windows/Mac標準・VideoProc Converter AI・Aiseesoft スクリーンレコーダー・Bandicamで比較。無料か有料か、透かしと録画時間の制限、PCの音とマイクの録り方、書き出し形式を公式の表示で整理(2026年11月6日確認)。"
 pubDate: 2026-11-06
 updatedDate: 2026-11-12
-category: "動画編集AI"
+category: "動画編集・生成"
 tags: ["画面録画", "OBS Studio", "Snipping Tool", "VideoProc", "Aiseesoft", "Bandicam", "透かしなし", "比較"]
 ---
 

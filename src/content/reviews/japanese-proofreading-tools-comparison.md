@@ -3,7 +3,7 @@ title: "日本語の文章校正ツール比較:文賢・Shodo・Word・生成AI
 seoTitle: "文章校正ツール比較:文賢・Shodo・Word・生成AI"
 description: "日本語の文章を直すツールを、文賢・Shodo・Wordのエディター・Googleドキュメント・ChatGPTなどの生成AIで比べます。料金、できること、向いている文章、社内で使うときの入力データの扱いを、各社の公式ページの表示どうしで整理しました(2026年11月6日に公式で確認)。"
 pubDate: 2026-11-06
-category: "ライティング支援"
+category: "ライティング・翻訳"
 tags: ["文章校正", "日本語", "文賢", "Shodo", "Word", "Googleドキュメント", "ChatGPT", "比較"]
 ---
 

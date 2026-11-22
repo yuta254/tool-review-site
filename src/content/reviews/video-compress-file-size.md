@@ -3,7 +3,7 @@ title: "動画の容量を小さくする方法:解像度・ビットレート�
 seoTitle: "動画の容量を小さくする方法:3つの設定と圧縮ソフト"
 description: "動画の容量は「ビットレート×長さ」でほぼ決まります。解像度・ビットレート・コーデックの下げ方、Gmail(25MBまで)に収める計算、HandBrake・Clipchamp・QuickTime Player・VideoProc Converter AIの選び方を整理(2026年11月5日に公式で確認)。"
 pubDate: 2026-11-05
-category: "ガイド"
+category: "動画編集・生成"
 tags: ["動画圧縮", "動画 容量", "HandBrake", "Clipchamp", "QuickTime Player", "VideoProc Converter AI", "H.265"]
 ---
 

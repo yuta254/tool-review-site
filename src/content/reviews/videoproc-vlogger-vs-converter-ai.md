@@ -3,7 +3,7 @@ title: "VideoProc VloggerとConverter AIの違い:機能・料金を公式情報
 seoTitle: "VideoProc Vloggerと有料版の違い・選び方"
 description: "無料の動画編集ソフト VideoProc Vlogger と、変換・圧縮・AI高画質化の VideoProc Converter AI(年間5,280円/永久7,880円)の違いを、役割・無料の範囲・出力形式・動作環境・台数で比べ、選び方を条件別に整理しました(2026年11月5日に公式で確認)。"
 pubDate: 2026-11-05
-category: "動画編集AI"
+category: "動画編集・生成"
 tags: ["VideoProc", "VideoProc Vlogger", "VideoProc Converter AI", "動画編集", "無料ソフト", "動画変換"]
 ---
 

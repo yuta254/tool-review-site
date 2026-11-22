@@ -4,7 +4,7 @@ seoTitle: "AIで作ったサイトを公開する方法と独自ドメイン"
 description: "v0・Bolt.new・Replit・Framerで作ったサイトを公開する手順、独自ドメインを付けるために必要なプランとDNSの設定、無料のままで使える範囲と年間の費用を、各社の公式ドキュメントで整理しました(2026年11月12日確認)。"
 pubDate: 2026-10-23
 updatedDate: 2026-11-12
-category: "サイト制作AI"
+category: "サイト・アプリ制作"
 tags: ["v0", "Bolt.new", "Replit", "Framer", "Vercel", "独自ドメイン", "公開", "お名前.com"]
 ---
 

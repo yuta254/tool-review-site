@@ -4,7 +4,7 @@ seoTitle: "DeepLの料金・無料版の上限・データの扱いと注意点"
 description: "翻訳ツールDeepLについて、料金プラン、無料版の上限、入力した文章の扱い、過信できない点を公式情報(2026年11月3日確認)から整理します。"
 pubDate: 2026-07-05
 updatedDate: 2026-11-03
-category: "翻訳AI"
+category: "ライティング・翻訳"
 tags: ["DeepL", "翻訳", "AI翻訳"]
 ---
 

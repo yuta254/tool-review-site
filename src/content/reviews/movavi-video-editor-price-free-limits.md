@@ -3,7 +3,7 @@ title: "Movavi Video Editorの料金と無料版の制限:買い切り・返金�
 seoTitle: "Movavi料金と無料版の制限:買い切り・返金・販売元"
 description: "Movavi Video Editor の料金(月2,500円・1年9,100円・永久18,200円)、無料版の制限(透かし入り・書き出し60秒まで)、対応OS、14日間の返金条件、販売元(キプロスのMovavi Software Limited)を2026年11月6日に公式で確認して整理しました。"
 pubDate: 2026-11-06
-category: "動画編集AI"
+category: "動画編集・生成"
 tags: ["Movavi", "Movavi Video Editor", "動画編集ソフト", "料金", "無料版", "買い切り"]
 ---
 

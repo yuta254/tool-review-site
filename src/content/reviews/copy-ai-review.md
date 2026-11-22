@@ -4,7 +4,7 @@ seoTitle: "Copy.aiの料金と機能:Fullcast買収後のGTM AI"
 description: "Copy.aiはAI文章生成に加え、営業・マーケティング(GTM)向けのワークフロー自動化を軸にしたツールです。Fullcastによる買収、料金(Chat 月29ドル〜、Growth以上は年契約)、ワークフローのクレジットを公式情報で整理しました(2026年11月3日確認)。"
 pubDate: 2026-07-05
 updatedDate: 2026-11-03
-category: "マーケティング"
+category: "ライティング・翻訳"
 tags: ["Copy.ai", "AIライティング", "ワークフロー自動化", "マーケティング", "中小チーム向け"]
 ---
 
