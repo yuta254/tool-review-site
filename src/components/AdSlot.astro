@@ -12,8 +12,10 @@ import { ADSENSE_CLIENT, ADSENSE_SLOTS } from '../lib/ads';
 interface Props {
   /** どの位置の枠か(ADSENSE_SLOTS のキーと対応させる) */
   label?: string;
+  /** true なら push を呼ばない(記事中の枠: 置き場所へ動かしてから記事ページのスクリプトが push する) */
+  deferPush?: boolean;
 }
-const { label = '広告' } = Astro.props;
+const { label = '広告', deferPush = false } = Astro.props;
 const slot = ADSENSE_SLOTS[label];
 ---
 {slot && (
@@ -26,4 +28,4 @@ const slot = ADSENSE_SLOTS[label];
     data-full-width-responsive="true"
   />
 )}
-{slot && <script is:inline>(adsbygoogle = window.adsbygoogle || []).push({});</script>}
+{slot && !deferPush && <script is:inline>(adsbygoogle = window.adsbygoogle || []).push({});</script>}

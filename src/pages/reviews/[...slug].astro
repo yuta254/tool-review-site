@@ -10,6 +10,7 @@ import { categoryStyle } from '../../lib/categoryStyle';
 import { formatDate, isoDate, readingMinutes } from '../../lib/articleMeta';
 import { categoryPath } from '../../lib/categories';
 import { extractFaq } from '../../lib/faq';
+import { ADSENSE_SLOTS } from '../../lib/ads';
 
 export async function getStaticPaths() {
   const reviews = await getCollection('reviews');
@@ -23,6 +24,16 @@ const { review, allReviews } = Astro.props;
 const { Content, headings } = await render(review);
 const catStyle = categoryStyle(review.data.category);
 const minutes = readingMinutes(review.body ?? '');
+
+// 記事中の AdSense 枠(承認後に ADSENSE_SLOTS へIDを入れると出る。空のあいだは何も描画しない)。
+// 戦略(site-growth/adsense-strategy-2026-11-22.md 段階2): 本文2,500字未満の記事には置かない。
+// 置き場所は下のスクリプトで決める: ①2つ目の見出しの前(冒頭の要約の後) ②本文の中ほどの見出しの前。
+// A8 の広告ボックス(.affiliate-box)と、よくある質問の見出しの直前には置かない。
+const plainLen = (review.body ?? '')
+  .replace(/<[^>]+>/g, '')
+  .replace(/\(https?:\/\/[^)]+\)/g, '')
+  .replace(/[#*|\-\s>`]/g, '').length;
+const inArticleAds = plainLen >= 2500 && (Boolean(ADSENSE_SLOTS['記事中広告1']) || Boolean(ADSENSE_SLOTS['記事中広告2']));
 
 // 本文に広告ボックスがある記事は、冒頭の広告表記を「含みます」と言い切る形にする
 const hasAds = (review.body ?? '').includes('class="affiliate-box"');
@@ -130,6 +141,45 @@ const jsonLd = {
   <article class="prose">
     <Content />
   </article>
+
+  {inArticleAds && (
+    <div id="in-article-ads" hidden>
+      <div class="ad-in" data-pos="1"><AdSlot label="記事中広告1" deferPush /></div>
+      <div class="ad-in" data-pos="2"><AdSlot label="記事中広告2" deferPush /></div>
+    </div>
+  )}
+  {inArticleAds && (
+    <script is:inline>
+      (function () {
+        var holder = document.getElementById('in-article-ads');
+        var art = document.querySelector('article.prose');
+        if (!holder || !art) return;
+        var hs = Array.prototype.slice.call(art.querySelectorAll(':scope > h2'));
+        function ok(h) {
+          if (!h || /よくある質問/.test(h.textContent)) return false;
+          var p = h.previousElementSibling, n = h.nextElementSibling;
+          if (p && p.classList.contains('affiliate-box')) return false;
+          if (n && n.classList.contains('affiliate-box')) return false;
+          return true;
+        }
+        var used = -1;
+        function place(pos, idx) {
+          var box = holder.querySelector('.ad-in[data-pos="' + pos + '"]');
+          if (!box || !box.querySelector('ins')) return;
+          for (var i = idx; i < hs.length; i++) {
+            if (i > used + 1 && ok(hs[i])) {
+              hs[i].parentNode.insertBefore(box, hs[i]);
+              used = i;
+              (window.adsbygoogle = window.adsbygoogle || []).push({});
+              return;
+            }
+          }
+        }
+        place('1', 1);
+        place('2', Math.max(Math.floor(hs.length / 2), used + 2));
+      })();
+    </script>
+  )}
 
   <AdSlot label="記事下広告" />
 
