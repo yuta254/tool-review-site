@@ -155,18 +155,14 @@ Consensus は、一般的なウェブページではなく、学術論文を情�
 
 ## よくある質問
 
-### Genspark と Perplexity、NotebookLM と Genspark の違いは。
-
+**Q. Genspark と Perplexity、NotebookLM と Genspark の違いは。**
 上の「[Perplexity と Genspark の違い](#perplexity-と-genspark-の違い)」「[NotebookLM と Genspark の違い](#notebooklm-と-genspark-の違い)」の表にまとめています。ひとことで言えば、Perplexity は出典つきの回答、NotebookLM は自分の資料だけに基づく回答、Genspark は調べた結果を成果物に仕上げる道具です。
 
-### 無料版だけで足りますか。
-
+**Q. 無料版だけで足りますか。**
 使い方によります。Perplexity の無料版は基本の検索なら実質無制限ですが、Pro検索は1日3回です。NotebookLM の無料版は1日50回のチャットと1ノートブック50ソースまで使えます。Genspark の無料版は1日100クレジットで、生涯の上限に達すると補充が止まります。
 
-### 学術的な調べ物にはどれが向きますか。
-
+**Q. 学術的な調べ物にはどれが向きますか。**
 論文に絞って探すなら Consensus、手元の資料を読ませるなら NotebookLM(Gemini Notebook)、Web全体から調べるなら Perplexity です。調べた結果を資料の形にまとめたいなら Genspark が候補になります。
 
-### それぞれの詳しい情報はどこにありますか。
-
+**Q. それぞれの詳しい情報はどこにありますか。**
 Perplexity・NotebookLM・Consensus の料金と上限は、この記事の「[Perplexity の特徴と料金](#perplexity-の特徴と料金)」「[NotebookLM の特徴と上限](#notebooklm-の特徴と上限)」「[論文を探すなら Consensus](#論文を探すなら-consensus)」にまとめています。Genspark は[Gensparkの記事](/reviews/genspark-review/)、Perplexity の AIブラウザは[AIブラウザの現状(Perplexity Comet)](/reviews/perplexity-comet-review/)を参照してください。
