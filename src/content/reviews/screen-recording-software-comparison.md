@@ -110,18 +110,14 @@ tags: ["画面録画", "OBS Studio", "Snipping Tool", "VideoProc", "Aiseesoft", 
 
 ## よくある質問
 
-### 無料で透かしなしで録画できるソフトはありますか
-
+**Q. 無料で透かしなしで録画できるソフトはありますか**
 確認した公式ページでは、OBS Studio、Windows・Macの標準機能には、透かしの記載がありませんでした。Bandicam 2027の無料版も録画に透かしは入りませんが、1回5分までです。VideoProc Converter AIの無料版は画面録画に透かしが入ります。
 
-### 録画時間の制限がないのはどれですか
-
+**Q. 録画時間の制限がないのはどれですか**
 確認した公式ページで時間の制限が書かれていたのは、Bandicam 2027の無料版(1回5分まで)とAiseesoftの体験版(保存は最大3分まで)です。OBS Studioと標準機能のページには、時間の制限の記載はありませんでした。長時間録る場合は、保存先の空き容量も確かめてください。
 
-### PCの音(内部音声)も録れますか
-
+**Q. PCの音(内部音声)も録れますか**
 OBS Studio、VideoProc Converter AI、Aiseesoft、BandicamはPCの音とマイクを録れると公式に書かれています。Windowsの Snipping Toolは、Windows公式ブログで音声とマイクに対応したと紹介されています。Macの標準機能は、macOS 27 Golden Gate以降で「システムオーディオを含める」を選ぶと録れます。
 
-### OBSで録ったMKVをMP4にするには
-
+**Q. OBSで録ったMKVをMP4にするには**
 OBS Studioの公式ガイドでは、出力の詳細設定でMP4への自動の再多重化(英語の表記は「Automatically remux to mp4」)を選ぶと、録画を止めた時点でMP4に変換されると案内されています。MKVで録っておくと、録画が正しく止まらなかった場合でもファイルが使えるため、公式はMKVを勧めています。
