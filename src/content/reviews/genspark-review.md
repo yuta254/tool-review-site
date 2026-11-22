@@ -106,4 +106,4 @@ Enterprise は個別見積もりです。無料版の生涯の上限がいくつ
 出典が示されていても、その出典が主張を裏付けているかは別問題です。重要な判断に使う情報は、必ず元のページを開いて確認してください。
 
 **Q. Perplexityと使い分けますか。**
-Perplexityは質問に出典つきの回答を返す検索AI、Gensparkは調べた内容をもとに資料などの成果物まで作るAIワークスペースという性格の差があります。料金と無料版の制限を並べた比較は[Genspark・Perplexity・NotebookLMの違い](/reviews/genspark-perplexity-notebooklm-difference/)、用途別の選び方は[リサーチAI4種の比較](/reviews/ai-research-tools-comparison/)を参照してください。
+Perplexityは質問に出典つきの回答を返す検索AI、Gensparkは調べた内容をもとに資料などの成果物まで作るAIワークスペースという性格の差があります。料金と無料版の制限を並べた比較は[Genspark・Perplexity・NotebookLMの違い](/reviews/genspark-perplexity-notebooklm-difference/)、用途別の選び方は[Genspark・Perplexity・NotebookLMの違い](/reviews/genspark-perplexity-notebooklm-difference/)を参照してください。

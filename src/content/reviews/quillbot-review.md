@@ -66,7 +66,7 @@ QuillBot の公式料金ページ(quillbot.com/premium)の表示です。ドル�
 **Q. Grammarlyと併用すべきですか。**
 役割が違うので併用が自然です。QuillBotで言い換え、Grammarlyで誤りを取る、という順序になります。詳しくは[ライティング・校正ツールの比較](/reviews/ai-writing-proofreading-comparison/)を参照してください。
 
-言い換えた英文を人に確認してもらう場合の料金と納期は[AI英文校正と人の英文校正の違いと使い分け](/reviews/ai-vs-human-english-proofreading/)にまとめています。
+言い換えた英文を人に確認してもらう場合の料金と納期は[英文校正の料金相場(AI校正との使い分け)](/reviews/english-proofreading-price-guide/#aiの校正ツールの料金と人の校正との使い分け)にまとめています。
 
 <div class="affiliate-box" data-pr="idbusiness">
   <p><strong>PR</strong>｜言い換えた英文の妥当性を確かめたいとき</p>

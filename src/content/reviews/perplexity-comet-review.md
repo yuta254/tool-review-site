@@ -1,20 +1,28 @@
 ---
-title: "Cometレビュー:Perplexityの『エージェント型AIブラウザ』でできることと注意点"
-seoTitle: "Cometとは:PerplexityのAIブラウザと対応OS"
-description: "Perplexityのブラウザ「Comet」でできること、対応OS(Windows・Mac)、アカウントなしで使える範囲、データの扱いとエージェント機能の注意点を公式ヘルプで整理します(2026年11月3日確認)。"
+title: "AIブラウザの現状:Perplexity Comet でできることと、提供終了した ChatGPT Atlas"
+seoTitle: "AIブラウザの現状:CometとAtlasの提供終了"
+description: "PerplexityのAIブラウザ「Comet」でできること・対応OS・データの扱いと、提供終了したChatGPT Atlasの現状、OpenAIが代わりに案内する内蔵ブラウザとChrome拡張機能を公式ヘルプで整理します(2026年11月3日確認)。"
 pubDate: 2026-07-05
-updatedDate: 2026-11-03
+updatedDate: 2026-11-22
 category: "AIブラウザ"
-tags: ["Comet", "Perplexity", "AIブラウザ", "エージェントAI", "ブラウザ拡張"]
+tags: ["Comet", "Perplexity", "ChatGPT Atlas", "OpenAI", "AIブラウザ", "エージェントAI", "ブラウザ拡張"]
 ---
 
 ## 総評
 
 この記事の料金・機能は公式サイトの記載を2026年11月3日に確認したものです。当サイトで実際に使った検証はしていません。
 
+AIブラウザの主な2製品のうち、**Perplexity の Comet は提供が続いており、OpenAI の ChatGPT Atlas は提供を終了しています**。OpenAI は Atlas の代わりに、ChatGPTデスクトップアプリの内蔵ブラウザと、Chrome用のChatGPT拡張機能を案内しています。
+
+| | Perplexity Comet | ChatGPT Atlas | ChatGPTデスクトップアプリの内蔵ブラウザ | Chrome用のChatGPT拡張機能 |
+| --- | --- | --- | --- | --- |
+| 提供状況 | 提供中 | 提供終了(retired)。今後は更新されない | 提供中 | 提供中 |
+| 形 | Chromiumをもとにしたブラウザ | Mac向けのブラウザだった | macOS・Windowsのデスクトップアプリに内蔵 | Chromeに入れる拡張機能 |
+| 土台 | Perplexityの検索 | ChatGPT | ChatGPT | ChatGPT(Web版から使う) |
+
 Comet(perplexity.ai/comet)は、検索エンジンとしてのPerplexityとは別物で、ブラウザそのものにAIアシスタントを組み込んだ製品です。公式ヘルプによると、Chromiumをもとにしたブラウザで、ブックマーク・ページ翻訳・多くのChrome拡張機能といった通常のブラウザ機能も備えています。開いているページの内容を要約・質問応答できるだけでなく、自然な文章の指示でWebサイト上の操作を代わりに進める「エージェント型ブラウジング」を前面に押し出しています。この分野はまだ新しく、便利さと注意すべき点の両方がある段階です。
 
-## 得意なこと
+## Perplexity Comet でできること
 
 公式ヘルプに挙がっている機能です。
 
@@ -24,7 +32,7 @@ Comet(perplexity.ai/comet)は、検索エンジンとしてのPerplexityとは�
 - Gmailとの連携で、メールや予定表についての質問にも対応する
 - 広告ブロックや音声モードも備えている
 
-## 過信は禁物な点
+## Comet で過信は禁物な点
 
 - エージェントがユーザーに代わって操作を行う仕組みのため、指示の解釈を誤ると意図しない操作をしてしまうリスクがある
 - 特に銀行サイトやショッピングサイトなど、決済や個人情報が絡む場面での自動操作は慎重に扱うべき
@@ -47,16 +55,59 @@ Comet(perplexity.ai/comet)は、検索エンジンとしてのPerplexityとは�
 
 最新の料金プランや対応機能は変更される可能性があるため、利用前に必ず[Perplexity Comet公式サイト](https://www.perplexity.ai/comet)で最新情報を確認してください。
 
+## ChatGPT Atlas は提供終了
+
+**2026年11月3日時点で、ChatGPT Atlas は提供を終了しています。** OpenAIの公式ヘルプ「[ChatGPT Atlas retirement](https://help.openai.com/en/articles/20001371-chatgpt-atlas-retirement)」に、Atlasは提供終了(retired)となり、今後は更新されないと書かれています。いまから Atlas を新たに使い始めることはおすすめできません。
+
+ChatGPT Atlas は、OpenAIがChatGPTを中核に据えて開発したMac向けのAIブラウザでした。閲覧中のページの要約や質問応答、ChatGPTに操作を任せるエージェント機能を一つのブラウザにまとめた製品で、Comet が検索のPerplexityを土台にしているのに対し、AtlasはChatGPTとの統合を軸にしていました。公式ヘルプで確認できたAtlasの案内はMac向けのもの(Macからの削除方法など)だけで、Windows版は見当たりませんでした。
+
+### 代わりにOpenAIが案内しているもの
+
+OpenAIの公式ヘルプ「[Using the built-in browser in the ChatGPT desktop app](https://help.openai.com/en/articles/20001277-using-the-built-in-browser-in-the-chatgpt-desktop-app)」では、次の2つが案内されています。
+
+- **ChatGPTデスクトップアプリの内蔵ブラウザ**: macOSとWindowsのChatGPTデスクトップアプリで使えます。ChatGPTと同じページを見ながら、複数のタブをまたいだ作業やファイルのダウンロードを任せられ、サインインはユーザー自身が行う形です。新しいサイトを使う前にChatGPTが確認を求め、許可・拒否したサイトはデスクトップアプリの設定で管理できます。使える機能はプランやワークスペースの設定によって変わるとされています
+- **Chrome用のChatGPT拡張機能**: Chromeウェブストアから入れて、Web版のChatGPTから使います。普段のChromeのプロフィール、サインイン済みのサイト、開いているタブを使いたい場合はこちらが案内されています。デスクトップアプリを入れる必要はありません
+
+OpenAIの公式ヘルプでは、Webサイトの内容は信頼できないものとして扱い、ChatGPTが違うアカウントやページを開いたら作業を止めるよう案内されています。パスワードなどの認証情報はチャットに書かず、ブラウザの画面でだけ入力します。
+
+### Atlasを使っていた人が確認すること
+
+公式ヘルプ「ChatGPT Atlas retirement」の要点です。
+
+- ブックマーク・開いていたタブ・閲覧履歴は自動では引き継がれない。以前に書き出したブックマークのHTMLファイルがあれば、他のブラウザに取り込める
+- ChatGPTの会話はAtlasのブラウザデータとは別なので、プランや設定の範囲でChatGPTで引き続き使える
+- Atlasの「ブラウザメモリー」はChatGPTのメモリーとは別物。ChatGPTのチャットを消しても、Atlasのブラウザメモリーや Cookie などのデータは消えない。Atlasのデータについての問い合わせや削除の依頼は、プライバシーポータルかOpenAIのサポートに出すよう案内されている
+- Atlasをアンインストールしても、ChatGPTの有料プランは解約されない。解約は別の手続きが必要
+- データを書き出さないまま提供終了を迎え、必要な情報にアクセスできない場合は、OpenAIのサポートに連絡するよう案内されている(復元は保証されない)
+
+## どれを選ぶか
+
+Atlas は提供終了のため、いま比べる対象は Comet と、ChatGPT のデスクトップアプリ内蔵ブラウザ・Chrome拡張機能になります。
+
+| 状況 | 候補 |
+| --- | --- |
+| 調べ物が主目的で、ブラウザそのものを切り替えてもよい | Perplexity Comet |
+| 普段からChatGPTを使っていて、その延長でブラウジングしたい | ChatGPTデスクトップアプリの内蔵ブラウザ |
+| 普段のChromeのプロフィールやサインイン済みのサイトをそのまま使いたい | Chrome用のChatGPT拡張機能 |
+
 ## よくある質問
 
-**Q. 無料で使えますか。**
+### Comet は無料で使えますか。
+
 公式ヘルプによると、Perplexityのアカウントがなくても、インストール後すぐにWeb閲覧と基本的なAI機能を試せます。サインインすると、チャットの保存や端末間の同期、より強力なAI機能と高い利用上限が使えるようになるとされています。有料プランごとの上限は変わることがあるため、公式サイトで確認してください。
 
-**Q. 普段のブラウザを置き換える必要がありますか。**
-必要はありません。調べ物やリサーチのときだけ使い分ける方法もあります。公式ヘルプによると、他のブラウザからブックマーク・履歴・パスワードなどを取り込む機能もありますが、全面的に移るかどうかは、しばらく併用してから判断しても遅くありません。
+### 普段のブラウザを置き換える必要がありますか。
 
-**Q. エージェント機能はどこまで任せられますか。**
+必要はありません。調べ物やリサーチのときだけ使い分ける方法もあります。公式ヘルプによると、Comet には他のブラウザからブックマーク・履歴・パスワードなどを取り込む機能もありますが、全面的に移るかどうかは、しばらく併用してから判断しても遅くありません。
+
+### エージェント機能はどこまで任せられますか。
+
 情報を集めて要約するような「読む」作業から始めるのが安全です。フォーム送信や購入のように取り消しが効かない操作は、確認を挟む前提で使ってください。任せきりにすると、意図と違う結果に気づくのが遅れます。
 
-**Q. ChatGPT Atlasとどう違いますか。**
-OpenAIのAIブラウザ「ChatGPT Atlas」は、OpenAIの公式ヘルプで提供終了(retired)と案内されており、更新もされていません。OpenAIは現在、ChatGPTのデスクトップアプリ(macOS・Windows)に内蔵されたブラウザと、Chrome用のChatGPT拡張機能を案内しています。詳しくは[ChatGPT Atlasレビュー](/reviews/chatgpt-atlas-review/)も参照してください。
+### いまからChatGPT Atlasを入れて使えますか。
+
+おすすめしません。OpenAIの公式ヘルプでは提供終了と案内されており、更新もされていません。ChatGPTと一緒にブラウジングしたい場合は、ChatGPTデスクトップアプリの内蔵ブラウザか、Chrome用のChatGPT拡張機能が公式に案内されています。詳しくは「[ChatGPT Atlas は提供終了](#chatgpt-atlas-は提供終了)」の節を参照してください。
+
+### Windows版のAtlasはありますか。
+
+公式ヘルプで確認できたAtlasの案内はMac向けのものだけで、Windows版は見当たりませんでした。WindowsでChatGPTと一緒にブラウジングしたい場合は、Windows版のChatGPTデスクトップアプリの内蔵ブラウザが案内されています。

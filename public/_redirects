@@ -1,0 +1,38 @@
+# Cloudflare Pages の転送(2026-11-22〜)。形式: 旧URL 新URL 301
+# 末尾のスラッシュ有り・無しの両方を書く(消したページには Pages の自動の補完が効かないため)
+
+# --- 記事の統合(2026-11-22・AdSense「有用性の低いコンテンツ」不承認の監査 優先1-A) ---
+# リサーチAI: 比較2本が重なるため、中身の多い genspark-perplexity-notebooklm-difference(約5,400字・Bing「ノートブックlm genspark 違い」9位)を残し、
+# ai-research-tools-comparison(約3,700字)を転送。GSC 28日の表示はどちらも1(2026-11-22)
+/reviews/ai-research-tools-comparison/ /reviews/genspark-perplexity-notebooklm-difference/ 301
+/reviews/ai-research-tools-comparison /reviews/genspark-perplexity-notebooklm-difference/ 301
+/reviews/perplexity-review/ /reviews/genspark-perplexity-notebooklm-difference/ 301
+/reviews/perplexity-review /reviews/genspark-perplexity-notebooklm-difference/ 301
+/reviews/notebooklm-review/ /reviews/genspark-perplexity-notebooklm-difference/ 301
+/reviews/notebooklm-review /reviews/genspark-perplexity-notebooklm-difference/ 301
+/reviews/devin-ai-review/ /reviews/ai-agent-tools-comparison/ 301
+/reviews/devin-ai-review /reviews/ai-agent-tools-comparison/ 301
+/reviews/manus-ai-review/ /reviews/ai-agent-tools-comparison/ 301
+/reviews/manus-ai-review /reviews/ai-agent-tools-comparison/ 301
+/reviews/heygen-review/ /reviews/ai-avatar-video-comparison/ 301
+/reviews/heygen-review /reviews/ai-avatar-video-comparison/ 301
+/reviews/synthesia-review/ /reviews/ai-avatar-video-comparison/ 301
+/reviews/synthesia-review /reviews/ai-avatar-video-comparison/ 301
+/reviews/suno-review/ /reviews/ai-music-generation-comparison/ 301
+/reviews/suno-review /reviews/ai-music-generation-comparison/ 301
+/reviews/udio-review/ /reviews/ai-music-generation-comparison/ 301
+/reviews/udio-review /reviews/ai-music-generation-comparison/ 301
+/reviews/notion-ai-review/ /reviews/ai-office-productivity-comparison/ 301
+/reviews/notion-ai-review /reviews/ai-office-productivity-comparison/ 301
+/reviews/slack-ai-review/ /reviews/ai-office-productivity-comparison/ 301
+/reviews/slack-ai-review /reviews/ai-office-productivity-comparison/ 301
+/reviews/runway-review/ /reviews/ai-video-tools-comparison/ 301
+/reviews/runway-review /reviews/ai-video-tools-comparison/ 301
+/reviews/pika-review/ /reviews/ai-video-tools-comparison/ 301
+/reviews/pika-review /reviews/ai-video-tools-comparison/ 301
+/reviews/plaud-models-difference/ /reviews/plaud-note-price-plans/ 301
+/reviews/plaud-models-difference /reviews/plaud-note-price-plans/ 301
+/reviews/ai-vs-human-english-proofreading/ /reviews/english-proofreading-price-guide/ 301
+/reviews/ai-vs-human-english-proofreading /reviews/english-proofreading-price-guide/ 301
+/reviews/chatgpt-atlas-review/ /reviews/perplexity-comet-review/ 301
+/reviews/chatgpt-atlas-review /reviews/perplexity-comet-review/ 301

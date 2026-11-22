@@ -79,7 +79,7 @@ tags: ["Grammarly", "QuillBot", "DeepL", "Jasper", "Copy.ai", "英文校正", "�
 DeepL の推敲ツール DeepL Write は日本語に対応しています。Grammarly も日本語を含む24言語で修正の提案に対応していますが、段落ごとの書き換えは日本語非対応です。QuillBotの文法チェックの対応言語に日本語は含まれていません。日本語の推敲が主な目的なら、DeepL Write か汎用のAIチャットが候補になります。日本語のルール校正に専用のツールを使う場合の料金とできることは、[文賢の料金とできること](/reviews/bunken-price-features/)に整理しています。
 
 **Q. AIの校正と人の校正はどう使い分けますか。**
-毎日のメールや下書きはAI、契約書・提案書・論文など誤解されると困る英文は人の校正を入れる、という分け方が基本です。料金(1単語あたりの単価や定期券)と納期の比較は[AI英文校正と人の英文校正の違いと使い分け](/reviews/ai-vs-human-english-proofreading/)にまとめました。
+毎日のメールや下書きはAI、契約書・提案書・論文など誤解されると困る英文は人の校正を入れる、という分け方が基本です。料金(1単語あたりの単価や定期券)と納期の比較は[英文校正の料金相場(AI校正との使い分け)](/reviews/english-proofreading-price-guide/#aiの校正ツールの料金と人の校正との使い分け)にまとめました。
 
 <div class="affiliate-box" data-pr="idbusiness">
   <p><strong>PR</strong>｜機械チェックのあとに人の目を入れる</p>
