@@ -75,13 +75,6 @@ Basic は「Free forever(ずっと無料)」とされ、Zoom・Teams・Meet へ�
 
 なお、日本語の文字起こしの正確さについて、確認した公式ページに数字や比較は見当たりませんでした。当サイトも測っていないので、ここでは精度の良し悪しは書きません。自分の会議で使えるかは、無料の Basic で30分以内の会議を1本録って確かめるのが確実です。
 
-<div class="affiliate-box" data-pr="notta">
-  <p><strong>PR</strong>｜日本語の料金表とヘルプで契約したいとき</p>
-  <p>Notta は料金が円建て(税込)で、フリープラン(月120分・1回3分まで)から始められ、プレミアムは月払い1,980円・年払い14,220円です(2026年11月3日に公式で確認)。有料プランを申し込むときは、パソコンのブラウザから公式サイト(<a data-pr="notta" href="https://px.a8.net/svt/ejp?a8mat=4BGCF5+64AELU+5988+5YRHE" rel="sponsored nofollow">【Notta】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGCF5+64AELU+5988+5YRHE" alt="" data-pr="notta">)を開き、最新の料金を確かめてください。</p>
-  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="notta" href="https://px.a8.net/svt/ejp?a8mat=4BGCF5+64AELU+5988+5YRHE" rel="sponsored nofollow">【Notta】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGCF5+64AELU+5988+5YRHE" alt="" data-pr="notta">
-</div>
-
 ## 評判で気にされる点:公式に書いてあること/書いていないこと
 
 「Otter.ai 評判」と調べる人が気にするのは、だいたい次の3つです。**勝手に会議に入って録音されないか、録音データがどう扱われるか、解約や返金はどうなるか。** 当サイトは使った検証をしていないので、良い・悪いの評価はしません。ここでは公式ページに書いてあることと、書いていないことを分けて整理します(2026年11月3日確認)。
@@ -128,6 +121,13 @@ Otter Notetaker は会議に「参加者」として入るため、相手から�
 
 日本語の会議が中心で、日本語の画面や円建ての料金を重視するなら、国内の Notta も候補になります。料金と無料版の制限は[Nottaの料金まとめ](/reviews/notta-price-plans/)、ほかのツールとの違いは[AI文字起こしツールの比較](/reviews/ai-transcription-tools-comparison/)で整理しています。
 
+<div class="affiliate-box" data-pr="notta">
+  <p><strong>PR</strong>｜日本語の料金表とヘルプで契約したいとき</p>
+  <p>Notta は料金が円建て(税込)で、フリープラン(月120分・1回3分まで)から始められ、プレミアムは月払い1,980円・年払い14,220円です(2026年11月3日に公式で確認)。有料プランを申し込むときは、パソコンのブラウザから公式サイト(<a data-pr="notta" href="https://px.a8.net/svt/ejp?a8mat=4BGCF5+64AELU+5988+5YRHE" rel="sponsored nofollow">【Notta】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGCF5+64AELU+5988+5YRHE" alt="" data-pr="notta">)を開き、最新の料金を確かめてください。</p>
+  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
+  <a class="cta" data-pr="notta" href="https://px.a8.net/svt/ejp?a8mat=4BGCF5+64AELU+5988+5YRHE" rel="sponsored nofollow">【Notta】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGCF5+64AELU+5988+5YRHE" alt="" data-pr="notta">
+</div>
+
 ## よくある質問
 
 **Q. Otter.aiは日本語に対応していますか。**
@@ -154,9 +154,3 @@ Basic は無料で、月300分まで、1回の会話は30分まで、ファイ�
 **Q. 解約したら返金されますか。**
 返金はされないと公式ヘルプに書かれています。解約しても、支払い済みの期間の終わりまでは使えます。次の請求日の24時間前までに解約するよう案内されています。
 
-<div class="affiliate-box" data-pr="plaud">
-  <p><strong>PR</strong>｜対面の会話を取りこぼしたくないとき</p>
-  <p>Otterはオンライン会議やスマホ録音に対応しますが、長時間の対面打ち合わせでは端末のバッテリーと集音性能がボトルネックになります。専用機という選択肢として <a data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="" data-pr="plaud"> のようなAIボイスレコーダーがあります。</p>
-  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="" data-pr="plaud">
-</div>

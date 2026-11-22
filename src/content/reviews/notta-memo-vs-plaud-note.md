@@ -21,8 +21,6 @@ Notta Memo と PLAUD Note は、どちらも**カード型の本体で録音し�
 
 この記事の価格・仕様・条件は、Notta の公式ストア(shop.notta.ai/ja-jp)と公式ヘルプ(support.notta.ai)、PLAUD の日本公式ストア(jp.plaud.ai)の表示を**2026年11月3日**に確認したものです。当サイトで実機を使った検証はしていません。録音の聞き取りやすさや文字起こしの精度は比べておらず、公式に書かれている数値と条件だけを並べています。
 
-**条件別の行き先(PR)** 本体価格と無料枠(月600分)を重く見る人は → <a data-pr="nottamemo" href="https://px.a8.net/svt/ejp?a8mat=4BGCF7+FKUCMQ+5988+BX3J6" rel="sponsored nofollow">【Notta Memo】</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BGCF7+FKUCMQ+5988+BX3J6" alt="" data-pr="nottamemo">(公式ストア)。保存容量・対応言語数・開封後の返品を重く見る人は → <a data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="" data-pr="plaud">(公式ストア)。
-
 ## 比較表(本体)
 
 | | Notta Memo | PLAUD Note |
@@ -62,20 +60,6 @@ Notta Memo と PLAUD Note は、どちらも**カード型の本体で録音し�
 - PLAUD は、時間が足りない月に買い切りの「文字起こしパッケージ」(600分2,000円から)を足せます。Notta の公式ストアの商品ページには、ハードウェアプランでは「文字起こし時間の分単位での追加購入はできません」と書かれたページと、「文字起こし時間の追加購入が可能」と書かれたページがあり、表記がそろっていませんでした。
 
 PLAUD 側の料金の詳しい内訳は[PLAUDの料金まとめ](/reviews/plaud-note-price-plans/)に、Notta 側は[Nottaの料金プラン](/reviews/notta-price-plans/)にまとめています。
-
-<div class="affiliate-box" data-pr="nottamemo">
-  <p><strong>PR</strong>｜Notta Memo の価格と在庫は公式ストアで確認できます</p>
-  <p>Notta Memo の通常価格は23,500円(税込)で、本体を登録すると無料で月600分の文字起こし枠が付きます(2026年11月3日確認)。セール中は価格が変わることがあるので、購入前に公式ストア(<a data-pr="nottamemo" href="https://px.a8.net/svt/ejp?a8mat=4BGCF7+FKUCMQ+5988+BX3J6" rel="sponsored nofollow">【Notta Memo】</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BGCF7+FKUCMQ+5988+BX3J6" alt="" data-pr="nottamemo">)で最新の表示を確かめてください。</p>
-  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="nottamemo" href="https://px.a8.net/svt/ejp?a8mat=4BGCF7+FKUCMQ+5988+BX3J6" rel="sponsored nofollow">【Notta Memo】</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BGCF7+FKUCMQ+5988+BX3J6" alt="" data-pr="nottamemo">
-</div>
-
-<div class="affiliate-box" data-pr="plaud">
-  <p><strong>PR</strong>｜PLAUD Note の価格と在庫は公式ストアで確認できます</p>
-  <p>PLAUD Note は、本体と年間プロプランのセット販売もあります。セール中は価格が変わることがあるので、購入前に公式ストア(<a data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="" data-pr="plaud">)で最新の表示を確かめてください。</p>
-  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="" data-pr="plaud">
-</div>
 
 ## 違いが大きい点
 
@@ -161,6 +145,13 @@ PLAUD の返金ポリシーには、返品時の送料をどちらが負担す�
 ## 録音の同意について
 
 どちらの機種を選んでも、録音の前に相手へ伝えて同意を得るのが基本です。PLAUD の公式ストアにも、録音する前に参加者に一言知らせるのがマナーだと書かれています。社内ルールや取引先との取り決めも確認してください。考え方は[AI議事録の録音同意ガイド](/reviews/ai-meeting-recording-consent-guide/)で整理しています。
+
+<div class="affiliate-box" data-pr="nottamemo">
+  <p><strong>PR</strong>｜Notta Memo の価格と在庫は公式ストアで確認できます</p>
+  <p>Notta Memo の通常価格は23,500円(税込)で、本体を登録すると無料で月600分の文字起こし枠が付きます(2026年11月3日確認)。セール中は価格が変わることがあるので、購入前に公式ストア(<a data-pr="nottamemo" href="https://px.a8.net/svt/ejp?a8mat=4BGCF7+FKUCMQ+5988+BX3J6" rel="sponsored nofollow">【Notta Memo】</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BGCF7+FKUCMQ+5988+BX3J6" alt="" data-pr="nottamemo">)で最新の表示を確かめてください。</p>
+  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
+  <a class="cta" data-pr="nottamemo" href="https://px.a8.net/svt/ejp?a8mat=4BGCF7+FKUCMQ+5988+BX3J6" rel="sponsored nofollow">【Notta Memo】</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BGCF7+FKUCMQ+5988+BX3J6" alt="" data-pr="nottamemo">
+</div>
 
 ## よくある質問
 

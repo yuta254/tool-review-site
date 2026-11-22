@@ -76,9 +76,3 @@ SNSごとに容量やビットレートの制限が違います。[動画ファ�
 
 納品先が指定する形式への変換や、上限に収めるための圧縮を別のソフトで行う場合は、変換・圧縮・AI高画質化をまとめて扱うソフトの無料版の制限と料金を[VideoProc Converter AIの解説](/reviews/videoproc-converter-ai-review/)で整理しています。
 
-<div class="affiliate-box" data-pr="videoproc">
-  <p><strong>PR</strong>｜書き出し形式や画面収録で詰まったとき</p>
-  <p>CapCutは編集そのものは軽快ですが、納品先が指定するコーデックへの変換や、素材用の画面録画までは手が届かない場面があります。変換・編集・画面録画をまとめて扱うソフトとして <a data-pr="videoproc" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="sponsored nofollow">【VideoProc】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BC0UI+5I9D82+428G+C0YF6" alt="" data-pr="videoproc"> があります。</p>
-  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="videoproc" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="sponsored nofollow">【VideoProc】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BC0UI+5I9D82+428G+C0YF6" alt="" data-pr="videoproc">
-</div>

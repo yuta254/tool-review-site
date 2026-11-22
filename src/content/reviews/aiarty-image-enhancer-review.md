@@ -19,8 +19,6 @@ Aiarty Image Enhancer は、**パソコンにインストールして使う画�
 
 この記事は公式サイト(jp.aiarty.com)の記載を2026年10月21日に確認して整理したもので(販売元・返金条件・割引の扱いは2026年11月3日、料金と動作環境は2026年11月12日に再確認)、当サイトでソフトを使った検証はしていません。
 
-**条件別の行き先(PR)** 手持ちの画像を無料版(書き出しに透かし入り)から確かめる人は → <a data-pr="aiarty" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="sponsored nofollow">【Aiarty Image Enhancer】</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+EVUWI+428G+HVFKY" alt="" data-pr="aiarty">(公式サイト)。
-
 ## できること
 
 公式サイトでは、主に次の機能が紹介されています。
@@ -68,13 +66,6 @@ AIによる拡大は、元の画像に無い細部をAIが**推定して描き�
 | 動画の高画質化ソフトなどとのセット | 21,980円〜 | 期間限定のセット販売 |
 
 公式ストアは期間限定のキャンペーン価格を出していることが多く、時期によって金額が変わります。年間プランの価格も含め、購入前に公式ストアの最新の表示を確認してください。公式サイトには**30日間の返金保証**が書かれています(条件は返金ポリシーを確認してください)。
-
-<div class="affiliate-box" data-pr="aiarty">
-  <p><strong>PR</strong>｜まず無料版で手持ちの画像を試せます</p>
-  <p>無料版でもAI処理は使えます(書き出した画像には透かしが入ります)。手持ちの画像で仕上がりと動作を見てから、有料版にするかを判断できます。 <a data-pr="aiarty" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="sponsored nofollow">【Aiarty Image Enhancer】</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+EVUWI+428G+HVFKY" alt="" data-pr="aiarty"> の公式サイトから無料版をダウンロードできます。</p>
-  <p><em>※当サイトでは未検証です。対応形式・動作環境・料金は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="aiarty" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="sponsored nofollow">【Aiarty Image Enhancer】</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+EVUWI+428G+HVFKY" alt="" data-pr="aiarty">
-</div>
 
 ## Aiartyは安全?販売元・返金条件・クーポンの扱い
 
@@ -128,6 +119,13 @@ GPUが弱いパソコンでも動きますが、大きな画像の処理には�
 - **ブラウザで使う画像編集AI(Canva、Photoroom など)**:インストール不要で手軽ですが、画像はサービス側に送られます。背景の除去や商品写真の加工が中心なら、そちらの方が早い場面もあります。[Photoroomレビュー](/reviews/photoroom-review/)、[Canva Proレビュー](/reviews/canva-pro-review/)
 - **動画の高画質化**:Aiarty Image Enhancer は静止画が対象です。動画の解像度を上げたい、古い動画の粗さを整えたいといった用途には、AI高画質化を含む動画変換ソフトが候補になります。無料版の制限と料金は[VideoProc Converter AIの解説](/reviews/videoproc-converter-ai-review/)で整理しています。
 - **画像生成AI(Midjourney、Leonardo.Ai など)**:新しい画像を作る道具です。生成した画像を印刷用に大きくする段階で、Aiarty のような高画質化ソフトを後ろに組み合わせる使い方があります。[画像生成AIの比較](/reviews/ai-image-generation-comparison/)
+
+<div class="affiliate-box" data-pr="aiarty">
+  <p><strong>PR</strong>｜まず無料版で手持ちの画像を試せます</p>
+  <p>無料版でもAI処理は使えます(書き出した画像には透かしが入ります)。手持ちの画像で仕上がりと動作を見てから、有料版にするかを判断できます。 <a data-pr="aiarty" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="sponsored nofollow">【Aiarty Image Enhancer】</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+EVUWI+428G+HVFKY" alt="" data-pr="aiarty"> の公式サイトから無料版をダウンロードできます。</p>
+  <p><em>※当サイトでは未検証です。対応形式・動作環境・料金は公式サイトでご確認ください。</em></p>
+  <a class="cta" data-pr="aiarty" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="sponsored nofollow">【Aiarty Image Enhancer】</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+EVUWI+428G+HVFKY" alt="" data-pr="aiarty">
+</div>
 
 ## よくある質問
 

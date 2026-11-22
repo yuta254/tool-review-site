@@ -76,9 +76,3 @@ Opus Clip(公式表記はOpusClip)は、YouTube動画やウェビナー、ポッ
 
 元の長尺動画の形式をそろえたり、書き出した切り抜きを各SNSの仕様に合わせて圧縮し直したりする工程には、変換ソフトを組み合わせる方法があります。ただしVideoProc Converter AIの無料版は、変換・圧縮が5分未満の動画までです(公式の比較表、2026年11月3日確認)。長尺の元動画をそのまま変換するなら有料版が前提になります。無料版でどこまでできるかは[VideoProc Converter AIの解説](/reviews/videoproc-converter-ai-review/)にまとめました。
 
-<div class="affiliate-box" data-pr="videoproc">
-  <p><strong>PR</strong>｜切り抜き前後のファイル変換をまとめたいとき</p>
-  <p>Opus Clipに渡す長尺素材の形式変換や、書き出したショート動画を各SNSの仕様に合わせて再変換する工程は、別のツールが必要になります。変換・圧縮・画面録画を1本で扱えるソフトとして <a data-pr="videoproc" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="sponsored nofollow">【VideoProc】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BC0UI+5I9D82+428G+C0YF6" alt="" data-pr="videoproc"> があります。</p>
-  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="videoproc" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5I9D82+428G+C0YF6" rel="sponsored nofollow">【VideoProc】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BC0UI+5I9D82+428G+C0YF6" alt="" data-pr="videoproc">
-</div>

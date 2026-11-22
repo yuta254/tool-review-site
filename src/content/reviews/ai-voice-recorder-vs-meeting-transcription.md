@@ -25,8 +25,6 @@ tags: ["PLAUD", "Comu", "AIボイスレコーダー", "Zoom", "Otter.ai", "文�
 
 この記事は各社の公式サイトの公開情報(2026年10月21日に確認し、Zoom・Otter.ai・PLAUD・Comu の料金と無料枠は2026年11月12日に確認し直しました)を整理したもので、当サイトで実機・実サービスを使った検証はしていません。
 
-**条件別の行き先(PR)** 対面の打ち合わせや電話を録音機で記録したい人は → <a data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="" data-pr="plaud">(公式ストア)。文字起こしの時間を気にせず録りたい人は → <a data-pr="comu" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6VOCFM+5YZG+5YRHE" rel="sponsored nofollow">【Comu】</a><img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BGERH+6VOCFM+5YZG+5YRHE" alt="" data-pr="comu">(公式ストア)。
-
 ## 1. 会議ツールに組み込まれたAI
 
 Zoom や Microsoft Teams などの会議ツールには、会議の要約や文字起こしを行うAI機能が組み込まれています。追加の道具を入れずに使えるのが利点で、会議が終わると要約がそのツールの中に残ります。
@@ -61,13 +59,6 @@ PLAUD 以外のカード型では、Comu の **Comu Action Pro** も、商品ペ
 
 機種ごとの違いと総額は[PLAUDの料金まとめ](/reviews/plaud-note-price-plans/)に整理しました。ほかの会社のカード型の録音機(Notta Memo)との違いは[Notta MemoとPLAUD Noteの違い](/reviews/notta-memo-vs-plaud-note/)で、HiDock・Comu・Soundcore Work・オートメモを含めた6社の比較は[AIボイスレコーダーの比較](/reviews/ai-voice-recorder-comparison/)で整理しています。
 
-<div class="affiliate-box" data-pr="plaud">
-  <p><strong>PR</strong>｜対面の会話や電話も記録したいとき</p>
-  <p>オンライン会議向けのAIでは、対面の打ち合わせや電話は記録できません。録音機で録ってAIで文字起こし・要約する選択肢として <a data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="" data-pr="plaud"> があります。機種と料金は公式ストアで確認できます。</p>
-  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="" data-pr="plaud">
-</div>
-
 ## どれを選ぶか(状況別)
 
 | 状況 | 向いている道具 |
@@ -81,18 +72,18 @@ PLAUD 以外のカード型では、Comu の **Comu Action Pro** も、商品ペ
 
 迷ったときは、**先月の会議を「オンライン」「対面」「電話」に分けて数えてみる**のが早道です。オンラインが9割なら録音機は要りません。対面や電話が週に何本もあるなら、オンライン会議向けの道具だけでは記録が欠けます。
 
-<div class="affiliate-box" data-pr="comu">
-  <p><strong>PR</strong>｜録音機で、文字起こしの時間を気にせず録りたいとき</p>
-  <p>Comu Action Pro は、無料のスタータープランで文字起こしと基本要約を無制限に使えると案内され、電話録音とパソコンでの録音にも対応するとされています(2026年11月10日に公式で確認)。セール中は価格が変わるため、購入前に公式ストア(<a data-pr="comu" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6VOCFM+5YZG+5YRHE" rel="sponsored nofollow">【Comu】</a><img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BGERH+6VOCFM+5YZG+5YRHE" alt="" data-pr="comu">)で最新の価格と条件を確かめてください。</p>
-  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="comu" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6VOCFM+5YZG+5YRHE" rel="sponsored nofollow">【Comu】</a><img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BGERH+6VOCFM+5YZG+5YRHE" alt="" data-pr="comu">
-</div>
-
 ## どの道具でも共通する注意点
 
 1. **録音してよい会話かを先に確かめる。** 相手に伝えずに録ると、後で信頼を損ねることがあります。PLAUD の公式ストアにも、録音前に参加者へ伝えて同意を得るよう書かれています。考え方は[AI議事録の録音同意ガイド](/reviews/ai-meeting-recording-consent-guide/)にまとめました。
 2. **要約をそのまま配らない。** 「決まったこと」と「決まっていないこと」の線引きは、AIの要約だけでは崩れることがあります。配る前に人が確かめてください。
 3. **月の時間の上限を確かめる。** Otter.ai の無料プランも PLAUD の無料プランも、毎月の文字起こし時間に上限があります(Comu や HiDock のように、無料で文字起こしを無制限としている録音機もあります)。週に何時間録るかを先に見積もると、有料プランが要るかどうかが分かります。
+
+<div class="affiliate-box" data-pr="plaud">
+  <p><strong>PR</strong>｜対面の会話や電話も記録したいとき</p>
+  <p>オンライン会議向けのAIでは、対面の打ち合わせや電話は記録できません。録音機で録ってAIで文字起こし・要約する選択肢として <a data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="" data-pr="plaud"> があります。機種と料金は公式ストアで確認できます。</p>
+  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
+  <a class="cta" data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="" data-pr="plaud">
+</div>
 
 ## よくある質問
 

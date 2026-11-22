@@ -36,13 +36,6 @@ Canvaの日本語の料金ページ([canva.com/ja_jp/pricing/](https://www.canva
 - Canvaビジネスは、招待を受け入れたメンバーの分だけ請求されると料金ページに書かれています。
 - **Canvaエンタープライズには無料体験がありません**(料金ページのよくある質問より)。
 
-<div class="affiliate-box" data-pr="miricanvas">
-  <p><strong>PR</strong>｜別のデザインツールの料金も見ておきたいとき</p>
-  <p>MiriCanvas は無料プランが「永久無料」と表示され、Pro は月払い980円・年払いなら月あたり790円(税込・メンバーあたり)です(2026年11月10日に公式で確認)。テンプレートと素材の数は Canva の方が多い表示です。プランの内容は変わることがあるので、最新の条件は公式サイト(<a data-pr="miricanvas" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6W9S1E+5EX8+5YZ76" rel="sponsored nofollow">MiriCanvas</a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4BGERH+6W9S1E+5EX8+5YZ76" alt="" data-pr="miricanvas">)で確かめてください。</p>
-  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="miricanvas" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6W9S1E+5EX8+5YZ76" rel="sponsored nofollow">MiriCanvas</a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4BGERH+6W9S1E+5EX8+5YZ76" alt="" data-pr="miricanvas">
-</div>
-
 ## 無料体験と自動更新
 
 | 項目 | 公式の説明 |
@@ -149,6 +142,13 @@ AIで作った画像を仕事に使うときの一般的な確認事項は[AIツ
 1. 無料体験を始める前に、**体験が終わる日をカレンダーに入れておく**(請求はGMT基準のため、日本時間では前日に表示されることがある)
 2. 年払いと月払いで迷ったら、まず月払いで始め、数か月続けると決まってから年払いに切り替える
 3. 持ち込む写真やロゴの解像度は先に確認する。テンプレートが整っていても、手元の画像が粗いとそこだけ目立つ
+
+<div class="affiliate-box" data-pr="miricanvas">
+  <p><strong>PR</strong>｜別のデザインツールの料金も見ておきたいとき</p>
+  <p>MiriCanvas は無料プランが「永久無料」と表示され、Pro は月払い980円・年払いなら月あたり790円(税込・メンバーあたり)です(2026年11月10日に公式で確認)。テンプレートと素材の数は Canva の方が多い表示です。プランの内容は変わることがあるので、最新の条件は公式サイト(<a data-pr="miricanvas" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6W9S1E+5EX8+5YZ76" rel="sponsored nofollow">MiriCanvas</a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4BGERH+6W9S1E+5EX8+5YZ76" alt="" data-pr="miricanvas">)で確かめてください。</p>
+  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
+  <a class="cta" data-pr="miricanvas" href="https://px.a8.net/svt/ejp?a8mat=4BGERH+6W9S1E+5EX8+5YZ76" rel="sponsored nofollow">MiriCanvas</a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4BGERH+6W9S1E+5EX8+5YZ76" alt="" data-pr="miricanvas">
+</div>
 
 ## よくある質問
 

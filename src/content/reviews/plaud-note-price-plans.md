@@ -22,8 +22,6 @@ PLAUD(プラウド)の費用は、**本体の買い切り価格**と、**AI文�
 
 この記事の価格は、PLAUDの日本公式ストア(jp.plaud.ai)の表示を**2026年10月21日**に確認し、**2026年11月3日**と**2026年11月12日**に再確認したものです(本体・プラン・文字起こしパッケージの価格に変更はありませんでした)。機種ごとの仕様は、公式の比較ページと各機種の商品ページを**2026年11月5日**に確認しました。セールや改定で変わることがあるため、購入前に公式ストアで最新の表示を確かめてください。当サイトは実機を使った検証はしていません。録音の聞き取りやすさや文字起こしの精度は測っておらず、公式の公開情報を整理した記事です。
 
-**条件別の行き先(PR)** 本体4機種の価格と在庫、年間プランとのセットを確かめる人は → <a data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="" data-pr="plaud">(公式ストア)。Amazon・楽天で買う場合の返品と保証の違いは、下の「どこで買う?」の節にまとめています。
-
 ## 本体4機種の価格と仕様
 
 公式ストアで販売されている本体は4機種です。仕様は、日本公式サイトの[機種の比較ページ](https://jp.plaud.ai/pages/plaud-device-comparison)・[シリーズ比較ページ](https://jp.plaud.ai/pages/plaud-series-comparison)と、各機種の商品ページ([Note Pro](https://jp.plaud.ai/products/plaud-note-pro)・[Note](https://jp.plaud.ai/products/plaud-note-ai-voice-recorder)・[NotePin S](https://jp.plaud.ai/products/plaud-notepin-s)・[NotePin](https://jp.plaud.ai/products/notepin))の表示です(2026年11月5日確認。価格は税込・通常価格で、11月12日にも同じ表示を確認)。
@@ -158,13 +156,6 @@ PLAUD(プラウド)の費用は、**本体の買い切り価格**と、**AI文�
 
 公式ストアの説明では、プランに含まれる時間が先に使われ、使い切った後にパッケージの時間が使われます。未使用のアクティベーションコードは購入日から12か月有効とされています。
 
-<div class="affiliate-box" data-pr="plaud">
-  <p><strong>PR</strong>｜価格と在庫は公式ストアで確認できます</p>
-  <p>本体と年間プランのセット販売もあります。セール中は価格が変わることがあるので、購入前に公式ストア(<a data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="" data-pr="plaud">)で最新の表示を確かめてください。</p>
-  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="" data-pr="plaud">
-</div>
-
 ## 1年目・2年目の総額(試算)
 
 本体価格とプラン料金を足した金額です(税込・2026年10月21日の通常価格で計算し、11月3日と11月12日に価格の変更がないことを確認。セット割引やセールは含めていません)。
@@ -229,6 +220,13 @@ PLAUDの日本公式サイトは、正規品を扱う販売先として、公式
 - **価格** → どの販売先もセールで価格が変わります。買う直前に各販売先の表示を比べ、認定店舗以外の極端に安い出品は避けてください。
 
 ほかの会社のカード型の録音機と比べてから決めたい場合は、本体価格・無料の文字起こし時間・返品の条件を並べた[Notta MemoとPLAUD Noteの違い](/reviews/notta-memo-vs-plaud-note/)も参考にしてください。HiDock・Anker Soundcore Work・オートメモまで含めた比較は[AIボイスレコーダーの比較](/reviews/ai-voice-recorder-comparison/)にまとめました。
+
+<div class="affiliate-box" data-pr="plaud">
+  <p><strong>PR</strong>｜価格と在庫は公式ストアで確認できます</p>
+  <p>本体と年間プランのセット販売もあります。セール中は価格が変わることがあるので、購入前に公式ストア(<a data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="" data-pr="plaud">)で最新の表示を確かめてください。</p>
+  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
+  <a class="cta" data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="" data-pr="plaud">
+</div>
 
 ## よくある質問
 

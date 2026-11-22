@@ -74,9 +74,3 @@ PremiumとUltimateには、一部のモデルを低速で無制限に使える�
 
 アセットは後から拡大して使う場面が出てきます。[画像サイズ・印刷解像度チェッカー](/tools/image-size-checker/)で、必要なサイズに対して画素数が足りているかを確認できます。
 
-<div class="affiliate-box" data-pr="aiarty">
-  <p><strong>PR</strong>｜アセットを高解像度で書き出したいとき</p>
-  <p>ゲームアセットやコンセプトアートは、後から拡大して使う場面が出てきます。生成後の拡大・ピンボケ補正に特化したツールとして <a data-pr="aiarty" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="sponsored nofollow">【Aiarty Image Enhancer】</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+EVUWI+428G+HVFKY" alt="" data-pr="aiarty"> があり、公式サイトによると最大32K解像度までの拡大に対応しています。</p>
-  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="aiarty" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="sponsored nofollow">【Aiarty Image Enhancer】</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+EVUWI+428G+HVFKY" alt="" data-pr="aiarty">
-</div>

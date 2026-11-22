@@ -17,8 +17,6 @@ tags: ["画像高画質化", "アップスケール", "AI画像拡大", "Aiarty 
 
 この記事の価格・仕様は、各社の公式サイト・公式ストア・公式ドキュメントの表示を **2026年11月5日に公式で確認** したものです。セールや改定で変わるため、購入前に公式の最新の表示を確かめてください。当サイトでは実機・実サービスを検証していません。公式の公開情報を整理した記事です。
 
-**条件別の行き先(PR)** 買い切りで持ちたく、無料版(書き出しに透かし入り)から確かめる人は → <a data-pr="aiarty" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="sponsored nofollow">【Aiarty Image Enhancer】</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+EVUWI+428G+HVFKY" alt="" data-pr="aiarty">(公式サイト)。
-
 ## 4製品の比較表
 
 | | Aiarty Image Enhancer | Topaz Gigapixel | Upscayl(デスクトップ版) | Adobe(Firefly/スーパー解像度) |
@@ -29,13 +27,6 @@ tags: ["画像高画質化", "アップスケール", "AI画像拡大", "Aiarty 
 | 拡大の上限(公式の表示) | 最大8倍のプリセット、32Kまで書き出し | 最大16倍(ページ内に6倍の表記もある) | 最大16倍 | Firefly:2倍か4倍/スーパー解像度:縦横2倍 |
 | 処理する場所 | パソコンの中(オフライン) | ローカルとクラウドの両方 | パソコンのGPU | Firefly はクラウド。スーパー解像度はアプリ内 |
 | 対応OS | Windows 10(64bit)・macOS 10.15以降 | Windows 10・macOS 13以降 | Windows 10・macOS 12以降・Linux | Firefly はブラウザ。Lightroom 等はアプリの動作環境による |
-
-<div class="affiliate-box" data-pr="aiarty">
-  <p><strong>PR</strong>｜買い切りの高画質化ソフトを無料版から確かめられます</p>
-  <p>無料版でもAI処理は使えるので、手持ちの画像で仕上がりを見てから永久版を選べます(無料版の書き出しには透かしが入ります)。 <a data-pr="aiarty" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="sponsored nofollow">【Aiarty Image Enhancer】</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+EVUWI+428G+HVFKY" alt="" data-pr="aiarty"> の公式サイトから無料版をダウンロードできます。</p>
-  <p><em>※当サイトでは未検証です。料金・動作環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="aiarty" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="sponsored nofollow">【Aiarty Image Enhancer】</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+EVUWI+428G+HVFKY" alt="" data-pr="aiarty">
-</div>
 
 以下、製品ごとに公式に書かれている内容を整理します。
 
@@ -100,6 +91,13 @@ Firefly 全体の料金と規約は[Adobe Fireflyの解説](/reviews/adobe-firef
 - **AIの拡大は、無い細部を推定して描き足す処理です。** Aiarty の公式ページでも「ピクセルや微細な特徴をAIが推測・補完」と説明されています。文字や番号を読む画像、記録として残す写真は、元の画像も必ず残してください。
 - **生成AIで作った画像を拡大して売る場合**は、拡大ソフトとは別に、元の画像を作ったサービスの規約で商用利用が認められているかを確かめます。考え方は[AIで作ったものを商用利用する前のチェックリスト](/reviews/ai-commercial-use-checklist/)にまとめました。
 - **動画の高画質化**は対象外です。動画は[VideoProc Converter AIの解説](/reviews/videoproc-converter-ai-review/)を参考にしてください。
+
+<div class="affiliate-box" data-pr="aiarty">
+  <p><strong>PR</strong>｜買い切りの高画質化ソフトを無料版から確かめられます</p>
+  <p>無料版でもAI処理は使えるので、手持ちの画像で仕上がりを見てから永久版を選べます(無料版の書き出しには透かしが入ります)。 <a data-pr="aiarty" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="sponsored nofollow">【Aiarty Image Enhancer】</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+EVUWI+428G+HVFKY" alt="" data-pr="aiarty"> の公式サイトから無料版をダウンロードできます。</p>
+  <p><em>※当サイトでは未検証です。料金・動作環境・最新の条件は公式サイトでご確認ください。</em></p>
+  <a class="cta" data-pr="aiarty" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+EVUWI+428G+HVFKY" rel="sponsored nofollow">【Aiarty Image Enhancer】</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+EVUWI+428G+HVFKY" alt="" data-pr="aiarty">
+</div>
 
 ## よくある質問
 

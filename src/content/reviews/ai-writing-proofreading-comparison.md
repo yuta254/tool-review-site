@@ -81,9 +81,3 @@ DeepL の推敲ツール DeepL Write は日本語に対応しています。Gram
 **Q. AIの校正と人の校正はどう使い分けますか。**
 毎日のメールや下書きはAI、契約書・提案書・論文など誤解されると困る英文は人の校正を入れる、という分け方が基本です。料金(1単語あたりの単価や定期券)と納期の比較は[英文校正の料金相場(AI校正との使い分け)](/reviews/english-proofreading-price-guide/#aiの校正ツールの料金と人の校正との使い分け)にまとめました。
 
-<div class="affiliate-box" data-pr="idbusiness">
-  <p><strong>PR</strong>｜機械チェックのあとに人の目を入れる</p>
-  <p>AI翻訳とAI校正を通しても、業界特有の言い回しや文書全体のトーンが適切かは別の判断になります。契約書や対外提案など「間違えられない英文」で、人によるネイティブチェックを外注する選択肢として <a data-pr="idbusiness" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+61WO6Q+2KSK+BWVTE" rel="sponsored nofollow">アイディービジネス</a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4BC0UI+61WO6Q+2KSK+BWVTE" alt="" data-pr="idbusiness"> があります。</p>
-  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="idbusiness" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+61WO6Q+2KSK+BWVTE" rel="sponsored nofollow">アイディービジネス</a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4BC0UI+61WO6Q+2KSK+BWVTE" alt="" data-pr="idbusiness">
-</div>

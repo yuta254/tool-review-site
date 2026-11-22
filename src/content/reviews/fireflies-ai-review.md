@@ -43,13 +43,6 @@ Fireflies.aiは、会議の文字起こしと要約を行うAIノートテイカ
 - CRM連携やBotの自動参加を使いこなすには、営業チーム側の運用ルール整備や設定の手間がかかる
 - 無料プランは保存容量(チームで400分)やAIクレジット、1回の録音時間(2時間)に上限がある。自社の商談量に見合うかは事前に確認したほうがよい
 
-<div class="affiliate-box" data-pr="notta">
-  <p><strong>PR</strong>｜日本語の料金表とヘルプで契約したいとき</p>
-  <p>Fireflies の料金は米ドル表示です。Notta は料金が円建て(税込)で、フリープラン(月120分・1回3分まで)から始められ、プレミアムは月払い1,980円・年払い14,220円です(2026年11月3日に公式で確認)。有料プランを申し込むときは、パソコンのブラウザから公式サイト(<a data-pr="notta" href="https://px.a8.net/svt/ejp?a8mat=4BGCF5+64AELU+5988+5YRHE" rel="sponsored nofollow">【Notta】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGCF5+64AELU+5988+5YRHE" alt="" data-pr="notta">)を開き、最新の料金を確かめてください。</p>
-  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="notta" href="https://px.a8.net/svt/ejp?a8mat=4BGCF5+64AELU+5988+5YRHE" rel="sponsored nofollow">【Notta】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4BGCF5+64AELU+5988+5YRHE" alt="" data-pr="notta">
-</div>
-
 ## 向いている人
 
 - 商談や顧客対応の通話内容を手作業でCRMに入力する時間を減らしたい営業チーム
@@ -75,9 +68,3 @@ Firefliesの特徴はCRM連携とチームでの記録共有にあるため、�
 **Q. 参加者の同意は必要ですか。**
 必要です。録音・記録することを事前に伝え、断られた場合は記録しない運用にしてください。組織としてのルールを決めておくべき部分です。
 
-<div class="affiliate-box" data-pr="plaud">
-  <p><strong>PR</strong>｜オンライン会議以外も記録したいとき</p>
-  <p>Firefliesはオンライン会議には強い一方、対面の打ち合わせや外出先での会話は守備範囲外です。録音と文字起こしを端末側で完結させる選択肢として <a data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="" data-pr="plaud"> のようなAIボイスレコーダーがあります。</p>
-  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="" data-pr="plaud">
-</div>

@@ -68,9 +68,3 @@ QuillBot の公式料金ページ(quillbot.com/premium)の表示です。ドル�
 
 言い換えた英文を人に確認してもらう場合の料金と納期は[英文校正の料金相場(AI校正との使い分け)](/reviews/english-proofreading-price-guide/#aiの校正ツールの料金と人の校正との使い分け)にまとめています。
 
-<div class="affiliate-box" data-pr="idbusiness">
-  <p><strong>PR</strong>｜言い換えた英文の妥当性を確かめたいとき</p>
-  <p>QuillBotの言い換えは滑らかですが、元の意味が保たれているか、その文脈で自然かは別の判断です。人によるネイティブチェックを外注する選択肢として <a data-pr="idbusiness" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+61WO6Q+2KSK+BWVTE" rel="sponsored nofollow">アイディービジネス</a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4BC0UI+61WO6Q+2KSK+BWVTE" alt="" data-pr="idbusiness"> があります。</p>
-  <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
-  <a class="cta" data-pr="idbusiness" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+61WO6Q+2KSK+BWVTE" rel="sponsored nofollow">アイディービジネス</a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4BC0UI+61WO6Q+2KSK+BWVTE" alt="" data-pr="idbusiness">
-</div>
