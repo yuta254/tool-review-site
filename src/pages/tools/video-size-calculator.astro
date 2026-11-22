@@ -1,6 +1,5 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import AdSlot from '../../components/AdSlot.astro';
 import AffiliateDisclosure from '../../components/AffiliateDisclosure.astro';
 import { affiliateUrl, affiliatePixel, affiliateText } from '../../lib/affiliates';
 ---
@@ -15,7 +14,6 @@ import { affiliateUrl, affiliatePixel, affiliateText } from '../../lib/affiliate
     アップロード先の容量制限に引っかかる前の確認に使えます。
   </p>
 
-  <AdSlot label="ツール上部広告" />
 
   <h2>1. サイズを計算する</h2>
   <div class="card">
@@ -50,7 +48,6 @@ import { affiliateUrl, affiliatePixel, affiliateText } from '../../lib/affiliate
     <p><strong id="bitrateOut">-</strong></p>
   </div>
 
-  <AdSlot label="ツール下部広告" />
 
   <h2>計算の前提</h2>
   <ul>
@@ -74,6 +71,24 @@ import { affiliateUrl, affiliatePixel, affiliateText } from '../../lib/affiliate
     <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
     <a class="cta" href={affiliateUrl('videoproc')} rel="sponsored nofollow">{affiliateText('videoproc')}</a><img border="0" width="1" height="1" src={affiliatePixel('videoproc')} alt="" />
   </div>
+
+
+  <section class="tool-about">
+    <h2>このツールで計算すること</h2>
+    <p>動画のファイルの大きさは、1秒あたりのデータ量(ビットレート)と再生時間でほぼ決まります。このツールは、映像と音声のビットレートと再生時間からファイルサイズを概算し、反対に「メールの添付や投稿先の上限に収めるには、映像を何kbps以下にすればよいか」を逆算します。書き出しや圧縮の設定を決める前の見積もりに使えます。</p>
+    <h3>計算式</h3>
+    <ul>
+      <li>ファイルサイズ(MB)=(映像 kbps + 音声 kbps)× 秒数 ÷ 8 ÷ 1,000</li>
+      <li>上限に収める映像ビットレート(kbps)= 上限(MB)× 8 × 1,000 ÷ 秒数 − 音声 kbps</li>
+    </ul>
+    <p>そのほかの前提(1MBの数え方・可変ビットレート・コンテナの分)は上の「計算の前提」のとおりです。入力した値はどこにも送信されません。</p>
+    <h3>関係する記事</h3>
+    <ul>
+      <li>解像度・ビットレート・コーデックの考え方と、Gmail の添付に収める計算の例は <a href="/reviews/video-compress-file-size/">動画の容量を小さくする方法</a></li>
+      <li>画面録画の無料の範囲と透かしは <a href="/reviews/screen-recording-software-comparison/">画面録画ソフト比較</a></li>
+      <li>書き出しの設定を持つ編集ソフトの価格は <a href="/reviews/video-editor-one-time-purchase-comparison/">買い切りの動画編集ソフト6本の比較</a></li>
+    </ul>
+  </section>
 
   <p><a href="/tools/">&larr; 無料ツール一覧</a></p>
 

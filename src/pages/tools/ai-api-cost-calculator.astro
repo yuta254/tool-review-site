@@ -1,6 +1,5 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import AdSlot from '../../components/AdSlot.astro';
 ---
 <BaseLayout title="AI API料金計算ツール(概算)" description="ChatGPT・Claude・Gemini等の生成AI APIの利用料金を、入力トークン数・出力トークン数・呼び出し回数から概算する無料ツール">
   <h1>AI API料金計算ツール(概算)</h1>
@@ -16,7 +15,6 @@ import AdSlot from '../../components/AdSlot.astro';
     ※料金は改定されるため、実際の料金は各社の公式サイトでご確認ください。
   </p>
 
-  <AdSlot label="ツール上部広告" />
 
   <div class="card">
     <label>
@@ -48,7 +46,30 @@ import AdSlot from '../../components/AdSlot.astro';
     <p>月間の合計コスト: <strong id="monthlyUsd">-</strong> USD(<strong id="monthlyJpy">-</strong> 円)</p>
   </div>
 
-  <AdSlot label="ツール下部広告" />
+
+  <section class="tool-about">
+    <h2>このツールで計算すること</h2>
+    <p>生成AIのAPIは、送った文章(入力)と返ってきた文章(出力)のトークン数に、モデルごとの単価をかけて料金が決まります。このツールは、1回あたりの入力・出力のトークン数と月の呼び出し回数から、月の料金を米ドルと円で概算します。チャットの月額プラン(ChatGPT Plus など)ではなく、開発でAPIを呼び出す場合の料金です。</p>
+    <h3>計算式</h3>
+    <ul>
+      <li>1回の料金(米ドル)= 入力トークン数 ÷ 1,000,000 × 入力単価 + 出力トークン数 ÷ 1,000,000 × 出力単価</li>
+      <li>月の料金 = 1回の料金 × 月の呼び出し回数。円の値は、入力した為替レートをかけたものです</li>
+    </ul>
+    <h3>前提</h3>
+    <ul>
+      <li>単価は、上の注記のとおり2026年11月3日に OpenAI・Anthropic・Google の公式料金ページで確認した、100万トークンあたりの標準料金です。長いプロンプトの割増、キャッシュやバッチの割引、画像・音声の入力、検索などのツールの料金は含みません</li>
+      <li>為替レートの初期値(155円)は計算用の仮の値です。実際の円の請求額は、カード会社の為替レートや手数料で変わります。日本の消費税の扱いも、各社の請求の条件で確かめてください</li>
+      <li>入力したトークン数はどこにも送信されません。計算はブラウザの中だけで行います</li>
+    </ul>
+    <h3>関係する記事・ツール</h3>
+    <ul>
+      <li>文章のトークン数の見当がつかないときは <a href="/tools/token-counter/">AIトークン数カウンター</a> で概算できます</li>
+      <li>使った金額を月の予算と比べて記録するなら <a href="/tools/ai-api-cost-tracker/">AI APIコスト管理ツール</a></li>
+      <li>APIではなく月額プランで使う場合の料金の違いは <a href="/reviews/chatgpt-claude-gemini-comparison/">ChatGPT Plus・Claude Pro・Google AI Pro の比較</a></li>
+    </ul>
+  </section>
+
+  <p><a href="/tools/">&larr; 無料ツール一覧</a></p>
 
   <script>
     const modelSelect = document.getElementById('model') as HTMLSelectElement;

@@ -1,12 +1,10 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import AdSlot from '../../components/AdSlot.astro';
 ---
 <BaseLayout title="AIプロンプト作成ツール" description="目的・トーン・形式を選ぶだけでChatGPT等に使えるプロンプトを組み立てる無料ツール">
   <h1>AIプロンプト作成ツール</h1>
   <p>やりたいこと・トーン・出力形式を選ぶだけで、そのままコピーして使えるプロンプトを組み立てます。</p>
 
-  <AdSlot label="ツール上部広告" />
 
   <div class="card">
     <label>やりたいこと:
@@ -46,7 +44,24 @@ import AdSlot from '../../components/AdSlot.astro';
     <button id="copy" style="margin-top:0.5rem; padding:0.5rem 1rem;">コピー</button>
   </div>
 
-  <AdSlot label="ツール下部広告" />
+
+  <section class="tool-about">
+    <h2>このツールで作るもの</h2>
+    <p>生成AIに頼むときは、「何をしてほしいか」「どんな調子で」「どんな形で返してほしいか」を最初に書いておくと、言い直しの回数を減らせます。このツールは、その3つを選ぶだけで指示の文を組み立て、対象の文章をその下に付けて、コピーできる形にします。ChatGPT・Claude・Gemini など、文章で指示を受けるAIチャットのどれにも貼り付けられます。</p>
+    <h3>組み立て方</h3>
+    <ul>
+      <li>出力 =「(やりたいこと)。(トーン)トーンで、(出力形式)出力してください。」+ 空行 + 対象の文章</li>
+      <li>対象の文章が空のときは「[ここに文章を貼り付けてください]」を入れます。読み手・字数・使ってはいけない言葉などの条件があれば、できた文の末尾に書き足してください</li>
+    </ul>
+    <h3>前提と注意</h3>
+    <ul>
+      <li>組み立てはブラウザの中だけで行い、入力した文章はどこにも送信されません。ただし、できたプロンプトを貼り付けた先のAIサービスには送られます</li>
+      <li>社外秘の資料や個人情報を貼る前に、そのサービスが入力を学習に使うか、会社の契約でどう扱われるかを確かめてください。Microsoft 365 Copilot・Notion AI・Slack AI・Zoom AI Companion のデータの扱いは <a href="/reviews/ai-office-productivity-comparison/">業務ツール内蔵AIの比較</a> にまとめています</li>
+      <li>要約や書き直しの結果は、元の文章と照らし合わせて確かめてください。英文の仕上げに人の校正を入れる場合の料金は <a href="/reviews/english-proofreading-price-guide/">英文校正の料金相場</a></li>
+    </ul>
+  </section>
+
+  <p><a href="/tools/">&larr; 無料ツール一覧</a></p>
 
   <script>
     const task = document.getElementById('task') as HTMLSelectElement;

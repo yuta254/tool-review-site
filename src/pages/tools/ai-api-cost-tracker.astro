@@ -1,6 +1,5 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import AdSlot from '../../components/AdSlot.astro';
 ---
 <BaseLayout title="AI APIコスト管理・予算アラートツール" description="ChatGPT・Claude・Gemini等の生成AI API利用料金を記録し、月間予算に対する使用状況をひと目で確認できる無料ツール">
   <h1>AI APIコスト管理・予算アラートツール</h1>
@@ -10,7 +9,6 @@ import AdSlot from '../../components/AdSlot.astro';
     データはお使いのブラウザ内(localStorage)にのみ保存され、外部には送信されません。
   </p>
 
-  <AdSlot label="ツール上部広告" />
 
   <div class="card">
     <label>月間予算(円): <input type="number" id="budget" value="10000" style="padding:0.4rem; width:150px;" /></label>
@@ -71,8 +69,30 @@ import AdSlot from '../../components/AdSlot.astro';
     <p id="emptyMessage" style="color:#888;">まだ記録がありません。上のフォームから追加してください。</p>
   </div>
 
-  <AdSlot label="ツール下部広告" />
 
+
+  <section class="tool-about">
+    <h2>このツールでできること</h2>
+    <p>複数のAPIを使っていると、月の合計がいくらになっているかが見えにくくなります。このツールは、使った金額を日付・モデル・メモと一緒に記録し、今月の合計を月の予算と比べて表示します。請求の前に、予算に対してどこまで使ったかを確かめるための記録帳です。</p>
+    <h3>計算のしかた</h3>
+    <ul>
+      <li>今月の合計 = 日付が今月(年と月がパソコンの今日の日付と同じ)の記録の金額の合計</li>
+      <li>予算の消化率 = 今月の合計 ÷ 月の予算 × 100(100%で止まります)。80%以上で棒がだいだい色になって注意の文が出て、100%以上で赤になります</li>
+    </ul>
+    <h3>前提</h3>
+    <ul>
+      <li>記録はお使いのブラウザの中(localStorage)にだけ保存され、外部には送信されません。そのため、別のパソコンやブラウザとは共有されず、ブラウザの閲覧データを消すと記録も消えます</li>
+      <li>金額は自分で入れる値です。各社の請求額を自動で取り込むことはしません。正しい請求額は、各社の管理画面の利用状況と請求書で確かめてください</li>
+      <li>モデルの一覧は記録の分類用で、料金の計算には使いません</li>
+    </ul>
+    <h3>関係するツール・記事</h3>
+    <ul>
+      <li>使う前に月の料金を見積もるなら <a href="/tools/ai-api-cost-calculator/">AI API料金計算ツール</a>(公式単価・2026年11月3日確認)</li>
+      <li>文章のトークン数の目安は <a href="/tools/token-counter/">AIトークン数カウンター</a></li>
+    </ul>
+  </section>
+
+  <p><a href="/tools/">&larr; 無料ツール一覧</a></p>
 
   <script>
     interface Entry {

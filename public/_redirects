@@ -36,3 +36,27 @@
 /reviews/ai-vs-human-english-proofreading /reviews/english-proofreading-price-guide/ 301
 /reviews/chatgpt-atlas-review/ /reviews/perplexity-comet-review/ 301
 /reviews/chatgpt-atlas-review /reviews/perplexity-comet-review/ 301
+
+# --- 無料ツールの削除(2026-11-22・監査 優先1-C)。AIと関係の薄い汎用ツール11本を一覧へ ---
+/tools/bmi-calculator/ /tools/ 301
+/tools/bmi-calculator /tools/ 301
+/tools/compound-interest-calculator/ /tools/ 301
+/tools/compound-interest-calculator /tools/ 301
+/tools/unit-converter/ /tools/ 301
+/tools/unit-converter /tools/ 301
+/tools/qr-code-generator/ /tools/ 301
+/tools/qr-code-generator /tools/ 301
+/tools/password-generator/ /tools/ 301
+/tools/password-generator /tools/ 301
+/tools/case-converter/ /tools/ 301
+/tools/case-converter /tools/ 301
+/tools/base64-tool/ /tools/ 301
+/tools/base64-tool /tools/ 301
+/tools/json-formatter/ /tools/ 301
+/tools/json-formatter /tools/ 301
+/tools/markdown-previewer/ /tools/ 301
+/tools/markdown-previewer /tools/ 301
+/tools/character-counter/ /tools/ 301
+/tools/character-counter /tools/ 301
+/tools/discount-calculator/ /tools/ 301
+/tools/discount-calculator /tools/ 301

@@ -1,39 +1,42 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import AdSlot from '../../components/AdSlot.astro';
 
-const tools = [
-  { href: '/tools/character-counter/', title: '文字数カウンター', desc: 'ブログ・SNS投稿の文字数、単語数を即座にカウントします。' },
-  { href: '/tools/password-generator/', title: 'パスワード生成ツール', desc: '安全でランダムなパスワードをその場で生成します。' },
-  { href: '/tools/bmi-calculator/', title: 'BMI計算機', desc: '身長・体重からBMIと標準体重の目安を計算します。' },
-  { href: '/tools/unit-converter/', title: '単位変換ツール', desc: '長さ・重さ・温度の単位をかんたん変換します。' },
-  { href: '/tools/prompt-builder/', title: 'AIプロンプト作成ツール', desc: '目的・トーン・形式を選ぶだけで、ChatGPT等に使えるプロンプトを組み立てます。' },
-  { href: '/tools/discount-calculator/', title: '割引・消費税計算ツール', desc: '割引後の価格や税込価格をその場で計算します。' },
-  { href: '/tools/qr-code-generator/', title: 'QRコード生成ツール', desc: 'URLやテキストからQRコードをその場で生成・ダウンロードします。' },
-  { href: '/tools/token-counter/', title: 'AIトークン数カウンター(概算)', desc: 'ChatGPT・Claude等に入力するテキストのトークン数を概算します。' },
-  { href: '/tools/compound-interest-calculator/', title: '積立・複利計算ツール', desc: '毎月の積立額・利回り・期間から将来の資産額を試算します。' },
-  { href: '/tools/ai-api-cost-calculator/', title: 'AI API料金計算ツール', desc: 'ChatGPT・Claude・Gemini等のAPI利用料金を入出力トークン数から概算します。' },
-  { href: '/tools/ai-api-cost-tracker/', title: 'AI APIコスト管理・予算アラートツール', desc: '複数のAI APIの利用料金を記録し、月間予算に対する消費状況をひと目で確認できます。' },
-  { href: '/tools/json-formatter/', title: 'JSON整形・検証ツール', desc: '崩れたJSONやミニファイされたJSONを見やすく整形し、構文エラーを分かりやすく表示します。' },
-  { href: '/tools/case-converter/', title: '文字ケース変換ツール', desc: '大文字・小文字・キャメルケース・スネークケースなど様々な文字ケースに一括変換します。' },
-  { href: '/tools/markdown-previewer/', title: 'Markdownプレビューツール', desc: '入力したMarkdownテキストをその場でHTML形式にプレビュー表示する無料ツールです。' },
-  { href: '/tools/base64-tool/', title: 'Base64エンコード・デコードツール', desc: '日本語を含むテキストをBase64形式に相互変換できる無料ツールです。' },
-  { href: '/tools/image-size-checker/', title: '画像サイズ・印刷解像度チェッカー', desc: '画像のピクセル数から、印刷して何cmまで耐えられるかを判定します。アップロードは行いません。' },
-  { href: '/tools/video-size-calculator/', title: '動画ファイルサイズ計算ツール', desc: 'ビットレートと再生時間からファイルサイズを概算し、容量上限に収める必要ビットレートも逆算します。' },
+// 2026-11-22: AIツールと関係の薄い汎用ツール11本(BMI・積立・単位変換・QR・パスワード・文字ケース・Base64・JSON・Markdown・文字数・割引)を外した。
+// 旧URLは public/_redirects でこの一覧へ301。残す6本は、記事の主題(AIの料金・AI画像の印刷・動画の容量)とつながるもの。
+const groups = [
+  {
+    heading: 'AIのAPIとプロンプト',
+    tools: [
+      { href: '/tools/ai-api-cost-calculator/', title: 'AI API料金計算ツール', desc: 'OpenAI・Anthropic・Google のAPIの料金を、入力・出力のトークン数と月の呼び出し回数から概算します(公式単価・2026年11月3日確認)。' },
+      { href: '/tools/token-counter/', title: 'AIトークン数カウンター(概算)', desc: '貼り付けた文章を日本語の文字とそれ以外に分けて、おおよそのトークン数を出します。' },
+      { href: '/tools/ai-api-cost-tracker/', title: 'AI APIコスト管理・予算アラートツール', desc: 'APIに使った金額を記録し、今月の合計を月の予算と比べます。記録はブラウザの中だけに保存します。' },
+      { href: '/tools/prompt-builder/', title: 'AIプロンプト作成ツール', desc: 'やりたいこと・トーン・出力形式を選んで、AIチャットに貼り付ける指示の文を組み立てます。' },
+    ],
+  },
+  {
+    heading: '画像と動画',
+    tools: [
+      { href: '/tools/image-size-checker/', title: '画像サイズ・印刷解像度チェッカー', desc: '画像のピクセル数から、何cmまで印刷できるかと、目標の幅に足りるかを計算します。アップロードは行いません。' },
+      { href: '/tools/video-size-calculator/', title: '動画ファイルサイズ計算ツール', desc: 'ビットレートと再生時間からファイルサイズを概算し、容量の上限に収める映像ビットレートを逆算します。' },
+    ],
+  },
 ];
 ---
-<BaseLayout title="無料ツール一覧" description="文字数カウンター・AIトークン数カウンター・AI API料金計算・QRコード生成・画像の印刷解像度チェッカーなど、ブラウザだけで使える無料ツールの一覧です。">
+<BaseLayout title="無料ツール一覧" description="AI APIの料金の概算・トークン数の目安・API費用の記録・プロンプトの組み立て・AI画像の印刷解像度・動画の容量の計算ができる、ブラウザだけで動く無料ツール6本の一覧です。">
   <h1>無料ツール</h1>
-  <p>登録不要・インストール不要、ブラウザだけで使える実用ツールです。</p>
+  <p>記事で扱っている「AIの料金」「AIで作った画像の印刷」「動画の容量」の計算を、ブラウザだけで行えるツールです。登録やインストールは要りません。入力した値や画像はどこにも送信されません。各ツールのページに、計算式と前提、関係する記事を書いています。</p>
 
-  <AdSlot label="ツール一覧ページ広告" />
-
-  <div class="card-list">
-    {tools.map((tool) => (
-      <article class="card">
-        <h2><a href={tool.href}>{tool.title}</a></h2>
-        <p>{tool.desc}</p>
-      </article>
-    ))}
-  </div>
+  {groups.map((g) => (
+    <section>
+      <h2>{g.heading}</h2>
+      <div class="card-list">
+        {g.tools.map((tool) => (
+          <article class="card">
+            <h3><a href={tool.href}>{tool.title}</a></h3>
+            <p>{tool.desc}</p>
+          </article>
+        ))}
+      </div>
+    </section>
+  ))}
 </BaseLayout>

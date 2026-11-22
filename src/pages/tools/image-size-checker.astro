@@ -1,6 +1,5 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import AdSlot from '../../components/AdSlot.astro';
 import AffiliateDisclosure from '../../components/AffiliateDisclosure.astro';
 import { affiliateUrl, affiliatePixel, affiliateText } from '../../lib/affiliates';
 ---
@@ -16,7 +15,6 @@ import { affiliateUrl, affiliatePixel, affiliateText } from '../../lib/affiliate
   </p>
   <p class="meta"><strong>画像はどこにも送信されません。</strong>すべてブラウザの中だけで処理しています。</p>
 
-  <AdSlot label="ツール上部広告" />
 
   <p><input type="file" id="file" accept="image/*" /></p>
 
@@ -50,7 +48,6 @@ import { affiliateUrl, affiliatePixel, affiliateText } from '../../lib/affiliate
     <div class="card"><p id="verdict">-</p></div>
   </div>
 
-  <AdSlot label="ツール下部広告" />
 
   <h2>解像度が足りなかったら</h2>
   <p>
@@ -70,6 +67,28 @@ import { affiliateUrl, affiliatePixel, affiliateText } from '../../lib/affiliate
     <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
     <a class="cta" href={affiliateUrl('aiarty')} rel="sponsored nofollow">{affiliateText('aiarty')}</a><img border="0" width="1" height="1" src={affiliatePixel('aiarty')} alt="" />
   </div>
+
+
+  <section class="tool-about">
+    <h2>このツールで計算すること</h2>
+    <p>画面ではきれいに見える画像でも、紙に大きく印刷すると粗く見えることがあります。印刷の細かさは「1インチ(2.54cm)に何ピクセルを並べるか」(dpi)で決まるため、画像のピクセル数が分かれば、何cmまで印刷できるかを計算できます。このツールは、選んだ画像の幅と高さのピクセル数から、用途ごとの最大の印刷サイズと、目標の幅に足りるかを出します。</p>
+    <h3>計算式</h3>
+    <ul>
+      <li>印刷できる最大の長さ(cm)= ピクセル数 ÷ dpi × 2.54</li>
+      <li>目標の幅に必要なピクセル数 = 目標の幅(cm)÷ 2.54 × dpi(切り上げ)。足りないときは「必要なピクセル数 ÷ 画像の幅」を拡大の倍率として出します</li>
+    </ul>
+    <h3>前提</h3>
+    <ul>
+      <li>350dpi・200dpi・150dpi・96dpi は一般に使われる目安で、印刷所によって求める値は違います。入稿の前に印刷所の指定を確かめてください</li>
+      <li>画像はアップロードせず、ブラウザの中で幅と高さだけを読み取ります</li>
+    </ul>
+    <h3>関係する記事</h3>
+    <ul>
+      <li>足りないときの拡大ソフトの料金と無料版の範囲は <a href="/reviews/image-upscaler-comparison/">画像高画質化・拡大AIソフト4種の比較</a></li>
+      <li>古い写真をスキャンするときの解像度は <a href="/reviews/old-photo-restore-ai/">古い写真をAIで鮮明にする方法</a></li>
+      <li>生成AIの画像をチラシなどに使う前の条件は <a href="/reviews/ai-commercial-use-checklist/">生成AIの商用利用チェックリスト</a></li>
+    </ul>
+  </section>
 
   <p><a href="/tools/">&larr; 無料ツール一覧</a></p>
 
