@@ -22,6 +22,8 @@ PLAUD(プラウド)の費用は、**本体の買い切り価格**と、**AI文�
 
 この記事の価格は、PLAUDの日本公式ストア(jp.plaud.ai)の表示を**2026年10月21日**に確認し、**2026年11月3日**と**2026年11月12日**に再確認したものです(本体・プラン・文字起こしパッケージの価格に変更はありませんでした)。機種ごとの仕様は、公式の比較ページと各機種の商品ページを**2026年11月5日**に確認しました。セールや改定で変わることがあるため、購入前に公式ストアで最新の表示を確かめてください。当サイトは実機を使った検証はしていません。録音の聞き取りやすさや文字起こしの精度は測っておらず、公式の公開情報を整理した記事です。
 
+> 2026年のブラックフライデー(11月27日)に合わせたPLAUDの公式のセールの告知は、[AIツールのブラックフライデー2026](/reviews/ai-tools-black-friday-2026/)にまとめています(2026年11月22日確認)。
+
 ## 本体4機種の価格と仕様
 
 公式ストアで販売されている本体は4機種です。仕様は、日本公式サイトの[機種の比較ページ](https://jp.plaud.ai/pages/plaud-device-comparison)・[シリーズ比較ページ](https://jp.plaud.ai/pages/plaud-series-comparison)と、各機種の商品ページ([Note Pro](https://jp.plaud.ai/products/plaud-note-pro)・[Note](https://jp.plaud.ai/products/plaud-note-ai-voice-recorder)・[NotePin S](https://jp.plaud.ai/products/plaud-notepin-s)・[NotePin](https://jp.plaud.ai/products/notepin))の表示です(2026年11月5日確認。価格は税込・通常価格で、11月12日にも同じ表示を確認)。
