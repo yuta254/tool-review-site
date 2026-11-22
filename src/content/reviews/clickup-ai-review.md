@@ -1,5 +1,5 @@
 ---
-title: "ClickUp AI(ClickUp Brain)レビュー:プロジェクト管理に組み込まれたAI機能"
+title: "ClickUp AI(ClickUp Brain)とは:プロジェクト管理に組み込まれたAI機能と料金"
 seoTitle: "ClickUp AIとは:料金・AIクレジット・注意点"
 description: "ClickUpに組み込まれたAI機能(ClickUp Brain)でできること、料金プランごとのAIクレジット、注意点を公式の料金ページとヘルプの記載(2026年11月3日確認)から整理します。"
 pubDate: 2026-07-05

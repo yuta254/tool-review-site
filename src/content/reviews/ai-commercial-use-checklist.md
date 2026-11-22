@@ -68,10 +68,10 @@ AIアバター動画や音声クローンで実在の人物の顔や声を使う
 | --- | --- | --- | --- |
 | Suno(音楽) | 2026年9月3日からの規約では、商用利用できるのは有料プラン(Pro・Premier)の期間中にダウンロードした曲だけ。有料プランでダウンロードした曲の権利と商用利用は解約後も続くとされている | 無料のお試しダウンロードは個人・非商用のみ。リミックスはプランにかかわらず非商用のみ。ダウンロードは Pro が月20曲、Premier が月60曲まで | [Suno・Udioの比較](/reviews/ai-music-generation-comparison/) |
 | Udio(音楽) | 確認した公式ページ(料金ページ・ヘルプ)では、現在の商用利用の条件は見つからなかった | 2025年10月29日の Universal Music Group との提携の発表以降、音声・動画・ステムのダウンロードが停止中(公式ヘルプ) | [Suno・Udioの比較](/reviews/ai-music-generation-comparison/) |
-| Midjourney(画像) | 作成した画像は法律が許す範囲で利用者のもの。解約後もその扱いは続く | 年間売上100万米ドル超の会社(またはその従業員)は Pro か Mega が必要。画像は標準で公開され、非公開の Stealth Mode は Pro・Mega のみ | [Midjourneyレビュー](/reviews/midjourney-review/) |
-| Leonardo AI(画像) | 生成物は商用目的で使える。有料プランで非公開にして生成した場合は権利をユーザーが持つ | 無料プランの生成物は公開され、他のユーザーがコピーやリミックスに使える | [Leonardo AIレビュー](/reviews/leonardo-ai-review/) |
-| Ideogram(画像) | 利用規約(2024年8月14日改定)では生成物の所有権を主張せず、商用を含む利用を制限しない | 商用利用から生じる責任は負わないと明記。無料プランと旧Basicの画像は公開される(公式ヘルプ) | [Ideogramレビュー](/reviews/ideogram-review/) |
-| Adobe Firefly(画像) | 商用利用に適しているとされるのは Firefly のモデルで生成したもの | Google・OpenAI・Flux などのパートナーモデルで生成したものは、適しているかを利用者が判断する。知的財産の補償は対象のエンタープライズ顧客向け | [Adobe Fireflyレビュー](/reviews/adobe-firefly-review/) |
+| Midjourney(画像) | 作成した画像は法律が許す範囲で利用者のもの。解約後もその扱いは続く | 年間売上100万米ドル超の会社(またはその従業員)は Pro か Mega が必要。画像は標準で公開され、非公開の Stealth Mode は Pro・Mega のみ | [Midjourneyの記事](/reviews/midjourney-review/) |
+| Leonardo AI(画像) | 生成物は商用目的で使える。有料プランで非公開にして生成した場合は権利をユーザーが持つ | 無料プランの生成物は公開され、他のユーザーがコピーやリミックスに使える | [Leonardo AIの記事](/reviews/leonardo-ai-review/) |
+| Ideogram(画像) | 利用規約(2024年8月14日改定)では生成物の所有権を主張せず、商用を含む利用を制限しない | 商用利用から生じる責任は負わないと明記。無料プランと旧Basicの画像は公開される(公式ヘルプ) | [Ideogramの記事](/reviews/ideogram-review/) |
+| Adobe Firefly(画像) | 商用利用に適しているとされるのは Firefly のモデルで生成したもの | Google・OpenAI・Flux などのパートナーモデルで生成したものは、適しているかを利用者が判断する。知的財産の補償は対象のエンタープライズ顧客向け | [Adobe Fireflyの記事](/reviews/adobe-firefly-review/) |
 | Canva(デザイン) | 無料素材もプロ素材も、広告・販促物・印刷物などの商用のデザインに使える(コンテンツ使用許諾契約) | 素材の再販売、商標・ロゴの一部としての使用(フォントを除く)、素材を単体でTシャツなどにして売ることは禁止。種類の違う素材が混ざると、最も厳しい条件がデザイン全体に適用 | [Canva Proの解説](/reviews/canva-pro-review/) |
 
 ## ツール種別ごとの要注意点

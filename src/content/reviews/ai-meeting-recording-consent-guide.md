@@ -80,7 +80,7 @@ AI議事録の導入は、たいてい「どのツールを選ぶか」から始
 
 注意したいのは、Otter Notetaker はカレンダーをつなぐと、**標準の設定では会議リンクがある予定すべてに自動で参加する**ことです(公式ヘルプ)。社外の会議に意図せず入らないよう、使い始める前に自動参加の設定(「自分が主催の会議」「手動で選んだ会議」など)を確かめてください。録音前のお知らせメールが最初から「オン」かどうかは、確認したヘルプでははっきりしませんでした。
 
-詳しくは[Zoom AI Companionレビュー](/reviews/zoom-ai-companion-review/)と[Otter.aiレビュー](/reviews/otter-ai-review/)を参照してください。
+詳しくは[Zoom AI Companionの記事](/reviews/zoom-ai-companion-review/)と[Otter.aiの記事](/reviews/otter-ai-review/)を参照してください。
 
 ## 決まったらツールを選ぶ
 

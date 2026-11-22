@@ -28,7 +28,7 @@ Geminiの個人向け有料プランは、以前の「Gemini Advanced」から�
 | 出典 | [ChatGPTの料金ページ](https://chatgpt.com/ja-JP/pricing/) | [Claudeの料金ページ](https://claude.com/pricing)(米ドル・税別) | [Geminiのプランのページ](https://gemini.google/jp/subscriptions/?hl=ja) |
 
 - ChatGPTには Plus より安い **Go(月額¥1,400)** もあります。料金ページでは、Go には広告が表示される場合があると案内されています。
-- Google AI Pro には5TBのストレージが含まれます。Google AI Plus は、確認した2つの公式ページで金額と容量の表示が異なっていました(詳しくは[Google Geminiレビュー](/reviews/google-gemini-review/))。
+- Google AI Pro には5TBのストレージが含まれます。Google AI Plus は、確認した2つの公式ページで金額と容量の表示が異なっていました(詳しくは[Google Geminiの記事](/reviews/google-gemini-review/))。
 
 ## 比較の観点
 
@@ -44,11 +44,11 @@ OpenAIが提供するサービスです。公式の料金ページによると�
 
 ### Claude Pro
 
-Anthropicが提供するサービスです。公式ヘルプによると、有料プランで使える会話の長さ(コンテキストウィンドウ)はモデルによって20万〜100万トークンで、長い文書やコードをまとめて渡す使い方に向きます。Pro では開発者向けの「Claude Code」や、複数の情報源を調べてまとめる「Research」が使えます。外部サービスとは「コネクタ」でつなげられます。一方、写真やイラストのような画像の生成には対応していません。詳しくは[Claudeレビュー](/reviews/claude-ai-review/)を参照してください。
+Anthropicが提供するサービスです。公式ヘルプによると、有料プランで使える会話の長さ(コンテキストウィンドウ)はモデルによって20万〜100万トークンで、長い文書やコードをまとめて渡す使い方に向きます。Pro では開発者向けの「Claude Code」や、複数の情報源を調べてまとめる「Research」が使えます。外部サービスとは「コネクタ」でつなげられます。一方、写真やイラストのような画像の生成には対応していません。詳しくは[Claudeの記事](/reviews/claude-ai-review/)を参照してください。
 
 ### Google AI Pro(Gemini)
 
-Googleが提供するサービスです。Geminiアプリから Gmail・Googleドキュメント・ドライブの内容を探して要約したり、Gmail・ドキュメントの画面の中でGeminiを使ったりできます(Google AI Pro の場合)。Google AI Pro には Pro モデル、Deep Research、100万トークンのコンテキストウィンドウ、5TBのストレージが含まれます。ただし、どこまでつながるかは使う場所と契約プランで変わります。詳しくは[Google Geminiレビュー](/reviews/google-gemini-review/)を参照してください。
+Googleが提供するサービスです。Geminiアプリから Gmail・Googleドキュメント・ドライブの内容を探して要約したり、Gmail・ドキュメントの画面の中でGeminiを使ったりできます(Google AI Pro の場合)。Google AI Pro には Pro モデル、Deep Research、100万トークンのコンテキストウィンドウ、5TBのストレージが含まれます。ただし、どこまでつながるかは使う場所と契約プランで変わります。詳しくは[Google Geminiの記事](/reviews/google-gemini-review/)を参照してください。
 
 ## どれを選ぶべきか(タイプ別)
 

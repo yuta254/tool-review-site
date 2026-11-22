@@ -203,4 +203,4 @@ v0 の Publish メニューの「Customize Domain」か、プロジェクトの 
 ツールの中で買うと、DNSの設定をしなくても接続まで進むのが利点です(Bolt や Replit の公式ドキュメントで案内されています)。ドメイン会社で取得すると、公開先のツールを変えてもドメインをそのまま使い続けやすくなります。後でツールを乗り換える可能性があるなら、ドメインは独立して持っておく方が身軽です。
 
 **Q. Framer のサイトを独自ドメインで公開できますか。**
-有料プラン(Basic 月10ドル〜)にすると、持っているドメインを接続できます。年払いの有料プランには、ドメインを1つ無料で取得できる特典があります。各ツールの位置づけは[Framer AIレビュー](/reviews/framer-ai-review/)、[Bolt.newレビュー](/reviews/bolt-new-review/)、[v0レビュー](/reviews/v0-review/)、[Replit Agentレビュー](/reviews/replit-agent-review/)も参照してください。
+有料プラン(Basic 月10ドル〜)にすると、持っているドメインを接続できます。年払いの有料プランには、ドメインを1つ無料で取得できる特典があります。各ツールの位置づけは[Framer AIの記事](/reviews/framer-ai-review/)、[Bolt.newの記事](/reviews/bolt-new-review/)、[v0の記事](/reviews/v0-review/)、[Replit Agentの記事](/reviews/replit-agent-review/)も参照してください。

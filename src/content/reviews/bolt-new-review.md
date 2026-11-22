@@ -1,5 +1,5 @@
 ---
-title: "Bolt.newレビュー：ブラウザだけでフルスタックアプリを一気に形にするAIビルダー"
+title: "Bolt.newとは:ブラウザだけでフルスタックアプリを作るAIビルダーの料金と機能"
 seoTitle: "Bolt.newとは:料金とブラウザでのアプリ生成"
 description: "StackBlitzのBolt.newで、フルスタックアプリをブラウザ完結でどこまで作れるかを、公開情報をもとに整理します。"
 pubDate: 2026-07-06

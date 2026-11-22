@@ -42,7 +42,7 @@ AIを足す前に、情報と権限を整えておくことが前提になりま
 
 ### Microsoft 365 Copilot
 
-Word・Excel・PowerPoint・Outlook・Teamsの中で、文書の下書き、データ分析、メールスレッドや会議の要約などを行います。Copilotが表示するのは、そのユーザーが閲覧権限を持つ組織データだけで、**既存の権限設定がそのまま効く**と公式に説明されています。権限が緩いまま入れると、見えるべきでない情報が要約に混ざるおそれがあるため、導入前の権限の棚卸しが欠かせません。料金ページによると、Copilot Cowork・Copilot Autopilotなどの高度な機能は使った量に応じた従量課金です。詳しくは[Microsoft 365 Copilotレビュー](/reviews/microsoft-copilot-review/)を参照してください。
+Word・Excel・PowerPoint・Outlook・Teamsの中で、文書の下書き、データ分析、メールスレッドや会議の要約などを行います。Copilotが表示するのは、そのユーザーが閲覧権限を持つ組織データだけで、**既存の権限設定がそのまま効く**と公式に説明されています。権限が緩いまま入れると、見えるべきでない情報が要約に混ざるおそれがあるため、導入前の権限の棚卸しが欠かせません。料金ページによると、Copilot Cowork・Copilot Autopilotなどの高度な機能は使った量に応じた従量課金です。詳しくは[Microsoft 365 Copilotの記事](/reviews/microsoft-copilot-review/)を参照してください。
 
 ### Notion AI
 

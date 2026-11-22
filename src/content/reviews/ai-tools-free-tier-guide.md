@@ -47,7 +47,7 @@ tags: ["無料", "料金", "AIツール", "使い分け", "コスト"]
 | Notta(文字起こし) | フリーは期限なしで月120分。ただし1回の文字起こしは3分まで。プレミアムの3日間無料トライアルは、終わると年間プランに自動で切り替わる | 従量枠型(+試用型のトライアル) | 11/3・[Nottaの料金](/reviews/notta-price-plans/) |
 | PLAUD(AIボイスレコーダー) | 本体を買うと Starter で毎月300分の文字起こし。本体は有料 | 従量枠型 | 11/3・[PLAUDの料金](/reviews/plaud-note-price-plans/) |
 | Notta Memo(AIボイスレコーダー) | 本体を登録すると Nottaハードウェアプランで毎月600分。本体は有料 | 従量枠型 | 11/3・[Notta MemoとPLAUD Noteの違い](/reviews/notta-memo-vs-plaud-note/) |
-| GitHub Copilot | Free はコード補完が月2,000回まで、チャットやエージェントは少量。Pro の無料トライアルは2026年4月から停止中 | 従量枠型 | 10/27・[GitHub Copilotのレビュー](/reviews/github-copilot-review/) |
+| GitHub Copilot | Free はコード補完が月2,000回まで、チャットやエージェントは少量。Pro の無料トライアルは2026年4月から停止中 | 従量枠型 | 10/27・[GitHub Copilotの記事](/reviews/github-copilot-review/) |
 | Todoist | タスク管理は無料から使える。無料の初心者プランのAIは、Filter Assist(英語とスペイン語のみ)と、音声入力・Task Capture Assist の合計で月10回まで | 恒久無料型(AIは一部) | 11/12・[Todoist AI](/reviews/todoist-ai-review/) |
 | Motion | 無料で使い続けられるプランはなく、有料プランの無料トライアルのみ | 試用型 | 10/31・[Motion](/reviews/motion-review/) |
 | Zoom(AI機能・My Notes) | 無料のベーシックでは My Notes が月3回まで | 従量枠型 | 10/22・[Zoom AI Companion](/reviews/zoom-ai-companion-review/) |
@@ -60,8 +60,8 @@ tags: ["無料", "料金", "AIツール", "使い分け", "コスト"]
 
 当サイトのレビューを横断すると、無料枠のまま業務で回しやすいのはこのあたりです。
 
-- **動画編集**: SNS向けの編集は無料版でも実用範囲に入ります([CapCutレビュー](/reviews/capcut-review/))。動画の変換・圧縮のソフトも無料版で主な機能を試せますが、扱える動画の長さ(5分未満など)やAI機能の書き出し本数に上限があるものがあります([VideoProc Converter AIの解説](/reviews/videoproc-converter-ai-review/))
-- **デザイン**: 単発の資料やSNS画像なら無料で足ります([Canva Proレビュー](/reviews/canva-pro-review/))
+- **動画編集**: SNS向けの編集は無料版でも実用範囲に入ります([CapCutの記事](/reviews/capcut-review/))。動画の変換・圧縮のソフトも無料版で主な機能を試せますが、扱える動画の長さ(5分未満など)やAI機能の書き出し本数に上限があるものがあります([VideoProc Converter AIの解説](/reviews/videoproc-converter-ai-review/))
+- **デザイン**: 単発の資料やSNS画像なら無料で足ります([Canva Proの記事](/reviews/canva-pro-review/))
 - **AIチャット**: 調べ物と文章の相談程度なら無料版で回ります([AIチャット3種の比較](/reviews/chatgpt-claude-gemini-comparison/))
 - **リサーチ**: 1日に何度も深い調査をしないなら無料で足ります([Genspark・Perplexity・NotebookLMの違い](/reviews/genspark-perplexity-notebooklm-difference/))
 

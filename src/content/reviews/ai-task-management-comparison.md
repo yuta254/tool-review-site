@@ -28,7 +28,7 @@ tags: ["Motion", "Reclaim.ai", "Todoist", "Todoist Assist", "ClickUp", "Notion A
 | Reclaim.ai | あり(Lite。1人で利用、予定を組む範囲は1週間先まで、カレンダー同期は1つ) | Starter:1人あたり月10ドル(年払い)/月12ドル(月払い) | 今のカレンダーの空き時間へのタスク・習慣・集中時間の自動配置 |
 | Todoist | あり(初心者プラン。AIは Filter Assist と回数制限付きの音声入力) | プロ:年払いで8,064円(月あたり672円) | タスクの分解・書き直し、メールのタスク化など。スケジュールの自動配置はしない |
 
-料金はAIに任せる範囲の広さとほぼ比例しています。**まず無料で始めたいなら Reclaim.ai か Todoist**、**最初から丸ごと任せたいなら Motion のトライアル**、という入り方になります。各ツールの詳しい料金は[Motionレビュー](/reviews/motion-review/)、[Reclaim.aiレビュー](/reviews/reclaim-ai-review/)、[Todoist AIレビュー](/reviews/todoist-ai-review/)にまとめています。
+料金はAIに任せる範囲の広さとほぼ比例しています。**まず無料で始めたいなら Reclaim.ai か Todoist**、**最初から丸ごと任せたいなら Motion のトライアル**、という入り方になります。各ツールの詳しい料金は[Motionの記事](/reviews/motion-review/)、[Reclaim.aiの記事](/reviews/reclaim-ai-review/)、[Todoist AIの記事](/reviews/todoist-ai-review/)にまとめています。
 
 ## 比較の観点
 
@@ -60,7 +60,7 @@ Motionのように独自のカレンダー環境を新しく作るのではな�
 
 個人の予定を自動で組むことより、チームのタスクや資料をまとめて管理したい場合は、プロジェクト管理ツールに組み込まれたAIも候補になります。
 
-- **ClickUp(ClickUp Brain²)**:タスクやコメントの要約、サブタスクの作成、スタンドアップや進捗報告の下書きなど。各プランに一定量のAIクレジットが含まれ、無料の Free Forever はワークスペースあたり500クレジットの試用です([公式料金ページ](https://clickup.com/pricing))。詳しくは[ClickUp AIレビュー](/reviews/clickup-ai-review/)
+- **ClickUp(ClickUp Brain²)**:タスクやコメントの要約、サブタスクの作成、スタンドアップや進捗報告の下書きなど。各プランに一定量のAIクレジットが含まれ、無料の Free Forever はワークスペースあたり500クレジットの試用です([公式料金ページ](https://clickup.com/pricing))。詳しくは[ClickUp AIの記事](/reviews/clickup-ai-review/)
 - **Notion AI**:Notion 内のページの要約・整形、AIミーティングノートなど。[公式料金ページ](https://www.notion.com/ja/pricing)では、AI機能をフルに使えるのはビジネス(1シートあたり年払いで月¥3,150)以上で、フリー・プラスは「Notion AIの体験版」の扱いです。詳しくは[業務ツール内蔵AIの比較](/reviews/ai-office-productivity-comparison/)。Microsoft 365 Copilot・Slack・Zoom の内蔵AIと必要なプランを並べた比較は[業務ツール内蔵AIの比較](/reviews/ai-office-productivity-comparison/)にあります
 
 どちらも、ツールにタスクや資料が入っていることが前提のAIです。AI機能だけを目的に導入しても、材料がなければ使い道は限られます。

@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 Copilotレビュー:Word・Excel・Teamsでできることと料金"
+title: "Microsoft 365 Copilotとは:Word・Excel・Teamsでできることと料金"
 seoTitle: "Microsoft 365 Copilotの料金とできること"
 description: "Word/Excel/PowerPoint/Outlook/Teamsに統合されたMicrosoft 365 Copilotでできること、法人向けの料金(円)、無料のCopilot Chatとの違い、データの扱いを公式情報で整理します(2026年11月3日確認)。"
 pubDate: 2026-07-06

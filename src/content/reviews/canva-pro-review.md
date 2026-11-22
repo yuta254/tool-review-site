@@ -175,8 +175,8 @@ Canvaプロは1つのアカウントを1人だけが使えるプランです。�
 
 ## 関連する記事と無料ツール
 
-- 画像の生成をAIに任せたい場合は[AI画像生成ツールの比較](/reviews/ai-image-generation-comparison/)、商品写真の背景処理に絞るなら[Photoroomレビュー](/reviews/photoroom-review/)も参照してください。
-- 資料やスライドを文章から作りたい場合は[Gammaレビュー](/reviews/gamma-review/)が近い用途です。
+- 画像の生成をAIに任せたい場合は[AI画像生成ツールの比較](/reviews/ai-image-generation-comparison/)、商品写真の背景処理に絞るなら[Photoroomの記事](/reviews/photoroom-review/)も参照してください。
+- 資料やスライドを文章から作りたい場合は[Gammaの記事](/reviews/gamma-review/)が近い用途です。
 - 有料プランの料金が安い別のデザインツールと比べたい場合は、[MiriCanvasの無料プランとCanvaとの違い](/reviews/miricanvas-free-plan-vs-canva/)に料金と無料でできることを整理しています。
 
 テンプレートに載せる素材の解像度は見落としがちです。[画像サイズ・印刷解像度チェッカー](/tools/image-size-checker/)で、持ち込む画像が印刷に耐えるかを先に確認できます。

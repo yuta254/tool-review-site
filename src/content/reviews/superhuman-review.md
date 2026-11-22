@@ -70,4 +70,4 @@ Superhuman Mail 単体のプランです(米ドル・1人あたり)。
 返信の下書き生成だけが目的なら、GmailやOutlookに組み込まれたAI機能でも用が足りる場合があります。Superhuman自身も、GmailやOutlookの中で動く「Email Assistant」を案内しています。Superhuman Mailの特徴は操作体系そのものです。
 
 **Q. Grammarlyとは別の会社ですか。**
-同じ会社です。Grammarlyの会社がSuperhumanを買収し、会社名をSuperhumanに変えました。Grammarlyは文章作成支援の製品として続いており、Superhuman Mailと同じ会社の製品群に入っています。Grammarlyについては[Grammarlyレビュー](/reviews/grammarly-review/)も参照してください。
+同じ会社です。Grammarlyの会社がSuperhumanを買収し、会社名をSuperhumanに変えました。Grammarlyは文章作成支援の製品として続いており、Superhuman Mailと同じ会社の製品群に入っています。Grammarlyについては[Grammarlyの記事](/reviews/grammarly-review/)も参照してください。

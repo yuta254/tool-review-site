@@ -1,5 +1,5 @@
 ---
-title: "Gensparkレビュー:調べ物から資料作りまで任せるAIワークスペースの特徴と注意点"
+title: "Gensparkとは:調べ物から資料作りまで任せるAIワークスペースの特徴と注意点"
 seoTitle: "Genspark Sparkpageとは:現在の機能と料金"
 description: "GensparkのSparkpageは調べた内容を1枚にまとめるページでしたが、現在の公式ヘルプの機能一覧にはなく、中心はSuper Agentです。料金(Free・Plus・Pro・Team)と、アフィリエイト(紹介)プログラムの公式の案内が見つからない点を公式情報で整理しました(2026年11月6日確認)。"
 pubDate: 2026-07-06

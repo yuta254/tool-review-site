@@ -102,9 +102,9 @@ ProとMaxは1人用で、複数人で共有できないと書かれています�
 
 エージェント的に動くAIは、ほかにも次のような形で提供されています。任せてよい操作の線引きは同じです。
 
-- **Comet(Perplexity)**: ブラウザそのものにAIアシスタントを組み込み、ページの要約や、Webサイト上の操作を代わりに進める「エージェント型ブラウジング」を備えています。公式ヘルプの対応OSはWindows 10・11とmacOS 13以降です。詳しくは[Cometレビュー](/reviews/perplexity-comet-review/)を参照してください。
+- **Comet(Perplexity)**: ブラウザそのものにAIアシスタントを組み込み、ページの要約や、Webサイト上の操作を代わりに進める「エージェント型ブラウジング」を備えています。公式ヘルプの対応OSはWindows 10・11とmacOS 13以降です。詳しくは[Cometの記事](/reviews/perplexity-comet-review/)を参照してください。
 - **ChatGPT Atlas(OpenAI)**: OpenAIの公式ヘルプで**提供終了(retired)**と案内されています。代わりに、ChatGPTデスクトップアプリ(macOS・Windows)の内蔵ブラウザと、Chrome用のChatGPT拡張機能が案内されています。詳しくは[AIブラウザの現状(Atlas の提供終了)](/reviews/perplexity-comet-review/)を参照してください。
-- **Genspark**: 調べ物からスライド・資料・Webページなどの成果物づくりまでを任せる「Super Agent」を中心にしたAIワークスペースです。料金はFree・Plus(月24.99ドル)・Pro(月249.99ドル)・Teamなどで、無料版のクレジットには生涯の上限があります。詳しくは[Gensparkレビュー](/reviews/genspark-review/)を参照してください。
+- **Genspark**: 調べ物からスライド・資料・Webページなどの成果物づくりまでを任せる「Super Agent」を中心にしたAIワークスペースです。料金はFree・Plus(月24.99ドル)・Pro(月249.99ドル)・Teamなどで、無料版のクレジットには生涯の上限があります。詳しくは[Gensparkの記事](/reviews/genspark-review/)を参照してください。
 
 ## コーディング支援AIとの違い
 

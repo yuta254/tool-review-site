@@ -122,7 +122,7 @@ Replit の「[共同責任モデル](https://docs.replit.com/features/security/s
 
 - 毎月の費用を固定したい人。有料モードと公開の費用はクレジットから引かれ、使い切ると使った分の料金がかかります。予算の上限を先に設定してください。
 - 個人情報や決済を扱うアプリを、そのまま本番で使いたい人。Agent が作ったコードの確認は利用者の責任とドキュメントに明記されています。
-- 生成されたコードを手元に持ってきて、自分の環境で育てたい人。その場合は[Bolt.newレビュー](/reviews/bolt-new-review/)や[v0レビュー](/reviews/v0-review/)、コードを書く人向けの[Cursorレビュー](/reviews/cursor-review/)も比べてみてください。
+- 生成されたコードを手元に持ってきて、自分の環境で育てたい人。その場合は[Bolt.newの記事](/reviews/bolt-new-review/)や[v0の記事](/reviews/v0-review/)、コードを書く人向けの[Cursorの記事](/reviews/cursor-review/)も比べてみてください。
 
 ## 使い方のコツ
 

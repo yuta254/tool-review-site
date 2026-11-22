@@ -48,7 +48,8 @@ const articleLd = {
   ...(review.data.updatedDate && { dateModified: jstIso(review.data.updatedDate) }),
   articleSection: review.data.category,
   keywords: review.data.tags.join(', '),
-  author: publisher,
+  // 作成者は運営者(about に運営者情報と編集方針を書いている)。2026-11-22
+  author: { '@type': 'Organization', name: 'AI Tool Lab', url: new URL('/about/', Astro.site).toString() },
   publisher,
 };
 
