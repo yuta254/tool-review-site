@@ -3,6 +3,7 @@ title: "AIツールのブラックフライデー2026:公式のセール情報�
 seoTitle: "AIツールのブラックフライデー2026:公式セール一覧"
 description: "2026年のブラックフライデー(11月27日)に向けてAdobe・VideoProc・Aiarty・Notta Memo・PLAUD・ElevenLabs・Krispが公式に出したセールの割引・期間・更新後の料金を一覧に。2025年の実績も記載。"
 pubDate: 2026-11-23
+updatedDate: 2026-11-27
 category: "ガイド"
 tags: ["ブラックフライデー", "セール", "料金", "AIツール", "サイバーマンデー"]
 ---
@@ -236,13 +237,14 @@ Adobe の年間プランの月々払いは、15日目以降に解約すると残
 - **PLAUD の米国のセットの、プランの割引が1年目だけかどうか**: 記載がありません
 - **Notta Memo のセールの終了時刻**: 12月7日(月)とあるだけです
 - **Canva の4か月目以降の料金**: 「最初の3か月間は割引価格で毎月請求」とだけ書かれています
-- **2026年に Amazon でセールをするか(PLAUD・Notta)**: 公式の発表は見当たりませんでした
+- **2026年に Amazon でセールをするか(PLAUD・Notta)**: メーカーの公式の発表は見当たりませんでした。ただし2026年11月27日に、Amazon の公式店の商品ページには「ブラックフライデー先行セール」の表示があり、Notta Memo(32GB)14,100円・Notta Memo Pro 22,275円・Plaud Note Pro 23,760円(参考価格29,700円)・Plaud NotePin S 22,880円(参考価格28,600円)と出ていました。楽天市場の PLAUD 公式店は「12月10日まで」の割引(PLAUD NOTE 30%OFF・Note Pro 20%OFF)を表示しています。Amazon と楽天の価格は日々変わるため、購入前に各店の表示を確かめてください
 
 <div class="affiliate-box" data-pr="nottamemo">
   <p><strong>PR</strong>｜Notta Memo のセール価格は公式ストアで確認できます</p>
   <p>公式ストアの特設ページでは、2026年11月27日0時〜12月7日に Notta Memo が14,100円(定価23,500円・税込)と案内されています(2026年11月22日確認)。対象製品と在庫は変わることがあるので、購入前に公式ストア(<a data-pr="nottamemo" href="https://px.a8.net/svt/ejp?a8mat=4BGCF7+FKUCMQ+5988+BX3J6" rel="sponsored nofollow">【Notta Memo】</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BGCF7+FKUCMQ+5988+BX3J6" alt="" data-pr="nottamemo">)で最新の表示を確かめてください。</p>
   <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
   <a class="cta" data-pr="nottamemo" href="https://px.a8.net/svt/ejp?a8mat=4BGCF7+FKUCMQ+5988+BX3J6" rel="sponsored nofollow">【Notta Memo】</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BGCF7+FKUCMQ+5988+BX3J6" alt="" data-pr="nottamemo">
+  <p>Amazon と楽天市場にも Notta・PLAUD の公式店があります(2026年11月27日確認)。セールの価格は店ごとに違うので、公式ストアと並べて確かめてください。<br><a href="https://af.moshimo.com/af/c/click?a_id=5886457&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DNotta%2BMemo" rel="sponsored nofollow" referrerpolicy="no-referrer-when-downgrade">AmazonでNotta Memoを探す</a><img src="https://i.moshimo.com/af/i/impression?a_id=5886457&p_id=170&pc_id=185&pl_id=4062" width="1" height="1" style="border:none;" alt="" loading="lazy"> / <a href="https://af.moshimo.com/af/c/click?a_id=5886456&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNotta%2BMemo%2F" rel="sponsored nofollow" referrerpolicy="no-referrer-when-downgrade">楽天市場でNotta Memoを探す</a><img src="https://i.moshimo.com/af/i/impression?a_id=5886456&p_id=54&pc_id=54&pl_id=616" width="1" height="1" style="border:none;" alt="" loading="lazy"><br><a href="https://af.moshimo.com/af/c/click?a_id=5886457&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DPLAUD%2BNOTE" rel="sponsored nofollow" referrerpolicy="no-referrer-when-downgrade">AmazonでPLAUD NOTEを探す</a><img src="https://i.moshimo.com/af/i/impression?a_id=5886457&p_id=170&pc_id=185&pl_id=4062" width="1" height="1" style="border:none;" alt="" loading="lazy"> / <a href="https://af.moshimo.com/af/c/click?a_id=5886456&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPLAUD%2BNOTE%2F" rel="sponsored nofollow" referrerpolicy="no-referrer-when-downgrade">楽天市場でPLAUD NOTEを探す</a><img src="https://i.moshimo.com/af/i/impression?a_id=5886456&p_id=54&pc_id=54&pl_id=616" width="1" height="1" style="border:none;" alt="" loading="lazy"></p>
 </div>
 
 ## よくある質問
