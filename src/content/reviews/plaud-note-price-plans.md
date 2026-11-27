@@ -228,6 +228,7 @@ PLAUDの日本公式サイトは、正規品を扱う販売先として、公式
   <p>本体と年間プランのセット販売もあります。セール中は価格が変わることがあるので、購入前に公式ストア(<a data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="" data-pr="plaud">)で最新の表示を確かめてください。</p>
   <p><em>※当サイトでは未検証です。料金・対応環境・最新の条件は公式サイトでご確認ください。</em></p>
   <a class="cta" data-pr="plaud" href="https://px.a8.net/svt/ejp?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" rel="sponsored nofollow">PLAUD NOTE</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BC0UI+5QLFOY+5J4W+5YZ76" alt="" data-pr="plaud">
+  <p>PLAUD は Amazon と楽天市場にも公式店があります(2026年11月27日確認)。価格は店ごとに違います。<br><a href="https://af.moshimo.com/af/c/click?a_id=5886457&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DPLAUD%2BNOTE" rel="sponsored nofollow" referrerpolicy="no-referrer-when-downgrade">AmazonでPLAUD NOTEを探す</a><img src="https://i.moshimo.com/af/i/impression?a_id=5886457&p_id=170&pc_id=185&pl_id=4062" width="1" height="1" style="border:none;" alt="" loading="lazy"> / <a href="https://af.moshimo.com/af/c/click?a_id=5886456&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPLAUD%2BNOTE%2F" rel="sponsored nofollow" referrerpolicy="no-referrer-when-downgrade">楽天市場でPLAUD NOTEを探す</a><img src="https://i.moshimo.com/af/i/impression?a_id=5886456&p_id=54&pc_id=54&pl_id=616" width="1" height="1" style="border:none;" alt="" loading="lazy"></p>
 </div>
 
 ## よくある質問
