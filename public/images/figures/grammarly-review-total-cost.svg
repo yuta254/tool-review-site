@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="403" viewBox="0 0 760 403" font-family="'Hiragino Sans','Noto Sans JP','Yu Gothic',sans-serif" role="img" aria-labelledby="t d">
+<title id="t">Grammarly Proの支払い方ごとの総額</title>
+<desc id="d">Grammarly Proの総額。1年では月払い360ドル、3か月払い240ドル、年払い144ドル。2年では720ドル、480ドル、288ドル。</desc>
+<rect x="0" y="0" width="760" height="403" fill="#ffffff"/>
+<rect x="0.5" y="0.5" width="759" height="402" fill="none" stroke="#e5e7eb" rx="6"/>
+<text x="24.0" y="38.0" font-size="19" fill="#111827" font-weight="bold">Grammarly Proの支払い方ごとの総額</text>
+<text x="24.0" y="59.0" font-size="13" fill="#4b5563">単位: 米ドル(税は含めない)。円の目安は1ドル=150円</text>
+<rect x="24" y="68" width="14" height="14" rx="2" fill="#1d4ed8"/>
+<text x="44.0" y="80.0" font-size="13" fill="#111827">1年</text>
+<rect x="87.06" y="68" width="14" height="14" rx="2" fill="#93c5fd"/>
+<text x="107.1" y="80.0" font-size="13" fill="#111827">2年</text>
+<text x="736.0" y="107.0" font-size="12" fill="#6b7280" text-anchor="end">2年の円の目安</text>
+<text x="24.0" y="144.0" font-size="14" fill="#111827" font-weight="bold">月払い</text>
+<text x="24.0" y="161.0" font-size="12" fill="#6b7280">30ドル×12か月</text>
+<rect x="127.8" y="129.0" width="191.1" height="16" rx="2" fill="#1d4ed8"/>
+<text x="324.8" y="141.5" font-size="12.5" fill="#111827">360ドル</text>
+<rect x="127.8" y="149.0" width="382.1" height="16" rx="2" fill="#93c5fd"/>
+<text x="515.9" y="161.5" font-size="12.5" fill="#111827">720ドル</text>
+<text x="736.0" y="152.0" font-size="13" fill="#111827" text-anchor="end">約108,000円</text>
+<line x1="24" y1="173.0" x2="736" y2="173.0" stroke="#e5e7eb"/>
+<text x="24.0" y="196.0" font-size="14" fill="#111827" font-weight="bold">3か月払い</text>
+<text x="24.0" y="213.0" font-size="12" fill="#6b7280">60ドル×4回</text>
+<rect x="127.8" y="181.0" width="127.4" height="16" rx="2" fill="#1d4ed8"/>
+<text x="261.1" y="193.5" font-size="12.5" fill="#111827">240ドル</text>
+<rect x="127.8" y="201.0" width="254.7" height="16" rx="2" fill="#93c5fd"/>
+<text x="388.5" y="213.5" font-size="12.5" fill="#111827">480ドル</text>
+<text x="736.0" y="204.0" font-size="13" fill="#111827" text-anchor="end">約72,000円</text>
+<line x1="24" y1="225.0" x2="736" y2="225.0" stroke="#e5e7eb"/>
+<text x="24.0" y="248.0" font-size="14" fill="#111827" font-weight="bold">年払い</text>
+<text x="24.0" y="265.0" font-size="12" fill="#6b7280">144ドル</text>
+<rect x="127.8" y="233.0" width="76.4" height="16" rx="2" fill="#1d4ed8"/>
+<text x="210.2" y="245.5" font-size="12.5" fill="#111827">144ドル</text>
+<rect x="127.8" y="253.0" width="152.8" height="16" rx="2" fill="#93c5fd"/>
+<text x="286.6" y="265.5" font-size="12.5" fill="#111827">288ドル</text>
+<text x="736.0" y="256.0" font-size="13" fill="#111827" text-anchor="end">約43,200円</text>
+<line x1="24" y1="277.0" x2="736" y2="277.0" stroke="#e5e7eb"/>
+<text x="24.0" y="308.0" font-size="14" fill="#111827" font-weight="bold">年払いで3人</text>
+<rect x="127.8" y="285.0" width="229.3" height="16" rx="2" fill="#1d4ed8"/>
+<text x="363.0" y="297.5" font-size="12.5" fill="#111827">432ドル</text>
+<rect x="127.8" y="305.0" width="458.5" height="16" rx="2" fill="#93c5fd"/>
+<text x="592.3" y="317.5" font-size="12.5" fill="#111827">864ドル</text>
+<text x="736.0" y="308.0" font-size="13" fill="#111827" text-anchor="end">約129,600円</text>
+<line x1="127.8" y1="121.0" x2="127.8" y2="329.0" stroke="#9ca3af"/>
+<line x1="24" y1="339" x2="736" y2="339" stroke="#e5e7eb"/>
+<text x="24.0" y="363.0" font-size="12" fill="#4b5563">1年続けるなら、年払いは月払いより216ドル安い</text>
+<text x="24.0" y="383.0" font-size="12" fill="#6b7280">出所: 2026年11月 記事の表より作成</text>
+</svg>

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="403" viewBox="0 0 760 403" font-family="'Hiragino Sans','Noto Sans JP','Yu Gothic',sans-serif" role="img" aria-labelledby="t d">
+<title id="t">DeepLのプラン別の料金と1か月の上限</title>
+<desc id="d">DeepLの料金。Individualは年払いで月1,150円・月払い1,380円でテキスト翻訳月30万文字、Teamは3,750円・4,500円で100万文字、Businessは7,500円・9,000円で文字数制限なし。</desc>
+<rect x="0" y="0" width="760" height="403" fill="#ffffff"/>
+<rect x="0.5" y="0.5" width="759" height="402" fill="none" stroke="#e5e7eb" rx="6"/>
+<text x="24.0" y="38.0" font-size="19" fill="#111827" font-weight="bold">DeepLのプラン別の料金と1か月の上限</text>
+<text x="24.0" y="59.0" font-size="13" fill="#4b5563">単位: 円/月(税込)。上限は1人1か月あたり</text>
+<rect x="24" y="68" width="14" height="14" rx="2" fill="#1d4ed8"/>
+<text x="44.0" y="80.0" font-size="13" fill="#111827">年払い(月あたり)</text>
+<rect x="166.36" y="68" width="14" height="14" rx="2" fill="#93c5fd"/>
+<text x="186.4" y="80.0" font-size="13" fill="#111827">月払い</text>
+<text x="736.0" y="107.0" font-size="12" fill="#6b7280" text-anchor="end">テキスト翻訳・ファイル翻訳の上限</text>
+<text x="24.0" y="152.0" font-size="14" fill="#111827" font-weight="bold">無料版</text>
+<text x="119.9" y="141.5" font-size="12.5" fill="#111827">¥0</text>
+<text x="119.9" y="161.5" font-size="12.5" fill="#111827">¥0</text>
+<text x="736.0" y="152.0" font-size="13" fill="#111827" text-anchor="end">50,000文字・ファイル1件(5MB)</text>
+<line x1="24" y1="173.0" x2="736" y2="173.0" stroke="#e5e7eb"/>
+<text x="24.0" y="204.0" font-size="14" fill="#111827" font-weight="bold">Individual</text>
+<rect x="113.9" y="181.0" width="41.5" height="16" rx="2" fill="#1d4ed8"/>
+<text x="161.4" y="193.5" font-size="12.5" fill="#111827">¥1,150</text>
+<rect x="113.9" y="201.0" width="49.8" height="16" rx="2" fill="#93c5fd"/>
+<text x="169.7" y="213.5" font-size="12.5" fill="#111827">¥1,380</text>
+<text x="736.0" y="204.0" font-size="13" fill="#111827" text-anchor="end">300,000文字・ファイル3件(30MB)</text>
+<line x1="24" y1="225.0" x2="736" y2="225.0" stroke="#e5e7eb"/>
+<text x="24.0" y="256.0" font-size="14" fill="#111827" font-weight="bold">Team</text>
+<rect x="113.9" y="233.0" width="135.3" height="16" rx="2" fill="#1d4ed8"/>
+<text x="255.1" y="245.5" font-size="12.5" fill="#111827">¥3,750</text>
+<rect x="113.9" y="253.0" width="162.3" height="16" rx="2" fill="#93c5fd"/>
+<text x="282.2" y="265.5" font-size="12.5" fill="#111827">¥4,500</text>
+<text x="736.0" y="256.0" font-size="13" fill="#111827" text-anchor="end">1,000,000文字・ファイル20件(30MB)</text>
+<line x1="24" y1="277.0" x2="736" y2="277.0" stroke="#e5e7eb"/>
+<text x="24.0" y="308.0" font-size="14" fill="#111827" font-weight="bold">Business</text>
+<rect x="113.9" y="285.0" width="270.5" height="16" rx="2" fill="#1d4ed8"/>
+<text x="390.4" y="297.5" font-size="12.5" fill="#111827">¥7,500</text>
+<rect x="113.9" y="305.0" width="324.6" height="16" rx="2" fill="#93c5fd"/>
+<text x="444.5" y="317.5" font-size="12.5" fill="#111827">¥9,000</text>
+<text x="736.0" y="308.0" font-size="13" fill="#111827" text-anchor="end">制限なし※・ファイル100件(100MB)</text>
+<line x1="113.9" y1="121.0" x2="113.9" y2="329.0" stroke="#9ca3af"/>
+<line x1="24" y1="339" x2="736" y2="339" stroke="#e5e7eb"/>
+<text x="24.0" y="363.0" font-size="12" fill="#4b5563">※ Business の文字数は制限なし(公正利用の方針あり)。Enterprise は個別見積もり</text>
+<text x="24.0" y="383.0" font-size="12" fill="#6b7280">出所: 2026年11月22日確認 記事の表より作成</text>
+</svg>

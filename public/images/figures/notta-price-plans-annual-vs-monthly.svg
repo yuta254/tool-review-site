@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="287" viewBox="0 0 760 287" font-family="'Hiragino Sans','Noto Sans JP','Yu Gothic',sans-serif" role="img" aria-labelledby="t d">
+<title id="t">Nottaの月払い12か月分と年払いの比較</title>
+<desc id="d">Nottaの12か月分の支払い。プレミアムは月払いで23,760円、年払いで14,220円(差額9,540円)。ビジネスは50,160円と30,096円(差額20,064円)。</desc>
+<rect x="0" y="0" width="760" height="287" fill="#ffffff"/>
+<rect x="0.5" y="0.5" width="759" height="286" fill="none" stroke="#e5e7eb" rx="6"/>
+<text x="24.0" y="38.0" font-size="19" fill="#111827" font-weight="bold">Nottaの月払い12か月分と年払いの比較</text>
+<text x="24.0" y="59.0" font-size="13" fill="#4b5563">単位: 円(税込)</text>
+<rect x="24" y="68" width="14" height="14" rx="2" fill="#93c5fd"/>
+<text x="44.0" y="80.0" font-size="13" fill="#111827">月払いを12か月</text>
+<rect x="160.12" y="68" width="14" height="14" rx="2" fill="#1d4ed8"/>
+<text x="180.1" y="80.0" font-size="13" fill="#111827">年払い(12か月分一括)</text>
+<text x="24.0" y="140.0" font-size="14" fill="#111827" font-weight="bold">プレミアム</text>
+<rect x="182.8" y="117.0" width="183.2" height="16" rx="2" fill="#93c5fd"/>
+<text x="372.0" y="129.5" font-size="12.5" fill="#111827">23,760円</text>
+<rect x="182.8" y="137.0" width="109.7" height="16" rx="2" fill="#1d4ed8"/>
+<text x="298.4" y="149.5" font-size="12.5" fill="#111827">14,220円</text>
+<text x="736.0" y="140.0" font-size="13" fill="#111827" text-anchor="end">差額 9,540円</text>
+<line x1="24" y1="161.0" x2="736" y2="161.0" stroke="#e5e7eb"/>
+<text x="24.0" y="192.0" font-size="14" fill="#111827" font-weight="bold">ビジネス(1アカウント)</text>
+<rect x="182.8" y="169.0" width="386.8" height="16" rx="2" fill="#93c5fd"/>
+<text x="575.6" y="181.5" font-size="12.5" fill="#111827">50,160円</text>
+<rect x="182.8" y="189.0" width="232.1" height="16" rx="2" fill="#1d4ed8"/>
+<text x="420.9" y="201.5" font-size="12.5" fill="#111827">30,096円</text>
+<text x="736.0" y="192.0" font-size="13" fill="#111827" text-anchor="end">差額 20,064円</text>
+<line x1="182.8" y1="109.0" x2="182.8" y2="213.0" stroke="#9ca3af"/>
+<line x1="24" y1="223" x2="736" y2="223" stroke="#e5e7eb"/>
+<text x="24.0" y="247.0" font-size="12" fill="#4b5563">年払いは途中で解約しても日割りの精算はない</text>
+<text x="24.0" y="267.0" font-size="12" fill="#6b7280">出所: 2026年11月 記事の表より作成</text>
+</svg>

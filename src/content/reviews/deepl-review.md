@@ -33,6 +33,8 @@ DeepLは、ドイツのDeepL SE(所在地はケルン)が提供するAI翻訳ツ
 | Business | ¥7,500 | ¥9,000 | 制限なし(公正利用の方針あり) | 100件(100MBまで) | 制限なし |
 | Enterprise | 個別見積もり | 個別見積もり | 個別設定 | 個別設定 | 制限なし |
 
+<figure class="article-figure"><img src="/images/figures/deepl-review-plans.svg" alt="DeepLのプラン別の料金と上限。Individualは年払いで月1,150円・月払い1,380円でテキスト翻訳は月30万文字、Teamは3,750円・4,500円で100万文字、Businessは7,500円・9,000円で文字数制限なし。" width="760" height="403" loading="lazy" decoding="async" style="max-width:100%;height:auto;"><figcaption>図: DeepLのプラン別の料金と1か月の上限(出典: この記事の表。公式情報、確認日は表のとおり)</figcaption></figure>
+
 - 有料プランにはどれも「データの訓練に使用されない」「ユーザー1人あたり月間30分のDeepL Voice利用時間」と書かれています。
 - Team 以上は複数ファイルの一括翻訳とチーム管理、Business 以上は翻訳メモリとユーザープロビジョニング(SCIM)が含まれます。Enterprise は自社の暗号鍵(BYOK)と稼働率99.9%が挙げられています。
 - 推敲ツールの DeepL Write Pro は別のアドオンで、1ユーザーあたり月¥1,150(年払い・税込)です。Write Pro を無料で試せるのは、DeepL Pro の無料期間中だけとされています。

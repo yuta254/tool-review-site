@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="464" viewBox="0 0 760 464" font-family="'Hiragino Sans','Noto Sans JP','Yu Gothic',sans-serif" role="img" aria-labelledby="t d">
+<title id="t">Amazon Q Developer の終了までの流れ</title>
+<desc id="d">Amazon Q Developerは2026年4月30日に終了を発表、5月15日に新規受付を停止、2027年4月30日にIDEプラグインと有料サブスクリプションのサポートが終わる。</desc>
+<rect x="0" y="0" width="760" height="464" fill="#ffffff"/>
+<rect x="0.5" y="0.5" width="759" height="463" fill="none" stroke="#e5e7eb" rx="6"/>
+<text x="24.0" y="38.0" font-size="19" fill="#111827" font-weight="bold">Amazon Q Developer の終了までの流れ</text>
+<text x="24.0" y="59.0" font-size="13" fill="#4b5563">記事の表「終了・変更の記録」の日付と内容(AWS の公式ブログより)</text>
+<line x1="52" y1="91" x2="52" y2="318" stroke="#9ca3af" stroke-width="2"/>
+<circle cx="52" cy="91" r="8" fill="#1d4ed8" stroke="#ffffff" stroke-width="2"/>
+<text x="74.0" y="97.0" font-size="16" fill="#1d4ed8" font-weight="bold">2026年4月30日</text>
+<text x="74.0" y="117.0" font-size="13.5" fill="#111827">サポート終了の発表(日本語版は5月1日)</text>
+<circle cx="52" cy="154" r="8" fill="#1d4ed8" stroke="#ffffff" stroke-width="2"/>
+<text x="74.0" y="160.0" font-size="16" fill="#1d4ed8" font-weight="bold">2026年5月15日</text>
+<text x="74.0" y="180.0" font-size="13.5" fill="#111827">新規受付の停止。IDEプラグインから AWS Builder ID で無料枠のアカウントを作ることと、</text>
+<text x="74.0" y="200.0" font-size="13.5" fill="#111827">AWSコンソールから新しいサブスクリプションを作ることができなくなった</text>
+<circle cx="52" cy="236" r="8" fill="#1d4ed8" stroke="#ffffff" stroke-width="2"/>
+<text x="74.0" y="242.0" font-size="16" fill="#1d4ed8" font-weight="bold">2026年5月29日</text>
+<text x="74.0" y="262.0" font-size="13.5" fill="#111827">Q Developer Pro で Claude Opus 4.6 が使えなくなった</text>
+<text x="74.0" y="282.0" font-size="13.5" fill="#111827">(Opus 4.5 など既存のモデルは引き続き利用可)</text>
+<circle cx="52" cy="318" r="8" fill="#b91c1c" stroke="#ffffff" stroke-width="2"/>
+<text x="74.0" y="324.0" font-size="16" fill="#b91c1c" font-weight="bold">2027年4月30日</text>
+<text x="74.0" y="344.0" font-size="13.5" fill="#111827">IDEプラグインと有料サブスクリプションのサポート終了。</text>
+<text x="74.0" y="364.0" font-size="13.5" fill="#111827">IDEでの Java のアップグレードと .NET の移植も使えなくなる(代わりは AWS Transform)</text>
+<line x1="24" y1="400" x2="736" y2="400" stroke="#e5e7eb"/>
+<text x="24.0" y="424.0" font-size="12" fill="#4b5563">既存の Pro 利用者と Kiro のサブスクリプションを持つ利用者は、2027年4月30日まで IDEプラグインを使える</text>
+<text x="24.0" y="444.0" font-size="12" fill="#6b7280">出所: 2026年11月 記事の表より作成</text>
+</svg>

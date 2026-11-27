@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="443" viewBox="0 0 760 443" font-family="'Hiragino Sans','Noto Sans JP','Yu Gothic',sans-serif" role="img" aria-labelledby="t d">
+<title id="t">GitHub Copilotの月額と毎月含まれるAIクレジット</title>
+<desc id="d">GitHub Copilotの月額と含まれるクレジット。Proは月10ドルで15ドル分、Pro+は39ドルで70ドル分、Maxは100ドルで200ドル分、Businessは1席19ドルで19ドル分。</desc>
+<rect x="0" y="0" width="760" height="443" fill="#ffffff"/>
+<rect x="0.5" y="0.5" width="759" height="442" fill="none" stroke="#e5e7eb" rx="6"/>
+<text x="24.0" y="38.0" font-size="19" fill="#111827" font-weight="bold">GitHub Copilotの月額と毎月含まれるAIクレジット</text>
+<text x="24.0" y="59.0" font-size="13" fill="#4b5563">単位: 米ドル/月(税別)。クレジットは1クレジット=0.01ドルでドルに換算</text>
+<rect x="24" y="68" width="14" height="14" rx="2" fill="#1d4ed8"/>
+<text x="44.0" y="80.0" font-size="13" fill="#111827">月額</text>
+<rect x="92.0" y="68" width="14" height="14" rx="2" fill="#93c5fd"/>
+<text x="112.0" y="80.0" font-size="13" fill="#111827">含まれるAIクレジット(ドル換算)</text>
+<text x="24.0" y="140.0" font-size="14" fill="#111827" font-weight="bold">Pro</text>
+<rect x="121.2" y="117.0" width="21.6" height="16" rx="2" fill="#1d4ed8"/>
+<text x="148.7" y="129.5" font-size="12.5" fill="#111827">10ドル</text>
+<rect x="121.2" y="137.0" width="32.4" height="16" rx="2" fill="#93c5fd"/>
+<text x="159.5" y="149.5" font-size="12.5" fill="#111827">15ドル分(1,500クレジット)</text>
+<line x1="24" y1="161.0" x2="736" y2="161.0" stroke="#e5e7eb"/>
+<text x="24.0" y="192.0" font-size="14" fill="#111827" font-weight="bold">Pro+</text>
+<rect x="121.2" y="169.0" width="84.1" height="16" rx="2" fill="#1d4ed8"/>
+<text x="211.3" y="181.5" font-size="12.5" fill="#111827">39ドル</text>
+<rect x="121.2" y="189.0" width="151.0" height="16" rx="2" fill="#93c5fd"/>
+<text x="278.1" y="201.5" font-size="12.5" fill="#111827">70ドル分(7,000クレジット)</text>
+<line x1="24" y1="213.0" x2="736" y2="213.0" stroke="#e5e7eb"/>
+<text x="24.0" y="244.0" font-size="14" fill="#111827" font-weight="bold">Max</text>
+<rect x="121.2" y="221.0" width="215.7" height="16" rx="2" fill="#1d4ed8"/>
+<text x="342.8" y="233.5" font-size="12.5" fill="#111827">100ドル</text>
+<rect x="121.2" y="241.0" width="431.3" height="16" rx="2" fill="#93c5fd"/>
+<text x="558.5" y="253.5" font-size="12.5" fill="#111827">200ドル分(20,000クレジット)</text>
+<line x1="24" y1="265.0" x2="736" y2="265.0" stroke="#e5e7eb"/>
+<text x="24.0" y="288.0" font-size="14" fill="#111827" font-weight="bold">Business</text>
+<text x="24.0" y="305.0" font-size="12" fill="#6b7280">1席あたり</text>
+<rect x="121.2" y="273.0" width="41.0" height="16" rx="2" fill="#1d4ed8"/>
+<text x="168.1" y="285.5" font-size="12.5" fill="#111827">19ドル</text>
+<rect x="121.2" y="293.0" width="41.0" height="16" rx="2" fill="#93c5fd"/>
+<text x="168.1" y="305.5" font-size="12.5" fill="#111827">19ドル分(1,900クレジット)</text>
+<line x1="24" y1="317.0" x2="736" y2="317.0" stroke="#e5e7eb"/>
+<text x="24.0" y="340.0" font-size="14" fill="#111827" font-weight="bold">Enterprise</text>
+<text x="24.0" y="357.0" font-size="12" fill="#6b7280">1席あたり</text>
+<rect x="121.2" y="325.0" width="84.1" height="16" rx="2" fill="#1d4ed8"/>
+<text x="211.3" y="337.5" font-size="12.5" fill="#111827">39ドル</text>
+<rect x="121.2" y="345.0" width="84.1" height="16" rx="2" fill="#93c5fd"/>
+<text x="211.3" y="357.5" font-size="12.5" fill="#111827">39ドル分(3,900クレジット)</text>
+<line x1="121.2" y1="109.0" x2="121.2" y2="369.0" stroke="#9ca3af"/>
+<line x1="24" y1="379" x2="736" y2="379" stroke="#e5e7eb"/>
+<text x="24.0" y="403.0" font-size="12" fill="#4b5563">Free・Student は0ドル(クレジットは少量)。日本のカード・PayPal 払いは消費税10%が加わる</text>
+<text x="24.0" y="423.0" font-size="12" fill="#6b7280">出所: 2026年11月22日確認 記事の表より作成</text>
+</svg>

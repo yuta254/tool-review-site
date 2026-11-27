@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="357" viewBox="0 0 760 357" font-family="'Hiragino Sans','Noto Sans JP','Yu Gothic',sans-serif" role="img" aria-labelledby="t d">
+<title id="t">AIタスク管理の有料プランの入口</title>
+<desc id="d">AIタスク管理の有料の入口。Reclaim.ai Starterは年払いで月10ドル、Motion Pro AIのチーム向けは月19ドル、個人向けは月29ドル。Todoistのプロは年払いで月あたり672円。</desc>
+<rect x="0" y="0" width="760" height="357" fill="#ffffff"/>
+<rect x="0.5" y="0.5" width="759" height="356" fill="none" stroke="#e5e7eb" rx="6"/>
+<text x="24.0" y="38.0" font-size="19" fill="#111827" font-weight="bold">AIタスク管理の有料プランの入口</text>
+<text x="24.0" y="59.0" font-size="13" fill="#4b5563">単位: ドル/月(Motion と Reclaim.ai はドル建て)</text>
+<rect x="24" y="68" width="14" height="14" rx="2" fill="#1d4ed8"/>
+<text x="44.0" y="80.0" font-size="13" fill="#111827">年払い</text>
+<rect x="105.0" y="68" width="14" height="14" rx="2" fill="#93c5fd"/>
+<text x="125.0" y="80.0" font-size="13" fill="#111827">月払い</text>
+<text x="24.0" y="132.0" font-size="14" fill="#111827" font-weight="bold">Motion Pro AI(チーム向け)</text>
+<text x="24.0" y="149.0" font-size="12" fill="#6b7280">1人あたり</text>
+<rect x="220.0" y="117.0" width="181.3" height="16" rx="2" fill="#1d4ed8"/>
+<text x="407.3" y="129.5" font-size="12.5" fill="#111827">19ドル</text>
+<rect x="220.0" y="137.0" width="276.7" height="16" rx="2" fill="#93c5fd"/>
+<text x="502.7" y="149.5" font-size="12.5" fill="#111827">29ドル</text>
+<line x1="24" y1="161.0" x2="736" y2="161.0" stroke="#e5e7eb"/>
+<text x="24.0" y="184.0" font-size="14" fill="#111827" font-weight="bold">Motion Pro AI(個人向け)</text>
+<text x="24.0" y="201.0" font-size="12" fill="#6b7280">1人で使う場合</text>
+<rect x="220.0" y="169.0" width="276.7" height="16" rx="2" fill="#1d4ed8"/>
+<text x="502.7" y="181.5" font-size="12.5" fill="#111827">29ドル</text>
+<rect x="220.0" y="189.0" width="467.5" height="16" rx="2" fill="#93c5fd"/>
+<text x="693.5" y="201.5" font-size="12.5" fill="#111827">49ドル</text>
+<line x1="24" y1="213.0" x2="736" y2="213.0" stroke="#e5e7eb"/>
+<text x="24.0" y="236.0" font-size="14" fill="#111827" font-weight="bold">Reclaim.ai Starter</text>
+<text x="24.0" y="253.0" font-size="12" fill="#6b7280">1人あたり</text>
+<rect x="220.0" y="221.0" width="95.4" height="16" rx="2" fill="#1d4ed8"/>
+<text x="321.4" y="233.5" font-size="12.5" fill="#111827">10ドル</text>
+<rect x="220.0" y="241.0" width="114.5" height="16" rx="2" fill="#93c5fd"/>
+<text x="340.5" y="253.5" font-size="12.5" fill="#111827">12ドル</text>
+<line x1="220.0" y1="109.0" x2="220.0" y2="265.0" stroke="#9ca3af"/>
+<line x1="24" y1="275" x2="736" y2="275" stroke="#e5e7eb"/>
+<text x="24.0" y="299.0" font-size="12" fill="#4b5563">Todoist プロは円表示のため棒に含めない: 年払いで8,064円(月あたり672円)</text>
+<text x="24.0" y="317.0" font-size="12" fill="#4b5563">無料プラン: Motion はなし(無料トライアルあり)、Reclaim.ai はあり(Lite)、Todoist はあり(初心者プラン)</text>
+<text x="24.0" y="337.0" font-size="12" fill="#6b7280">出所: 2026年11月 記事の表より作成</text>
+</svg>

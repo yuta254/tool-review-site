@@ -47,6 +47,8 @@ Google Meetの場合は、NottaのChrome拡張機能を入れると、Meetの会
 | Web会議の録画(画面の記録) | —(料金ページではビジネスからの機能) | —(同左) | 可 |
 | 同時に記録できる会議 | 契約アカウント数と同じ件数 | 同左 | 同左(アカウントを足すと増える) |
 
+<figure class="article-figure"><img src="/images/figures/notta-zoom-teams-meet-plan-conditions.svg" alt="Nottaのプランごとの条件の表。フリーは0円で1回3分・月120分、プレミアムは月払い1,980円で1回5時間・月1,800分、ビジネスは月払い4,180円で月の時間が無制限。ボットの表示名の変更やZoom会議への自動追加はプレミアムから。" width="760" height="475" loading="lazy" decoding="async" style="max-width:100%;height:auto;"><figcaption>図: Nottaで会議を記録するときのプランごとの条件(出典: この記事の表。公式情報、確認日は表のとおり)</figcaption></figure>
+
 料金と時間の上限は[ヘルプ「Notta料金プランの選び方」](https://support.notta.ai/hc/ja/articles/55447618158491)と料金ページ、ボット名とバナーの条件は「Web会議の文字起こし」の注記によります。
 
 いくつか補足します。

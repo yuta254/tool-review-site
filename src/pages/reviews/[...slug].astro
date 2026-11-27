@@ -132,6 +132,10 @@ const jsonLd = {
         読了の目安 約{minutes}分
       </li>
     </ul>
+    {/* 署名(2026-11-27)。誰が書き・どう確かめたかを本文の近くに出す。構造化データの author は変えない */}
+    <p class="meta article-byline" style="margin:0 0 .5rem;">
+      作成: AI Tool Lab(運営: 高橋)。各社の公式情報で確かめています → <a href="/about/#how-we-check">確かめ方</a>
+    </p>
   </header>
 
   {review.data.affiliateDisclosure && <AffiliateDisclosure hasAds={hasAds} />}

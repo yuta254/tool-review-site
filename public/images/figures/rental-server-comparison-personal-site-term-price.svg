@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="589" viewBox="0 0 760 589" font-family="'Hiragino Sans','Noto Sans JP','Yu Gothic',sans-serif" role="img" aria-labelledby="t d">
+<title id="t">契約期間ごとの月額(レンタルサーバー5社の入門プラン)</title>
+<desc id="d">レンタルサーバーの契約期間ごとの月額。36か月契約ではさくら500円、お名前.com 891円、ConoHa WING 968円、エックスサーバー990円、シン1,078円。</desc>
+<rect x="0" y="0" width="760" height="589" fill="#ffffff"/>
+<rect x="0.5" y="0.5" width="759" height="588" fill="none" stroke="#e5e7eb" rx="6"/>
+<text x="24.0" y="38.0" font-size="19" fill="#111827" font-weight="bold">契約期間ごとの月額(レンタルサーバー5社の入門プラン)</text>
+<text x="24.0" y="59.0" font-size="13" fill="#4b5563">単位: 円/月(税込)。印のない期間は、その契約期間がないもの</text>
+<line x1="24" y1="75" x2="42" y2="75" stroke="#1d4ed8" stroke-width="3"/>
+<circle cx="33" cy="75" r="4" fill="#1d4ed8"/>
+<text x="48.0" y="80.0" font-size="13" fill="#111827">エックスサーバー</text>
+<line x1="174.0" y1="75" x2="192.0" y2="75" stroke="#7c3aed" stroke-width="3"/>
+<circle cx="183.0" cy="75" r="4" fill="#7c3aed"/>
+<text x="198.0" y="80.0" font-size="13" fill="#111827">シン</text>
+<line x1="246.0" y1="75" x2="264.0" y2="75" stroke="#0891b2" stroke-width="3"/>
+<circle cx="255.0" cy="75" r="4" fill="#0891b2"/>
+<text x="270.0" y="80.0" font-size="13" fill="#111827">ConoHa WING(新規申込は停止中)</text>
+<line x1="490.64" y1="75" x2="508.64" y2="75" stroke="#db2777" stroke-width="3"/>
+<circle cx="499.64" cy="75" r="4" fill="#db2777"/>
+<text x="514.6" y="80.0" font-size="13" fill="#111827">さくら</text>
+<line x1="24" y1="97" x2="42" y2="97" stroke="#ea580c" stroke-width="3"/>
+<circle cx="33" cy="97" r="4" fill="#ea580c"/>
+<text x="48.0" y="102.0" font-size="13" fill="#111827">お名前.com(新規申込は停止中)</text>
+<line x1="82" y1="435.8" x2="586" y2="435.8" stroke="#e5e7eb"/>
+<text x="74.0" y="439.8" font-size="12" fill="#6b7280" text-anchor="end">500円</text>
+<line x1="82" y1="359.6" x2="586" y2="359.6" stroke="#e5e7eb"/>
+<text x="74.0" y="363.6" font-size="12" fill="#6b7280" text-anchor="end">1,000円</text>
+<line x1="82" y1="283.4" x2="586" y2="283.4" stroke="#e5e7eb"/>
+<text x="74.0" y="287.4" font-size="12" fill="#6b7280" text-anchor="end">1,500円</text>
+<line x1="82" y1="207.2" x2="586" y2="207.2" stroke="#e5e7eb"/>
+<text x="74.0" y="211.2" font-size="12" fill="#6b7280" text-anchor="end">2,000円</text>
+<line x1="82" y1="131.0" x2="586" y2="131.0" stroke="#e5e7eb"/>
+<text x="74.0" y="135.0" font-size="12" fill="#6b7280" text-anchor="end">2,500円</text>
+<text x="82.0" y="473.0" font-size="13" fill="#111827" text-anchor="middle">1か月</text>
+<text x="182.8" y="473.0" font-size="13" fill="#111827" text-anchor="middle">3か月</text>
+<text x="283.6" y="473.0" font-size="13" fill="#111827" text-anchor="middle">6か月</text>
+<text x="384.4" y="473.0" font-size="13" fill="#111827" text-anchor="middle">12か月</text>
+<text x="485.2" y="473.0" font-size="13" fill="#111827" text-anchor="middle">24か月</text>
+<text x="586.0" y="473.0" font-size="13" fill="#111827" text-anchor="middle">36か月</text>
+<text x="82.0" y="491.0" font-size="12" fill="#6b7280" text-anchor="middle">(毎月払い)</text>
+<line x1="182.8" y1="310.8" x2="283.6" y2="327.6" stroke="#1d4ed8" stroke-width="2.5"/>
+<line x1="283.6" y1="327.6" x2="384.4" y2="344.3" stroke="#1d4ed8" stroke-width="2.5"/>
+<line x1="384.4" y1="344.3" x2="485.2" y2="352.7" stroke="#1d4ed8" stroke-width="2.5"/>
+<line x1="485.2" y1="352.7" x2="586.0" y2="361.1" stroke="#1d4ed8" stroke-width="2.5"/>
+<circle cx="182.8" cy="310.8" r="4.5" fill="#1d4ed8"/>
+<circle cx="283.6" cy="327.6" r="4.5" fill="#1d4ed8"/>
+<circle cx="384.4" cy="344.3" r="4.5" fill="#1d4ed8"/>
+<circle cx="485.2" cy="352.7" r="4.5" fill="#1d4ed8"/>
+<circle cx="586.0" cy="361.1" r="4.5" fill="#1d4ed8"/>
+<line x1="182.8" y1="300.8" x2="283.6" y2="300.8" stroke="#7c3aed" stroke-width="2.5"/>
+<line x1="283.6" y1="300.8" x2="384.4" y2="324.2" stroke="#7c3aed" stroke-width="2.5"/>
+<line x1="384.4" y1="324.2" x2="485.2" y2="336.0" stroke="#7c3aed" stroke-width="2.5"/>
+<line x1="485.2" y1="336.0" x2="586.0" y2="347.7" stroke="#7c3aed" stroke-width="2.5"/>
+<circle cx="182.8" cy="300.8" r="4.5" fill="#7c3aed"/>
+<circle cx="283.6" cy="300.8" r="4.5" fill="#7c3aed"/>
+<circle cx="384.4" cy="324.2" r="4.5" fill="#7c3aed"/>
+<circle cx="485.2" cy="336.0" r="4.5" fill="#7c3aed"/>
+<circle cx="586.0" cy="347.7" r="4.5" fill="#7c3aed"/>
+<line x1="82.0" y1="290.7" x2="182.8" y2="309.1" stroke="#0891b2" stroke-width="2.5" stroke-dasharray="5 4"/>
+<line x1="182.8" y1="309.1" x2="283.6" y2="327.6" stroke="#0891b2" stroke-width="2.5"/>
+<line x1="283.6" y1="327.6" x2="384.4" y2="346.0" stroke="#0891b2" stroke-width="2.5"/>
+<line x1="384.4" y1="346.0" x2="485.2" y2="355.2" stroke="#0891b2" stroke-width="2.5"/>
+<line x1="485.2" y1="355.2" x2="586.0" y2="364.4" stroke="#0891b2" stroke-width="2.5"/>
+<circle cx="82.0" cy="290.7" r="5" fill="#ffffff" stroke="#0891b2" stroke-width="2.5"/>
+<circle cx="182.8" cy="309.1" r="4.5" fill="#0891b2"/>
+<circle cx="283.6" cy="327.6" r="4.5" fill="#0891b2"/>
+<circle cx="384.4" cy="346.0" r="4.5" fill="#0891b2"/>
+<circle cx="485.2" cy="355.2" r="4.5" fill="#0891b2"/>
+<circle cx="586.0" cy="364.4" r="4.5" fill="#0891b2"/>
+<line x1="384.4" y1="428.1" x2="485.2" y2="429.8" stroke="#db2777" stroke-width="2.5"/>
+<line x1="485.2" y1="429.8" x2="586.0" y2="435.8" stroke="#db2777" stroke-width="2.5"/>
+<circle cx="82.0" cy="411.4" r="4.5" fill="#db2777"/>
+<circle cx="384.4" cy="428.1" r="4.5" fill="#db2777"/>
+<circle cx="485.2" cy="429.8" r="4.5" fill="#db2777"/>
+<circle cx="586.0" cy="435.8" r="4.5" fill="#db2777"/>
+<line x1="283.6" y1="330.9" x2="384.4" y2="347.7" stroke="#ea580c" stroke-width="2.5"/>
+<line x1="384.4" y1="347.7" x2="485.2" y2="361.1" stroke="#ea580c" stroke-width="2.5"/>
+<line x1="485.2" y1="361.1" x2="586.0" y2="376.2" stroke="#ea580c" stroke-width="2.5"/>
+<circle cx="82.0" cy="146.5" r="4.5" fill="#ea580c"/>
+<circle cx="283.6" cy="330.9" r="4.5" fill="#ea580c"/>
+<circle cx="384.4" cy="347.7" r="4.5" fill="#ea580c"/>
+<circle cx="485.2" cy="361.1" r="4.5" fill="#ea580c"/>
+<circle cx="586.0" cy="376.2" r="4.5" fill="#ea580c"/>
+<text x="92.0" y="150.5" font-size="12" fill="#9a3412">お名前.com 2,398円</text>
+<text x="92.0" y="282.7" font-size="12" fill="#155e75">ConoHa 時間課金(月1,452円まで)</text>
+<text x="92.0" y="427.4" font-size="12" fill="#9d174d">さくら 660円</text>
+<line x1="592" y1="347.7" x2="602" y2="347.7" stroke="#7c3aed"/>
+<text x="606.0" y="351.7" font-size="12.5" fill="#7c3aed" font-weight="bold">シン 1,078円</text>
+<line x1="592" y1="361.1" x2="602" y2="364.7" stroke="#1d4ed8"/>
+<text x="606.0" y="368.7" font-size="12.5" fill="#1d4ed8" font-weight="bold">エックスサーバー 990円</text>
+<line x1="592" y1="364.4" x2="602" y2="381.7" stroke="#0891b2"/>
+<text x="606.0" y="385.7" font-size="12.5" fill="#0891b2" font-weight="bold">ConoHa WING 968円</text>
+<line x1="592" y1="376.2" x2="602" y2="398.7" stroke="#ea580c"/>
+<text x="606.0" y="402.7" font-size="12.5" fill="#ea580c" font-weight="bold">お名前.com 891円</text>
+<line x1="592" y1="435.8" x2="602" y2="435.8" stroke="#db2777"/>
+<text x="606.0" y="439.8" font-size="12.5" fill="#db2777" font-weight="bold">さくら 500円</text>
+<line x1="24" y1="507" x2="736" y2="507" stroke="#e5e7eb"/>
+<text x="24.0" y="531.0" font-size="12" fill="#4b5563">ConoHa WING の1か月は時間課金(1時間2.5円・月1,452円まで)。シンは3か月と6か月が同じ月1,386円</text>
+<text x="24.0" y="549.0" font-size="12" fill="#4b5563">ConoHa WING とお名前.com は11月6日の時点で新規申込が停止中</text>
+<text x="24.0" y="569.0" font-size="12" fill="#6b7280">出所: 2026年11月 記事の表より作成</text>
+</svg>

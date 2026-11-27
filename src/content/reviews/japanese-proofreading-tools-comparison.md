@@ -28,6 +28,8 @@ tags: ["文章校正", "日本語", "文賢", "Shodo", "Word", "Googleドキュ�
 | 入力した文章の学習 | AIの学習に使わない | AIの学習に使わない(無料・有料とも) | (下で説明) | — | 個人向けは拒否可能、Businessはデフォルトで使わない |
 | 出典 | [文賢の公式サイト](https://rider-store.jp/bun-ken/) | [Shodoの料金ページ](https://shodo.ink/pricing/) | [言語別の対応表](https://support.microsoft.com/ja-jp/word/editor-s-spelling-grammar-and-refinement-availability-by-language) | [公式ヘルプ](https://support.google.com/docs/answer/57859?hl=ja) | [ChatGPTの料金ページ](https://chatgpt.com/ja-JP/pricing/) |
 
+<figure class="article-figure"><img src="/images/figures/japanese-proofreading-tools-comparison-price.svg" alt="日本語の校正ツールの月額の横棒グラフ。文賢パーソナルは月1,980円(1年更新は月あたり1,650円)、Shodoはベーシック0円・プレミアム1,000円・マックス5,000円、Microsoft 365 Personalは月2,130円。" width="760" height="617" loading="lazy" decoding="async" style="max-width:100%;height:auto;"><figcaption>図: 日本語の校正ツールの月額(税込)(出典: この記事の表。各社の公式情報、確認日は表のとおり)</figcaption></figure>
+
 Microsoft 365の金額は、公式の[製品比較ページ](https://www.microsoft.com/ja-jp/microsoft-365/buy/compare-all-microsoft-365-products)の表示です(税込かどうかの表記は、確認したページにはありませんでした)。ChatGPTの料金ページは、確認した時点で金額の数字が表示されなかったため、表には載せていません。各プランの金額は料金ページで確かめてください。
 
 ## それぞれの位置づけ

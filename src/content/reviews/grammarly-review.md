@@ -69,6 +69,8 @@ Grammarlyは、ブラウザ拡張・Windows と Mac のアプリ・スマホ・�
 | 年払い(144ドル) | 144ドル | 288ドル | 約43,200円 |
 | 年払いで3人 | 432ドル | 864ドル | 約129,600円 |
 
+<figure class="article-figure"><img src="/images/figures/grammarly-review-total-cost.svg" alt="Grammarly Proの支払い方ごとの総額の横棒グラフ。1年では月払い360ドル、3か月払い240ドル、年払い144ドル。2年では720ドル、480ドル、288ドル。" width="760" height="403" loading="lazy" decoding="async" style="max-width:100%;height:auto;"><figcaption>図: Grammarly Proの支払い方ごとの1年・2年の総額(出典: この記事の表。公式情報、確認日は表のとおり)</figcaption></figure>
+
 - 1年続けるなら、年払いは月払いより216ドル安くなります。3か月払いはその中間です。
 - 返金は法律で求められる場合に限られ、使わなかった期間分も返金しないと利用規約に書かれています(2026年11月3日確認)。年払いを選ぶ前に、無料版(またはトライアルがあればその期間)で自分の英文にどんな指摘が出るかを見ておくと、払い損を避けやすくなります。
 

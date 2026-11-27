@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="475" viewBox="0 0 760 475" font-family="'Hiragino Sans','Noto Sans JP','Yu Gothic',sans-serif" role="img" aria-labelledby="t d">
+<title id="t">Nottaで会議を記録するときのプランごとの条件</title>
+<desc id="d">Nottaのプランごとの条件。フリーは1回3分・月120分、プレミアムは月払い1,980円で1回5時間・月1,800分、ビジネスは月払い4,180円で月の時間が無制限。</desc>
+<rect x="0" y="0" width="760" height="475" fill="#ffffff"/>
+<rect x="0.5" y="0.5" width="759" height="474" fill="none" stroke="#e5e7eb" rx="6"/>
+<text x="24.0" y="38.0" font-size="19" fill="#111827" font-weight="bold">Nottaで会議を記録するときのプランごとの条件</text>
+<text x="24.0" y="59.0" font-size="13" fill="#4b5563">フリー・プレミアム・ビジネスの違い(ビジネスの料金は1アカウントあたり)</text>
+<rect x="277.0" y="81" width="148.0" height="34" rx="4" fill="#64748b"/>
+<text x="351.0" y="104.0" font-size="15" fill="#ffffff" font-weight="bold" text-anchor="middle">フリー</text>
+<rect x="431.0" y="81" width="148.0" height="34" rx="4" fill="#1d4ed8"/>
+<text x="505.0" y="104.0" font-size="15" fill="#ffffff" font-weight="bold" text-anchor="middle">プレミアム</text>
+<rect x="585.0" y="81" width="148.0" height="34" rx="4" fill="#1d4ed8"/>
+<text x="659.0" y="104.0" font-size="15" fill="#ffffff" font-weight="bold" text-anchor="middle">ビジネス</text>
+<text x="28.0" y="149.0" font-size="13.5" fill="#111827" font-weight="bold">料金(税込)</text>
+<rect x="277.0" y="124" width="148.0" height="40" rx="4" fill="#eff6ff"/>
+<text x="351.0" y="149.0" font-size="14" fill="#111827" font-weight="bold" text-anchor="middle">0円</text>
+<rect x="431.0" y="124" width="148.0" height="40" rx="4" fill="#eff6ff"/>
+<text x="505.0" y="141.0" font-size="13" fill="#111827" font-weight="bold" text-anchor="middle">月払い1,980円</text>
+<text x="505.0" y="158.0" font-size="12" fill="#4b5563" text-anchor="middle">年払いで月1,185円</text>
+<rect x="585.0" y="124" width="148.0" height="40" rx="4" fill="#eff6ff"/>
+<text x="659.0" y="141.0" font-size="13" fill="#111827" font-weight="bold" text-anchor="middle">月払い4,180円</text>
+<text x="659.0" y="158.0" font-size="12" fill="#4b5563" text-anchor="middle">年払いで月2,508円</text>
+<text x="28.0" y="190.0" font-size="13.5" fill="#111827" font-weight="bold">1回の文字起こし上限</text>
+<rect x="277.0" y="170" width="148.0" height="30" rx="4" fill="#eff6ff"/>
+<text x="351.0" y="190.0" font-size="14" fill="#111827" font-weight="bold" text-anchor="middle">3分</text>
+<rect x="431.0" y="170" width="148.0" height="30" rx="4" fill="#eff6ff"/>
+<text x="505.0" y="190.0" font-size="14" fill="#111827" font-weight="bold" text-anchor="middle">5時間</text>
+<rect x="585.0" y="170" width="148.0" height="30" rx="4" fill="#eff6ff"/>
+<text x="659.0" y="190.0" font-size="14" fill="#111827" font-weight="bold" text-anchor="middle">5時間</text>
+<text x="28.0" y="226.0" font-size="13.5" fill="#111827" font-weight="bold">月の文字起こし時間</text>
+<rect x="277.0" y="206" width="148.0" height="30" rx="4" fill="#eff6ff"/>
+<text x="351.0" y="226.0" font-size="14" fill="#111827" font-weight="bold" text-anchor="middle">120分</text>
+<rect x="431.0" y="206" width="148.0" height="30" rx="4" fill="#eff6ff"/>
+<text x="505.0" y="226.0" font-size="14" fill="#111827" font-weight="bold" text-anchor="middle">1,800分</text>
+<rect x="585.0" y="206" width="148.0" height="30" rx="4" fill="#eff6ff"/>
+<text x="659.0" y="226.0" font-size="14" fill="#111827" font-weight="bold" text-anchor="middle">無制限</text>
+<text x="28.0" y="262.0" font-size="13.5" fill="#111827" font-weight="bold">ボットの表示名の変更</text>
+<rect x="277.0" y="242" width="148.0" height="30" rx="4" fill="#f3f4f6"/>
+<text x="351.0" y="262.0" font-size="14" fill="#6b7280" font-weight="bold" text-anchor="middle">不可</text>
+<rect x="431.0" y="242" width="148.0" height="30" rx="4" fill="#dcfce7"/>
+<text x="505.0" y="262.0" font-size="14" fill="#14532d" font-weight="bold" text-anchor="middle">可</text>
+<rect x="585.0" y="242" width="148.0" height="30" rx="4" fill="#dcfce7"/>
+<text x="659.0" y="262.0" font-size="14" fill="#14532d" font-weight="bold" text-anchor="middle">可</text>
+<text x="28.0" y="298.0" font-size="13.5" fill="#111827" font-weight="bold">録音通知バナーを非表示</text>
+<rect x="277.0" y="278" width="148.0" height="30" rx="4" fill="#f3f4f6"/>
+<text x="351.0" y="298.0" font-size="14" fill="#6b7280" font-weight="bold" text-anchor="middle">不可</text>
+<rect x="431.0" y="278" width="148.0" height="30" rx="4" fill="#dcfce7"/>
+<text x="505.0" y="298.0" font-size="14" fill="#14532d" font-weight="bold" text-anchor="middle">可</text>
+<rect x="585.0" y="278" width="148.0" height="30" rx="4" fill="#dcfce7"/>
+<text x="659.0" y="298.0" font-size="14" fill="#14532d" font-weight="bold" text-anchor="middle">可</text>
+<text x="28.0" y="334.0" font-size="13.5" fill="#111827" font-weight="bold">自分が主催するZoom会議に自動追加</text>
+<rect x="277.0" y="314" width="148.0" height="30" rx="4" fill="#f3f4f6"/>
+<text x="351.0" y="334.0" font-size="14" fill="#6b7280" font-weight="bold" text-anchor="middle">不可</text>
+<rect x="431.0" y="314" width="148.0" height="30" rx="4" fill="#dcfce7"/>
+<text x="505.0" y="334.0" font-size="14" fill="#14532d" font-weight="bold" text-anchor="middle">可</text>
+<rect x="585.0" y="314" width="148.0" height="30" rx="4" fill="#dcfce7"/>
+<text x="659.0" y="334.0" font-size="14" fill="#14532d" font-weight="bold" text-anchor="middle">可</text>
+<text x="28.0" y="370.0" font-size="13.5" fill="#111827" font-weight="bold">Web会議の録画(画面の記録)</text>
+<rect x="277.0" y="350" width="148.0" height="30" rx="4" fill="#f3f4f6"/>
+<text x="351.0" y="370.0" font-size="14" fill="#6b7280" font-weight="bold" text-anchor="middle">—</text>
+<rect x="431.0" y="350" width="148.0" height="30" rx="4" fill="#f3f4f6"/>
+<text x="505.0" y="370.0" font-size="14" fill="#6b7280" font-weight="bold" text-anchor="middle">—</text>
+<rect x="585.0" y="350" width="148.0" height="30" rx="4" fill="#dcfce7"/>
+<text x="659.0" y="370.0" font-size="14" fill="#14532d" font-weight="bold" text-anchor="middle">可</text>
+<line x1="24" y1="393" x2="736" y2="393" stroke="#e5e7eb"/>
+<text x="24.0" y="417.0" font-size="12" fill="#4b5563">同時に記録できる会議は、3プランとも契約アカウント数と同じ件数</text>
+<text x="24.0" y="435.0" font-size="12" fill="#4b5563">Web会議の録画は、料金ページではビジネスからの機能</text>
+<text x="24.0" y="455.0" font-size="12" fill="#6b7280">出所: 2026年11月 記事の表より作成</text>
+</svg>

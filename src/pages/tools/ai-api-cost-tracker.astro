@@ -31,14 +31,18 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
     <label>
       モデル:
       <select id="entryModel" style="padding:0.4rem; width:100%; max-width:320px;">
+        <option value="OpenAI gpt-6.2-astra">OpenAI gpt-6.2-astra</option>
+        <option value="OpenAI gpt-6.2-sol">OpenAI gpt-6.2-sol</option>
         <option value="OpenAI gpt-6-astra">OpenAI gpt-6-astra</option>
         <option value="OpenAI gpt-6.1-sol">OpenAI gpt-6.1-sol</option>
         <option value="OpenAI gpt-6.1-terra">OpenAI gpt-6.1-terra</option>
         <option value="OpenAI gpt-6-luna">OpenAI gpt-6-luna</option>
+        <option value="Claude Fable 5.2">Claude Fable 5.2</option>
         <option value="Claude Fable 5.1">Claude Fable 5.1</option>
         <option value="Claude Opus 5.5">Claude Opus 5.5</option>
         <option value="Claude Sonnet 5.5">Claude Sonnet 5.5</option>
         <option value="Claude Haiku 5.5">Claude Haiku 5.5</option>
+        <option value="Gemini 4 Carbon">Gemini 4 Carbon</option>
         <option value="Gemini 4 Argon">Gemini 4 Argon</option>
         <option value="Gemini 3.8 Flash">Gemini 3.8 Flash</option>
         <option value="Gemini 3.1 Pro Preview">Gemini 3.1 Pro Preview</option>
@@ -72,24 +76,62 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 
 
   <section class="tool-about">
-    <h2>このツールでできること</h2>
+    <h2>このツールで分かること</h2>
     <p>複数のAPIを使っていると、月の合計がいくらになっているかが見えにくくなります。このツールは、使った金額を日付・モデル・メモと一緒に記録し、今月の合計を月の予算と比べて表示します。請求の前に、予算に対してどこまで使ったかを確かめるための記録帳です。</p>
-    <h3>計算のしかた</h3>
+    <ul>
+      <li>今月の合計の金額と、月の予算に対する消化率(%)</li>
+      <li>予算の80%を超えたかどうか(棒の色と注意の文で知らせます)</li>
+      <li>今月の記録の一覧(新しい日付が上。どのモデル・どの作業にいくら使ったかをメモで振り返れます)</li>
+    </ul>
+
+    <h2>計算のしかた</h2>
     <ul>
       <li>今月の合計 = 日付が今月(年と月がパソコンの今日の日付と同じ)の記録の金額の合計</li>
-      <li>予算の消化率 = 今月の合計 ÷ 月の予算 × 100(100%で止まります)。80%以上で棒がだいだい色になって注意の文が出て、100%以上で赤になります</li>
+      <li>予算の消化率 = 今月の合計 ÷ 月の予算 × 100 を四捨五入した値。表示は100%で止まります</li>
+      <li>棒の色: 80%未満は青、80%以上100%未満はだいだい色(注意の文が出ます)、100%以上は赤</li>
     </ul>
-    <h3>前提</h3>
+    <p>「今月」は記録に入れた日付で決まります。前の月の記録は消さずに残しており、一覧と合計に出ないだけです。月が変わると、合計は自動で0から数え直しになります。</p>
+
+    <h2>入力の例と結果の読み方</h2>
+    <h3>例1: 予算1万円で、月の途中まで使った場合</h3>
+    <p>月の予算を10,000円にして、今月の記録を3件入れたとします。</p>
     <ul>
-      <li>記録はお使いのブラウザの中(localStorage)にだけ保存され、外部には送信されません。そのため、別のパソコンやブラウザとは共有されず、ブラウザの閲覧データを消すと記録も消えます</li>
-      <li>金額は自分で入れる値です。各社の請求額を自動で取り込むことはしません。正しい請求額は、各社の管理画面の利用状況と請求書で確かめてください</li>
+      <li>3日 Claude Sonnet 5.5・3,200円(メモ: 問い合わせの要約)</li>
+      <li>10日 OpenAI gpt-6.1-terra・2,500円(メモ: 記事の下書き)</li>
+      <li>20日 その他・2,600円(メモ: 画像の生成)</li>
+    </ul>
+    <p>合計は 3,200 + 2,500 + 2,600 = 8,300円、消化率は 8,300 ÷ 10,000 × 100 = 83% です。80%を超えたので、棒がだいだい色になり「予算に近づいています」の文が出ます。</p>
+    <p>さらに25日に2,000円を足すと、合計は10,300円です。計算では103%ですが、表示は100%で止まり、棒が赤になります。予算をどれだけ超えたかは、合計の金額(10,300円 / 10,000円)の方で読んでください。</p>
+    <h3>例2: 料金計算ツールの見積もりから予算を決める</h3>
+    <p><a href="/tools/ai-api-cost-calculator/">AI API料金計算ツール</a> で、入力3,000トークン・出力500トークン・月2,000回を gpt-6.1-terra で計算すると、月11.00ドル(155円で1,705円)と出ます。為替や回数のぶれを見込んで予算を2,000円にしておけば、1,600円を超えたあたりで注意の文が出るので、月の途中で使い方を見直すきっかけになります。</p>
+
+    <h2>当てはまらない場合・限界</h2>
+    <ul>
+      <li><strong>金額は自分で入れる値です。</strong> 各社の請求額を自動で取り込むことはしません。各社の管理画面の利用状況を見て、その金額を写して記録する使い方を想定しています。正しい請求額は、管理画面と請求書で確かめてください</li>
+      <li><strong>円で記録します。</strong> ドルの請求を記録するときは、自分で円に直して入れてください。カード会社の為替レートや手数料、消費税で、あとから届く円の請求額とは少しずれます</li>
+      <li><strong>月の区切りはカレンダーの月です。</strong> 各社の請求の締め日が月末とは限りません。締め日が違うサービスでは、合計の範囲が請求書と合わないことがあります</li>
+      <li><strong>記録はこのブラウザの中だけにあります。</strong> 記録はお使いのブラウザの中(localStorage)にだけ保存され、外部には送信されません。そのため、別のパソコンやブラウザとは共有されず、ブラウザの閲覧データを消すと記録も消えます。書き出しの機能はありません</li>
+      <li><strong>使いすぎを止める機能ではありません。</strong> 予算を超えても、APIの利用が止まるわけではありません。利用の上限を設けたいときは、各社の管理画面の設定を確かめてください</li>
       <li>モデルの一覧は記録の分類用で、料金の計算には使いません</li>
     </ul>
-    <h3>関係するツール・記事</h3>
+
+    <h2>関連するツールと記事</h2>
     <ul>
-      <li>使う前に月の料金を見積もるなら <a href="/tools/ai-api-cost-calculator/">AI API料金計算ツール</a>(公式単価・2026年11月3日確認)</li>
+      <li>使う前に月の料金を見積もるなら <a href="/tools/ai-api-cost-calculator/">AI API料金計算ツール</a>(公式単価・2026年11月27日確認)</li>
       <li>文章のトークン数の目安は <a href="/tools/token-counter/">AIトークン数カウンター</a></li>
+      <li>APIではなく月額プランにまとめる場合の料金は <a href="/reviews/chatgpt-claude-gemini-comparison/">ChatGPT Plus・Claude Pro・Google AI Pro の比較</a></li>
+      <li>経費として処理するときの請求書と消費税の扱いは <a href="/reviews/ai-tools-japan-consumption-tax-invoice/">海外AIツールの消費税・インボイス対応一覧</a></li>
     </ul>
+
+    <h2>よくある質問</h2>
+    <h3>ブラウザを閉じると、記録は消えますか?</h3>
+    <p>閉じるだけでは消えません。同じパソコンの同じブラウザでこのページを開けば、記録と予算が残っています。ただし、プライベートウィンドウで開いた場合や、ブラウザの閲覧データ(サイトのデータ)を消した場合は消えます。</p>
+    <h3>記録を間違えたときは、どう直しますか?</h3>
+    <p>一覧の行の右にある「削除」で消してから、正しい金額で記録し直してください。書き換えの機能はありません。</p>
+    <h3>スマートフォンでも使えますか?</h3>
+    <p>ブラウザで開けば使えます。ただし、記録はその端末のそのブラウザの中にだけ保存されるので、パソコンで入れた記録はスマートフォンには出ません。記録する端末を1つに決めておくと、合計がずれません。</p>
+    <h3>先月の記録は見られますか?</h3>
+    <p>表示するのは今月の分だけです。先月の記録はブラウザの中に残っていますが、このページの一覧には出ません。月ごとの記録を残したいときは、月末に一覧を書き写しておくか、各社の管理画面の利用履歴を見てください。</p>
   </section>
 
   <p><a href="/tools/">&larr; 無料ツール一覧</a></p>

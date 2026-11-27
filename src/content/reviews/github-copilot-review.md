@@ -34,6 +34,8 @@ tags: ["GitHub Copilot", "コーディング支援", "AI", "料金"]
 | Enterprise | 1席月39ドル | 1人あたり3,900(39ドル分) | Business の内容に加えた企業向け機能。GitHub Enterprise Cloud の利用が前提 |
 | Copilot access | Enterprise Cloud のライセンス保有者は0ドル、持たない人は「Copilot Standalone」として1人月10ドル | 含まれる分なし(最初から従量) | 対象の企業向け。機能とモデルは Enterprise と同じ扱い |
 
+<figure class="article-figure"><img src="/images/figures/github-copilot-review-credits.svg" alt="GitHub Copilotの月額と毎月含まれるAIクレジットの横棒グラフ。Proは月10ドルで15ドル分、Pro+は39ドルで70ドル分、Maxは100ドルで200ドル分、Businessは1席19ドルで19ドル分、Enterpriseは1席39ドルで39ドル分。" width="760" height="443" loading="lazy" decoding="async" style="max-width:100%;height:auto;"><figcaption>図: GitHub Copilotの月額と毎月含まれるAIクレジット(ドル換算)(出典: この記事の表。公式情報、確認日は表のとおり)</figcaption></figure>
+
 - 金額の出典は[公式料金ページ](https://github.com/features/copilot/plans)と[公式ドキュメントのプラン一覧](https://docs.github.com/en/copilot/get-started/plans)。クレジットの内訳(基本・変動枠)は[個人の従量課金の説明](https://docs.github.com/en/copilot/concepts/billing/usage-based-billing-for-individuals)にあり、変動枠は「今後変更される場合がある」と料金ページに書かれています。
 - 含まれるクレジットは翌月に繰り越されず、毎月1日の0時(UTC)にリセットされます。
 - Pro 以上は使い切った後に追加のクレジットを買えます(10ドルで1,000クレジット)。予算の上限を決められ、75%・90%・100%に達したときの通知を設定できると料金ページのよくある質問に書かれています。
@@ -101,7 +103,7 @@ tags: ["GitHub Copilot", "コーディング支援", "AI", "料金"]
 | 学生で認証を受けられる | Student | 無料。ただしモデルは自動選択のみで、他社のエージェントは対象外 |
 | 補完が中心で、チャットは少し | Pro | 補完は無制限。含まれるクレジットは15ドル分 |
 | エージェント・チャットを多く使う、上位モデルを選びたい | Pro+ | 70ドル分のクレジット、Opus などの上位モデル、Copilot Fusion の High・Max |
-| 毎日長いエージェント作業を回す | Max | 200ドル分のクレジット(Pro+ の2.9倍以上と料金ページに記載) |
+| 毎日長いエージェント作業を回す | Max | 200ドル分のクレジット(料金ページの表記は「Pro+ の2.9倍以上」。クレジットの数で計算すると 20,000÷7,000 で約2.86倍) |
 | 会社のコードを扱う | Business 以上 | 学習の変更の対象外。管理者がポリシーと利用上限を決められる |
 | GitHub Enterprise Cloud を契約している企業 | Copilot access か Enterprise | Copilot access はライセンス保有者の座席料金0ドルで、使った分だけ課金 |
 

@@ -32,6 +32,8 @@ AWSの公式ブログ([英語版](https://aws.amazon.com/blogs/devops/amazon-q-d
 | 2026年5月29日 | Q Developer Pro で Claude Opus 4.6 が使えなくなった(Opus 4.5 など既存のモデルは引き続き利用可。Opus 4.7 を含む最新のモデルは Kiro のみ) | 同上 |
 | 2027年4月30日 | IDEプラグインと有料サブスクリプションのサポート終了。IDEで行う Java のアップグレードと .NET の移植(コード変換)も使えなくなり、代わりに AWS Transform が案内されている | 同上 |
 
+<figure class="article-figure"><img src="/images/figures/amazon-q-developer-review-timeline.svg" alt="Amazon Q Developerの終了までの年表。2026年4月30日に終了を発表、5月15日に新規受付を停止、5月29日にPro で Claude Opus 4.6 が使えなくなり、2027年4月30日にIDEプラグインと有料サブスクリプションのサポートが終わる。" width="760" height="464" loading="lazy" decoding="async" style="max-width:100%;height:auto;"><figcaption>図: Amazon Q Developer の終了までの流れ(出典: この記事の表。公式情報、確認日は表のとおり)</figcaption></figure>
+
 - 既存の Pro 利用者と、**Kiro のサブスクリプションを持つ利用者**は、2027年4月30日まで Q Developer の IDEプラグインを使えます。移行期間中も重要なバグ修正は提供されるとされています。
 - IDEプラグインは4つのIDEのマーケットプレイスに掲載が続き、Kiro へ案内する非推奨の通知が表示されます。
 - 公式の移行先の Kiro は、仕様駆動開発のためのエージェント型の開発環境(IDEとCLI)で、Q Developer のエージェント型コーディング、インラインチャット、ターミナル統合、MCPサポートも含むと説明されています。

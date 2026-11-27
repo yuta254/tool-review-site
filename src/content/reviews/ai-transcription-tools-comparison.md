@@ -66,6 +66,8 @@ tags: ["議事録AI", "Notta", "PLAUD NOTE", "Otter.ai", "tl;dv", "Fireflies.ai"
 
 ※ Teams Premium・Notta の月払い・Zoom の円の金額は、上の比較表の注のとおり11月27日にページ本体で確かめられなかった値です。
 
+<figure class="article-figure"><img src="/images/figures/ai-transcription-tools-comparison-monthly-cost.svg" alt="議事録AIの有料の入口を月あたりの金額が低い順に並べた横棒グラフ。Notta プレミアムの年払いが月1,185円(1分あたり約0.66円)で最も低く、Rimo の文字起こしプランは1分あたり約0.79円、PLAUD Pro の月払いは3,000円。" width="760" height="565" loading="lazy" decoding="async" style="max-width:100%;height:auto;"><figcaption>図: 議事録AIの有料の入口(月あたりの金額と1分あたりの目安)(出典: この記事の表。各社の公式情報、確認日は表のとおり)</figcaption></figure>
+
 - **文字起こしが無制限のプラン**は、Notta ビジネス(年払いで月2,508円・税込)、Rimo プロ(月4,950円・税込)、PLAUD Unlimited(月払い5,000円・年払いで月3,333円。1日24時間まで)、Otter.ai Business(月払い30ドル・年払いで月19.99ドル。1回4時間まで)です。月に何十時間も記録するなら、1分あたりではこちらが下がります。
 - **tl;dv** は無料でも文字起こしの上限が書かれていないため、要約を自分で書けるなら0円で回せます。有料の Pro(年払いで月18ユーロ)は AI の要約が全部の会議に付くプランです。
 - **年払いは途中でやめても戻らないことが多い**点に注意してください。Notta は特定商取引法の表示に「日割り計算による精算は行いません」とあります。続けるか分からないうちは、無料の枠か月払いで自分の会議の長さと本数が収まるかを見てからにすると、負担が小さくなります。

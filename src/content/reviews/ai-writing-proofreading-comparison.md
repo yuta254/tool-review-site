@@ -87,6 +87,8 @@ tags: ["Grammarly", "QuillBot", "DeepL", "Jasper", "Copy.ai", "英文校正", "�
 | Copy.ai Chat | 348ドル | 288ドル | 約52,200円/約43,200円 |
 | Jasper Pro | 828ドル | 708ドル | 約124,200円/約106,200円 |
 
+<figure class="article-figure"><img src="/images/figures/ai-writing-proofreading-comparison-annual-cost.svg" alt="AIライティング・英文校正ツールの1年の総額の横棒グラフ。年払いではDeepL Individualが13,800円、QuillBot Premiumが約14,994円、Grammarly Proが約21,600円、Copy.ai Chatが約43,200円、Jasper Proが約106,200円。" width="760" height="495" loading="lazy" decoding="async" style="max-width:100%;height:auto;"><figcaption>図: AIライティング・英文校正ツールの1年の総額(円の目安)(出典: この記事の表。各社の公式情報、確認日は表のとおり)</figcaption></figure>
+
 - 年払いにすると、Grammarly は1年で216ドル、QuillBot は約139ドル、Jasper は120ドル、Copy.ai は60ドル、DeepL Individual は¥2,760少なくなります。
 - QuillBot の年払いの額は「月8.33ドル相当」に12か月を掛けた値で、実際の請求額そのものではありません(料金は11月3日の確認値)。
 - Grammarly は返金が法律で求められる場合に限られ、Jasper は解約による返金がなく、Copy.ai の返金は最初の購入から5暦日以内に限られます。年払いの前に、無料版・無料期間・トライアルで自分の文章に合うかを見ておくと、払い損を避けやすくなります。

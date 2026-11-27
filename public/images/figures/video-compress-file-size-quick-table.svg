@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="435" viewBox="0 0 760 435" font-family="'Hiragino Sans','Noto Sans JP','Yu Gothic',sans-serif" role="img" aria-labelledby="t d">
+<title id="t">早見表: ビットレートと長さで決まるファイルサイズ</title>
+<desc id="d">動画のファイルサイズの早見表。1Mbpsなら1分約7.5MB・10分約75MB、5Mbpsなら3分約113MB、10Mbpsなら1分約75MB・10分約750MB、70Mbpsなら1分約525MB。</desc>
+<rect x="0" y="0" width="760" height="435" fill="#ffffff"/>
+<rect x="0.5" y="0.5" width="759" height="434" fill="none" stroke="#e5e7eb" rx="6"/>
+<text x="24.0" y="38.0" font-size="19" fill="#111827" font-weight="bold">早見表: ビットレートと長さで決まるファイルサイズ</text>
+<text x="24.0" y="59.0" font-size="13" fill="#4b5563">ファイルサイズ ≒ ビットレート(映像+音声) × 秒数 ÷ 8</text>
+<rect x="24" y="68" width="14" height="14" rx="2" fill="#bbf7d0" stroke="#9ca3af" stroke-width="0.5"/>
+<text x="44.0" y="80.0" font-size="13" fill="#111827">25MB以下(Gmail の添付の上限内)</text>
+<rect x="262.82000000000005" y="68" width="14" height="14" rx="2" fill="#dbeafe" stroke="#9ca3af" stroke-width="0.5"/>
+<text x="282.8" y="80.0" font-size="13" fill="#111827">25MB超〜100MB以下</text>
+<rect x="429.36000000000007" y="68" width="14" height="14" rx="2" fill="#f3f4f6" stroke="#9ca3af" stroke-width="0.5"/>
+<text x="449.4" y="80.0" font-size="13" fill="#111827">100MB超</text>
+<text x="32.0" y="127.0" font-size="13" fill="#6b7280">ビットレート</text>
+<text x="194.2" y="127.0" font-size="14" fill="#111827" font-weight="bold" text-anchor="middle">1分</text>
+<text x="314.6" y="127.0" font-size="14" fill="#111827" font-weight="bold" text-anchor="middle">3分</text>
+<text x="435.0" y="127.0" font-size="14" fill="#111827" font-weight="bold" text-anchor="middle">5分</text>
+<text x="555.4" y="127.0" font-size="14" fill="#111827" font-weight="bold" text-anchor="middle">10分</text>
+<text x="675.8" y="127.0" font-size="14" fill="#111827" font-weight="bold" text-anchor="middle">30分</text>
+<text x="32.0" y="168.0" font-size="15" fill="#111827" font-weight="bold">1Mbps</text>
+<rect x="136.0" y="143.0" width="116.4" height="40" rx="4" fill="#bbf7d0"/>
+<text x="194.2" y="168.0" font-size="14" fill="#14532d" font-weight="bold" text-anchor="middle">約7.5MB</text>
+<rect x="256.4" y="143.0" width="116.4" height="40" rx="4" fill="#bbf7d0"/>
+<text x="314.6" y="168.0" font-size="14" fill="#14532d" font-weight="bold" text-anchor="middle">約23MB</text>
+<rect x="376.8" y="143.0" width="116.4" height="40" rx="4" fill="#dbeafe"/>
+<text x="435.0" y="168.0" font-size="14" fill="#1e3a8a" font-weight="bold" text-anchor="middle">約38MB</text>
+<rect x="497.2" y="143.0" width="116.4" height="40" rx="4" fill="#dbeafe"/>
+<text x="555.4" y="168.0" font-size="14" fill="#1e3a8a" font-weight="bold" text-anchor="middle">約75MB</text>
+<rect x="617.6" y="143.0" width="116.4" height="40" rx="4" fill="#f3f4f6"/>
+<text x="675.8" y="168.0" font-size="14" fill="#374151" font-weight="bold" text-anchor="middle">約225MB</text>
+<text x="32.0" y="212.0" font-size="15" fill="#111827" font-weight="bold">3Mbps</text>
+<rect x="136.0" y="187.0" width="116.4" height="40" rx="4" fill="#bbf7d0"/>
+<text x="194.2" y="212.0" font-size="14" fill="#14532d" font-weight="bold" text-anchor="middle">約23MB</text>
+<rect x="256.4" y="187.0" width="116.4" height="40" rx="4" fill="#dbeafe"/>
+<text x="314.6" y="212.0" font-size="14" fill="#1e3a8a" font-weight="bold" text-anchor="middle">約68MB</text>
+<rect x="376.8" y="187.0" width="116.4" height="40" rx="4" fill="#f3f4f6"/>
+<text x="435.0" y="212.0" font-size="14" fill="#374151" font-weight="bold" text-anchor="middle">約113MB</text>
+<rect x="497.2" y="187.0" width="116.4" height="40" rx="4" fill="#f3f4f6"/>
+<text x="555.4" y="212.0" font-size="14" fill="#374151" font-weight="bold" text-anchor="middle">約225MB</text>
+<rect x="617.6" y="187.0" width="116.4" height="40" rx="4" fill="#f3f4f6"/>
+<text x="675.8" y="212.0" font-size="14" fill="#374151" font-weight="bold" text-anchor="middle">約675MB</text>
+<text x="32.0" y="256.0" font-size="15" fill="#111827" font-weight="bold">5Mbps</text>
+<rect x="136.0" y="231.0" width="116.4" height="40" rx="4" fill="#dbeafe"/>
+<text x="194.2" y="256.0" font-size="14" fill="#1e3a8a" font-weight="bold" text-anchor="middle">約38MB</text>
+<rect x="256.4" y="231.0" width="116.4" height="40" rx="4" fill="#f3f4f6"/>
+<text x="314.6" y="256.0" font-size="14" fill="#374151" font-weight="bold" text-anchor="middle">約113MB</text>
+<rect x="376.8" y="231.0" width="116.4" height="40" rx="4" fill="#f3f4f6"/>
+<text x="435.0" y="256.0" font-size="14" fill="#374151" font-weight="bold" text-anchor="middle">約188MB</text>
+<rect x="497.2" y="231.0" width="116.4" height="40" rx="4" fill="#f3f4f6"/>
+<text x="555.4" y="256.0" font-size="14" fill="#374151" font-weight="bold" text-anchor="middle">約375MB</text>
+<rect x="617.6" y="231.0" width="116.4" height="40" rx="4" fill="#f3f4f6"/>
+<text x="675.8" y="256.0" font-size="14" fill="#374151" font-weight="bold" text-anchor="middle">約1.1GB</text>
+<text x="32.0" y="300.0" font-size="15" fill="#111827" font-weight="bold">10Mbps</text>
+<rect x="136.0" y="275.0" width="116.4" height="40" rx="4" fill="#dbeafe"/>
+<text x="194.2" y="300.0" font-size="14" fill="#1e3a8a" font-weight="bold" text-anchor="middle">約75MB</text>
+<rect x="256.4" y="275.0" width="116.4" height="40" rx="4" fill="#f3f4f6"/>
+<text x="314.6" y="300.0" font-size="14" fill="#374151" font-weight="bold" text-anchor="middle">約225MB</text>
+<rect x="376.8" y="275.0" width="116.4" height="40" rx="4" fill="#f3f4f6"/>
+<text x="435.0" y="300.0" font-size="14" fill="#374151" font-weight="bold" text-anchor="middle">約375MB</text>
+<rect x="497.2" y="275.0" width="116.4" height="40" rx="4" fill="#f3f4f6"/>
+<text x="555.4" y="300.0" font-size="14" fill="#374151" font-weight="bold" text-anchor="middle">約750MB</text>
+<rect x="617.6" y="275.0" width="116.4" height="40" rx="4" fill="#f3f4f6"/>
+<text x="675.8" y="300.0" font-size="14" fill="#374151" font-weight="bold" text-anchor="middle">約2.3GB</text>
+<text x="32.0" y="344.0" font-size="15" fill="#111827" font-weight="bold">70Mbps</text>
+<rect x="136.0" y="319.0" width="116.4" height="40" rx="4" fill="#f3f4f6"/>
+<text x="194.2" y="344.0" font-size="14" fill="#374151" font-weight="bold" text-anchor="middle">約525MB</text>
+<rect x="256.4" y="319.0" width="116.4" height="40" rx="4" fill="#f3f4f6"/>
+<text x="314.6" y="344.0" font-size="14" fill="#374151" font-weight="bold" text-anchor="middle">約1.6GB</text>
+<rect x="376.8" y="319.0" width="116.4" height="40" rx="4" fill="#f3f4f6"/>
+<text x="435.0" y="344.0" font-size="14" fill="#374151" font-weight="bold" text-anchor="middle">約2.6GB</text>
+<rect x="497.2" y="319.0" width="116.4" height="40" rx="4" fill="#f3f4f6"/>
+<text x="555.4" y="344.0" font-size="14" fill="#374151" font-weight="bold" text-anchor="middle">約5.3GB</text>
+<rect x="617.6" y="319.0" width="116.4" height="40" rx="4" fill="#f3f4f6"/>
+<text x="675.8" y="344.0" font-size="14" fill="#374151" font-weight="bold" text-anchor="middle">約15.8GB</text>
+<line x1="24" y1="371" x2="736" y2="371" stroke="#e5e7eb"/>
+<text x="24.0" y="395.0" font-size="12" fill="#4b5563">70Mbps は Microsoft のヘルプで Clipchamp の4K書き出し(有料プラン)の値として案内されている数値</text>
+<text x="24.0" y="415.0" font-size="12" fill="#6b7280">出所: 2026年11月 記事の表より作成</text>
+</svg>

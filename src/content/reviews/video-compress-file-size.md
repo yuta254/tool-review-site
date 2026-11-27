@@ -44,6 +44,8 @@ tags: ["動画圧縮", "動画 容量", "動画 解像度", "ビットレート"
 | 10Mbps | 約75MB | 約225MB | 約375MB | 約750MB | 約2.3GB |
 | 70Mbps | 約525MB | 約1.6GB | 約2.6GB | 約5.3GB | 約15.8GB |
 
+<figure class="article-figure"><img src="/images/figures/video-compress-file-size-quick-table.svg" alt="ビットレートと長さからファイルサイズを読む早見表。1Mbpsなら10分で約75MB、5Mbpsなら3分で約113MB、10Mbpsなら1分で約75MB。25MB以下と100MB以下のマスを色分けしている。" width="760" height="435" loading="lazy" decoding="async" style="max-width:100%;height:auto;"><figcaption>図: ビットレートと長さで決まるファイルサイズの早見表(25MB以下・100MB以下を色分け)(出典: この記事の表。計算式は ビットレート × 秒数 ÷ 8)</figcaption></figure>
+
 70Mbps は、Microsoft のヘルプで Clipchamp の4K書き出し(有料プラン)の値として案内されている数値です(2026年11月5日確認)。
 
 長さとビットレートを入れると容量を出し、反対に「この容量に収めるには何kbpsにすればよいか」も出せる計算ツールを用意しています。**[動画ファイルサイズ計算ツール](/tools/video-size-calculator/)**(入力した値はどこにも送信されません)。

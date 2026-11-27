@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="565" viewBox="0 0 760 565" font-family="'Hiragino Sans','Noto Sans JP','Yu Gothic',sans-serif" role="img" aria-labelledby="t d">
+<title id="t">議事録AIの有料の入口(月あたりの金額が低い順)</title>
+<desc id="d">議事録AIの月あたりの金額。最も低いのはNotta プレミアムの年払いで月1,185円(1分あたり約0.66円)、最も高いのはPLAUD Proの月払いで3,000円。</desc>
+<rect x="0" y="0" width="760" height="565" fill="#ffffff"/>
+<rect x="0.5" y="0.5" width="759" height="564" fill="none" stroke="#e5e7eb" rx="6"/>
+<text x="24.0" y="38.0" font-size="19" fill="#111827" font-weight="bold">議事録AIの有料の入口(月あたりの金額が低い順)</text>
+<text x="24.0" y="59.0" font-size="13" fill="#4b5563">単位: 円/月。ドル建ては1ドル=150円で換算。税の扱いは各社で違うため表示のまま</text>
+<text x="736.0" y="85.0" font-size="12" fill="#6b7280" text-anchor="end">1分あたりの目安</text>
+<text x="24.0" y="121.0" font-size="14" fill="#111827" font-weight="bold">Notta プレミアム(年払い)</text>
+<rect x="314.9" y="107.0" width="70.2" height="18" rx="2" fill="#1d4ed8"/>
+<text x="391.1" y="121.5" font-size="12.5" fill="#111827">1,185円(税込)</text>
+<text x="736.0" y="121.0" font-size="13" fill="#111827" text-anchor="end">約0.66円</text>
+<line x1="24" y1="133.0" x2="736" y2="133.0" stroke="#e5e7eb"/>
+<text x="24.0" y="155.0" font-size="14" fill="#111827" font-weight="bold">Otter.ai Pro(年払い)</text>
+<rect x="314.9" y="141.0" width="74.0" height="18" rx="2" fill="#1d4ed8"/>
+<text x="394.9" y="155.5" font-size="12.5" fill="#111827">8.33ドル(約1,250円)</text>
+<text x="736.0" y="155.0" font-size="13" fill="#111827" text-anchor="end">約1.04円</text>
+<line x1="24" y1="167.0" x2="736" y2="167.0" stroke="#e5e7eb"/>
+<text x="24.0" y="189.0" font-size="14" fill="#111827" font-weight="bold">PLAUD Pro(年払い)</text>
+<rect x="314.9" y="175.0" width="82.9" height="18" rx="2" fill="#1d4ed8"/>
+<text x="403.8" y="189.5" font-size="12.5" fill="#111827">1,400円</text>
+<text x="736.0" y="189.0" font-size="13" fill="#111827" text-anchor="end">約1.17円</text>
+<line x1="24" y1="201.0" x2="736" y2="201.0" stroke="#e5e7eb"/>
+<text x="24.0" y="223.0" font-size="14" fill="#111827" font-weight="bold">Teams Premium(年払い)※</text>
+<rect x="314.9" y="209.0" width="88.8" height="18" rx="2" fill="#1d4ed8"/>
+<text x="409.7" y="223.5" font-size="12.5" fill="#111827">1,499円(税抜)</text>
+<text x="736.0" y="223.0" font-size="13" fill="#111827" text-anchor="end">機能の追加</text>
+<line x1="24" y1="235.0" x2="736" y2="235.0" stroke="#e5e7eb"/>
+<text x="24.0" y="257.0" font-size="14" fill="#111827" font-weight="bold">Fireflies.ai Pro(年払い)</text>
+<rect x="314.9" y="243.0" width="88.8" height="18" rx="2" fill="#1d4ed8"/>
+<text x="409.7" y="257.5" font-size="12.5" fill="#111827">10ドル(約1,500円)</text>
+<text x="736.0" y="257.0" font-size="13" fill="#111827" text-anchor="end">分数の記載なし</text>
+<line x1="24" y1="269.0" x2="736" y2="269.0" stroke="#e5e7eb"/>
+<text x="24.0" y="291.0" font-size="14" fill="#111827" font-weight="bold">Google Workspace Business Standard</text>
+<rect x="314.9" y="277.0" width="94.7" height="18" rx="2" fill="#1d4ed8"/>
+<text x="415.7" y="291.5" font-size="12.5" fill="#111827">1,600円(税別)</text>
+<text x="736.0" y="291.0" font-size="13" fill="#111827" text-anchor="end">上限の記載なし</text>
+<line x1="24" y1="303.0" x2="736" y2="303.0" stroke="#e5e7eb"/>
+<text x="24.0" y="325.0" font-size="14" fill="#111827" font-weight="bold">Rimo 文字起こしプラン(月払い)</text>
+<rect x="314.9" y="311.0" width="97.7" height="18" rx="2" fill="#1d4ed8"/>
+<text x="418.6" y="325.5" font-size="12.5" fill="#111827">1,650円(税込)</text>
+<text x="736.0" y="325.0" font-size="13" fill="#111827" text-anchor="end">約0.79円</text>
+<line x1="24" y1="337.0" x2="736" y2="337.0" stroke="#e5e7eb"/>
+<text x="24.0" y="359.0" font-size="14" fill="#111827" font-weight="bold">Notta プレミアム(月払い)※</text>
+<rect x="314.9" y="345.0" width="117.2" height="18" rx="2" fill="#1d4ed8"/>
+<text x="438.2" y="359.5" font-size="12.5" fill="#111827">1,980円(税込)</text>
+<text x="736.0" y="359.0" font-size="13" fill="#111827" text-anchor="end">約1.10円</text>
+<line x1="24" y1="371.0" x2="736" y2="371.0" stroke="#e5e7eb"/>
+<text x="24.0" y="393.0" font-size="14" fill="#111827" font-weight="bold">Zoom Workplace プロ(年払い)※</text>
+<rect x="314.9" y="379.0" width="132.5" height="18" rx="2" fill="#1d4ed8"/>
+<text x="453.4" y="393.5" font-size="12.5" fill="#111827">2,237円(税別)</text>
+<text x="736.0" y="393.0" font-size="13" fill="#111827" text-anchor="end">上限の記載なし</text>
+<line x1="24" y1="405.0" x2="736" y2="405.0" stroke="#e5e7eb"/>
+<text x="24.0" y="427.0" font-size="14" fill="#111827" font-weight="bold">Otter.ai Pro(月払い)</text>
+<rect x="314.9" y="413.0" width="150.9" height="18" rx="2" fill="#1d4ed8"/>
+<text x="471.9" y="427.5" font-size="12.5" fill="#111827">16.99ドル(約2,549円)</text>
+<text x="736.0" y="427.0" font-size="13" fill="#111827" text-anchor="end">約2.12円</text>
+<line x1="24" y1="439.0" x2="736" y2="439.0" stroke="#e5e7eb"/>
+<text x="24.0" y="461.0" font-size="14" fill="#111827" font-weight="bold">PLAUD Pro(月払い)</text>
+<rect x="314.9" y="447.0" width="177.6" height="18" rx="2" fill="#1d4ed8"/>
+<text x="498.6" y="461.5" font-size="12.5" fill="#111827">3,000円</text>
+<text x="736.0" y="461.0" font-size="13" fill="#111827" text-anchor="end">約2.50円</text>
+<line x1="314.9" y1="99.0" x2="314.9" y2="473.0" stroke="#9ca3af"/>
+<line x1="24" y1="483" x2="736" y2="483" stroke="#e5e7eb"/>
+<text x="24.0" y="507.0" font-size="12" fill="#4b5563">※ Teams Premium・Notta の月払い・Zoom の円の金額は、11月27日にページ本体で確かめられなかった値</text>
+<text x="24.0" y="525.0" font-size="12" fill="#4b5563">PLAUD Pro は録音機の本体が別に要る。Teams Premium は Teams のライセンスが別に要る</text>
+<text x="24.0" y="545.0" font-size="12" fill="#6b7280">出所: 2026年11月 記事の表より作成</text>
+</svg>

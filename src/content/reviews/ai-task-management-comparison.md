@@ -28,6 +28,8 @@ tags: ["Motion", "Reclaim.ai", "Todoist", "Todoist Assist", "ClickUp", "Notion A
 | Reclaim.ai | あり(Lite。1人で利用、予定を組む範囲は1週間先まで、カレンダー同期は1つ) | Starter:1人あたり月10ドル(年払い)/月12ドル(月払い) | 今のカレンダーの空き時間へのタスク・習慣・集中時間の自動配置 |
 | Todoist | あり(初心者プラン。AIは Filter Assist と回数制限付きの音声入力) | プロ:年払いで8,064円(月あたり672円) | タスクの分解・書き直し、メールのタスク化など。スケジュールの自動配置はしない |
 
+<figure class="article-figure"><img src="/images/figures/ai-task-management-comparison-price.svg" alt="AIタスク管理の有料の入口の横棒グラフ。Reclaim.ai Starterは年払いで月10ドル、Motion Pro AIはチーム向けが月19ドル、個人向けが月29ドル(いずれも年払い)。Todoistのプロは年払いで月あたり672円。" width="760" height="357" loading="lazy" decoding="async" style="max-width:100%;height:auto;"><figcaption>図: Motion・Reclaim.ai の有料プランの月額(ドル建て)と Todoist の料金(出典: この記事の表。各社の公式情報、確認日は表のとおり)</figcaption></figure>
+
 料金はAIに任せる範囲の広さとほぼ比例しています。**まず無料で始めたいなら Reclaim.ai か Todoist**、**最初から丸ごと任せたいなら Motion のトライアル**、という入り方になります。各ツールの詳しい料金は[Motionの記事](/reviews/motion-review/)、[Reclaim.aiの記事](/reviews/reclaim-ai-review/)、[Todoist AIの記事](/reviews/todoist-ai-review/)にまとめています。
 
 ## 比較の観点
